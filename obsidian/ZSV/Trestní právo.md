@@ -8,5 +8,5 @@ Vztah mezi **státem** na jedné straně a občany státu **(+ osoby podléhají
 2. Procesní (formální): postup při trestních řízeních _zákon o trestním řízení_
 3. Správní: dopravní přestupky, sankce - napomenutí; pokuty, zákazy činnosti, propadnutí věcí, zákon o přestupcích 
 
-//TODO účel
+#todo  účel
 

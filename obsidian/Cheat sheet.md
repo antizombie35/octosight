@@ -71,3 +71,8 @@ use std::mpsc
 let x:String = "Džon";
 println!("Ahoj {x:?}");
 ```
+
+---
+# Reserved hashtags
+
+#todo

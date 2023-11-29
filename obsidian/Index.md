@@ -24,3 +24,4 @@
 # IT
 # Matika
 # ZSV
+[[Trestní právo]]
