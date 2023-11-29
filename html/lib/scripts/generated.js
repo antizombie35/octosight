@@ -1,0 +1,1 @@
+let nodes={paths:["literatura/literární-figury-a-tropy.html","cheat-sheet.html","index.html"],nodeCount:3,linkSources:[2,2],linkTargets:[1,0],labels:["Literární figury a tropy","Cheat sheet","Index"],radii:[6.4375,6.4375,7],linkCount:2},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
