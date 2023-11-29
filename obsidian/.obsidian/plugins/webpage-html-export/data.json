@@ -13,7 +13,7 @@
   "contentWidth": "",
   "sidebarWidth": "",
   "startOutlineCollapsed": false,
-  "logLevel": "warning",
+  "logLevel": "fatal",
   "incrementalExport": true,
   "deleteOldExportedFiles": true,
   "addDarkModeToggle": true,
@@ -31,6 +31,11 @@
   "graphMaxNodeSize": 7,
   "exportPath": "C:\\antizombie35\\octosight\\html",
   "filesToExport": [
-    []
+    [
+      "literatura/Literární figury a tropy.md",
+      "ZSV/Trestní právo.md",
+      "Cheat sheet.md",
+      "Index.md"
+    ]
   ]
 }
