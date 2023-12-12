@@ -1,5 +1,4 @@
->Updated: 20:00 29.11.2023 
-
+>Updated: 12:00 2.12.2023 
 
 # Pinned
 [[Cheat sheet]]
@@ -13,7 +12,6 @@
 ## Sloh
 
 # Chemie
-
 # Francouzština
 
 # Fyzika
@@ -25,3 +23,4 @@
 # Matika
 # ZSV
 [[Trestní právo]]
+

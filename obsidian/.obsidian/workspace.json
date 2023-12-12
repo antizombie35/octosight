@@ -13,26 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZSV/Trestní právo.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1e3af7ffd08eec7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZSV/Trestní právo.md",
-                "mode": "source",
+                "file": "literatura/Literární figury a tropy.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,45 +129,57 @@
                 "file": "Cheat sheet.md"
               }
             }
+          },
+          {
+            "id": "ac0e62ffd6f70ac9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 332.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "floating": {
-    "id": "e06ca0cddc0efdb1",
+    "id": "f251ec70e842878c",
     "type": "floating",
     "children": [
       {
-        "id": "a12810389e5bcda1",
+        "id": "6f1833569c83614b",
         "type": "window",
         "children": [
           {
-            "id": "4235109b84e3b34f",
+            "id": "2895600e38339531",
             "type": "tabs",
             "children": [
               {
-                "id": "7b41a3d8efa7baa2",
+                "id": "e2320dc6a32af515",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Cheat sheet.md",
                     "mode": "preview",
+                    "backlinks": false,
                     "source": true
                   }
                 }
@@ -197,20 +197,36 @@
       }
     ]
   },
-  "active": "7b41a3d8efa7baa2",
+  "active": "e2320dc6a32af515",
   "lastOpenFiles": [
     "ZSV/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
-    "Pasted image 20231129193929.png",
-    "Index.md",
     "Cheat sheet.md",
+    "Index.md",
+    "attachments",
+    "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.md",
+    "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.excalidraw",
+    "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.svg",
+    "ZSV/attachments",
+    "TETS/attachments/001-12-2023_23_33_45.excalidraw.md",
+    "TETS/0.md",
+    "TETS/attachments/001-12-2023_23_34_45.excalidraw.md",
+    "TETS/attachments/001-12-2023_23_34_45.excalidraw.excalidraw",
+    "TETS/attachments/001-12-2023_23_34_45.excalidraw.svg",
+    "TETS/attachments/001-12-2023_23_33_45.excalidraw.svg",
+    "TETS/attachments/001-12-2023_23_33_45.excalidraw.excalidraw",
+    "TETS/attachments/001-12-2023_22_29_15.excalidraw",
+    "TETS/attachments",
+    "TETS/attachments/001-12-2023_22_26_50.excalidraw.md",
+    "TETS/attachments/001-12-2023_22_26_50.excalidraw.excalidraw",
+    "attachments/Cheat sheet01-12-2023_22_24_35.excalidraw.md",
+    "TETS",
+    "attachments/Cheat sheet01-12-2023_22_24_35.excalidraw.excalidraw",
+    "Pasted image 20231129193929.png",
     "Excalidraw/Excalidraw19.36.05 29-11-2023.excalidraw.md",
-    "Excalidraw",
     "DEEZ.md",
     "ZSV/DEEZ.md",
     "Excalidraw/Excalidraw19.31.08 29-11-2023.excalidraw.md",
-    "ZSV",
-    "Untitled.md",
-    "literatura"
+    "Untitled.md"
   ]
 }

@@ -1,6 +1,6 @@
 # Běžné
 
->"Citátové" zvýraznění pomocí ">"
+>Zvýraznění pomocí ">"
 
 	blokové, čisté, no syntax highlighting formátování pomocí "Tab"
 
@@ -8,7 +8,9 @@
 _Taky kurzíva_
 **tučné**
 ~~Přeškrtnutý text psaný AltGr + AlphaNum1~~
+==zvýrazněné==
 
+<!--Poznámka co není vidět na stránkách-->
 
 1. první
 2. druhá
@@ -24,6 +26,8 @@ _Taky kurzíva_
 ***
 # Advanced
 
+> [!Zvýraznění pomocí  ! a >]
+
 Pro poznámku pod čarou  potřebujme zobáček nahoru [^1][^2]
 
 [^1]: Psán AltGr + AlphaNum3 (podstatná je i ta dvojtečka)
@@ -36,8 +40,12 @@ Pro poznámku pod čarou  potřebujme zobáček nahoru [^1][^2]
 - [ ] Vytvořit list
 - [ ] Zaškrtnout druhé políčko listu
 - [ ] Zaškrtnout třetí políčko listu
----
+
+/--- pro prezentace
+
+
 # Code formátování
+
 
 ```
 deez nuts

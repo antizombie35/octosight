@@ -8,5 +8,9 @@ Vztah mezi **státem** na jedné straně a občany státu **(+ osoby podléhají
 2. Procesní (formální): postup při trestních řízeních _zákon o trestním řízení_
 3. Správní: dopravní přestupky, sankce - napomenutí; pokuty, zákazy činnosti, propadnutí věcí, zákon o přestupcích 
 
-#todo  účel
+účel trestního práva je udržovat pořádek
 
+# Trestní právo hmotné
+
+- Trestné činy jsou uvedeny v trestním zákoně
+- Dělí se na #todo  _z nedbalosti, úmyslné s odnětím svobody na 5 let_ 
