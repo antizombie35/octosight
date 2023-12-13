@@ -1,5 +1,5 @@
-# Tropy
-_Co tím autor myslel_
+# Figury
+_Jak to vypadá, jak je to rozloženo_
  
 | Jméno           | Příklad                                                                     | Teorie                                                           | Schéma              |
 | --------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------- |
@@ -17,8 +17,8 @@ _Co tím autor myslel_
 | Apoziopeze      | Jdi do ...                                                                  | Neukončená výpověď, _Jednoznačně signalizováno "..."_            |                     |
 | Apostrofa       | Karle, Viléme, Jarmilo                                                      | Oslovujeme co tam není/nežije                                    |                     |
 
-# Figury
-_Jak to vypadá, jak je to rozloženo_
+# Tropy
+_Co tím autor myslel_
 
 | Jméno      | Příklad                                                                 | Teorie                                  |
 | ---------- | ----------------------------------------------------------------------- | --------------------------------------- |
