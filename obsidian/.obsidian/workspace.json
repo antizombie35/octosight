@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literatura/Literární figury a tropy.md",
+                "file": "Biologie/Dýchací soustava.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat sheet.md",
+                "file": "Biologie/Dýchací soustava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat sheet.md",
+                "file": "Biologie/Dýchací soustava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat sheet.md"
+                "file": "Biologie/Dýchací soustava.md"
               }
             }
           },
@@ -159,49 +159,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "f251ec70e842878c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6f1833569c83614b",
-        "type": "window",
-        "children": [
-          {
-            "id": "2895600e38339531",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e2320dc6a32af515",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Cheat sheet.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e2320dc6a32af515",
+  "active": "32ddb9461b7b0b5d",
   "lastOpenFiles": [
-    "ZSV/Trestní právo.md",
+    "Biologie/Dýchací soustava.md",
     "literatura/Literární figury a tropy.md",
     "Cheat sheet.md",
+    "ZSV/Trestní právo.md",
     "Index.md",
     "attachments",
     "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.md",

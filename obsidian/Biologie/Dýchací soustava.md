@@ -6,18 +6,19 @@
 výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 
 ## Zevní dýchání
-- výměna plynů $plíce \longleftrightarrow krev$ (v plicních sklípcích) $21 \% \ O_2; 0,03\% \ CO_2 \longleftrightarrow 14\% \ O_2, 5\% CO_2$
+- výměna plynů $plíce \longrightarrow krev$ (v plicních sklípcích)
+- $21 \% \ O_2; 0,03\% \ CO_2 \longrightarrow 14\% \ O_2, 5\% CO_2$
 ## Vnitřní dýchání
 - výměna plynů $krev \longleftrightarrow tkáně$
 # Přenos $O_2$
 - ==hemoglobinem==
-- stoupající tlak $\longrightarrow$ kyslík se váže na hemoglobin $\longrightarrow$ dioxygenhemoglobin
+- stoupající tlak $\longrightarrow$ kyslík se váže na hemoglobin $\longrightarrow$ ==dioxygenhemoglobin==
 -  klesající tlak $\longrightarrow$ kyslík se uvolňuje
 # Přenos $CO_2$
 - ==plazmou a erytrocyty==
 - ${CO_2\ }$ je vázán:
 1. ${5\% \ CO_2\ }$ volně rozpuštěno v krevní plazmě
-2. ${10\% \ CO_2\ }$ sloučeno s plazmatickými bílkovinami $\longrightarrow$ karbaminové sloučeniny
+2. ${10\% \ CO_2\ }$ sloučeno s plazmatickými bílkovinami $\longrightarrow$ ==karbaminové sloučeniny==
 3. ${85\% \ CO_2\ }$ v krevní plazmě jako $HCO_3^-$
 - ==${O_2\ }$ a ${CO_2\ }$ se navzájem vytlačují z vazby==
 
@@ -50,8 +51,12 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 
 ## Dolní cesty dýchací
 ### Hrtan
-- soubor pohyblivě spojených chrupavek, zavěšen vazivovou blánou na jazylce
-- největší je ==chrupavka štítná==, pod ní ==chrupavka prstencová==, nasedají dvě trojboké ==chrupavky hlasivkové==
+- soubor pohyblivě spojených chrupavek
+- zavěšen vazivovou blánou na jazylce
+- 
+- největší je ==chrupavka štítná==
+- pod ní ==chrupavka prstencová==
+- na ni nasedají 2 trojboké ==chrupavky hlasivkové==
 - od štítné chrupavky k hlasivkovým napnuty 2 páry ==hlasivkových vazů==
 
 ![[Pasted image 20231213004440.png]]
@@ -61,7 +66,7 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 ### Průdušnice
 - 10 cm
 - vystlána sliznicí s řasinkovým epitelem
-- u 4. a 5. obratle hrudního se větví na 2 průdušky
+- u 4. a 5. hrudního obratle se větví na 2 průdušky
 ### Průdušky
 - stavba jako u [[#Průdušnice]]
 - zanořují se do plic
@@ -69,12 +74,12 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 ### Plíce (Pulmo)
 - levá (2 laloky) a pravá (3 laloky)
 - na ==povrchu poplicnice== - přechází  na vnitřní stranu hrudníku jako ==pohrudnice==
-mezi poplicnicí a ====pohrudnicí== je ==štěrbina pohrudniční== (vyplněna tekutinou pro přilnavost)
+mezi poplicnicí a ==pohrudnicí== je ==štěrbina pohrudniční== (vyplněna tekutinou pro přilnavost)
 
 ![[Pasted image 20231213004912.png]]
 
-- průdušinky větveny na ==alveolární chodbičky==, ty vstupují do ==plicních váčků==
-stěny plicních váčků se vyklenují v ==plicní sklípky== (==alveoly==) – zde probíhá výměna dýchacích plynů
+- průdušinky větveny na ==alveolární chodbičky== vstupující do ==plicních váčků==
+- stěny plicních váčků se vyklenují v ==plicní sklípky== (==alveoly==) – zde probíhá výměna dýchacích plynů
 celková dýchací plocha je asi $100 m^2$
 
 ![[Pasted image 20231213005355.png]]
@@ -100,21 +105,21 @@ při jejím poranění zvenčí $\longrightarrow$ ==pneumotorax==
 ![[Dýchací soustava13-12-2023_00_59_02.excalidraw.svg]]
 %%[[Dýchací soustava13-12-2023_00_59_02.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
- dechový objem = množství vzduchu, které se vymění na jeden vdechu a výdechu, v klidu  ==0,5 l==
+ dechový objem = množství vzduchu, které se vymění na 1 vdechu a výdechu, v klidu  ==0,5 l==
 frekvence dýchání v klidu ==16 X==
 minutový dechový objem ==8 l==
-vitální kapacita plic = množství vzduchu, které po usilovném vdechu usilovně vydechneme ==4,5 l==
+vitální kapacita plic = množství vzduchu, které po maximálním vdechu maximálně vydechneme ==4,5 l==
 
 # Řízení dýchání
 - dýchací centrum v prodloužené míše
 - ovlivňováno chemickými podněty (změnou koncentrace ${CO_2\ }$ a ${O_2\ }$ v krvi, změnou pH)
-- 
+
 ![[Pasted image 20231213010706.png]]
 
 # Obranné reflexy dýchací
-- kýchnutí (vyvolané nadměrným množstvím hlenu, dráždivými a čpavými 
+- ==kýchnutí== (vyvolané nadměrným množstvím hlenu, dráždivými a čpavými 
 látkami)
-- kašel (podráždění sliznice hrtanu, průdušnice a průdušek)
+- ==kašel== (podráždění sliznice hrtanu, [[#Průdušnice]] nebo [[#Průdušky]])
 
 # Onemocnění
 
