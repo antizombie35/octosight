@@ -26,6 +26,8 @@ _Taky kurzíva_
 ***
 # Advanced
 
+LaTeX: $CO_2 + H_2O$
+
 > [!Zvýraznění pomocí  ! a >]
 
 Pro poznámku pod čarou  potřebujme zobáček nahoru [^1][^2]

@@ -9,4 +9,4 @@
 **H**yperlinked
 ar**t**ifact
 
-... or an octopus with laser sights
+... or an octopus with laser sight

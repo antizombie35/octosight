@@ -6,7 +6,7 @@ _Co tím autor myslel_
 | Anafora         | **Květináč** jenž spadl mi na hlavu <br> **Květináč** jež rozbil mi podlahu | Opakování na začátku řádků                                       | A ...<br>A ...      |
 | Epifora         | Naše **hodiny**<br>bijí 4 **hodiny**                                        | Opakování na koncích řádků                                       | ... E<br> ... E     |
 | Epanastrofa     | Byl to **Vlk**<br>**Vlk** co neměl krk                                      | Opakování na konci 1. řádku a začátku 2. řádku                   | ... E<br>E ...      |
-| Epizeuxis       | Byl to **sen**, **sen** to byl                                              | Opakování slova na jednom řádku                                  | ... E E ...         |
+| Epizeuxis       | Byl to **sen**,<br>**sen** to byl                                              | Opakování slova na jednom řádku                                  | ... E E ...         |
 | Aliterace       | **T**ak **t**os **t**rochu **t**leskal                                      | Opakování 3+ počátečních stejných písmen v následujících slovech | ... Axx Axx Axx ... |
 | Refrén          | Never more                                                                  | Opakování části básně, _Nemusí být pravidelný_                   |                     |
 | Asyndeton       | Karel to nevěděl, pak přišli ostatní                                        | Napojení bez použití spojek                                      |                     |
