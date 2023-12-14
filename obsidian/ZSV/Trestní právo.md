@@ -143,10 +143,9 @@ Zabezpečovací detence
 %%[[Trestní právo14-12-2023_00_28_42.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 ## Státní orgány činné v trestním řízení
-- Policie České republiky[^1]
-- Státní zastupitelství[^1]
-- Soud[^1]
-[^1]: Idk co tady chce #todo 
+- Policie České republiky - odhaluje trestnou činnost, zjišťuje okolnosti spáchání trestného činu a shromažďuje důkazy
+- Státní zastupitelství - zkoumá okolnosti spáchání trestného činu včetně důkazů z materiálů předložených PČR, po prostudování materiálů vypracovává žalobu, kterou posílá soudu.
+- Soud – zkoumá žalobu státního zástupce, provádí výslech svědků, znalců i obviněného, rozhoduje o vině a trestu
 
 ## Základní znaky trestního práva procesního
 1. nikdo nemůže být trestně stíhán jinak než ze zákonných důvodů a zákonným způsobem,
@@ -166,3 +165,5 @@ Zabezpečovací detence
 	- Pachatel se v této etapě nazývá jako ==odsouzený==
 
 > Obviněný ${\longrightarrow \ }$ Obžalovaný ${\longrightarrow \ }$ Odsouzený
+
+- Soudce, soudce z lidu, státní zástupce, advokát

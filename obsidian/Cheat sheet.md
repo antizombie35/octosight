@@ -11,6 +11,7 @@ _Taky kurzíva_
 ==zvýrazněné==
 
 <!--Poznámka co není vidět na stránkách-->
+%%druhá poznámka, line break jsou 2 mezery "  "%%
 
 1. první
 2. druhá
