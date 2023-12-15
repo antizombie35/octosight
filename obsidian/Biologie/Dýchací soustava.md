@@ -23,7 +23,7 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 - ==${O_2\ }$ a ${CO_2\ }$ se navzájem vytlačují z vazby==
 
 ![[Dýchací soustava12-12-2023_23_06_10.excalidraw.svg]]
-%%[[Dýchací soustava12-12-2023_23_06_10.excalidraw.md|🖋 Edit in Excalidraw]]%%
+%%[[Dýchací soustava12-12-2023_23_06_10.excalidraw|🖋 Edit in Excalidraw]]%%
 
 1. ${H_2CO_3 \longrightarrow CO_2+H_2O\ }$
 2. ${H_2CO_3 \longrightarrow H^+ + HCO_3^-\ }$
@@ -103,7 +103,7 @@ při jejím poranění zvenčí $\longrightarrow$ ==pneumotorax==
 
 
 ![[Dýchací soustava13-12-2023_00_59_02.excalidraw.svg]]
-%%[[Dýchací soustava13-12-2023_00_59_02.excalidraw.md|🖋 Edit in Excalidraw]]%%
+%%[[Dýchací soustava13-12-2023_00_59_02.excalidraw|🖋 Edit in Excalidraw]]%%
 
  dechový objem = množství vzduchu, které se vymění na 1 vdechu a výdechu, v klidu  ==0,5 l==
 frekvence dýchání v klidu ==16 X==

@@ -35,6 +35,9 @@ _Co tím autor myslel_
 | Hyperbola  | Byl tam 100 dní                                                         | = Nadsázka                              |
 | Enumerace  | Byl tam Aatrox, Albedo, Alucard                                         | Výčet prvků                             |
 
+![[Literární figury a tropy14-12-2023_21_16_05.excalidraw.svg]]
+%%[[Literární figury a tropy14-12-2023_21_16_05.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
 # Jazykové zvukové prostředky
 _Jak to zní_
 

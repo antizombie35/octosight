@@ -1,7 +1,7 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "attachments",
   "promptDelete": false,
   "readableLineLength": true,
   "newFileLocation": "root"

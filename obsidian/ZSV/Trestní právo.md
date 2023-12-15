@@ -20,16 +20,16 @@ Vztah mezi ==státem== na jedné straně a ==občany státu== (+ osoby podléhaj
 
 # Trestní právo hmotné
 
--Pachatelé trestných činů jsou FO a PO
+- Pachatelé trestných činů jsou FO a PO
 - Trestné činy jsou uvedené v ==trestním zákoně==
 - Dělení:
 	1. ==přečiny== projednáváno soudy podle ==trestního zákoníku==,  _z nedbalosti, úmyslné s odnětím svobody na 5 let_ 
 	2. ==zločiny== projednáváno soudy podle ==trestního zákoníku==  _(s trestem odnětí svobody nad 5 let)_
 	3. ==přestupky== projednáváno obcemi, orgány státní správy, PČR
-- trestná je i příprava k trestnému činu (==tipování oběti==, ==opatření střelné zbraně pro vraždu==, ==úprava klíče==), ==organizátor==, ==návodce==, ==pomocník==)
+- trestná je i příprava k trestnému činu (==tipování oběti==, ==opatření střelné zbraně pro vraždu==, ==úprava klíče==), ==organizátor==, ==návodce==, ==pomocník==
 ## 15 - 18 let
-- musí být přítomen ==obhájce==, ==opatrovník==
-- výsledkem jsou opatření ==ochranná==, ==výchovná==, ==trestní==
+- musí být přítomen ==obhájce== a ==opatrovník==
+- výsledkem jsou ==ochranná==, ==výchovná== nebo ==trestní== opatření
 ## 15- let
 - Není trestní odpovědnost pro dítě
 - řízení podle občanského soudního řádu
@@ -37,20 +37,19 @@ Vztah mezi ==státem== na jedné straně a ==občany státu== (+ osoby podléhaj
 - Dohled ==probačního úředníka==
 ## Trestní odpovědnost
 - Vzniká spácháním trestného činu
-- Pouze v případě podezření ze spáchání trestného činu může být
-podezřelý ==obviněn== ${\longrightarrow \ }$ ==obžalován== z trestného činu ${\longrightarrow \ }$
-postaven před soud
+- Pouze v případě podezření ze spáchání trestného činu může být podezřelý ==obviněn== ${\longrightarrow \ }$ ==obžalován== z trestného činu ${\longrightarrow \ }$ postaven před soud
 - trestní odpovědnost vzniká v den po dni ==15. narozenin==, komu není 15+ není trestně odpovědný
 - ==Příčetnost== = duševní způsobilost být pachatelem trestného činu
+
 >kdo pro duševní poruchu v době spáchání činu nemohl rozpoznat jeho protiprávnost nebo ovládat své jednání, není za tento čin trestně odpovědný
 
-==Pachatel== - FO, PO která spáchala trestný čin
+==Pachatel== - FO, nebo PO která spáchala trestný čin
 ==Spolupachatelé== - osoby, které spáchaly trestný čin společným
-jednáním _(každý spolupachatel je za trestý čin odpovědný tak, jako
+jednáním _(každý spolupachatel je za trestný čin odpovědný tak, jako
 kdyby jej spáchal sám)_
 
 ## PO
-- Od _1. 1 2012_ může být pachatelem též PO _(obchodní společnost aj.)_
+- Od _1. 1 2012_ může být pachatelem též PO _(obchodní společnost)_
 - zákon o trestní odpovědnosti právnických osob (TOPO) vyjmenovává trestné
 činy, kterých se právnická osoba nemůže dopustit (dvojí manželství, rvačka, nebezpečné pronásledování …)
 - Za všechny ostatní trestné činy může být PO trestně odpovědná.
@@ -58,7 +57,7 @@ kdyby jej spáchal sám)_
 - Podmínky pro trestní odpovědnosti FO:
 	- vymezení trestného činu, které je uvedeno v trestním zákoníku, ==Skutková podstata==
 	- jednání pachatele, které je předmětem vyšetřování, ==Skutkový děj==
-	- vina #todo 
+
 ## Zavinění
 - úmysl přímý
 - úmysl nepřímý
@@ -98,7 +97,6 @@ kdyby jej spáchal sám)_
 ## Dělení trestných činů
 - Trestní zákoník rozděluje trestné činy do ==13== okruhů (hlav), jež
 obsahuje ==přes 200== skutkových podstat trestných činů:
-
 1) Trestné činy proti životu a zdraví (rvačka, ublížení na zdraví)
 2) Trestné činy proti lidské důstojnosti v sexuální oblasti (znásilnění, pohlavní zneužití, šíření pornografie)
 3) Trestné činy proti svobodě a právům na ochranu osobnosti, soukromí a listovního tajemství (obchodování s lidmi, loupež)
@@ -114,7 +112,7 @@ obsahuje ==přes 200== skutkových podstat trestných činů:
 13) Trestné činy proti lidskosti, proti míru a válečné trestné činy (útok proti lidskosti, zneužití vlajky)
 
 ## Posuzování trestnosti činu
-- Podle zákona účinného v době, kdy byl čin spáchán,
+- Podle zákona účinného v době, kdy byl čin spáchán, nebo
 - Podle pozdějšího zákona jen v případě, kdy je pro pachatele příznivější
 
 - Účelem trestu je chránit společnost, zabránit pachateli v další trestné činnosti
@@ -122,10 +120,10 @@ obsahuje ==přes 200== skutkových podstat trestných činů:
 ## Trestní odpovědnost mladistvých
 - 15 -18 let
 - Trestný čin mladistvého se nazývá ==provinění==
-- Mladistvý je ==trestně odpovědný==, pokud je příčetný a dostatečně rozumově a volně vyspělý
+- Mladistvý je ==trestně odpovědný==, pokud je ==příčetný== a dostatečně ==rozumově a volně vyspělý==
 
 Ochranná opatření
-- Mohou být uložena nepříčetnému pachateli trestného činu
+- Mohou být uložena ==nepříčetnému== pachateli trestného činu
 - K ochraně společnosti, léčbě a výchově pachatele
 
 Ochranné léčení
@@ -140,18 +138,18 @@ Zabezpečovací detence
 - pramenem českého trestního práva procesního je trestní řád
 - proces = postup
 ![[Trestní právo14-12-2023_00_28_42.excalidraw.svg]]
-%%[[Trestní právo14-12-2023_00_28_42.excalidraw.md|🖋 Edit in Excalidraw]]%%
+%%[[Trestní právo14-12-2023_00_28_42.excalidraw|🖋 Edit in Excalidraw]]%%
 
 ## Státní orgány činné v trestním řízení
-- Policie České republiky - odhaluje trestnou činnost, zjišťuje okolnosti spáchání trestného činu a shromažďuje důkazy
-- Státní zastupitelství - zkoumá okolnosti spáchání trestného činu včetně důkazů z materiálů předložených PČR, po prostudování materiálů vypracovává žalobu, kterou posílá soudu.
-- Soud – zkoumá žalobu státního zástupce, provádí výslech svědků, znalců i obviněného, rozhoduje o vině a trestu
+- **Policie České republiky** - odhaluje trestnou činnost, zjišťuje okolnosti spáchání trestného činu a shromažďuje důkazy
+- **Státní zastupitelství** - zkoumá okolnosti spáchání trestného činu včetně důkazů z materiálů předložených PČR, po prostudování materiálů vypracovává žalobu, kterou posílá soudu.
+- **Soud** – zkoumá žalobu státního zástupce, provádí výslech svědků, znalců i obviněného, rozhoduje o vině a trestu
 
 ## Základní znaky trestního práva procesního
 1. nikdo nemůže být trestně stíhán jinak než ze zákonných důvodů a zákonným způsobem,
 2. trestní stíhání před soudy je možné jen na základě ==obžaloby== podané ==státním zástupcem==,
 3. dokud není vyslovena ==vina==, nelze pohlížet na toho, proti komu se trestní řízení vede, jako kdyby byl vinen (= zásada ==presumpce neviny==)
-4) jednání před soudy je ústní a veřejné
+4) jednání před soudy je ústní a veřejné (má výjimky)
 
 ## Průběh trestního řízení
 1. ==Přípravné řízení== - zjišťují se informace o trestném činu a o jeho pachateli, shromažďují se důkazy, odhalují se příčiny a okolnosti trestné činnosti
