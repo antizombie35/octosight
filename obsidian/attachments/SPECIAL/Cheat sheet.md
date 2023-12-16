@@ -84,6 +84,3 @@ println!("Ahoj {x:?}");
 ```
 
 ---
-# Reserved hashtags
-
-#todo
