@@ -17,6 +17,7 @@ _Jak to vypadá, jak je to rozloženo_
 | Apoziopeze      | Jdi do ...                                                                  | Neukončená výpověď, _Jednoznačně signalizováno "..."_            |                     |
 | Apostrofa       | Karle, Viléme, Jarmilo                                                      | Oslovujeme co tam není/nežije                                    |                     |
 
+
 # Tropy
 _Co tím autor myslel_
 

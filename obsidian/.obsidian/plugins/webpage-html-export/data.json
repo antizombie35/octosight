@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "includePluginCSS": "",
+  "includePluginCSS": "dataview",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
@@ -14,7 +14,7 @@
   "sidebarWidth": "",
   "startOutlineCollapsed": false,
   "logLevel": "fatal",
-  "incrementalExport": true,
+  "incrementalExport": false,
   "deleteOldExportedFiles": true,
   "addDarkModeToggle": true,
   "includeOutline": true,
@@ -34,7 +34,7 @@
     [
       "biologie/Dýchací soustava.md",
       "literatura/Literární figury a tropy.md",
-      "ZSV/Trestní právo.md",
+      "zsv/Trestní právo.md",
       "Index.md"
     ]
   ]

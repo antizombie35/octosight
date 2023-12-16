@@ -41,8 +41,8 @@ Pro poznámku pod čarou  potřebujme zobáček nahoru [^1][^2]
 [![ALT TEXT](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Aardappel_bloem_Parel_Solanum_tuberosum.jpg/258px-Aardappel_bloem_Parel_Solanum_tuberosum.jpg)](https://commons.wikimedia.org/wiki/File:Aardappel_bloem_Parel_Solanum_tuberosum.jpg "Květy lilku bramboru")
 
 - [ ] Vytvořit list
-- [ ] Zaškrtnout druhé políčko listu
-- [ ] Zaškrtnout třetí políčko listu
+- [x] Zaškrtnout druhé políčko listu
+- [x] Zaškrtnout třetí políčko listu
 
 /--- pro prezentace
 

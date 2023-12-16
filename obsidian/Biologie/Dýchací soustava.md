@@ -53,7 +53,6 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 ### Hrtan
 - soubor pohyblivě spojených chrupavek
 - zavěšen vazivovou blánou na jazylce
-- 
 - největší je ==chrupavka štítná==
 - pod ní ==chrupavka prstencová==
 - na ni nasedají 2 trojboké ==chrupavky hlasivkové==
