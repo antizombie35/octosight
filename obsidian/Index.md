@@ -10,7 +10,7 @@ LIST FROM "biologie" SORT file.ctime DESC
 ```
 # Literatura
 ```dataview
-LIST FROM "literatura" SORT file.ctime
+LIST FROM "literatura" SORT file.ctime DESC
 ```
 %%## Mluvnice
 ## Sloh
@@ -21,13 +21,16 @@ LIST FROM "literatura" SORT file.ctime
 ## Cvičení
 # Historie
 # IT
-# Matika
-# ZSV%%
+# Matika%%
+# ZSV
 ```dataview
-LIST FROM "zsv" SORT file.ctime
+LIST FROM "zsv" SORT file.ctime DESC
 ```
 ***
+<font size = "2">
 Naposledy aktualizováno:
+</font>
+
 ```dataviewjs
 let currentDate = new Date(Date.now());
 dv.table([],

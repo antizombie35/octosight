@@ -4,5 +4,5 @@
   "attachmentFolderPath": "attachments",
   "promptDelete": false,
   "readableLineLength": true,
-  "newFileLocation": "root"
+  "newFileLocation": "current"
 }

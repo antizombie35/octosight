@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a05b9ee8d205f7c3",
+        "id": "d7962eca1fa38f26",
         "type": "tabs",
         "children": [
           {
-            "id": "7164b85b16163533",
+            "id": "e32300d309023daf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -155,15 +155,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "454fb5f758d08b28",
+        "id": "5d21bd91162dca25",
         "type": "window",
         "children": [
           {
-            "id": "9a9a527c2fabcb32",
+            "id": "7285de5ce2599b3f",
             "type": "tabs",
             "children": [
               {
-                "id": "195ec186d513fd04",
+                "id": "a37f2651de32bc49",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -188,11 +188,16 @@
       }
     ]
   },
-  "active": "195ec186d513fd04",
+  "active": "a37f2651de32bc49",
   "lastOpenFiles": [
     "literatura/Literární figury a tropy.md",
     "biologie/Dýchací soustava.md",
+    "Index.md",
     "zsv/Trestní právo.md",
-    "Index.md"
+    "biologie/deez.md",
+    "literatura/Untitled.md",
+    "literatura/deez.md",
+    "zsv/DEEZ.md",
+    "Untitled.md"
   ]
 }
