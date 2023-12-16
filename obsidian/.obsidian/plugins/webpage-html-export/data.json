@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "includePluginCSS": "",
+  "includePluginCSS": "dataview",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
