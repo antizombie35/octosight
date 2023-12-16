@@ -43,5 +43,3 @@ dv.table([],
 );
 
 ```
-
-[[Cheat sheet]]

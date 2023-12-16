@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsv/Trestní právo.md"
+                "file": "Index.md"
               }
             }
           },
@@ -159,49 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "ef28ef8983dcc3c0",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5e2edf6d336e2c0b",
-        "type": "window",
-        "children": [
-          {
-            "id": "cfd9c5907cbb5746",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "14be55d53f52abd7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "zsv/Trestní právo.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "14be55d53f52abd7",
+  "active": "00de0f7d3a7c2afe",
   "lastOpenFiles": [
+    "zsv/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
     "biologie/Dýchací soustava.md",
-    "zsv/Trestní právo.md",
     "Index.md",
     "zsv/deez.md",
     "attachments/SPECIAL/ADMIN.md",
