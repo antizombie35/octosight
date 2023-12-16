@@ -44,16 +44,6 @@ Pro poznámku pod čarou  potřebujme zobáček nahoru [^1][^2]
 - [x] Zaškrtnout druhé políčko listu
 - [x] Zaškrtnout třetí políčko listu
 
-/--- pro prezentace
-
-
-# Code formátování
-
-
-```
-deez nuts
-```
-
 ```html
 <html>
 	<p>Pure code formátování</p>

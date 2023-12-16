@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zsv/Trestní právo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zsv/Trestní právo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zsv/Trestní právo.md"
               }
             }
           },
@@ -159,14 +159,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00de0f7d3a7c2afe",
+  "floating": {
+    "id": "f8c2da5961c8ee8d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "903c2cf55b43211e",
+        "type": "window",
+        "children": [
+          {
+            "id": "969cbce03982ea75",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd2ffb66650a5195",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zsv/Trestní právo.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 915,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bd2ffb66650a5195",
   "lastOpenFiles": [
-    "zsv/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
     "biologie/Dýchací soustava.md",
     "Index.md",
-    "zsv/deez.md",
+    "attachments/SPECIAL/Cheat sheet.md",
     "attachments/SPECIAL/ADMIN.md",
+    "zsv/Trestní právo.md",
+    "zsv/deez.md",
     "ZSV/Trestní právo.md",
     "attachments/Index16-12-2023_16_03_58.excalidraw.md",
     "zsv - tresty.png.md",
@@ -190,7 +229,6 @@
     "attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
     "Biologie/Dýchací soustava.md",
     "attachments/SPECIAL",
-    "attachments/SPECIAL/Cheat sheet.md",
     "attachments/Literární figury a tropy14-12-2023_21_16_05.excalidraw.md",
     "attachments/Literární figury a tropy14-12-2023_21_16_05.excalidraw.excalidraw",
     "attachments/Index14-12-2023_21_14_33.excalidraw.md",

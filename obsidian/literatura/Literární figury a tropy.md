@@ -45,5 +45,3 @@ _Jak to zní_
 | Dysfemismus | Zhrubění       | Skapal, Zdechl                                  |
 | Eufonie     | libozvučnost   | Jak dl**ou**ze tvé h**ou**sle                   |
 | Kakofonie   | nelibozvučnost | Jako první šli hasiči, pak městští seržanti[^1] |
-
-[^1]: Idk možná taky ne, na to bych nevsázel
