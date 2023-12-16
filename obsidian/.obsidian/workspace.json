@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "7da575556a9dbb96",
+    "id": "ad775b080b995f0f",
     "type": "split",
     "children": [
       {
-        "id": "d7e1d11cd6727b35",
+        "id": "a05b9ee8d205f7c3",
         "type": "tabs",
         "children": [
           {
-            "id": "00de0f7d3a7c2afe",
+            "id": "7164b85b16163533",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "zsv/Trestní právo.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "05523e8739a7726a",
+    "id": "6dc558559d3a9f39",
     "type": "split",
     "children": [
       {
-        "id": "b26f47c9d9ccf814",
+        "id": "f4ab17bc5dec6271",
         "type": "tabs",
         "children": [
           {
-            "id": "e3411395b551e46c",
+            "id": "ec11f54d14a76cf3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "943d3457e542506f",
+            "id": "2b6d55ca7ee10cbe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "85556d01de0a6927",
+            "id": "8a971f9760b2a833",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,15 +73,15 @@
     "width": 300
   },
   "right": {
-    "id": "ed19c3d7f5c37572",
+    "id": "d7ce46b73e18665d",
     "type": "split",
     "children": [
       {
-        "id": "ea7dfb66d4de0238",
+        "id": "f010ba38f7adc649",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac841bafa2d4d2a",
+            "id": "9a369c8275556f74",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -98,7 +98,7 @@
             }
           },
           {
-            "id": "f94f6f9ca4944d0b",
+            "id": "6a2bab4a44cd7778",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "9b7de774abc6e019",
+            "id": "05fce91e1d6b879c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,7 +121,7 @@
             }
           },
           {
-            "id": "4331766ec63a7338",
+            "id": "f27785c1179f5c6e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,50 +129,41 @@
                 "file": "zsv/Trestní právo.md"
               }
             }
-          },
-          {
-            "id": "ac0e62ffd6f70ac9",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "floating": {
-    "id": "f8c2da5961c8ee8d",
+    "id": "9965f11627251bf1",
     "type": "floating",
     "children": [
       {
-        "id": "903c2cf55b43211e",
+        "id": "454fb5f758d08b28",
         "type": "window",
         "children": [
           {
-            "id": "969cbce03982ea75",
+            "id": "9a9a527c2fabcb32",
             "type": "tabs",
             "children": [
               {
-                "id": "bd2ffb66650a5195",
+                "id": "195ec186d513fd04",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -197,53 +188,11 @@
       }
     ]
   },
-  "active": "bd2ffb66650a5195",
+  "active": "195ec186d513fd04",
   "lastOpenFiles": [
     "literatura/Literární figury a tropy.md",
     "biologie/Dýchací soustava.md",
-    "Index.md",
-    "attachments/SPECIAL/Cheat sheet.md",
-    "attachments/SPECIAL/ADMIN.md",
     "zsv/Trestní právo.md",
-    "zsv/deez.md",
-    "ZSV/Trestní právo.md",
-    "attachments/Index16-12-2023_16_03_58.excalidraw.md",
-    "zsv - tresty.png.md",
-    "attachments/attachments/Pasted Image 20231213010028_446.png",
-    "attachments/attachments/Pasted Image 20231212230722_034.png",
-    "attachments/zsv - obžalování.excalidraw",
-    "attachments/Pasted image 20231213004912.png",
-    "Dýchací soustava13-12-2023_00_59_02.excalidraw.svg.md",
-    "attachments/Dýchací soustava13-12-2023_00_59_02.excalidraw.excalidraw",
-    "attachments/bio - plíce sklípky.png",
-    "attachments/zsv - obžalování.svg",
-    "attachments/zsv - obžalování.md",
-    "attachments/zsv - tresty.png",
-    "attachments/OCTOSIGHT_text_and_logo.png",
-    "attachments/Dýchací soustava13-12-2023_00_59_02.excalidraw.md",
-    "attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.svg",
-    "attachments/bio - dýchání krev.md",
-    "attachments/bio - dýchání krev.svg",
-    "attachments/bio - dýchání krev.excalidraw",
-    "attachments/bio - pneumotorax.png",
-    "attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
-    "Biologie/Dýchací soustava.md",
-    "attachments/SPECIAL",
-    "attachments/Literární figury a tropy14-12-2023_21_16_05.excalidraw.md",
-    "attachments/Literární figury a tropy14-12-2023_21_16_05.excalidraw.excalidraw",
-    "attachments/Index14-12-2023_21_14_33.excalidraw.md",
-    "attachments",
-    "ZSV/attachments",
-    "attachments",
-    "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.md",
-    "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.excalidraw",
-    "TETS/attachments/001-12-2023_23_33_45.excalidraw.md",
-    "TETS/0.md",
-    "TETS/attachments/001-12-2023_23_34_45.excalidraw.md",
-    "TETS/attachments/001-12-2023_22_26_50.excalidraw.md",
-    "attachments/Cheat sheet01-12-2023_22_24_35.excalidraw.md",
-    "Excalidraw/Excalidraw19.36.05 29-11-2023.excalidraw.md",
-    "DEEZ.md",
-    "ZSV/DEEZ.md"
+    "Index.md"
   ]
 }

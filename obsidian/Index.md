@@ -4,7 +4,6 @@
 ... or an octopus with laser sight
 [Originální repo link](https://github.com/antizombie35/octosight)
 </font>
-%%
 # Biologie
 ```dataview
 LIST FROM "biologie" SORT file.ctime DESC
@@ -13,7 +12,7 @@ LIST FROM "biologie" SORT file.ctime DESC
 ```dataview
 LIST FROM "literatura" SORT file.ctime
 ```
-## Mluvnice
+%%## Mluvnice
 ## Sloh
 # Chemie
 # Francouzština
@@ -23,11 +22,10 @@ LIST FROM "literatura" SORT file.ctime
 # Historie
 # IT
 # Matika
-# ZSV
+# ZSV%%
 ```dataview
 LIST FROM "zsv" SORT file.ctime
 ```
-
 ***
 Naposledy aktualizováno:
 ```dataviewjs
@@ -45,4 +43,3 @@ dv.table([],
 
 ```
 
-%%

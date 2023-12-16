@@ -1,6 +1,6 @@
 - K životu je potřebná energie uvolněná při oxidaci látek (tuky, cukry, bílkoviny)
-- vznik $CO_2 + H_2O$
-- nutnost přívodu $O_2$ a odvodu $CO_2$
+- vznik ${CO_2 + H_2O\ }$
+- nutnost přívodu ${O_2\ }$ a odvodu $CO_2$
 - dýchací ústrojí slouží k dýchání (==respiraci==)
 # Funkce
 výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
@@ -16,23 +16,23 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 -  klesající tlak $\longrightarrow$ kyslík se uvolňuje
 # Přenos $CO_2$
 - ==plazmou a erytrocyty==
-- $CO_2$ je vázán:
-1. $5\% \ CO_2$ volně rozpuštěno v krevní plazmě
-2. $10\% \ CO_2$ sloučeno s plazmatickými bílkovinami $\longrightarrow$ ==karbaminové sloučeniny==
-3. $85\% \ CO_2$ v krevní plazmě jako $HCO_3^-$
-- ==$O_2$ a $CO_2$ se navzájem vytlačují z vazby==
+- ${CO_2\ }$ je vázán:
+1. ${5\% \ CO_2\ }$ volně rozpuštěno v krevní plazmě
+2. ${10\% \ CO_2\ }$ sloučeno s plazmatickými bílkovinami $\longrightarrow$ ==karbaminové sloučeniny==
+3. ${85\% \ CO_2\ }$ v krevní plazmě jako $HCO_3^-$
+- ==${O_2\ }$ a ${CO_2\ }$ se navzájem vytlačují z vazby==
 
 ![[Dýchací soustava12-12-2023_23_06_10.excalidraw.svg]]
 %%[[Dýchací soustava12-12-2023_23_06_10.excalidraw|🖋 Edit in Excalidraw]]%%
 
-1. $H_2CO_3 \longrightarrow CO_2+H_2O$
-2. $H_2CO_3 \longrightarrow H^+ + HCO_3^-$
+1. ${H_2CO_3 \longrightarrow CO_2+H_2O\ }$
+2. ${H_2CO_3 \longrightarrow H^+ + HCO_3^-\ }$
 
-- $CO_2$ vznikající při dýchání v tkáňových buňkách $\longrightarrow$ difunduje _(samovolně se rouptyluje)_ do tkáňových kapilár $\longrightarrow$ v červených krvinkách reaguje $\longrightarrow$  kyselina uhličitá $\longrightarrow$ disociuje _(štěpí se)_
-- hydrogenuhličitanové ionty vystupují krvinky $\longrightarrow$ plazma
-- v plicní kapiláře  $HCO_3^-\ ionty\ vstupují\ do \ červených\ krvinek \longrightarrow reakce\ s\ protony \longrightarrow kyselina\ uhličitá \longrightarrow rozklad\ na\ H_2O + CO_2 \longrightarrow CO_2\ difunduje\ stěnou\ kapilár\ do\ plicních\ sklípků$ 
+- ${CO_2\ }$ vznikající při dýchání v tkáňových buňkách ${\longrightarrow\ }$ difunduje _(samovolně se rouptyluje)_ do tkáňových kapilár ${\longrightarrow\ }$ v červených krvinkách reaguje ${\longrightarrow\ }$  kyselina uhličitá ${\longrightarrow\ }$ disociuje _(štěpí se)_
+- hydrogenuhličitanové ionty vystupují krvinky ${\longrightarrow\ }$ plazma
+- v plicní kapiláře  ${HCO_3^-\ ionty\ vstupují\ do \ červených\ krvinek \longrightarrow reakce\ s\ protony \longrightarrow kyselina\ uhličitá \longrightarrow rozklad\ na\ H_2O + CO_2 \longrightarrow CO_2\ difunduje\ stěnou\ kapilár\ do\ plicních\ sklípků \ }$ 
 
->$H^++HCO_3^- \longrightarrow H_2CO_3\longrightarrow H_2O + CO_2$
+>${H^++HCO_3^- \longrightarrow H_2CO_3\longrightarrow H_2O + CO_2\ }$
 
 # Dýchací cesty
 
@@ -111,7 +111,7 @@ vitální kapacita plic = množství vzduchu, které po maximálním vdechu maxi
 
 # Řízení dýchání
 - dýchací centrum v prodloužené míše
-- ovlivňováno chemickými podněty (změnou koncentrace $CO_2$ a $O_2$ v krvi, změnou pH)
+- ovlivňováno chemickými podněty (změnou koncentrace ${CO_2\ }$ a ${O_2\ }$ v krvi, změnou pH)
 
 ![[Pasted image 20231213010706.png]]
 
