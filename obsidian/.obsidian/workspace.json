@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45398ba133bbb734",
+        "id": "d7e1d11cd6727b35",
         "type": "tabs",
         "children": [
           {
-            "id": "e2503b880c0b6c07",
+            "id": "00de0f7d3a7c2afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
+                "file": "biologie/Dýchací soustava.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "ZSV/Trestní právo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "ZSV/Trestní právo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "ZSV/Trestní právo.md"
               }
             }
           },
@@ -159,48 +159,89 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2503b880c0b6c07",
+  "floating": {
+    "id": "9fe472d8a53ce4c3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f6fe81c63ceef187",
+        "type": "window",
+        "children": [
+          {
+            "id": "8d19a80970408a36",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca4f06c09dc9d63d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ZSV/Trestní právo.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 915,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ca4f06c09dc9d63d",
   "lastOpenFiles": [
-    "Index.md",
-    "ZSV/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
+    "biologie/Dýchací soustava.md",
+    "ZSV/Trestní právo.md",
+    "zsv - tresty.png.md",
+    "attachments/attachments/Pasted Image 20231213010028_446.png",
+    "attachments/attachments/Pasted Image 20231212230722_034.png",
+    "attachments/zsv - obžalování.excalidraw",
+    "attachments/Pasted image 20231213004912.png",
+    "Dýchací soustava13-12-2023_00_59_02.excalidraw.svg.md",
+    "attachments/Dýchací soustava13-12-2023_00_59_02.excalidraw.excalidraw",
+    "attachments/bio - plíce sklípky.png",
+    "attachments/zsv - obžalování.svg",
+    "attachments/zsv - obžalování.md",
+    "attachments/zsv - tresty.png",
+    "attachments/OCTOSIGHT_text_and_logo.png",
+    "attachments/Dýchací soustava13-12-2023_00_59_02.excalidraw.md",
+    "attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.svg",
+    "attachments/bio - dýchání krev.md",
+    "attachments/bio - dýchání krev.svg",
+    "attachments/bio - dýchání krev.excalidraw",
+    "attachments/bio - pneumotorax.png",
+    "Untitled.md",
+    "attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
+    "Index.md",
     "Biologie/Dýchací soustava.md",
     "attachments/SPECIAL",
     "attachments/SPECIAL/Cheat sheet.md",
     "attachments/Literární figury a tropy14-12-2023_21_16_05.excalidraw.md",
-    "attachments/Dýchací soustava13-12-2023_00_59_02.excalidraw.md",
     "attachments/Literární figury a tropy14-12-2023_21_16_05.excalidraw.excalidraw",
-    "attachments/Literární figury a tropy14-12-2023_21_16_05.excalidraw.svg",
-    "attachments/Pasted image 20231213010706.png",
-    "attachments/Pasted image 20231213005852.png",
-    "attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
-    "attachments/Trestní právo14-12-2023_00_28_42.excalidraw.excalidraw",
-    "attachments/Pasted image 20231214002027.png",
     "attachments/Index14-12-2023_21_14_33.excalidraw.md",
-    "attachments/Index14-12-2023_21_14_33.excalidraw.svg",
     "attachments",
-    "attachments/Trestní právo14-12-2023_00_28_42.excalidraw.md",
-    "attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.md",
-    "attachments/Trestní právo14-12-2023_00_28_42.excalidraw.svg",
     "ZSV/attachments",
     "attachments",
     "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.md",
     "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.excalidraw",
-    "ZSV/attachments/Trestní právo02-12-2023_11_52_09.excalidraw.svg",
     "TETS/attachments/001-12-2023_23_33_45.excalidraw.md",
     "TETS/0.md",
     "TETS/attachments/001-12-2023_23_34_45.excalidraw.md",
-    "TETS/attachments/001-12-2023_23_34_45.excalidraw.excalidraw",
-    "TETS/attachments/001-12-2023_23_34_45.excalidraw.svg",
-    "TETS/attachments/001-12-2023_23_33_45.excalidraw.svg",
-    "TETS/attachments/001-12-2023_23_33_45.excalidraw.excalidraw",
     "TETS/attachments/001-12-2023_22_26_50.excalidraw.md",
     "attachments/Cheat sheet01-12-2023_22_24_35.excalidraw.md",
-    "Pasted image 20231129193929.png",
     "Excalidraw/Excalidraw19.36.05 29-11-2023.excalidraw.md",
     "DEEZ.md",
     "ZSV/DEEZ.md",
-    "Excalidraw/Excalidraw19.31.08 29-11-2023.excalidraw.md",
-    "Untitled.md"
+    "Excalidraw/Excalidraw19.31.08 29-11-2023.excalidraw.md"
   ]
 }
