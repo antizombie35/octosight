@@ -26,7 +26,7 @@ LIST FROM "zsv" SORT file.ctime DESC
 ```
 ***
 <font size = "2">
-Naposledy aktualizováno:
+Poslední viditelná frontend aktualizace:
 </font>
 
 ```dataviewjs
