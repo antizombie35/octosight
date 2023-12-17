@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current"
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current",
+    "insert-template"
   ]
 }

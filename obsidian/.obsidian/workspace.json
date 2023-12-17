@@ -14,13 +14,32 @@
               "type": "markdown",
               "state": {
                 "file": "Index.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "0d09d09985ba9a91",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_dev/attachments/Pasted image 20231213005729.png"
+              }
+            }
+          },
+          {
+            "id": "a3e7fc90f6d33e42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "_dev/attachments/Pasted image 20231213005729.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "_dev/attachments/Pasted image 20231213005729.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsv/Trestní právo.md"
+                "file": "_dev/attachments/Pasted image 20231213005729.png"
               }
             }
           }
@@ -134,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,54 +168,42 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "9965f11627251bf1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5d21bd91162dca25",
-        "type": "window",
-        "children": [
-          {
-            "id": "7285de5ce2599b3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a37f2651de32bc49",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "zsv/Trestní právo.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a37f2651de32bc49",
+  "active": "0d09d09985ba9a91",
   "lastOpenFiles": [
+    "_dev/attachments/Pasted image 20231213005704.png",
+    "_dev/attachments/Pasted image 20231213005729.png",
+    "_dev/attachments/Pasted image 20231213005847.png",
+    "_dev/attachments/Pasted image 20231213005852.png",
+    "_dev/attachments/Pasted image 20231213010706.png",
+    "_dev/attachments/Pasted image 20231214002027.png",
+    "_dev/attachments/Trestní právo14-12-2023_00_28_42.excalidraw.excalidraw",
+    "_dev/attachments/Trestní právo14-12-2023_00_28_42.excalidraw.md",
+    "_dev/attachments/Trestní právo14-12-2023_00_28_42.excalidraw.svg",
+    "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.md",
+    "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
+    "Index.md",
+    "Untitled.md",
+    "Untitled",
+    "_dev/templates/X - REPO ERROR.md",
+    "_dev/templates/X - problem.md",
+    "_dev/templates/OK - fact check.md",
+    "_dev/templates/! - not finished.md",
+    "_dev/templates/! - needs fact check.md",
+    "zsv/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
     "biologie/Dýchací soustava.md",
-    "Index.md",
-    "zsv/Trestní právo.md",
+    "_dev/templates/page not finished OR needs factcheck.md",
+    "deez.md",
+    "_dev/attachments/Index17-12-2023_17_46_15.excalidraw.md",
+    "_dev/attachments/Index17-12-2023_17_46_15.excalidraw.svg",
+    "_dev",
+    "_dev/css",
+    "00.md",
+    "_dev/admin/unused js.md",
+    "_dev/templates",
     "biologie/deez.md",
     "literatura/Untitled.md",
     "literatura/deez.md",
-    "zsv/DEEZ.md",
-    "Untitled.md"
+    "zsv/DEEZ.md"
   ]
 }

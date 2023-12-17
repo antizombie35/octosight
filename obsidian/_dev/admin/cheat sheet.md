@@ -1,3 +1,6 @@
+> [!warning]
+>Na této stránce se pořád pracuje
+
 # Běžné
 
 >Zvýraznění pomocí ">"
@@ -74,3 +77,34 @@ println!("Ahoj {x:?}");
 ```
 
 ---
+
+[callouts](https://help.obsidian.md/Editing+and+formatting/Callouts)
+
+> [!bug]
+> Testovací poměrně dlouhá fráze
+
+> [!error]
+> alt danger
+> Testovací poměrně dlouhá fráze
+
+> [!fail]
+> alt failure OR missing
+> Testovací poměrně dlouhá fráze
+
+> [!warning]
+> Testovací poměrně dlouhá fráze
+
+> [!done]
+> alt check OR success
+> Testovací poměrně dlouhá fráze
+
+> [!quote]
+> alt cite
+> Testovací poměrně dlouhá fráze
+
+> [!example]
+> Testovací poměrně dlouhá fráze
+
+> [!abstract]
+> lat sumarry OR tldr
+> Testovací poměrně dlouhá fráze

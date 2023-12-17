@@ -1,8 +1,9 @@
 {
   "livePreview": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments",
+  "attachmentFolderPath": "_dev/attachments",
   "promptDelete": false,
   "readableLineLength": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "propertiesInDocument": "visible"
 }
