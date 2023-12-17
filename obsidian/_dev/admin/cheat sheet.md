@@ -1,3 +1,8 @@
+
+> [!fail]+
+> Tato stránka není určena pro širokou veřejnost
+> Pokud nevíte co děláte, nic zde neupravujte
+
 > [!warning]
 >Na této stránce se pořád pracuje
 

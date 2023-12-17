@@ -15,9 +15,12 @@ LIST FROM "literatura" SORT file.ctime DESC
 %%## Mluvnice
 ## Sloh
 # Chemie
-# Francouzština
+# Francouzština%%
 # Fyzika
-# Historie
+```dataview
+LIST FROM "fyzika" SORT file.ctime DESC
+```
+%%# Historie
 # IT
 # Matika%%
 # ZSV
