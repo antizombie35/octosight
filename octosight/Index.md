@@ -1,3 +1,7 @@
+
+> [!check]+
+> Všechny systémy byly vyhodnoceny jako plně funkční
+
 ![[Index16-12-2023_16_03_58.excalidraw.svg]]
 %%[[Index16-12-2023_16_03_58.excalidraw|🖋 Edit in Excalidraw]]%%
 <font size = "2">**O**pen sour**c**e **T**ranspiled **O**bsidian-based **S**ynced **I**nterconnected **G**ithub-hosted **H**yperlinked ar**t**ifact 
@@ -12,16 +16,15 @@ LIST FROM "biologie" SORT file.ctime DESC
 ```dataview
 LIST FROM "literatura" SORT file.ctime DESC
 ```
-%%## Mluvnice
-## Sloh
-# Chemie
+%%
+## Mluvnice
 # Francouzština%%
 # Fyzika
 ```dataview
 LIST FROM "fyzika" SORT file.ctime DESC
 ```
-%%# Historie
-# IT
+%%
+# Historie
 # Matika%%
 # ZSV
 ```dataview
@@ -29,7 +32,8 @@ LIST FROM "zsv" SORT file.ctime DESC
 ```
 ***
 <font size = "2">
-Poslední viditelná frontend aktualizace:
+Autor neručí za žádný obsah.<br>
+Poslední viditelná frontend aktualizace (desync octosight-html značí převod při transpilaci):
 </font>
 
 ```dataviewjs
