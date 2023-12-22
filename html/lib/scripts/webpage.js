@@ -10,13 +10,12 @@ let webpageContainer,documentContainer,viewContent,leftSidebar,rightSidebar,side
   gtag('config', 'G-3YMJR4ZRCM');
 </script>*/
 
-
-var script = document.createElement('script');
-script.src = "https://www.googletagmanager.com/gtag/js?id=G-3YMJR4ZRCM"
-document.head.appendChild(script);
-window.onload = function () {
+setTimeout(() => {
+	var script = document.createElement('script');
+	script.src = "https://www.googletagmanager.com/gtag/js?id=G-3YMJR4ZRCM"
+	document.head.appendChild(script);
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
 	gtag('config', 'G-3YMJR4ZRCM');
-}
+}, 2000);
