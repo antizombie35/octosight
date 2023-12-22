@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fyzika/2.3 Vypařování a var.md",
+                "file": "fyzika/2.4 Kapalnění.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "fyzika/2.4 Kapalnění.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsv/Trestní právo.md",
+                "file": "fyzika/2.4 Kapalnění.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsv/Trestní právo.md"
+                "file": "fyzika/2.4 Kapalnění.md"
               }
             }
           },
@@ -159,53 +159,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "7475c39de17065d9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1c6bc78b2422921b",
-        "type": "window",
-        "children": [
-          {
-            "id": "06e46568394e1d3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e97f4f5dc1629f41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "zsv/Trestní právo.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "e97f4f5dc1629f41",
+  "active": "20699591a53ffbd6",
   "lastOpenFiles": [
+    "zsv/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
     "fyzika/Zkratky.md",
     "fyzika/2.4 Kapalnění.md",
     "fyzika/2.3 Vypařování a var.md",
     "biologie/Dýchací soustava.md",
     "Index.md",
-    "zsv/Trestní právo.md",
     "_dev/templates/S - tl;dr.md",
     "_dev/templates/X - REPO ERROR.md",
     "_dev/templates/X - problem.md",
