@@ -1,0 +1,8 @@
+{
+  "snippetsFile": "le =>  ${\\ %\\e\\ }$ \n-==-\nto =>  ${\\ \\longrightarrow\\ }$ \n-==-\nimpl => ${\\ \\Longrightarrow\\ }$ ",
+  "triggerOnSpace": "disabled",
+  "triggerOnEnter": "disabled",
+  "triggerOnTab": "n-ws",
+  "snippetPartDivider": " => ",
+  "snippetDivider": "-==-"
+}
