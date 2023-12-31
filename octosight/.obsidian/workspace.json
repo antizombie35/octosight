@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a16b20043b8b7035",
+        "id": "6e2387efe6ee9643",
         "type": "tabs",
         "children": [
           {
-            "id": "86b12079dc432db7",
+            "id": "bd2ff3d95cc1a270",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "biologie/Dýchací soustava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "biologie/Dýchací soustava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "biologie/Dýchací soustava.md"
               }
             }
           }
@@ -150,6 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86b12079dc432db7",
-  "lastOpenFiles": []
+  "active": "25e30134fb31de1c",
+  "lastOpenFiles": [
+    "fyzika/Zkratky.md",
+    "fyzika/2.4 Kapalnění.md",
+    "fyzika/2.3 Vypařování a var.md",
+    "literatura/Literární figury a tropy.md",
+    "zsv/Trestní právo.md",
+    "Index.md"
+  ]
 }
