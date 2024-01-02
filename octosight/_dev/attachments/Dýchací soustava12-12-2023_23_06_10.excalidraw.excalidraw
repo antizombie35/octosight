@@ -1,7 +1,7 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.10",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.13",
 	"elements": [
 		{
 			"type": "image",
@@ -82,8 +82,8 @@
 		},
 		{
 			"type": "text",
-			"version": 13,
-			"versionNonce": 1597780003,
+			"version": 14,
+			"versionNonce": 1744017904,
 			"isDeleted": false,
 			"id": "te5zR1bP",
 			"fillStyle": "solid",
@@ -96,14 +96,14 @@
 			"y": -443.4453125,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 93.159912109375,
+			"width": 78.544921875,
 			"height": 25,
 			"seed": 272102381,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702418819509,
+			"updated": 1704155762898,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -115,7 +115,7 @@
 			"containerId": null,
 			"originalText": "Erytrocyt",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 21
 		},
 		{
 			"type": "line",
@@ -163,8 +163,8 @@
 		},
 		{
 			"type": "text",
-			"version": 15,
-			"versionNonce": 1053348195,
+			"version": 16,
+			"versionNonce": 1981758736,
 			"isDeleted": false,
 			"id": "pszXdYaQ",
 			"fillStyle": "solid",
@@ -177,14 +177,14 @@
 			"y": -484.4453125,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 93.35990905761719,
+			"width": 91.123046875,
 			"height": 25,
 			"seed": 1074942637,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702418840659,
+			"updated": 1704155762898,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -196,7 +196,7 @@
 			"containerId": null,
 			"originalText": "Vlásečnice",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 21
 		},
 		{
 			"type": "line",
@@ -288,8 +288,8 @@
 		},
 		{
 			"type": "text",
-			"version": 2,
-			"versionNonce": 1649050509,
+			"version": 3,
+			"versionNonce": 1816845296,
 			"isDeleted": false,
 			"id": "jZWBHCvr",
 			"fillStyle": "solid",
@@ -302,14 +302,14 @@
 			"y": -100.4453125,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 5.4199981689453125,
+			"width": 10.78125,
 			"height": 25,
 			"seed": 271060099,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702418960003,
+			"updated": 1704155762898,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -321,12 +321,12 @@
 			"containerId": null,
 			"originalText": "1",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 21
 		},
 		{
 			"type": "text",
-			"version": 2,
-			"versionNonce": 451067907,
+			"version": 3,
+			"versionNonce": 2002066192,
 			"isDeleted": false,
 			"id": "aKVk7j8W",
 			"fillStyle": "solid",
@@ -339,14 +339,14 @@
 			"y": -179.4453125,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 14.239990234375,
+			"width": 10.78125,
 			"height": 25,
 			"seed": 1547832557,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1702418966664,
+			"updated": 1704155762898,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -358,7 +358,7 @@
 			"containerId": null,
 			"originalText": "2",
 			"lineHeight": 1.25,
-			"baseline": 18
+			"baseline": 21
 		}
 	],
 	"appState": {
@@ -376,7 +376,7 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 877.2688937717013,
+		"scrollX": 878.9982638888888,
 		"scrollY": 635.7450810185185,
 		"zoom": {
 			"value": 1.35
@@ -396,7 +396,6 @@
 			"outline": true
 		}
 	},
-	"prevTextMode": "parsed",
 	"files": {
 		"ab2b5d3290b5fce9e1f104338852e16f853d3690": {
 			"mimeType": "image/png",

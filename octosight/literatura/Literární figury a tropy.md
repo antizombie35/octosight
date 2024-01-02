@@ -1,4 +1,5 @@
 # Figury
+---
 _Jak to vypadá, jak je to rozloženo_
  
 | Jméno           | Příklad                                                                     | Teorie                                                           | Schéma              |
@@ -19,6 +20,7 @@ _Jak to vypadá, jak je to rozloženo_
 
 
 # Tropy
+---
 _Co tím autor myslel_
 
 | Jméno      | Příklad                                                                 | Teorie                                  |
@@ -37,6 +39,7 @@ _Co tím autor myslel_
 | Enumerace  | Byl tam Aatrox, Albedo, Alucard                                         | Výčet prvků                             |
 
 # Jazykové zvukové prostředky
+---
 _Jak to zní_
 
 | Jméno       | Teorie         | Příklad                                         |

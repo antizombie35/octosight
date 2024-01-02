@@ -9,17 +9,21 @@
 [Originální repo link](https://github.com/antizombie35/octosight)
 </font>
 # Biologie
+---
 ```dataview
 LIST FROM "biologie" SORT file.ctime DESC
 ```
 # Literatura
+---
 ```dataview
 LIST FROM "literatura" SORT file.ctime DESC
 ```
 %%
 ## Mluvnice
-# Francouzština%%
+# Francouzština
+---%%
 # Fyzika
+---
 ```dataview
 LIST FROM "fyzika" SORT file.ctime DESC
 ```
@@ -27,6 +31,7 @@ LIST FROM "fyzika" SORT file.ctime DESC
 # Historie
 # Matika%%
 # ZSV
+---
 ```dataview
 LIST FROM "zsv" SORT file.ctime DESC
 ```

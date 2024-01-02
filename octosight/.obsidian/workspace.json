@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6e2387efe6ee9643",
+        "id": "856543f78cd48f24",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2ff3d95cc1a270",
+            "id": "2edc8e522906d39b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/Dýchací soustava.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/Dýchací soustava.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/Dýchací soustava.md"
+                "file": "Index.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,13 +151,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25e30134fb31de1c",
+  "active": "2edc8e522906d39b",
   "lastOpenFiles": [
-    "fyzika/Zkratky.md",
-    "fyzika/2.4 Kapalnění.md",
+    "biologie/Dýchací soustava.md",
+    "_dev/attachments/Pasted Image 20231213010028_446.png",
+    "_dev/attachments/Pasted Image 20231212230722_034.png",
+    "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
+    "_dev/admin/Unused JS.md",
+    "_dev/admin/Formátování.md",
+    "_dev/admin/Cheat sheet.md",
     "fyzika/2.3 Vypařování a var.md",
+    "fyzika/2.4 Kapalnění.md",
     "literatura/Literární figury a tropy.md",
     "zsv/Trestní právo.md",
-    "Index.md"
+    "Index.md",
+    "fyzika/Zkratky.md"
   ]
 }

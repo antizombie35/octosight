@@ -4,9 +4,6 @@
 > Tato stránka není určena pro širokou veřejnost
 > Pokud nevíte co děláte, nic zde neupravujte
 
-
-# Last modifications
-
 ```dataviewjs
 let currentDate = new Date(Date.now());
 

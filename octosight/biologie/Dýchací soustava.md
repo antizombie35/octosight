@@ -3,6 +3,7 @@
 - nutnost přívodu ${O_2\ }$ a odvodu $CO_2$
 - dýchací ústrojí slouží k dýchání (==respiraci==)
 # Funkce
+---
 výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 
 ## Zevní dýchání
@@ -11,10 +12,12 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 ## Vnitřní dýchání
 - výměna plynů $krev \longleftrightarrow tkáně$
 # Přenos $O_2$
+---
 - ==hemoglobinem==
 - stoupající tlak $\longrightarrow$ kyslík se váže na hemoglobin $\longrightarrow$ ==dioxygenhemoglobin==
 -  klesající tlak $\longrightarrow$ kyslík se uvolňuje
 # Přenos $CO_2$
+---
 - ==plazmou a erytrocyty==
 - ${CO_2\ }$ je vázán:
 1. ${5\% \ CO_2\ }$ volně rozpuštěno v krevní plazmě
@@ -35,6 +38,7 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 >${H^++HCO_3^- \longrightarrow H_2CO_3\longrightarrow H_2O + CO_2\ }$
 
 # Dýchací cesty
+---
 
 ![[Pasted image 20231213001448.png]]
 
@@ -50,6 +54,7 @@ výměna plynů $organismus \longleftrightarrow vnější \ prostředí$
 ![[Pasted image 20231213003742.png]]
 
 ## Dolní cesty dýchací
+---
 ### Hrtan
 - soubor pohyblivě spojených chrupavek
 - zavěšen vazivovou blánou na jazylce
@@ -84,6 +89,7 @@ celková dýchací plocha je asi $100 m^2$
 ![[Pasted image 20231213005355.png]]
 
 # Mechanika dýchání
+---
 ## Vdech
 - aktivní děj
 - pomocí bránice a mezižeberních svalů $\longrightarrow$ zvětšení hrudníku $\longrightarrow$  rozpínání plic $\longrightarrow$ nasávání vzduchu
@@ -110,17 +116,20 @@ minutový dechový objem ==8 l==
 vitální kapacita plic = množství vzduchu, které po maximálním vdechu maximálně vydechneme ==4,5 l==
 
 # Řízení dýchání
+---
 - dýchací centrum v prodloužené míše
 - ovlivňováno chemickými podněty (změnou koncentrace ${CO_2\ }$ a ${O_2\ }$ v krvi, změnou pH)
 
 ![[Pasted image 20231213010706.png]]
 
 # Obranné reflexy dýchací
+---
 - ==kýchnutí== (vyvolané nadměrným množstvím hlenu, dráždivými a čpavými 
 látkami)
 - ==kašel== (podráždění sliznice hrtanu, [[#Průdušnice]] nebo [[#Průdušky]])
 
 # Onemocnění
+---
 
 - respirační infekce
 - pneumonie

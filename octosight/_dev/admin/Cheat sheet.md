@@ -29,9 +29,9 @@ _Taky kurzíva_
 - hruška
 - pomelo
 
-|Sloupec 1| Sloupec 2|
-|---|---|
-|bez mezery| mezera na začátku před PIPE|
+| Sloupec 1  | Sloupec 2                   |
+| ---------- | --------------------------- |
+| bez mezery | mezera na začátku před PIPE |
 ***
 # Advanced
 

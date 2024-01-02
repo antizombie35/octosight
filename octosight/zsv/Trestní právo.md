@@ -19,7 +19,7 @@ Vztah mezi ==státem== na jedné straně a ==občany státu== (+ osoby podléhaj
 		- zákon o přestupcích 
 
 # Trestní právo hmotné
-
+---
 - Pachatelé trestných činů jsou FO a PO
 - Trestné činy jsou uvedené v ==trestním zákoně==
 - Dělení:
@@ -133,6 +133,7 @@ Zabezpečovací detence
 - Znamená držení a léčba pachatele ve zdrav. zařízení, i bez jejich souhlasu
 
 # Trestní právo procesní
+---
 - pro FO a PO
 - právní odvětví, upravuje trestní soudní řízení,
 - pramenem českého trestního práva procesního je trestní řád
