@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zsv/Trestní právo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zsv/Trestní právo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zsv/Trestní právo.md"
               }
             }
           }
@@ -151,9 +151,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2edc8e522906d39b",
+  "floating": {
+    "id": "6ae7c28b834afd58",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a9660c54d72c69e9",
+        "type": "window",
+        "children": [
+          {
+            "id": "904a61d8d2159bdb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb61f8ec9934ff63",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "zsv/Trestní právo.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 915,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "eb61f8ec9934ff63",
   "lastOpenFiles": [
+    "literatura/Literární figury a tropy.md",
+    "fyzika/2.4 Kapalnění.md",
     "biologie/Dýchací soustava.md",
+    "Index.md",
     "_dev/attachments/Pasted Image 20231213010028_446.png",
     "_dev/attachments/Pasted Image 20231212230722_034.png",
     "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
@@ -161,10 +202,7 @@
     "_dev/admin/Formátování.md",
     "_dev/admin/Cheat sheet.md",
     "fyzika/2.3 Vypařování a var.md",
-    "fyzika/2.4 Kapalnění.md",
-    "literatura/Literární figury a tropy.md",
     "zsv/Trestní právo.md",
-    "Index.md",
     "fyzika/Zkratky.md"
   ]
 }
