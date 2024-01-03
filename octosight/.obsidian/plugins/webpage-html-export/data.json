@@ -33,9 +33,11 @@
   "filesToExport": [
     [
       "biologie/Dýchací soustava.md",
+      "biologie/Trávící soustava.md",
       "fyzika/2.3 Vypařování a var.md",
       "fyzika/2.4 Kapalnění.md",
       "fyzika/Zkratky.md",
+      "literatura/Česká moderna a dekadence.md",
       "literatura/Literární figury a tropy.md",
       "zsv/Trestní právo.md",
       "Index.md"

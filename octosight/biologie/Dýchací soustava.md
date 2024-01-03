@@ -1,4 +1,4 @@
-- K životu je potřebná energie uvolněná při oxidaci látek (tuky, cukry, bílkoviny)
+	- K životu je potřebná energie uvolněná při oxidaci látek (tuky, cukry, bílkoviny)
 - vznik ${CO_2 + H_2O\ }$
 - nutnost přívodu ${O_2\ }$ a odvodu $CO_2$
 - dýchací ústrojí slouží k dýchání (==respiraci==)

@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2edc8e522906d39b",
+            "id": "c51bcf0846fd9b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "literatura/Česká moderna a dekadence.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "zsv/Trestní právo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "zsv/Trestní právo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "zsv/Trestní právo.md"
               }
             }
           }
@@ -140,6 +140,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,19 +152,19 @@
     }
   },
   "floating": {
-    "id": "6ae7c28b834afd58",
+    "id": "e4a2b5175475b727",
     "type": "floating",
     "children": [
       {
-        "id": "a9660c54d72c69e9",
+        "id": "510bec5ca2d69ec1",
         "type": "window",
         "children": [
           {
-            "id": "904a61d8d2159bdb",
+            "id": "416d81fc3c70ba30",
             "type": "tabs",
             "children": [
               {
-                "id": "eb61f8ec9934ff63",
+                "id": "f9f13181f4d6d4b8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -178,29 +180,31 @@
           }
         ],
         "direction": "vertical",
-        "x": 829,
-        "y": 914,
-        "width": 1027,
-        "height": 804,
+        "x": 317,
+        "y": 338,
+        "width": 802,
+        "height": 402,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2edc8e522906d39b",
+  "active": "f9f13181f4d6d4b8",
   "lastOpenFiles": [
-    "zsv/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
+    "literatura/Česká moderna a dekadence.md",
+    "fyzika/Zkratky.md",
     "fyzika/2.4 Kapalnění.md",
+    "fyzika/2.3 Vypařování a var.md",
+    "biologie/Trávící soustava.md",
     "biologie/Dýchací soustava.md",
     "Index.md",
+    "zsv/Trestní právo.md",
     "_dev/attachments/Pasted Image 20231213010028_446.png",
     "_dev/attachments/Pasted Image 20231212230722_034.png",
     "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
     "_dev/admin/Unused JS.md",
     "_dev/admin/Formátování.md",
-    "_dev/admin/Cheat sheet.md",
-    "fyzika/2.3 Vypařování a var.md",
-    "fyzika/Zkratky.md"
+    "_dev/admin/Cheat sheet.md"
   ]
 }
