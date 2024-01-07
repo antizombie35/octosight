@@ -18,6 +18,11 @@ LIST FROM "biologie" SORT file.ctime DESC
 ```dataview
 LIST FROM "literatura" SORT file.ctime DESC
 ```
+# Sloh
+---
+```dataview
+LIST FROM "sloh" SORT file.ctime DESC
+```
 %%
 ## Mluvnice
 # Francouzština
@@ -29,7 +34,8 @@ LIST FROM "fyzika" SORT file.ctime DESC
 ```
 %%
 # Historie
-# Matika%%
+# Matika
+%%
 # ZSV
 ---
 ```dataview

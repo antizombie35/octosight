@@ -1,17 +1,19 @@
 ---
-tags: todo
+tags:
+  - todo
 ---
+> [!warning]+
+>Na této stránce se pořád pracuje
+
 # Funkce
 ---
 - zprostředkovává organismu ==získávání živin, vitamínů, minerálních látek a vody==
-
 - na ==metabolismu== se účastní:
 	- trávením
 		= mechanické a chemické zpracování potravy
 	- vstřebáváním
 		- převáděním jednoduchých látek vzniklých trávením do vnitřního prostředí organismu
 	- odstraňováním nestravitelných odpadních látek z organismu
-
 # Stavba trávicí trubice
 ---
 Části trávicí trubice:
@@ -25,167 +27,88 @@ tags: todo
 ## Zuby
 ## Jazyk
    obrací a posouvá potravu
-
    účastní se při tvorbě řeči
-
    obsahuje chuťové pohárky
-
-- 
-
-- 
-
-2. Hltan
-
+   
+1. Hltan
 - délka 12 - 14 cm, nálevkovitý tvar
-
 - svalová vrstva je tvořena příčně pruhovaným svalstvem - činností svalstva je umožněno polykání
-
 - má 3 oddíly:
-
 - nosohltan  
 (ústí sem 2 choany a oboustranně Eustachova trubice)
-
 - ústní část hltanu  
 (kříží se zde dýchací a polykací cesty)
-
 - hrtanová část  
-
   
-
 - 
-
 - 3. Jícen
-
 - délka asi 32 cm
-
 - v horní části svalstvo příčně pruhované, v dolní hladké
-
 - vykonává peristaltické pohyby
-
 - 4. Žaludek
-
 - vakovitý orgán - objem asi 1,5 dm3
-
 - mechanické zpracování potravy - stahy žaludeční svaloviny
-
 - chemické zpracování potravy - prostřednictvím žaludeční šťávy
-
 - ve sliznici žaludku jsou žlázy produkující žaludeční šťávu (2 - 3 l denně)
-
 - hlavní součásti žaludeční šťávy:
-
 1.kyselina chlorovodíková
-
 2.pepsin
-
 3.mucin
-
 - 
-
 - 
-
 - kyselina chlorovodíková
-
 1)ničí choroboplodné zárodky
-
 2)brání rozkladu některých vitamínů  
  (B1, B2, C)
-
 3)přeměňuje nerozpustné minerální látky na soli rozpustné ve vodě
-
 4)umožňuje přeměnu neúčinného pepsinogenu na účinný pepsin
-
 - 
-
 - pepsin
-
 - štěpí ve vodě nerozpustné bílkoviny na rozpustné polypeptidy
-
 - 
-
 - mucin
-
 - chrání žaludeční sliznici před natrávením vlastní žaludeční šťávou
-
 - 
-
 - řízení vyměšování žaludeční šťávy:
-
 - nervové
-
 - látkové - hormon gastrin (tvoří se v žaludeční sliznici) - vyvolává tvorbu žaludeční šťávy
-
 - 
-
 - trávenina (chymus) je z žaludku uvolňována po malých dávkách do tenkého střeva
-
 - 5. Tenké střevo
-
 - hlavní místo trávení a vstřebávání (resorpce)
-
 - délka 3 - 5 m, šířka 3 cm
-
 - sliznice vytváří výběžky = klky
-
 - 
-
 - 
-
 - rozlišujeme 3 úseky:
-
 - dvanáctník (ústí sem vývod žlučový a vývod slinivky břišní)
-
 - lačník
-
 - kyčelník
-
 - žlázky střevní produkují střevní šťávu
-
 - střevní šťáva obsahuje enzymy:
-
 1.peptidázy (štěpí bílkoviny)
-
 2.lipázy (štěpí tuky)
-
 3.amylázy (štěpí cukry)
-
 - 
-
 - 
-
 - v horní části střeva - buňky, které produkují hormony sekretin a pankreozymin, které stimulují slinivku břišní k produkci pankreatické šťávy
-
 - 6. Tlusté střevo
-
 - délka 1,5 m, šířka 5 - 7 cm
-
 - začíná slepým střevem (sem vyúsťuje tenké střevo) - na jeho spodině je červovitý přívěsek (= apendix)
-
 - další části:
-
 - tračník vzestupný
-
 - tračník příčný
-
 - tračník sestupný
-
 - esovitá klička
-
 - konečným úsekem je konečník (rectum)
-
 - 
-
 - dochází zde ke vstřebávání vody, solí, vitamínů
-
 - činností bakterie Escherichia coli se vytvářejí některé vitamíny - hlavně B12, K
-
 - působením bakterií zde probíhají kvasné a hnilobné procesy
-
 - z nestrávených zbytků potravy vzniká stolice
 ---
 ---
 ---
-
 
 # Trávicí žlázy
 ---
@@ -224,55 +147,29 @@ Zásobení jater krví:
 6. odbourává se zde ==hemoglobin== #link a uvolněné železo se váže na ==feritin==
 7. ==syntetizují== se zde látky potřebné pro normální srážlivost krve (==protrombin==)
 8. tvoří se zde velké množství tepla
-
 --- ==PO SEM PÍSEMKA==---
-
 - Onemocnění trávicí soustavy
-
 - vředová onemocnění
-
 - poškození sliznice trávicí trubice vlivem zvýšeného vylučování žaludeční šťávy ® natrávení žaludeční stěny
-
 - žlučové kameny
-
 - jsou to vysrážené vápenaté soli žlučových kyselin, tukovitých látek jako je cholesterol a žlučového pigmentu bilirubinu
-
 - vychlípeniny tlustého střeva
-
 - 
-
 - onemocnění jater:
-
 - žloutenka = hepatitida (virový původ):
-
 - typu A
-
 - („nemoc špinavých rukou“)
-
 - typu B
-
 - („sérová hepatitida“ - šíří se krví, nechráněným pohlavním stykem ® cirhóza, karcinom)
-
 - alkoholická hepatitida (nadměrné požívání alkoholu)
-
 - 
-
 - bakteriální onemocnění:
-
 - salmonelózy
-
 - úplavice
-
 - břišní tyfus
-
 - 
-
 - parazitální onemocnění
-
 - 
-
 - rakovina
-
 - 
-
 - 
