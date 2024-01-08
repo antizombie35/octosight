@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32221a01c5649fb4",
+            "id": "3e2aa8eb72d03c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/Trávící soustava.md",
+                "file": "Index.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/Trávící soustava.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/Trávící soustava.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/Trávící soustava.md"
+                "file": "Index.md"
               }
+            }
+          },
+          {
+            "id": "c8fdf3a5bcc912c8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 337.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -151,15 +159,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "32221a01c5649fb4",
+  "active": "3e2aa8eb72d03c1b",
   "lastOpenFiles": [
-    "Index.md",
-    "sloh/Publicistický styl.md",
+    "mluvnice/Číslovky.md",
     "literatura/Česká moderna a dekadence.md",
+    "historie/Rakouský fašismus a Španělsko.md",
+    "biologie/Trávící soustava.md",
+    "Index.md",
+    "biologie/Dýchací soustava.md",
+    "matematika/Teorie seminář.md",
+    "sloh/Publicistický styl.md",
+    "historie",
+    "_dev/templates/S - pády tabulka.md",
+    "_dev/templates/OK - fact check.md",
+    "_dev/templates/! - fact check.md",
+    "mluvnice",
+    "matematika",
     "fyzika/Zkratky.md",
     "fyzika/2.4 Kapalnění.md",
     "fyzika/2.3 Vypařování a var.md",
-    "biologie/Trávící soustava.md",
     "český jazyk",
     "_dev/admin/Cheat sheet.md",
     "_dev/admin/Formátování.md",
@@ -167,7 +185,6 @@
     "fyzika/Fázový diagram.md",
     "zsv/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
-    "biologie/Dýchací soustava.md",
     "_dev/attachments/Pasted Image 20231213010028_446.png",
     "_dev/attachments/Pasted Image 20231212230722_034.png",
     "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",

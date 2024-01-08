@@ -7,7 +7,7 @@
 konec 19. století
 - rozvoj technologický - ==elektřina== ( ${\ \longrightarrow\ }$ prodloužený den), Škodovy závody, Kolben, Laurin a Klement, Křižík
 - 5 milionů Čechů (+ Němci a židé)
-- historismus (==novo==barko, novogotika), secese( #todo)
+- historismus (==novo==barko, novogotika), secese
 - kapitalismus x chudoba
 - materialismus, ateismus x spiritismus a mysticismus
 
@@ -41,7 +41,7 @@ konec 19. století
 Svědomím věků (Jed z Judey)  - mapuje dějiny lidstva, vývoj ==mravnosti==
 Zde by měly kvést růže - pro emancipace žen
 Magdalena - román ve verších, žádná Magdalena tam není, prostitutka co se chce uspořádat ale okolí tomu nepomáhá, podobně psal i [[Maupassant]]
-Kriminál #todo 
+Kriminál
 
 
 # Otokar Březina
