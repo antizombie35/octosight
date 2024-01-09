@@ -8,7 +8,7 @@ tags:
 ---
 - kancléřem ==Engelbert Dollfuss== - "==Minitermich==" (sociální strana)
 - 1933 rozpuštěn parlament
-- 1934 zákaz kom. str, socdem, NSDAP
+- 1934 zákaz ==KS==, ==soc.dem==, ==NSDAP==
 - část obyvatel pro ==velké německo== pro nacismus
 
 - ==25.7.1934== pronacističtí rakušané se pokusili o převrat
@@ -17,15 +17,15 @@ tags:
 - Kancléřem se stal ==Kurt von Schusnigg==
 - Rakousko dočasně pod ochranou Mussoliniho
 
-- Rozhodnou měl ==plebiscit== za "svobodné, nezávislé, německé a křesťanské Rakousko"
+- Rozhodnou měl ==plebiscit== za _"svobodné, nezávislé, německé a křesťanské Rakousko"_
 - Hitler dal rozkaz k ==anšlusu== - obsezení Rakouska ==12.3.1938==
 - Schuschnigg odstoupil
 
 # Španělsko
 ---
-## Diktatura Primo de Rivery
+## Diktatura ==Primo de Rivery==
 - skončila r.1930, kdo ho král odvolal, aby udržel monarchii
-- monarchie r.1931 svržena  ${\ \longrightarrow\ }$ republika
+- monarchie r.1931 svržena  ${\ \longrightarrow\ }$ republika 
 ## Vláda Lidové fronty
 - zvolena 1936
 - KS, socialisté, anarchisté, liberálové - dohromady ==republikáni==
@@ -39,14 +39,14 @@ tags:
 - Pomoc Frankovi poslalo ==Německo== a ==Itálie== (20.000 mužů)
 - na pomoc republikánům vyrazili ==interbrigadisté==, ale vojenskou pomoc od ==SSSR== a ==Mexika==
 
+- Západní mocnosti zřídili v Londýně ==neitervenční výbor==
+- Lidové frontě šli na pomoc levicoví ==interbrigadisté== i od nás (2.000 lidí)
+
 | Franco | Republikáni     |
 | ------ | --------------- |
 | NE     | interbrigadisté |
 | IT     | SSSR            |
 |        | Mexio           |
-
-Západní mocnosti zřídili v Londýně ==neitervenční výbor==
-Lidové frontě šli na pomoc levicoví ==interbrigadisté== i od nás (2.000 lidí)
 
 ## Vítězství frankistů
 - duben 1939

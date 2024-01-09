@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "856543f78cd48f24",
+        "id": "5975187fe8c4ddbf",
         "type": "tabs",
         "children": [
           {
-            "id": "3e2aa8eb72d03c1b",
+            "id": "c066dc36208fbb65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "historie/Rakouský fašismus a Španělsko.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e7cb96b33f53b895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "biologie/7 Trávící soustava.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "biologie/7 Trávící soustava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "biologie/7 Trávící soustava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "biologie/7 Trávící soustava.md"
               }
             }
           },
@@ -156,17 +170,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "3e2aa8eb72d03c1b",
+  "active": "e7cb96b33f53b895",
   "lastOpenFiles": [
-    "mluvnice/Číslovky.md",
-    "literatura/Česká moderna a dekadence.md",
+    "biologie/8 Metabolismus.md",
+    "biologie/6 Dýchací soustava.md",
+    "biologie/7 Trávící soustava.md",
+    "historie/Ohniska války ve světě.md",
     "historie/Rakouský fašismus a Španělsko.md",
-    "biologie/Trávící soustava.md",
+    "_dev/admin/TODO.md",
+    "_dev/admin/Formátování.md",
+    "literatura/Česká moderna a dekadence.md",
+    "fyzika/4.1 Periodický pohyb.md",
+    "fyzika/2.6 Fázový diagram.md",
+    "fyzika/2.4 Kapalnění.md",
+    "fyzika/Zkratky.md",
+    "fyzika/2.5 Sublimace a desublimace.md",
+    "fyzika/2.3 Vypařování a var.md",
+    "_dev/attachments/Pasted image 20240109105041.png",
+    "_dev/attachments/Pasted image 20240109104918.png",
     "Index.md",
-    "biologie/Dýchací soustava.md",
+    "_dev/attachments/Pasted image 20240109103806.png",
+    "_dev/attachments/Pasted image 20240109103755.png",
+    "_dev/attachments/Pasted image 20240109103747.png",
+    "_dev/attachments/Pasted image 20240109103727.png",
+    "_dev/attachments/Pasted image 20240109103713.png",
+    "_dev/attachments/Pasted image 20240109103703.png",
+    "_dev/attachments/Pasted image 20240109103634.png",
+    "_dev/attachments/Pasted image 20240109103612.png",
+    "mluvnice/Číslovky.md",
     "matematika/Teorie seminář.md",
     "sloh/Publicistický styl.md",
     "historie",
@@ -175,18 +210,12 @@
     "_dev/templates/! - fact check.md",
     "mluvnice",
     "matematika",
-    "fyzika/Zkratky.md",
-    "fyzika/2.4 Kapalnění.md",
-    "fyzika/2.3 Vypařování a var.md",
     "český jazyk",
     "_dev/admin/Cheat sheet.md",
-    "_dev/admin/Formátování.md",
     "sloh",
     "fyzika/Fázový diagram.md",
     "zsv/Trestní právo.md",
     "literatura/Literární figury a tropy.md",
-    "_dev/attachments/Pasted Image 20231213010028_446.png",
-    "_dev/attachments/Pasted Image 20231212230722_034.png",
     "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
     "_dev/admin/Unused JS.md"
   ]

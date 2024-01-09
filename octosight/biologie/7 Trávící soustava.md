@@ -16,7 +16,8 @@ tags:
 	- odstraňováním nestravitelných odpadních látek z organismu
 # Stavba trávicí trubice
 ---
-Části trávicí trubice:
+![[Pasted image 20240109105041.png]]
+Části trávicí trubice: #img 
 - Dutina ústní
 - Složení slin:
 	- 99% ==H2O==, 0,7% ==organických== látek, 0,3% ==anorganických== látek
@@ -24,6 +25,9 @@ tags:
 	- ==ptyalin== - enzym - štěpí polysacharidy na maltózu
 	- ==mucin== - hlenovitá látka - dává slinám vazkost a potravě kluzkost
 	- ==lyzozym== - enzym - ničí bakterie a choroboplodné zárodky
+
+#todo od sud dole
+
 ## Zuby
 ## Jazyk
    obrací a posouvá potravu
@@ -40,7 +44,6 @@ tags:
 (kříží se zde dýchací a polykací cesty)
 - hrtanová část  
   
-- 
 - 3. Jícen
 - délka asi 32 cm
 - v horní části svalstvo příčně pruhované, v dolní hladké
@@ -54,32 +57,24 @@ tags:
 1.kyselina chlorovodíková
 2.pepsin
 3.mucin
-- 
-- 
 - kyselina chlorovodíková
 1)ničí choroboplodné zárodky
 2)brání rozkladu některých vitamínů  
  (B1, B2, C)
 3)přeměňuje nerozpustné minerální látky na soli rozpustné ve vodě
 4)umožňuje přeměnu neúčinného pepsinogenu na účinný pepsin
-- 
 - pepsin
 - štěpí ve vodě nerozpustné bílkoviny na rozpustné polypeptidy
-- 
 - mucin
 - chrání žaludeční sliznici před natrávením vlastní žaludeční šťávou
-- 
 - řízení vyměšování žaludeční šťávy:
 - nervové
 - látkové - hormon gastrin (tvoří se v žaludeční sliznici) - vyvolává tvorbu žaludeční šťávy
-- 
 - trávenina (chymus) je z žaludku uvolňována po malých dávkách do tenkého střeva
 - 5. Tenké střevo
 - hlavní místo trávení a vstřebávání (resorpce)
 - délka 3 - 5 m, šířka 3 cm
 - sliznice vytváří výběžky = klky
-- 
-- 
 - rozlišujeme 3 úseky:
 - dvanáctník (ústí sem vývod žlučový a vývod slinivky břišní)
 - lačník
@@ -89,8 +84,6 @@ tags:
 1.peptidázy (štěpí bílkoviny)
 2.lipázy (štěpí tuky)
 3.amylázy (štěpí cukry)
-- 
-- 
 - v horní části střeva - buňky, které produkují hormony sekretin a pankreozymin, které stimulují slinivku břišní k produkci pankreatické šťávy
 - 6. Tlusté střevo
 - délka 1,5 m, šířka 5 - 7 cm
@@ -101,7 +94,6 @@ tags:
 - tračník sestupný
 - esovitá klička
 - konečným úsekem je konečník (rectum)
-- 
 - dochází zde ke vstřebávání vody, solí, vitamínů
 - činností bakterie Escherichia coli se vytvářejí některé vitamíny - hlavně B12, K
 - působením bakterií zde probíhají kvasné a hnilobné procesy
@@ -119,8 +111,7 @@ součástí pankreatické šťávy jsou enzymy:
 - ==trypsin== - štěpí bílkoviny na aminokyseliny
 - ==lipázy== - štěpí tuky na glycerol a mastné kyseliny
 - ==amylázy== - štěpí cukry (==sacharidy== na glukózu)
-- ${\ HCO^-_3\ }$ - neutralizuej HCl v ==chmu==- 
-## Játra = ==Hepar==
+- ${\ HCO^-_3\ }$ - neutralizuej HCl v ==chmu==## Játra = ==Hepar==
 #img 
 - ==největší== žláza v těle (1,5 kg)
 - skládají se z ==lalůčků== (1 - 2 mm)
@@ -131,8 +122,7 @@ Zásobení jater krví:
 	- ==tepna jaterní== a její větve - přivádějí okysličenou krev
 	-==vrátnicová žíla== - obsahuje vstřebané živiny, případné ==toxiny==
 - játry protéká až 1,5 l/min
-#img ?- 
-- jaterní buňky vylučují ==žluč==
+#img ?- jaterní buňky vylučují ==žluč==
 ### Žluč
 -denně se tvoří 0,8 - 1 l
 -význam:
@@ -147,29 +137,34 @@ Zásobení jater krví:
 6. odbourává se zde ==hemoglobin== #link a uvolněné železo se váže na ==feritin==
 7. ==syntetizují== se zde látky potřebné pro normální srážlivost krve (==protrombin==)
 8. tvoří se zde velké množství tepla
---- ==PO SEM PÍSEMKA==---
-- Onemocnění trávicí soustavy
+
+
+---
+<center>PO SEM PÍSEMKA</center>
+
+---
+
+# Onemocnění trávicí soustavy
+#img
 - vředová onemocnění
-- poškození sliznice trávicí trubice vlivem zvýšeného vylučování žaludeční šťávy ® natrávení žaludeční stěny
+	- poškození sliznice trávicí trubice vlivem zvýšeného vylučování žaludeční šťávy ® natrávení žaludeční stěny
 - žlučové kameny
-- jsou to vysrážené vápenaté soli žlučových kyselin, tukovitých látek jako je cholesterol a žlučového pigmentu bilirubinu
+	- jsou to vysrážené vápenaté soli žlučových kyselin, tukovitých látek jako je cholesterol a žlučového pigmentu bilirubinu
 - vychlípeniny tlustého střeva
-- 
-- onemocnění jater:
-- žloutenka = hepatitida (virový původ):
+#img 
+## Onemocnění jater
+- žloutenka = ==hepatitida== (virový původ):
 - typu A
-- („nemoc špinavých rukou“)
+	- („nemoc špinavých rukou“)
 - typu B
-- („sérová hepatitida“ - šíří se krví, nechráněným pohlavním stykem ® cirhóza, karcinom)
-- alkoholická hepatitida (nadměrné požívání alkoholu)
-- 
-- bakteriální onemocnění:
+	- („sérová hepatitida“ - šíří se krví, nechráněným pohlavním stykem, ==cirhóza==, ==karcinom==)
+- alkoholická hepatitida - (nadměrné požívání alkoholu)
+## Bakteriální onemocnění
 - salmonelózy
 - úplavice
 - břišní tyfus
-- 
-- parazitální onemocnění
-- 
-- rakovina
-- 
-- 
+## Parazitální onemocnění
+- tasemnice
+- roupy
+- škrkavka
+## Rakovina
