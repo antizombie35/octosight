@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sloh/Publicistický styl.md",
+                "file": "biologie/7 Trávící soustava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sloh/Publicistický styl.md",
+                "file": "biologie/7 Trávící soustava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sloh/Publicistický styl.md"
+                "file": "biologie/7 Trávící soustava.md"
               }
             }
           },
@@ -159,51 +159,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "964003c84828483c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f70e1a4df93c55ce",
-        "type": "window",
-        "children": [
-          {
-            "id": "e518a1b2859deb0c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8d42ba16187a4e69",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "sloh/Publicistický styl.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8d42ba16187a4e69",
+  "active": "81168d6fb55ebd2f",
   "lastOpenFiles": [
+    "Index.md",
+    "zsv/Trestní právo.md",
+    "sloh/Publicistický styl.md",
     "mluvnice/Číslovky.md",
     "matematika/Teorie seminář.md",
+    "literatura/Literární figury a tropy.md",
     "literatura/Česká moderna a dekadence.md",
     "historie/Rakouský fašismus a Španělsko.md",
     "historie/Ohniska války ve světě.md",
+    "fyzika/Zkratky.md",
     "fyzika/4.1 Periodický pohyb.md",
     "fyzika/2.6 Fázový diagram.md",
     "fyzika/2.5 Sublimace a desublimace.md",
@@ -229,9 +196,6 @@
     "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
     "_dev/admin/TODO.md",
     "_dev/admin/Formátování.md",
-    "fyzika/Zkratky.md",
-    "Index.md",
-    "sloh/Publicistický styl.md",
     "historie",
     "_dev/templates/S - pády tabulka.md",
     "_dev/templates/OK - fact check.md",
@@ -239,7 +203,6 @@
     "mluvnice",
     "matematika",
     "český jazyk",
-    "_dev/admin/Cheat sheet.md",
     "sloh",
     "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw"
   ]
