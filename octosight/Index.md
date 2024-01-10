@@ -5,7 +5,6 @@
 ... or an octopus with laser sight
 [Originální repo link](https://github.com/antizombie35/octosight)
 </font>
-%%#todo vscode extension%%
 # Biologie 
 ---
 ```dataview

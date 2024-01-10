@@ -1,5 +1,5 @@
 
-> [!warning]+
+> [!warning]
 >Na této stránce se pořád pracuje
 
 |     Znaky[^1]     | Vysvětlení             |

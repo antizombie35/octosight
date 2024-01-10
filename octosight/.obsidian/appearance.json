@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "red",
     "0"
-  ]
+  ],
+  "baseFontSize": 19
 }
