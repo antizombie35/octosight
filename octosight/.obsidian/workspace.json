@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "biologie/7 Trávící soustava.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "warn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,6 +161,8 @@
   },
   "active": "81168d6fb55ebd2f",
   "lastOpenFiles": [
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
+    "biologie/7 Trávící soustava.md",
     "literatura/Česká moderna a dekadence.md",
     "fyzika/Zkratky.md",
     "fyzika/2.6 Fázový diagram.md",
@@ -168,7 +170,6 @@
     "fyzika/2.4 Kapalnění.md",
     "fyzika/2.3 Vypařování a var.md",
     "biologie/8 Metabolismus.md",
-    "biologie/7 Trávící soustava.md",
     "Index.md",
     "_dev/admin/Cheat sheet.md",
     "_dev/templates/! - work in progress.md",
@@ -186,7 +187,6 @@
     "mluvnice/Číslovky.md",
     "matematika/Teorie seminář.md",
     "literatura/Literární figury a tropy.md",
-    "historie/Rakouský fašismus a Španělsko.md",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_52_12.excalidraw.svg",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.excalidraw",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.svg",

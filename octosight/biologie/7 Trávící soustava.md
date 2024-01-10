@@ -24,7 +24,7 @@
 ## Dutina ústní
 ---
 - tvoří ji tvrdé a měkké patro, mandle patrové = krční, dásně,  [[#Zuby|zuby]], [[#Jazyk|jazyk]]
-  - ústí sem slinné žlázy (drobné žlázky + 3 ==páry== velkých žláz – ==příušní==, ==podčelistní==, ==podjazykové==)
+  - ústí sem slinné žlázy - drobné žlázky + 3 ==páry== velkých žláz – ==příušní==, ==podčelistní==, ==podjazykové==)
   - nikotin, alkohol a cukry se ustřebávají už v ústech
 
 ![[7 Trávící soustava09-01-2024_18_48_20.excalidraw.svg]]
@@ -75,9 +75,9 @@
 
 ### Jazyk
 
-   - obrací a posouvá potravu
-   - účastní se při tvorbě řeči
-   - obsahuje chuťové pohárky
+- obrací a posouvá potravu
+- účastní se při tvorbě řeči
+- obsahuje chuťové pohárky
 
 ## Hltan
 ---
@@ -94,6 +94,7 @@
 - 32 cm
 - v horní části svalstvo ==příčně pruhované==, v dolní ==hladké==
 - vykonává ==peristaltické==[^1] pohyby
+
 [^1]: postupný ritmický pohyb stěn dutých orgánů, pro posouvání obsahu jedním směrem, hladké svaly
 
 ![[Pasted image 20240109191622.png]]
