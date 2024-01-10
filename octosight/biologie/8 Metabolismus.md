@@ -2,7 +2,7 @@
 > [!warning]
 >Na této stránce se pořád pracuje
 
-= přeměna látek a energií
+= přeměna ==látek== a ==energií==
 - zahrnuje tyto hlavní děje:
 	- Děje ==anabolické==
 		- z jednoduchých látek se syntetizují látky ==složitější==
@@ -13,63 +13,53 @@
 	- ==Ukládání== látek
 
 - metabolismus je řízen látkově i nervově
+ 
+# Metabolismus sacharidů
+---
+- zdroj ==energie==
+- zásadní význam má ==glukóza==
+- stálá koncentrace glukózy v krevní plazmě = ==glykémie== (4 – 6mmol/l) - zvýšení při požití potravy
+- nadbytečná glukóza – ukládá se jako ==glykogen== v játrech a kosterním svalstvu
+- ==adrenalin==,==inzulin== - _snižuje hladinu glukózy_  X ==glukagon== - zvyšuje hladinu glukózy - hormony, antagonisté
 
-
-
-#todo tu sme skončili v hodině
-
-
-
-- 
-    
-- 
-1.Metabolismus sacharidů
-- 
-- zdroj energie
-- zásadní význam má glukóza
-- stálá koncentrace glukózy v krevní plazmě = glykémie (4 – 6mmol/l – zvýšení při požití potravy)
-- nadbytečná glukóza – ukládá se jako glykogen v játrech a kosterním svalstvu
-- glukóza se může přeměňovat na tuky
-- inzulin, adrenalin, glukagon
+#todo #img škrtni  šipku glukóza
 ![[Pasted image 20240109103612.png]]
-- 
-- 
-- 
-- 
-2.Metabolismus tuků
-- 
-- tuky = lipidy
-- stavební složka biomembrán, ukládají se do zásoby v buňkách tukové tkáně
+
+# Metabolismus tuků
+---
+- tuky = ==lipidy==
+- ==stavební== složka ==biomembrán==, ukládají se do zásoby v buňkách tukové tkáně
+- zdroj ==energie==
 - stále množství v krevní plazmě
-- trávením se štěpí na glycerol a mastné kyseliny
-- beta oxidace = postupná oxidace mastných kyselin, zdrojem energie
-- glycerol se účastní anaerobní glykolýzy (=zpracování sacharidů)
-- 
-- 
+- trávením se štěpí na ==glycerol==, ==mastné kyseliny==
+- ==beta oxidace== = postupná oxidace ==mastných kyselin==, zdrojem ==energie==
+
+#img #todo škrtni gkukózu šipku
 ![[Pasted image 20240109103634.png]]
 - 
-3.Metabolismus bílkovin
-- bílkoviny = proteiny
-- základní stavební složky organismu, uplatňují se jako enzymy a hormony
-- tráví se na aminokyseliny
-- stálá hladina aminokyselin v krvi
+# Metabolismus bílkovin
+---
+- bílkoviny = ==proteiny==
+- základní ==stavební== složky organismu
+- uplatňují se jako ==enzymy==, ==hormony==, ==imunoglobuliny==
+- tráví se na ==aminokyseliny== (stálá hladina v krvi)
 - zdroj aminokyselin:
-oz potravy
-oopotřebované bílkoviny z tkání
-ovznik při přeměně sacharidů
-- 
-Funkce aminokyselin:
-1.syntéza stavebních bílkovin těla
-2.syntéza enzymů a hormonů
-3.syntéza plazmatických bílkovin
-4.přeměna na sacharidy
-- 
-- Část se odbourává na jednodušší látky a získává se energie
-- Bílkoviny se neukládají do zásoby
-- Při katabolickém odbourávání se odštěpuje toxický amoniak, který je v játrech přeměněn na močovinu (konečný produkt metabolismu) a vyloučen z těla
-	![[Pasted image 20240109103703.png]]
-	![[Pasted image 20240109103713.png]]
-- 
+	1. z potravy
+	2. opotřebované bílkoviny z tkání
+	 3. vznik při přeměně ==sacharidů==
+
+#img škrtni šipku k tkáním
+![[Pasted image 20240109103703.png]]
+
+- Funkce aminokyselin:
+	1. syntéza stavebních bílkovin těla
+	2. syntéza enzymů a hormonů
+	3. syntéza plazmatických bílkovin
+
+- Bílkoviny se ==neukládají== do zásoby
+- Při katabolickém odbourávání se odštěpuje toxický amoniak, který je v játrech přeměněn na ledvinami ==močovinu== (konečný produkt metabolismu) a vyloučen z těla
+
+#konec
 - 
 - Složení potravy
 - Potrava správného složení musí obsahovat:

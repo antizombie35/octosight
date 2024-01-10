@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/7 Trávící soustava.md",
-                "mode": "preview",
+                "file": "literatura/Česká moderna a dekadence.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/7 Trávící soustava.md",
+                "file": "literatura/Česká moderna a dekadence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/7 Trávící soustava.md",
+                "file": "literatura/Česká moderna a dekadence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/7 Trávící soustava.md"
+                "file": "literatura/Česká moderna a dekadence.md"
               }
             }
           },
@@ -161,8 +161,7 @@
   },
   "active": "81168d6fb55ebd2f",
   "lastOpenFiles": [
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
-    "biologie/7 Trávící soustava.md",
+    "Index.md",
     "literatura/Česká moderna a dekadence.md",
     "fyzika/Zkratky.md",
     "fyzika/2.6 Fázový diagram.md",
@@ -170,7 +169,8 @@
     "fyzika/2.4 Kapalnění.md",
     "fyzika/2.3 Vypařování a var.md",
     "biologie/8 Metabolismus.md",
-    "Index.md",
+    "biologie/7 Trávící soustava.md",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
     "_dev/admin/Cheat sheet.md",
     "_dev/templates/! - work in progress.md",
     "_dev/templates/X - REPO ERROR.md",
