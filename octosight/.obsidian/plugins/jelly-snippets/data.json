@@ -1,5 +1,5 @@
 {
-  "snippetsFile": "le =>  ${\\ %\\e\\ }$ \n-==-\nto =>  ${\\ \\longrightarrow\\ }$ \n-==-\nimpl => ${\\ \\Longrightarrow\\ }$ ",
+  "snippetsFile": "le =>  ${\\ %\\e\\ }$ \n-==-\nto =>  ${\\ \\longrightarrow\\ }$ \n-==-\nimpl => ${\\ \\Longrightarrow\\ }$\n-==-\ncenter => <center>%\\e</center>\n-==-\nmid => <center>%\\e</center>",
   "triggerOnSpace": "disabled",
   "triggerOnEnter": "disabled",
   "triggerOnTab": "n-ws",
