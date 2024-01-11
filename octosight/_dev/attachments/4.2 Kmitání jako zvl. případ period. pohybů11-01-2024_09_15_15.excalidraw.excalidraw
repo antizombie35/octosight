@@ -130,7 +130,7 @@
 			"containerId": null,
 			"originalText": "pružinový oscilátor\n",
 			"lineHeight": 1.25,
-			"baseline": 42
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -211,7 +211,7 @@
 			"containerId": null,
 			"originalText": "y",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "line",
@@ -292,7 +292,7 @@
 			"containerId": null,
 			"originalText": "+ym = amplituda",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -373,7 +373,7 @@
 			"containerId": null,
 			"originalText": "0 = y -> rovnovážná poloha",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -527,7 +527,7 @@
 			"containerId": null,
 			"originalText": "-ym = amplituda",
 			"lineHeight": 1.25,
-			"baseline": 17
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -589,10 +589,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 499.56402587890625,
-		"scrollY": 412.1954345703125,
+		"scrollX": 443.51527404785156,
+		"scrollY": 489.617919921875,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

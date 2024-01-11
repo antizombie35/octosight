@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f031fbf892f03800",
+            "id": "d8f8d26f9c506983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "sloh/Publicistický styl.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "sloh/Publicistický styl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "sloh/Publicistický styl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "sloh/Publicistický styl.md"
               }
             }
           },
@@ -159,52 +159,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f031fbf892f03800",
+  "active": "d8f8d26f9c506983",
   "lastOpenFiles": [
+    "literatura/Česká moderna a dekadence.md",
     "fyzika/4.2 Kmitání jako zvl. případ period. pohybů.md",
     "fyzika/4.1 Periodický pohyb.md",
-    "fyzika/2.3 Vypařování a var.md",
-    "Index.md",
+    "biologie/8 Metabolismus.md",
+    "biologie/7 Trávící soustava.md",
+    "sloh/Publicistický styl.md",
+    "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.md",
+    "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.svg",
+    "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw",
+    "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw",
+    "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.svg",
+    "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.md",
+    "_dev/attachments/Trestní právo14-12-2023_00_28_42.excalidraw.excalidraw",
+    "_dev/attachments/Trestní právo14-12-2023_00_28_42.excalidraw.svg",
+    "_dev/attachments/Trestní právo14-12-2023_00_28_42.excalidraw.md",
+    "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.svg",
+    "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.md",
+    "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw",
+    "_dev/attachments/Části článku.jpg",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_52_12.excalidraw.excalidraw",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_52_12.excalidraw.svg",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_52_12.excalidraw.md",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.md",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.svg",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.excalidraw",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.svg",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.excalidraw",
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
+    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.svg",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.md",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.excalidraw",
-    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.excalidraw",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.svg",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.md",
-    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.svg",
-    "literatura/Česká moderna a dekadence.md",
+    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.excalidraw",
+    "Index.md",
+    "fyzika/2.3 Vypařování a var.md",
     "fyzika/Zkratky.md",
     "fyzika/2.6 Fázový diagram.md",
     "fyzika/2.5 Sublimace a desublimace.md",
     "fyzika/2.4 Kapalnění.md",
-    "biologie/8 Metabolismus.md",
-    "biologie/7 Trávící soustava.md",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
     "_dev/admin/Cheat sheet.md",
     "_dev/templates/! - work in progress.md",
     "_dev/templates/X - REPO ERROR.md",
     "_dev/templates/X - problematric page.md",
-    "_dev/templates/X - not public.md",
-    "_dev/templates/S - tldr.md",
-    "_dev/templates/S - pády tabulka.md",
-    "_dev/templates/S - fyzika zkratky.md",
-    "_dev/templates/OK - REPO OK.md",
-    "_dev/templates/OK - fact check.md",
-    "_dev/templates/! - fact check.md",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_52_12.excalidraw.svg",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.excalidraw",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.svg",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.excalidraw",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.svg",
-    "_dev/attachments/Pasted image 20240109194157.png",
-    "_dev/attachments/Pasted image 20240109193920.png",
-    "_dev/attachments/Pasted image 20240109193847.png",
-    "_dev/attachments/Pasted image 20240109193809.png",
-    "_dev/attachments/Pasted image 20240109192659.png",
-    "historie",
-    "mluvnice",
-    "matematika",
-    "český jazyk",
-    "sloh",
-    "_dev/attachments/Dýchací soustava12-12-2023_23_06_10.excalidraw.excalidraw"
+    "historie"
   ]
 }

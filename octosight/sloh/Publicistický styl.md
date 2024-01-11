@@ -1,3 +1,44 @@
+![[Publicistický styl11-01-2024_17_18_38.excalidraw.svg]]
+%%[[Publicistický styl11-01-2024_17_18_38.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+![[Části článku.jpg]]
+
+# Zpráva (publicistická)
+---
+- požadavek aktuálnost
+- stalo se, stane se, děje se
+- objektivita
+- srozimitelnost
+- přesnost
+
+# Části
+---
+## domicil
+- kde, kdy
+- Vrahovice/Berlin/Brusel - 
+## úvodní odstavec
+- kdo co jak proč
+## perex
+- nejznámější věta z článku
+- možnost chytit čtenáře
+## tělo článku
+rozvedení úvodního odstavce
+citace relevantních lidí
+podrobnosti
+## závěr
+- shrnutí
+- porovnání
+- souvislosti
+## signatura
+ - podpis
+ - př. (JN)
+
+![[Publicistický styl11-01-2024_17_31_33.excalidraw.svg]]
+%%[[Publicistický styl11-01-2024_17_31_33.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+# Formy atd.
+---
+
 funkce - ==informovat==, přesvědčovat
 forma - psaná, mluvená, kombinovaná (televizní reklama)
 znaky - ==aktuálnost==, přesvědčivost, srozumitelnost, stručnost
