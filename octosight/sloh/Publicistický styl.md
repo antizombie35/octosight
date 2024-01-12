@@ -13,23 +13,23 @@
 
 # Části
 ---
-## domicil
+## Domicil
 - kde, kdy
 - Vrahovice/Berlin/Brusel - 
-## úvodní odstavec
+## Úvodní odstavec
 - kdo co jak proč
-## perex
+## Perex
 - nejznámější věta z článku
 - možnost chytit čtenáře
-## tělo článku
+## Tělo článku
 rozvedení úvodního odstavce
 citace relevantních lidí
 podrobnosti
-## závěr
+## Závěr
 - shrnutí
 - porovnání
 - souvislosti
-## signatura
+## Signatura
  - podpis
  - př. (JN)
 
