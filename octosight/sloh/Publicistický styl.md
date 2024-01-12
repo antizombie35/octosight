@@ -8,7 +8,7 @@
 - požadavek aktuálnost
 - stalo se, stane se, děje se
 - objektivita
-- srozimitelnost
+- srozumitelnost
 - přesnost
 
 # Části
@@ -17,9 +17,9 @@
 - kde, kdy
 - Vrahovice/Berlin/Brusel - 
 ## Úvodní odstavec
-- kdo co jak proč
+- kdo, co, jak, proč
 ## Perex
-- nejznámější věta z článku
+- nejzajímavější 1-3 věty z článku
 - možnost chytit čtenáře
 ## Tělo článku
 rozvedení úvodního odstavce
