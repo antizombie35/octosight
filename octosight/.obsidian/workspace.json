@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6848546efb038c",
+        "id": "1a904b8ccb9ad4b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f031fbf892f03800",
+            "id": "c04dbd2b6aa5a226",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sloh/Publicistický styl.md",
-                "mode": "source",
+                "file": "historie/Ohniska války ve světě.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cea0f8bf2c4adbe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "historie/Písemka 15.1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sloh/Publicistický styl.md",
+                "file": "historie/Písemka 15.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sloh/Publicistický styl.md",
+                "file": "historie/Písemka 15.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sloh/Publicistický styl.md"
+                "file": "historie/Písemka 15.1.md"
               }
             }
           },
@@ -138,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,10 +172,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f031fbf892f03800",
+  "active": "cea0f8bf2c4adbe8",
   "lastOpenFiles": [
     "fyzika/4.2 Kmitání jako zvl. případ period. pohybů.md",
+    "historie/Písemka 15.1.md",
+    "mluvnice/Číslovky.md",
+    "historie/Ohniska války ve světě.md",
+    "literatura/Literární figury a tropy.md",
+    "literatura/Literární období.md",
+    "literatura/Literární kompozice.md",
+    "literatura/Literární Druh, forma, žánr.md",
+    "literatura/ČT deník.md",
+    "literatura/Česká moderna a dekadence.md",
+    "_dev/attachments/Pasted image 20240109105041.png",
     "sloh/Publicistický styl.md",
+    "Index.md",
+    "zsv/Trestní právo.md",
     "_dev/attachments/Části článku.jpg",
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.svg",
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.md",
@@ -170,7 +195,6 @@
     "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.svg",
     "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.md",
     "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw",
-    "Index.md",
     "fyzika/4.1 Periodický pohyb.md",
     "fyzika/2.3 Vypařování a var.md",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.md",
@@ -179,7 +203,6 @@
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.svg",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.md",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.svg",
-    "literatura/Česká moderna a dekadence.md",
     "fyzika/Zkratky.md",
     "fyzika/2.6 Fázový diagram.md",
     "fyzika/2.5 Sublimace a desublimace.md",
@@ -187,22 +210,12 @@
     "biologie/8 Metabolismus.md",
     "biologie/7 Trávící soustava.md",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
-    "_dev/admin/Cheat sheet.md",
-    "_dev/templates/! - work in progress.md",
-    "_dev/templates/X - REPO ERROR.md",
-    "_dev/templates/X - problematric page.md",
-    "_dev/templates/X - not public.md",
-    "_dev/templates/S - tldr.md",
-    "_dev/templates/S - pády tabulka.md",
-    "_dev/templates/S - fyzika zkratky.md",
-    "_dev/templates/OK - REPO OK.md",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_52_12.excalidraw.svg",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.excalidraw",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.svg",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.excalidraw",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.svg",
     "_dev/attachments/Pasted image 20240109194157.png",
-    "_dev/attachments/Pasted image 20240109193920.png",
     "historie",
     "mluvnice",
     "matematika",

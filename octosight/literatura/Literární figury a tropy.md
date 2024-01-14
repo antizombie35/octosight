@@ -1,22 +1,21 @@
 # Figury
----
 _Jak to vypadá, jak je to rozloženo_
  
-| Jméno           | Příklad                                                                     | Teorie                                                           | Schéma              |
-| --------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------- |
-| Anafora         | **Květináč** jenž spadl mi na hlavu <br> **Květináč** jež rozbil mi podlahu | Opakování na začátku řádků                                       | A ...<br>A ...      |
-| Epifora         | Naše **hodiny**<br>bijí 4 **hodiny**                                        | Opakování na koncích řádků                                       | ... E<br> ... E     |
-| Epanastrofa     | Byl to **Vlk**<br>**Vlk** co neměl krk                                      | Opakování na konci 1. řádku a začátku 2. řádku                   | ... E<br>E ...      |
-| Epizeuxis       | Byl to **sen**,<br>**sen** to byl                                              | Opakování slova na jednom řádku                                  | ... E E ...         |
-| Aliterace       | **T**ak **t**os **t**rochu **t**leskal                                      | Opakování 3+ počátečních stejných písmen v následujících slovech | ... Axx Axx Axx ... |
-| Refrén          | Never more                                                                  | Opakování části básně, _Nemusí být pravidelný_                   |                     |
-| Asyndeton       | Karel to nevěděl, pak přišli ostatní                                        | Napojení bez použití spojek                                      |                     |
-| Polysyndeton    | Aatrox a Albedo a Alucard                                                   | Napojení za použití nadměrného množství spojek                   |                     |
-| Inverze         | Harfy tón                                                                   | Prohození slov                                                   |                     |
-| Řečnická otázka | Nudíš se?                                                                   | Otázka na kterou nečekáme odpověď                                |                     |
-| Elipsa          | Bude i Karel?                                                               | = Výpustka, Vypuštění slova tak, dokážeme si smysl domyslet      |                     |
-| Apoziopeze      | Jdi do ...                                                                  | Neukončená výpověď, _Jednoznačně signalizováno "..."_            |                     |
-| Apostrofa       | Karle, Viléme, Jarmilo                                                      | Oslovujeme co tam není/nežije                                    |                     |
+| Jméno           | Příklad                                                                                         | Teorie                                                           | Schéma                              |
+| --------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------- |
+| Anafora         | ==Květináč==&nbspjenž&nbspspadl&nbspmi&nbspna&nbsphlavu <br> ==Květináč== jež rozbil mi podlahu | Opakování&nbspna&nbspzačátku&nbspřádků                           | A ...<br>A ...                      |
+| Epifora         | Naše ==hodiny==<br>bijí 4 ==hodiny==                                                            | Opakování na koncích řádků                                       | ... E<br> ... E                     |
+| Epanastrofa     | Byl to ==Vlk==<br>==Vlk== co neměl krk                                                          | Opakování na konci 1. řádku a začátku 2. řádku                   | ... E<br>E ...                      |
+| Epizeuxis       | Byl to ==sen==, ==sen== to byl                                                                  | Opakování slova na jednom řádku                                  | ... E E ...                         |
+| Aliterace       | ==T==ak ==t==os ==t==rochu ==t==leskal                                                          | Opakování 3+ počátečních stejných písmen v následujících slovech | ...&nbspAxx&nbspAxx&nbspAxx&nbsp... |
+| Refrén          | Never more                                                                                      | Opakování části básně, _Nemusí být pravidelný_                   |                                     |
+| Asyndeton       | Karel to nevěděl, pak přišli ostatní                                                            | Napojení bez použití spojek                                      |                                     |
+| Polysyndeton    | Aatrox a Albedo a Alucard                                                                       | Napojení za použití nadměrného množství spojek                   |                                     |
+| Inverze         | Harfy tón                                                                                       | Prohození slov                                                   |                                     |
+| Řečnická otázka | Nudíš se?                                                                                       | Otázka na kterou nečekáme odpověď                                |                                     |
+| Elipsa          | Bude i Karel?                                                                                   | = Výpustka, Vypuštění slova tak, dokážeme si smysl domyslet      |                                     |
+| Apoziopeze      | Jdi do ...                                                                                      | Neukončená výpověď, _Jednoznačně signalizováno "..."_            |                                     |
+| Apostrofa       | Karle, Viléme, Jarmilo                                                                          | Oslovujeme co tam není/nežije                                    |                                     |
 
 
 # Tropy
@@ -46,5 +45,5 @@ _Jak to zní_
 | ----------- | -------------- | ----------------------------------------------- |
 | Eufemismus  | Zjemnění       | Odešel do věčných lovišť                        |
 | Dysfemismus | Zhrubění       | Skapal, Zdechl                                  |
-| Eufonie     | libozvučnost   | Jak dl**ou**ze tvé h**ou**sle                   |
+| Eufonie     | libozvučnost   | Jak dl==ou==ze tvé h==ou==sle                   |
 | Kakofonie   | nelibozvučnost | Jako první šli hasiči, pak městští seržanti[^1] |

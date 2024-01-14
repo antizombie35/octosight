@@ -1,7 +1,3 @@
----
-tags: []
----
-
 > [!tldr]+
 > všechno se píše s mezerama (Kromě desítek ~~dva cet~~)
 
@@ -26,15 +22,15 @@ datum: 3. 7. 2024 _s mezerama_
 # Skloňování
 ---
 
-|   N    | pravidlo      |
-|:------:| ------------- |
-|   1    | ten, ta, to   |
-| 2, obě | vlastní (-ma) |
-|  3,4   | [[Číslovky#skloňování 3, 4]] |
-|  5-99  | nic zvláštního              |
-|  100   | město         |
-| 1.000  | stroj         |
-| milion | hrad          |
+|   N    | pravidlo                     |
+|:------:| ---------------------------- |
+|   1    | ten, ta, to                  |
+| 2, obě | vlastní (-ma)                |
+|  3, 4  | [[Číslovky#skloňování 3, 4]] |
+|  5-99  | nic zvláštního               |
+|  100   | město                        |
+| 1.000  | stroj                        |
+| milion | hrad                         |
 
 ## skloňování 3 a 4
 ---
