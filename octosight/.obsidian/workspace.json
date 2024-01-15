@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historie/Velká hospodářská krize.md",
-                "mode": "source",
+                "file": "mluvnice/Číslovky.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historie/Velká hospodářská krize.md",
+                "file": "mluvnice/Číslovky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "historie/Velká hospodářská krize.md",
+                "file": "mluvnice/Číslovky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "historie/Velká hospodářská krize.md"
+                "file": "mluvnice/Číslovky.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "cea0f8bf2c4adbe8",
   "lastOpenFiles": [
+    "historie/Velká hospodářská krize.md",
     "mluvnice/Oči, uši, ruce, nohy.md",
     "mluvnice/Číslovky.md",
-    "historie/Velká hospodářská krize.md",
     "historie/Rakouský fašismus a Španělsko.md",
     "historie/Ohniska války ve světě.md",
     "historie/Nacistická vláda v Německu.md",
