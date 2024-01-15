@@ -5,8 +5,7 @@
 
 # Zpráva (publicistická)
 ---
-- požadavek aktuálnost
-- stalo se, stane se, děje se
+- požadavek aktuálnost (stalo se, stane se, děje se)
 - objektivita
 - srozumitelnost
 - přesnost
@@ -22,9 +21,9 @@
 - nejzajímavější 1-3 věty z článku
 - možnost chytit čtenáře
 ## Tělo článku
-rozvedení úvodního odstavce
-citace relevantních lidí
-podrobnosti
+- rozvedení úvodního odstavce
+- citace relevantních lidí
+- podrobnosti
 ## Závěr
 - shrnutí
 - porovnání
