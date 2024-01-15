@@ -42,11 +42,11 @@ tags:
 - Západní mocnosti zřídili v Londýně ==neitervenční výbor==
 - Lidové frontě šli na pomoc levicoví ==interbrigadisté== i od nás (2.000 lidí)
 
-| Franco | Republikáni     |
-| ------ | --------------- |
-| NE     | interbrigadisté |
-| IT     | SSSR            |
-|        | Mexio           |
+| **Franco** | **Republikáni** |
+| ---------- | --------------- |
+| NE         | interbrigadisté |
+| IT         | SSSR            |
+|            | Mexio           |
 
 ## Vítězství frankistů
 - duben 1939

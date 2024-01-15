@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c04dbd2b6aa5a226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "historie/Ohniska války ve světě.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "cea0f8bf2c4adbe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historie/Písemka 15.1.md",
-                "mode": "preview",
+                "file": "historie/Velká hospodářská krize.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historie/Písemka 15.1.md",
+                "file": "historie/Velká hospodářská krize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "historie/Písemka 15.1.md",
+                "file": "historie/Velká hospodářská krize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "historie/Písemka 15.1.md"
+                "file": "historie/Velká hospodářská krize.md"
               }
             }
           },
@@ -152,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,10 +161,15 @@
   },
   "active": "cea0f8bf2c4adbe8",
   "lastOpenFiles": [
+    "mluvnice/Oči, uši, ruce, nohy.md",
+    "mluvnice/Číslovky.md",
+    "historie/Velká hospodářská krize.md",
+    "historie/Rakouský fašismus a Španělsko.md",
+    "historie/Ohniska války ve světě.md",
+    "historie/Nacistická vláda v Německu.md",
+    "historie/Italský fašismus.md",
     "fyzika/4.2 Kmitání jako zvl. případ period. pohybů.md",
     "historie/Písemka 15.1.md",
-    "mluvnice/Číslovky.md",
-    "historie/Ohniska války ve světě.md",
     "literatura/Literární figury a tropy.md",
     "literatura/Literární období.md",
     "literatura/Literární kompozice.md",
@@ -205,11 +197,6 @@
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.svg",
     "fyzika/Zkratky.md",
     "fyzika/2.6 Fázový diagram.md",
-    "fyzika/2.5 Sublimace a desublimace.md",
-    "fyzika/2.4 Kapalnění.md",
-    "biologie/8 Metabolismus.md",
-    "biologie/7 Trávící soustava.md",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.md",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_52_12.excalidraw.svg",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.excalidraw",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.svg",

@@ -1,5 +1,20 @@
 > [!tldr]+
-> všechno se píše s mezerama (Kromě desítek ~~dva cet~~)
+> všechno se píše s mezerama (Kromě desítek ~~dva cet~~ nebo pokud je převrácené pořadí řádů ( dvacet dva  ${\ \longrightarrow\ }$**dvaadvacet**))
+
+# Dělení
+---
+
+|              | **určité** | **neurčité** | **otázka** |
+| ------------ | ---------- | ------------ | ---------- |
+| **základní** | jedna      | několik      | kolik      |
+| **řadové**   | druhý      | několikátý   | kolikátý   |
+| **druhové**  | troje      | několikero   | kolikero   |
+| **násobné**  | čtyřikrát  | několikrát   | kolikrát   |
+
+# Zápis
+---
+
+- u řadových zapisujeme s tečkou za číslem
 
 Nezaměstnanost stoupla o 0,1 %.
 Míra nezaměstanosti se přehoupla přes 10% hranici.
@@ -21,6 +36,8 @@ datum: 3. 7. 2024 _s mezerama_
 
 # Skloňování
 ---
+
+- u dlouhých číslovek skloňujeme **vše**/jen **desítky** a **jednotky**
 
 |   N    | pravidlo                     |
 |:------:| ---------------------------- |
