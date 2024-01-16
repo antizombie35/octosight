@@ -15,7 +15,7 @@ V čele IT fašismu byl ==Benito Mussolini==
 
 V roce 1922 je na S Itálie ==¼ miliónů fašistů==, kontrola měst.
 - Mussolini zorganizoval v říjnu 1922 ==pochod na Řím== (z ==Milána==) král ==Viktor Emanuel III.== se dal zastrašit a jmenoval ho ==předsedou vlády==. Měl pod sebou policii a mohl vydávat ==mimořádná opatření==. Ještě ale byly další strany.
-- Od roku ==1925== ale ==otevřená diktatura==, místo parlamentu ==Velká fašistická rada==, nová== fašistická ústava==.
+- Od roku ==1925== ale ==otevřená diktatura==, místo parlamentu ==Velká fašistická rada==, nová ==fašistická ústava==.
 
 Vr. ==1929== ==Lateránské dohody==
 - ==Papež Pius XI.== (později vystoupil proti fašismu v encyklice) dosáhl uznání státu Vatikán Italským království.

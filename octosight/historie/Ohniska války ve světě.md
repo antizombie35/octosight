@@ -1,4 +1,4 @@
-- 30. léta 20. století
+- 30\. léta 20. století
 
 # Japonsko
 ---

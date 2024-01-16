@@ -38,11 +38,12 @@ Výsledek:
 ## Francie
 - Těžká hospodářská krize v roce ==1932==
 - útok ==ligy fašistů== (různé strany) na parlament v roce ==1934==, byl sice odražen, ale hledá se řešení.
-- Spojení levice do== lidové fronty== proti fašismu= spojeni ==socialisté==, ==KS==, ==radikálové== a ==odbory==.
+- Spojení levice do ==lidové fronty== proti fašismu= spojeni ==socialisté==, ==KS==, ==radikálové== a ==odbory==.
 - O roku 1936 vláda ==Lidové fronty== v čele s ==Léonem Blumem==.
 Vláda Léona Bluma:
 1. ==devalvace== franku
 2. ==zestátnění== leteckého průmyslu a železnic
 3. větší moc ==odborů== nestačí k oživení ekonomiky
+
 Změna vr. 1938
 - Demise L. Bluma, v čele Francie radikál ==Eduard Daladier==.
