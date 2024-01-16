@@ -111,5 +111,5 @@ println!("Ahoj {x:?}");
 > Testovací poměrně dlouhá fráze
 
 > [!abstract]
-> lat sumarry OR tldr
+> alt sumarry OR tldr
 > Testovací poměrně dlouhá fráze
