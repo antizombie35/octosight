@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fyzika/2.6 Fázový diagram.md",
-                "mode": "preview",
+                "file": "historie/Konsolidace ČSR.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "imp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fyzika/2.6 Fázový diagram.md",
+                "file": "historie/Konsolidace ČSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fyzika/2.6 Fázový diagram.md",
+                "file": "historie/Konsolidace ČSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fyzika/2.6 Fázový diagram.md"
+                "file": "historie/Konsolidace ČSR.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,32 +161,32 @@
   },
   "active": "7d46c15ef108ca73",
   "lastOpenFiles": [
+    "literatura/Symbolismus.md",
+    "literatura/Impresionsimus.md",
+    "literatura/Dekadence.md",
+    "literatura/Česká moderna a dekadence.md",
+    "historie/Velká hospodářská krize.md",
     "historie/Konsolidace ČSR.md",
     "fyzika/3.2 Kmitání jako zvl. případ period. pohybů.md",
-    "fyzika/2.6 Fázový diagram.md",
+    "historie/1. vláda ČSR.md",
     "Index.md",
+    "_dev/admin/Cheat sheet.md",
+    "_dev/admin/Untitled.md",
+    "_dev/admin/Formátování.md",
+    "_dev/admin/Unused JS.md",
+    "_dev/admin/TODO.md",
+    "fyzika/2.6 Fázový diagram.md",
+    "fyzika/2.1 Změny skupenství.md",
+    "fyzika/2.2 Tání a tuhnutí.md",
+    "fyzika/3.1 Periodický pohyb.md",
+    "fyzika/2.5 Sublimace a desublimace.md",
+    "biologie/8 Metabolismus.md",
+    "fyzika/2.4 Kapalnění.md",
+    "fyzika/2.3 Vypařování a var.md",
     "zsv/Trestní právo.md",
     "sloh/Publicistický styl.md",
     "mluvnice/Oči, uši, ruce, nohy.md",
     "mluvnice/Číslovky.md",
-    "matematika/Teorie seminář.md",
-    "literatura/Literární období.md",
-    "literatura/Literární kompozice.md",
-    "literatura/Literární figury a tropy.md",
-    "literatura/Literární Druh, forma, žánr.md",
-    "literatura/ČT deník.md",
-    "literatura/Česká moderna a dekadence.md",
-    "historie/Velká hospodářská krize.md",
-    "historie/Rakouský fašismus a Španělsko.md",
-    "historie/Ohniska války ve světě.md",
-    "historie/Nacistická vláda v Německu.md",
-    "historie/Italský fašismus.md",
-    "fyzika/Zkratky.md",
-    "fyzika/3.1 Periodický pohyb.md",
-    "fyzika/2.5 Sublimace a desublimace.md",
-    "fyzika/2.4 Kapalnění.md",
-    "fyzika/2.3 Vypařování a var.md",
-    "fyzika/2.2 Tání a tuhnutí.md",
     "_dev/attachments/Pasted image 20240109105041.png",
     "_dev/attachments/Části článku.jpg",
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.svg",

@@ -1,7 +1,3 @@
-
-> [!warning]
->Na této stránce se pořád pracuje
-
 = přeměna ==látek== a ==energií==
 - zahrnuje tyto hlavní děje:
 	- Děje ==anabolické==
@@ -25,9 +21,8 @@
 #todo #img škrtni  šipku glukóza
 ![[Pasted image 20240109103612.png]]
 
-# Metabolismus tuků
+# Metabolismus tuků (==lipidů==)
 ---
-- tuky = ==lipidy==
 - ==stavební== složka ==biomembrán==, ukládají se do zásoby v buňkách tukové tkáně
 - zdroj ==energie==
 - stále množství v krevní plazmě
@@ -59,46 +54,56 @@
 - Bílkoviny se ==neukládají== do zásoby
 - Při katabolickém odbourávání se odštěpuje toxický amoniak, který je v játrech přeměněn na ledvinami ==močovinu== (konečný produkt metabolismu) a vyloučen z těla
 
-#konec
-- 
-- Složení potravy
-- Potrava správného složení musí obsahovat:
-- bílkoviny
-- sacharidy
-- tuky
-- vodu
-- minerální soli
+# Složení potravy
+---
+Potrava správného složení musí obsahovat:
+- bílkoviny = proteiny
+- cukry = sacharidy
+- tuky = lipidy
+- **vodu**
+- minerální soli - _Na, Mg, P, K_
 - vitamíny
 - pochutiny, vlákninu
-- 
-- Denní příjem bílkovin:
-- asi 1g na 1 kg tělesné hmotnosti
-- (u dospívající mládeže asi 4 g na 1 kg hmotnosti)
-- ![[Pasted image 20240109103727.png]]
-- 
-- 
-- Odbouráním:
-- z 1 g sacharidů se získá cca 17 kJ
-- z 1 g bílkovin se získá cca 17 kJ
-- z 1 g tuků se získá cca 39 kJ
-- 
-- Minerální látky:
+
+(tuky + cukry + bílkoviny = živiny) - 
+
+pro odbourání tuku 2x e co cukr/bílkoviny
+
+
+
+## Minerální látky
 - nejsou zdrojem energie
-- jsou nezbytnou součástí buněk a tělních tekutin – udržují homeostázu
+- jsou nezbytnou součástí buněk (+ součást metabolických reakcí) a tělních tekutin - udržují ==homeostázu==
 - podílejí se na stavbě kostí, svalů
+
+_uměj 4:_
+- Na - ledviny
+- Fe - kervetvorba
+- I - štítná žláza
+- Mg - svaly
+- Zn - skoro na vše (imunita)
+- Ca, P, F - zuby
+
+## Voda
+- je zdrojem  ${\ O\ }$ a  ${\ H\ }$
+- je rozpouštědlem - probíhají zde všechny biochemické reakce
+- podílí se na udržování stálého pH - ==homeostáza==
 - 
-- Voda:
-- je zdrojem kyslíku a vodíku
-- je rozpouštědlem – probíhají zde všechny biochemické reakce
-- podílí se na udržování stálého pH - homeostáza
 - 
-- 
-- Vitamíny:
+## Vitamíny
+- _vit amin = nezbytně podstatný amin_
 - nejsou zdrojem energie
-- jsou to účinné složky některých enzymů
-- nedostatek potřebného množství může způsobit hypervitaminózu, hypovitaminózu, avitaminózu
-- [http://](http://e-chembook.eu/vitaminy)[e-chembook.eu/vitaminy](http://e-chembook.eu/vitaminy)
+- jsou to účinné složky některých ==enzymů==
+- nedostatek potřebného množství může způsobit:
+- ==hypervitaminózu==- nadbytek
+- ==hypovitaminózu== - nedostatek
+- ==avitaminózu== - chybí
+
+- _uměj u 1 vitamínu v tuku a 1 ve vodě: kde to dostat, k čemu je, co když selže_
 - ![[Pasted image 20240109103747.png]]
+- _těmi se dá předávkovat_
+
 - ![[Pasted image 20240109103755.png]]
 - ![[Pasted image 20240109103806.png]]
-- 
+- - _H není podstatné_
+- _nejde se tím předávkovat, ale z B se člověk lekne_

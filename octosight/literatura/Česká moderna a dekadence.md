@@ -1,7 +1,3 @@
-
-> [!warning]
->Na této stránce se pořád pracuje
-
 # Přehled
 ---
 konec 19. století
@@ -12,20 +8,22 @@ konec 19. století
 - materialismus, ateismus x spiritismus a mysticismus
 
 ## Manifest České moderny
-- Machar, Březina, Sova, Šalda (kritik)
+- [[#Josef Svatopluk Machar]], [[#Otokar Březina]], [[#Antonín Sova]], ==[[#František Xaver Šalda]]==
 - něco nového
-- idividualita
+- individualita
 - být sám sebou
 - ==kritika==
 
 ## Moderní revue
-- Jiří Karásek ze Lvovic, Karel Hlaváček
-- [[symbolismus]], [[dekadence]]
+- časopis
+- [[#Jiří Karásek ze Lvovic]], [[#Karel Hlaváček]], (Procházka)
+- protiváha [[#Manifest České moderny|manifestu české moderny]]
+- [[Symbolismus|symbolismus]], [[Dekadence|dekadence]]
 
 ## Katolická moderna
 - almanach
 - původně =="Pod jedním praporem"==
-- Josef Florian (Stará Říše) Březina, Deml , Zahradníček, Reynek
+- Josef Florian (Stará Říše) [[#Otokar Březina]], Deml , Zahradníček, Reynek
 
 # Josef Svatopluk Machar
 ---
@@ -38,11 +36,11 @@ konec 19. století
 - psal ==sonety[^1]==
 [^1]: 4 4 3 3 
 ## Dílo
-==Confiteor== - milostné
-==Tristium Vindobona== - žalozpěvy, politické
-Svědomím věků (Jed z Judey)  - mapuje dějiny lidstva, vývoj ==mravnosti==
-Zde by měly kvést růže - pro emancipace žen
-Magdalena - román ve verších, žádná Magdalena tam není, prostitutka co se chce uspořádat ale okolí tomu nepomáhá, podobně psal i [[Maupassant]]
+==**Confiteor**== - milostné
+==**Tristium Vindobona**== - žalozpěvy, politické
+**Svědomím věků** (Jed z Judey)  - mapuje dějiny lidstva, vývoj ==mravnosti==
+**Zde by měly kvést růže** - pro emancipace žen
+**Magdalena** - román ve verších, žádná Magdalena tam není, prostitutka co se chce uspořádat ale okolí tomu nepomáhá, podobně psal i [[Maupassant]]
 Kriminál
 
 
@@ -53,35 +51,60 @@ Kriminál
 - 8x navržený na ==NC==
 - uzavřený, plachý, extrémní introverze
 ## Dílo
-Tajemné dálky - melodické, zvukomalebné
-Svítání na západě
-Větry od pólů
-Stavitelé chrámu
-Ruce
+**Tajemné dálky** - melodické, zvukomalebné
+**Svítání na západě**
+**Větry od pólů**
+**Stavitelé chrámu**
+**Ruce**
 
 # Antonín Sova
 ---
-- básník přírodní a intimní ==lyriky==
+- básník ==přírodní== a ==intimní== ==lyriky==
 - ==nouze== – nemohl dostudovat, knihovník a později ředitel Městské knihovny v Praze
 - přátelil se se sestrami Jaroslava Vrchlického
 - v 36 si vzal sedmnáctiletou – nevydrželo
 ## Dílo
-Květy intimních nálad
-Z mého kraje
-Soucit a vzdor
-Údolí nového království
-Ještě jednou se vrátíme
-Básně nesobeckého srdce
-Pankrác Budecius, kantor
+**Květy intimních nálad**
+**Z mého kraje**
+**Soucit a vzdor**
+**Údolí nového království**
+**Ještě jednou se vrátíme**
+**Básně nesobeckého srdce**
+**Pankrác Budecius, kantor**
 
 # František Xaver Šalda
 ---
 - literární vědec, ==kritik==, esejista
 - doktor filosofie a profesor románských jazyků na UKarlově
 - Požadoval, aby umění bylo ==autentické==, vycházelo z ==reality==, autor měl být ==silná osobnost==, odmítal jakoukoliv ==ideologie== v literatuře
+- vlastní ==časopis==
 ## Dílo
-Boje o zítřek
-kritické eseje
-monografie[^1] (Mácha, Sova, Wolker, Rimbaud, Alighieri)
+**Boje o zítřek**
+**Kritické eseje**
+**monografie**[^1] (Mácha, Sova, Wolker, Rimbaud, Alighieri)
 [^1]: sólo kniha o jedné osobě
-Šaldův zápisník
+**Šaldův zápisník**
+
+# Karel Hlaváček
+---
+- [[Dekadence|dekadentní]] básník, výtvarník ([[#Moderní revue]])
+- chudé poměry, špatná zaměstnání
+- aktivní ==Sokol== (potom se za to styděl)
+- umírá na TBC
+## Dílo
+**Sokolské sonety** - nebudeme poplatní nikou ... ledaže ...
+**Pozdě k ránu** - [[Dekadence]] - zmar a smutek
+**Mstivá kantiléna** - [[Dekadence]] - selské bouře
+**Žalmy** - posmrtná sbírka
+
+# Jiří Karásek ze Lvovic
+- [[Dekadence|dekadentní]] básník
+- pobuřoval, propagace homosexuality
+- chudé poměry, gymnázium, nedostudovaná teologie, na zkušenou do Bavorska
+- poštovní úředník
+- [[#Moderní revue]] – provokace, pohrdání, propagace
+- _naprosto nenáviděn [[Eliška Krásnohorská|Eliškou Krásnohorskou]]_
+## Dílo
+**Sodoma**
+**Sexus necans**
+**Gotická duše**
