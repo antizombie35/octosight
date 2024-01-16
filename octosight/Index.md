@@ -8,12 +8,12 @@
 # Biologie 
 ---
 ```dataview
-LIST FROM "biologie" SORT file.ctime DESC
+LIST FROM "biologie" SORT file.name DESC
 ```
 # Fyzika
 ---
 ```dataview
-LIST FROM "fyzika" SORT file.ctime DESC
+LIST FROM "fyzika" SORT file.name DESC
 ```
 # Historie
 ---
