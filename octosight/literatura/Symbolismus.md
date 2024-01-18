@@ -1,8 +1,8 @@
 ---
 aliases:
   - symbolistický
-  - symbolismus
   - symbolistická
+  - symbolismus
 ---
 
 - symboly

@@ -81,9 +81,10 @@ Kriminál
 ## Dílo
 **Boje o zítřek**
 **Kritické eseje**
-**monografie**[^1] (Mácha, Sova, Wolker, Rimbaud, Alighieri)
-[^1]: sólo kniha o jedné osobě
+**monografie**[^2] (Mácha, Sova, Wolker, Rimbaud, Alighieri)
 **Šaldův zápisník**
+
+[^2]: sólo kniha o jedné osobě
 
 # Karel Hlaváček
 ---
@@ -98,6 +99,8 @@ Kriminál
 **Žalmy** - posmrtná sbírka
 
 # Jiří Karásek ze Lvovic
+---
+- _vůbec není ze Lvovic_
 - [[Dekadence|dekadentní]] básník
 - pobuřoval, propagace homosexuality
 - chudé poměry, gymnázium, nedostudovaná teologie, na zkušenou do Bavorska
@@ -108,3 +111,6 @@ Kriminál
 **Sodoma**
 **Sexus necans**
 **Gotická duše**
+
+> [!tldr]
+> Celý je to stejně jedno, na písemce budou [[Literární figury a tropy]] a bude potřeba vědět ke komu dílo patří (Podle tématiky [[Symbolismus]], [[Dekadence]] atd.) Život je jedno (údajně)
