@@ -1,4 +1,6 @@
 .vscode
-.obsidian/themes
-.obsidian/appearance.json
+octosight/.obsidian/themes
+
 .obsidian/workspace.json
+.obsidian/appearance.json
+octosight/.obsidian/workspace.json
