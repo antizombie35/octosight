@@ -1,3 +1,9 @@
+---
+aliases:
+  - Oči, uši, ruce, nohy
+  - duál
+---
+
 # Označení části těla
 ---
 - používáme v množném čísla tvary **oči**, **uši** _(psí oči, králičí uši)_

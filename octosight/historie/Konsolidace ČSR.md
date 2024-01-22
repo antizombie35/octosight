@@ -83,7 +83,7 @@ Prohlásilo:
 ### Střed
 
 - ==čs. strana lidová==
-	- z ní odtržena Hlinkova ==lidová slovenská ludová strana== - v čele Andrej Hlinka
+	- z ní odtržena Hlinkova lidová ==slovenská ludová strana== - v čele Andrej Hlinka
 
 ### Pravice
  - ==agrární stana==
