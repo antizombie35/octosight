@@ -1,11 +1,11 @@
 # Přehled
 ---
 konec 19. století
-- rozvoj technologický - ==elektřina== ( ${\ \longrightarrow\ }$ prodloužený den), Škodovy závody, Kolben, Laurin a Klement, Křižík
-- 5 milionů Čechů (+ Němci a židé)
+- rozvoj technologický - ==elektřina== (prodloužený den), Škodovy závody, Kolben, Laurin a Klement, Křižík
+- 5 milionů Čechů (+ NE a židi)
 - historismus (==novo==barko, ==novo==gotika), secese
-- kapitalismus x chudoba
-- materialismus, ateismus x spiritismus a mysticismus
+- kapitalismus X chudoba
+- materialismus, ateismus X spiritismus a mysticismus
 
 ## Manifest České moderny
 - [[#Josef Svatopluk Machar]], [[#Otokar Březina]], [[#Antonín Sova]], ==[[#František Xaver Šalda]]==

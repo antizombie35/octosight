@@ -49,19 +49,4 @@ LIST FROM "zsv" SORT file.ctime DESC
 ***
 <font size = "2">
 Autor neručí za žádný obsah.<br>
-Poslední viditelná frontend aktualizace (desync octosight-html značí chybu při transpilaci):
-</font>
-
-```dataviewjs
-let currentDate = new Date(Date.now());
-dv.table([],
-  dv.pages()
-  .sort(p => p.file.mtime, 'desc')
-  .slice(0, 1)  // latest entry
-  .map(p => {
-    const lastModified = new Date(p.file.mtime);
-    return [`${lastModified.getDate().toString().padStart(2, '0')}.${(lastModified.getMonth() + 1).toString().padStart(2, '0')}.${lastModified.getFullYear()} ${lastModified.getHours().toString().padStart(2, '0')}:${lastModified.getMinutes().toString().padStart(2, '0')}:${lastModified.getSeconds().toString().padStart(2, '0')}`];
-  })
-);
-
-```
+</font> 
