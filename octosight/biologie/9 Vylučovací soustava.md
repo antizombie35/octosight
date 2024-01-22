@@ -1,6 +1,7 @@
 ---
 aliases:
   - močová soustava
+  - Vylučovací soustava
 ---
 
 # Funkce

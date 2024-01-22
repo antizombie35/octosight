@@ -1,6 +1,7 @@
-> [!warning]
->Na této stránce se pořád pracuje
-
+---
+aliases:
+  - Trávící soustava
+---
 # Funkce
 ---
 - zprostředkovává organismu ==získávání živin, vitamínů, minerálních látek a vody==

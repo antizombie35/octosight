@@ -1,3 +1,8 @@
+---
+aliases:
+  - Metabolismus
+---
+
 = přeměna ==látek== a ==energií==
 - zahrnuje tyto hlavní děje:
 	- Děje ==anabolické==

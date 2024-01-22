@@ -1,8 +1,3 @@
----
-tags:
-  - todo
----
-
 - _30. léta 20. století_
 # Rakousko r.1932
 ---
