@@ -10,7 +10,7 @@
 - voliči ==21+==
 
 ## Senát
-- členi ==25+==
+- členi ==45+==
 - volit ==26+==
 
 # Ústava

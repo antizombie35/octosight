@@ -34,6 +34,7 @@ konec 19. století
 - realista a ==cynik==, navržen na ==NC==
 - kritický proti křesťanství
 - psal ==sonety[^1]==
+
 [^1]: 4 4 3 3 
 ## Dílo
 ==**Confiteor**== - milostné
@@ -46,7 +47,7 @@ Kriminál
 
 # Otokar Březina
 ---
-- pravým jménem ==Václav Jebavý==
+- pravým jménem ==Václav Ignác Jebavý==
 - ==básník protipólů==, esejista, ==[[symbolismus|symbolista]]==, učitel ale neměl rád učitelství
 - 8x navržený na ==NC==
 - uzavřený, plachý, extrémní introverze

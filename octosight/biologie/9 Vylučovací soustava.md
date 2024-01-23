@@ -62,21 +62,18 @@ sběrací kanálek není součástí nefronu
 
 1. Glomerulární filtrace:
 	= krevní plazma se filtruje (všechny složky - kromě bílkovin) tenkou stěnou glomerulárních kapilár do Bowmanova váčku
-	- vzniká primární moč (==200 l==/24 h)  
+	- vzniká primární moč (==200 l==/den)  
 
 2. Tubulární resorpce:
 	  = ve vinutých kanálcích a Henleově kličce se vstřebává ==převážná část vody== a v ní rozpuštěných látek (glukóza, aminokyseliny, nerostné látky, vitamíny),
        - ve sběrném kanálku nastává konečná úprava objemu, chemického složení a pH moči
-       - vzniká definitivní moč (==1,5 l==/24 h)
+       - vzniká definitivní moč (==1,5 l==/den)
 
 ![[Pasted image 20240117103049.png]]
 
 ![[Pasted image 20240117103114.png]]
 
 definitivní moč  ${\ \longrightarrow\ }$ sběrací kanálky  ${\ \longrightarrow\ }$ kalichy ledvinné  ${\ \longrightarrow\ }$ pánvička ledvinná  ${\ \longrightarrow\ }$močovod  ${\ \longrightarrow\ }$ močový měchýř  ${\ \longrightarrow\ }$ močová trubice
-
-
-![[Pasted image 20240117103138.png]]
 
 # Močovod
 ---
@@ -97,34 +94,33 @@ definitivní moč  ${\ \longrightarrow\ }$ sběrací kanálky  ${\ \longrightar
 - ženy 3 až 5 cm
 - muži 15 až 20 cm
 
-#konec
+![[Pasted image 20240117103138.png]]
 
-Řízení činnosti ledvin
+- přechodný epitel
 
--Nervové a látkové:
+# Řízení činnosti ledvin
+---
+- Nervové a látkové
+	- ==antidiuretický== hormon (==hypotalamus==)
+		- ovlivňuje vstřebávání vody v kanálcích nefronu
+	- ==aldosteron== (kůra nadledvin)
+		- vstřebávání sodných kationtů (ovlivňování homeostázy)
+	- ==renin== (ledviny)
+		- průsvit přívodní cévy  ${\ \longrightarrow\ }$ přívod krve do ==glomerulů==
 
-1)antidiuretický hormon (hypotalamus)
+- diuréza = vyloučená moč
+	- 99% voda
+	- soli
+	- močovina
+	- barvivo
+	- malé množství glukózy
 
--ovlivňuje vstřebávání vody
-
-2)aldosteron (kůra nadledvin)
-
--vstřebávání sodných kationtů
-
-3)renin (ledviny)
-
--průsvit přívodní cévy ® přívod krve do glomerulů
-
-Nejčastější onemocnění:  
-
--záněty močových cest
-
--močové kameny
-
--ledvinové kameny
-
--záněty ledvin
-
--selhání ledvin – chronické, náhlé
-
--nádorová onemocnění
+_(TOHLE UŽ NENÍ V PÍSEMCE)_
+# Onemocnění
+---
+- záněty močových cest
+- močové kameny - sraženiny soli
+- ledvinové kameny
+- záněty ledvin
+- selhání ledvin – chronické, náhlé
+- nádorová onemocnění

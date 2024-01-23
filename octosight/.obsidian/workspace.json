@@ -8,33 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb3764de28549134",
+            "id": "fa2282824ebb6245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literatura/Česká moderna a dekadence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "eda0b23347cbed8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
+                "file": "historie/Ústava a vznik KSČ.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "historie/Ústava a vznik KSČ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "historie/Ústava a vznik KSČ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "historie/Ústava a vznik KSČ.md"
               }
             }
           },
@@ -173,28 +159,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eda0b23347cbed8c",
+  "active": "fa2282824ebb6245",
   "lastOpenFiles": [
-    "literatura/Česká moderna a dekadence.md",
+    "literatura/Generace buřičů.md",
+    "historie/Ústava a vznik KSČ.md",
+    "historie/Švehlovy vládní kabinety.md",
     "fyzika/3.2 Kmitání jako zvl. případ period. pohybů.md",
+    "literatura/Česká moderna a dekadence.md",
+    "biologie/9 Vylučovací soustava.md",
+    "biologie/7 Trávící soustava.md",
+    "fyzika/3.1 Periodický pohyb.md",
+    "biologie/10 Kožní soustava.md",
+    "biologie/8 Metabolismus.md",
     "Index.md",
     "_dev/admin/Unused JS.md",
     "historie/Rakouský fašismus a Španělsko.md",
-    "biologie/9 Vylučovací soustava.md",
-    "biologie/8 Metabolismus.md",
-    "biologie/7 Trávící soustava.md",
     "biologie/6 Dýchací soustava.md",
-    "biologie/10 Kožní soustava.md",
     "literatura/ČT deník.md",
-    "historie/Ústava a vznik KSČ.md",
     "historie/Konsolidace ČSR.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
     "mluvnice/Slovesa.md",
     "mluvnice/Dvojné číslo.md",
     "mluvnice/Číslovky.md",
-    "literatura/Generace buřičů.md",
-    "fyzika/3.1 Periodický pohyb.md",
     "_dev/attachments/Pasted image 20240118091908.png",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.md",
     "_dev/attachments/3.2 Kmitání jako zvl. případ period. pohybů18-01-2024_09_15_48.excalidraw.svg",
@@ -203,7 +190,6 @@
     "fyzika/3.3 Rovnice výchylky.md",
     "literatura/Symbolismus.md",
     "historie/Italský fašismus.md",
-    "historie/Velká hospodářská krize.md",
     "_dev/attachments/Pasted image 20240117103200.png",
     "_dev/attachments/Pasted image 20240117103138.png",
     "_dev/attachments/Pasted image 20240117103114.png",
