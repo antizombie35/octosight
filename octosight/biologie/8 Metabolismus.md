@@ -2,7 +2,6 @@
 aliases:
   - Metabolismus
 ---
-
 = přeměna ==látek== a ==energií==
 - zahrnuje tyto hlavní děje:
 	- Děje ==anabolické==
@@ -23,8 +22,8 @@ aliases:
 - nadbytečná glukóza – ukládá se jako ==glykogen== v játrech a kosterním svalstvu
 - ==adrenalin==,==inzulin== - _snižuje hladinu glukózy_  X ==glukagon== - zvyšuje hladinu glukózy - hormony, antagonisté
 
-#todo #img škrtni  šipku glukóza
 ![[Pasted image 20240109103612.png]]
+_část s glukózou umět nemusíme_
 
 # Metabolismus tuků (==lipidů==)
 ---
@@ -34,9 +33,9 @@ aliases:
 - trávením se štěpí na ==glycerol==, ==mastné kyseliny==
 - ==beta oxidace== = postupná oxidace ==mastných kyselin==, zdrojem ==energie==
 
-#img #todo škrtni gkukózu šipku
 ![[Pasted image 20240109103634.png]]
-- 
+_část s glukózou umět nemusíme_
+
 # Metabolismus bílkovin
 ---
 - bílkoviny = ==proteiny==
@@ -48,8 +47,8 @@ aliases:
 	2. opotřebované bílkoviny z tkání
 	 3. vznik při přeměně ==sacharidů==
 
-#img škrtni šipku k tkáním
 ![[Pasted image 20240109103703.png]]
+_část s bílkovinami tkání umět nemusíme_
 
 - Funkce aminokyselin:
 	1. syntéza stavebních bílkovin těla
@@ -83,7 +82,7 @@ pro odbourání tuku 2x e co cukr/bílkoviny
 
 _uměj 4:_
 - Na - ledviny
-- Fe - kervetvorba
+- Fe - krvetvorba
 - I - štítná žláza
 - Mg - svaly
 - Zn - skoro na vše (imunita)
@@ -93,10 +92,9 @@ _uměj 4:_
 - je zdrojem  ${\ O\ }$ a  ${\ H\ }$
 - je rozpouštědlem - probíhají zde všechny biochemické reakce
 - podílí se na udržování stálého pH - ==homeostáza==
-- 
-- 
+
 ## Vitamíny
-- _vit amin = nezbytně podstatný amin_
+- _vit amin = nezbytně podstatné aminy_
 - nejsou zdrojem energie
 - jsou to účinné složky některých ==enzymů==
 - nedostatek potřebného množství může způsobit:
@@ -104,11 +102,11 @@ _uměj 4:_
 - ==hypovitaminózu== - nedostatek
 - ==avitaminózu== - chybí
 
-- _uměj u 1 vitamínu v tuku a 1 ve vodě: kde to dostat, k čemu je, co když selže_
-- ![[Pasted image 20240109103747.png]]
+![[Pasted image 20240109103747.png]]
+- _uměj u 1 vitamínu v tuku a 1 ve vodě: kde to dostat, k čemu je, co když selže_\
 - _těmi se dá předávkovat_
 
-- ![[Pasted image 20240109103755.png]]
-- ![[Pasted image 20240109103806.png]]
-- - _H není podstatné_
+![[Pasted image 20240109103755.png]]
+![[Pasted image 20240109103806.png]]
+ - _H není podstatné_
 - _nejde se tím předávkovat, ale z B se člověk lekne_
