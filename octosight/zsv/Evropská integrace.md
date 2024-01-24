@@ -1,22 +1,18 @@
 - Integrace
 	- spojování do celku
-	 - po WWII
-
-Po WWII
+	 - po WWII (1945 konec)  ${\ \longrightarrow\ }$ prevence
 - ekonomické vyčerpání všech
-- WWII se nesmí opakovat
 - rozdělení na V a Z - studená válka
 
 Marshalluv plán
 - 1947
 - organizace pro hospodářskou spolupráci a rozvoj - OECD - 28 států
-21.prosince se čr 1995 přpojila
+- 21.prosince se česká republika 1995 připojila
 
-Evropské společenství uhlí a oceli
-1951 podpis
-1952 platnost
+Evropské společenství uhlí a oceli (ESUO)
+1951 podpis pařížské smlouvy  ${\ \longrightarrow\ }$ 1952 platnost
 
-# Schumanův plán
+ Schumanův plán
 - 1950 vznik SRN - Fr. ministr zahrnicí Robert Schuman  - 
  ${\ \longrightarrow\ }$den evropy
 - vznik ==přížské smlouvy== 1952 
@@ -33,48 +29,38 @@ FR, Belgie Nizozemsko, Německo
 - EHS = Evr. hospodářské společnství (celní unie)
 
 
-# Instituce EVROPSKÝCH SPOLEČENSTVÍ (ES)
+# Instituce evropských společenství (ES)
 
 = podpis Slučovací smlouvy
-slučovací smlouva vznikla v roce 1965
+slučovací smlouva vznikla v roce 1965  ${\ \longrightarrow\ }$ 1367 platnost
 ESUO, EHS, EUROATOM  ${\ \longrightarrow\ }$ Evropská společensví
 
+·       **Komise** – zástupci členských států, není stálý, jen když se něco děje
+·       **Shromáždění** (později Evropský parlament) - zástupci národních parlamentů
+·       **Rada ministrů** - ministři vlád, výkonný orgán
 
-·       _Komise_ –
+Nejpřínosnější pro další integraci bylo ==EHS== = Evropské hospodářské společenství
+  **Cílem EHS bylo**:
+ - odstranění překážek volného pohybu zboží, osob, služeb a kapitálu,
+- zavedení společných politik: zemědělské, dopravní, sociální,
+ - založení Evropské investiční banky,
+- zmenšování rozdílů mezi úrovněmi hospodářské vyspělosti jednotlivých orgánů;
 
-·       _Shromáždění_ (později Evropský parlament) –
+# Celní unie
+---
+- 1968
+- Odstranění celních a množstevních bariér obchodu
+- Pro prodání zboží v ES zboží z nečlenské země, musí zaplatit ==jednotné clo==
 
-·       _Rada ministrů –_
+- 70. a 80. léta 20. století směřují k ==jednotnému vnitřnímu trhu==
+ - 1973 - první rozšíření Evropského společenství (ES) – vstup ==VB, Irska, Dánska==
+- 1979 - první přímé volby do ==Evropského parlamentu==
 
-Nejpřínosnější pro další integraci bylo EHS = Evropské hospodářské společenství
-
-§  _Cílem EHS bylo:_
-
--        odstranění překážek volného pohybu zboží, osob, služeb a kapitálu,
-
--        zavedení společných politik: zemědělské, dopravní, sociální,
-
--        založení Evropské investiční banky,
-
--        zmenšování rozdílů mezi úrovněmi hospodářské vyspělosti jednotlivých orgánů;
-
-1968 – dokončení CELNÍ UNIE
-
-·       Došlo k odstranění
-
-·        
-
-70. a 80. léta 20. století směřují k jednotnému vnitřnímu trhu
-
-·       1973 – první rozšíření Evropského společenství (ES) – vstup
-
-DRUHÉ A TŘETÍ ROZŠÍŘENÍ EVROPSKÉHO SPOLEČENSTVÍ
-
-·       1981 – vstup
-
-·       1986 – vstup
-
-1985 – SCHENGENSKÁ DOHODA
+# 1.a 2. rozšíření evropského společenství
+---
+- 1981 – vstup ==Řecka==
+- 1986 – vstup ==Španělska== a ==Portugalska==
+- 1985 – ==schengenská dohoda==
 
 ·       kvalitativní prohloubení integrace znamenalo vytvoření tzv. _____________________;_
 
@@ -108,21 +94,21 @@ MAASTRICHTSKÁ SMLOUVA – SMLOUVA O EU (podepsána v únoru 1992, vstup v platn
 
 ·       mezník v procesu evropské integrace: smlouva zakládá Evropskou unii, která zaměřuje svou činnost do tří oblastí - tří pilířů:
 
-§  1. pilíř –
+  1. pilíř –
 
-§  2. pilíř –
+  2. pilíř –
 
-§  3. pilíř –
+  3. pilíř –
 
 1993 – KODAŇSKÁ KRITÉRIA
 
 ·       Evropská rada v červnu 1993 v Kodani stanovila požadavky, které je nutné splnit, aby se kandidátská země mohla stát plnoprávným členem EU.
 
-§  POLITICKÁ KRITÉRIA:
+  POLITICKÁ KRITÉRIA:
 
-§  EKONOMICKÁ KRITÉRIA:
+  EKONOMICKÁ KRITÉRIA:
 
-§  PRÁVNÍ ŘÁD EU (začlenění legislativy EU do národní legislativy)
+  PRÁVNÍ ŘÁD EU (začlenění legislativy EU do národní legislativy)
 
 Ò 1995 – rozšíření o _______________________________________
 

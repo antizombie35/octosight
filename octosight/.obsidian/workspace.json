@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "39863793efc28095",
+        "id": "08516ca71ad28d11",
         "type": "tabs",
         "children": [
           {
-            "id": "b810494556ab575d",
+            "id": "58a8bf0072889f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/8 Metabolismus.md",
-                "mode": "preview",
+                "file": "zsv/Evropská integrace.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/8 Metabolismus.md",
+                "file": "zsv/Evropská integrace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/8 Metabolismus.md",
+                "file": "zsv/Evropská integrace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/8 Metabolismus.md"
+                "file": "zsv/Evropská integrace.md"
               }
             }
           },
@@ -159,44 +159,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b810494556ab575d",
+  "active": "58a8bf0072889f2b",
   "lastOpenFiles": [
-    "biologie/8 Metabolismus.md",
-    "Index.md",
     "zsv/Evropská integrace.md",
+    "zsv/Trestní právo.md",
+    "fyzika/3.2 Kmitání.md",
+    "_dev/templates/! - work in progress.md",
+    "_dev/templates/S - desmos.md",
+    "Index.md",
+    "fyzika/3.1 Periodický pohyb.md",
+    "biologie/10 Kožní soustava.md",
+    "_dev/attachments/excalidraw 24-01-2024_12_01_38.excalidraw.md",
+    "_dev/attachments/Pasted image 20240124115256.png",
+    "_dev/attachments/Pasted image 20240124115327.png",
+    "_dev/attachments/Pasted image 20240124115306.png",
+    "biologie/9 Vylučovací soustava.md",
+    "biologie/8 Metabolismus.md",
+    "fyzika/3.2 Kmitání jako zvl. případ period. pohybů.md",
+    "historie/Ústava a vznik KSČ.md",
+    "literatura/Generace buřičů.md",
+    "historie/Švehlovy vládní kabinety.md",
+    "literatura/Česká moderna a dekadence.md",
+    "biologie/7 Trávící soustava.md",
+    "_dev/admin/Unused JS.md",
+    "historie/Rakouský fašismus a Španělsko.md",
+    "biologie/6 Dýchací soustava.md",
+    "literatura/ČT deník.md",
+    "historie/Konsolidace ČSR.md",
     "mluvnice/Slovesa.md",
     "mluvnice/Dvojné číslo.md",
-    "literatura/Symbolismus.md",
-    "literatura/Impresionsimus.md",
-    "literatura/Generace buřičů.md",
-    "literatura/Dekadence.md",
-    "literatura/Česká moderna a dekadence.md",
-    "historie/Velká hospodářská krize.md",
-    "historie/Ústava a vznik KSČ.md",
-    "historie/Švehlovy vládní kabinety.md",
-    "historie/Rakouský fašismus a Španělsko.md",
-    "historie/Ohniska války ve světě.md",
-    "historie/Konsolidace ČSR.md",
-    "fyzika/3.2 Kmitání.md",
-    "fyzika/3.1 Periodický pohyb.md",
-    "fyzika/2.6 Fázový diagram.md",
-    "fyzika/2.2 Tání a tuhnutí.md",
-    "biologie/9 Vylučovací soustava.md",
-    "biologie/7 Trávící soustava.md",
-    "biologie/6 Dýchací soustava.md",
-    "biologie/10 Kožní soustava.md",
-    "fyzika/3.2 Kmitání jako zvl. případ period. pohybů.md",
-    "zsv/Trestní právo.md",
+    "mluvnice/Číslovky.md",
     "_dev/attachments/Pasted image 20240118091908.png",
+    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.md",
     "_dev/attachments/3.2 Kmitání jako zvl. případ period. pohybů18-01-2024_09_15_48.excalidraw.svg",
     "_dev/attachments/Pasted image 20240118091126.png",
     "_dev/attachments/Pasted image 20240117103200.png",
     "_dev/attachments/Pasted image 20240117103138.png",
     "_dev/attachments/Pasted image 20240117103114.png",
     "_dev/attachments/Pasted image 20240117103049.png",
-    "_dev/attachments/Pasted image 20240117103039.png",
-    "_dev/attachments/Pasted image 20240117103019.png",
-    "_dev/attachments/Pasted image 20240117102940.png",
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw",
     "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.excalidraw",

@@ -1,41 +1,47 @@
-#todo #konec 
-Kůže, kožní deriváty, kožní žlázy
-Funkce:
-ochranná (proti vniknutí škodlivých látek, mikroorganismů, před UV zářením)
-udržování stálé tělesné teploty (prostřednictvím kožních cév a potních žláz)
-smyslová (jsou zde receptory pro vnímání různých počitků)
-skladovací (tuk v podkožním vazivu)
-vylučovací (pot, maz)
-resorpční (lze vpravovat jen látky rozpuštěné v tukových rozpouštědlech nebo tucích)
+# Funkce
+---
+- **ochranná** (proti vniknutí ==škodlivých látek==, ==mikroorganismů==, před ==UV== zářením)
+- **udržování stálé tělesné teploty** (prostřednictvím ==kožních cév== a ==potních žláz==)
+- **smyslová** (jsou zde receptory pro vnímání různých ==počitků==)
+- **skladovací** (tuk v podkožním vazivu)
+- **vylučovací** (pot, maz)
+- **resorpční** (lze vpravovat jen látky rozpuštěné v tukových rozpouštědlech nebo tucích)
 
-kůže dospělého člověka zaujímá v průměru plochu 1,75 m2, představuje 7 – 10% tělesné hmotnosti
+- ==dermatologie== = věda o kožních problémech
 
-kůže má v různých částech těla rozdílnou tloušťku – nejtenčí je na očních víčkách, nejsilnější na dlaních a chodidlech
-Stavba kůže:
+- kůže dospělého člověka zaujímá v průměru plochu  ${\ 1,75 m^2\ }$
+- kůže má v různých částech těla ==rozdílnou== tloušťku – nejtenčí je na ==očních víčkách==, nejsilnější na ==dlaních== a ==chodidlech==
 
+# Stavba kůže
+---
+![[Pasted image 20240124115256.png]] 
 
-Stavba kůže:
-1. pokožka
-tloušťka asi 0,4 – 1 mm
-tvořena mnohovrstevným dlaždicovým epitelem
-nejsvrchnější vrstvy rohovatějí, odumírají, odlupují se
-buňky hlubších vrstev se stále dělí
-v hlubších vrstvách je pigment - melanin – chrání před UV zářením
+- kůže = ==dermis==
+- pokožka = ==epidermis==
 
+![[Pasted image 20240124115306.png]]
+- _3, 5, 8, 9, 11, 12, 16, 17 hlavně uměj_
 
-2. škára
-složena z vazivových buněk, vláken kolagenu a elastinu – mezi nimi i tukové buňky
-prostoupena cévami a nervy
-vyrůstají z ní vlasy a chlupy
-obsahuje mazové žlázy a potní žlázy
-obsahuje volná nervová zakončení = čidla bolesti
-a nervová tělíska:
-hmatová tělíska = Meissnerova tělíska
-receptory chladu = Krauseova tělíska
-receptory tepla = Ruffiniho tělíska
+## Pokožka
+- tloušťka asi 0,4 – 1 mm
+- tvořena ==mnohovrstevným== ==dlaždicovým epitelem==
+- nejsvrchnější vrstvy ==rohovatějí==, ==odumírají==, ==odlupují se==, obsahují ==keratin==
+ - buňky hlubších vrstev se stále ==dělí==
+- v hlubších vrstvách je pigment - ==melanin== - chrání před ==UV== zářením (melanocyt)
 
+## Škára
+- složena z ==vazivových== buněk, vláken ==kolagenu== a ==elastinu== - mezi nimi i tukové buňky
+- prostoupena cévami a nervy
+- vyrůstají z ní vlasy a chlupy
+- obsahuje ==mazové== žlázy a ==potní== žlázy
+- obsahuje volná nervová zakončení = ==čidla bolesti== a ==nervová tělíska==:
+	- hmatová tělíska = ==Meissnerova== tělíska
+	- receptory chladu = ==Krauseova== tělíska
+	- receptory tepla = ==Ruffiniho== tělíska
 
+![[Pasted image 20240124115327.png]]
 
+#konec
 
 Kožní žlázy:
 
@@ -74,8 +80,8 @@ používají se také implantáty, které mechanicky roztahují kůži v postiž
 
 strie = trhlinky kůže – k jejich vzniku vede rychlé zvětšování některé oblasti těla – např. břicha v době těhotenství
 
-3. podkožní vazivo
-tvořeno vazivovými buňkami a sítí kolagenních a elastických vláken
+# Podkožní vazivo
+tvořeno ==vazivovými== buňkami a sítí kolagenních a elastických vláken
 možnost ukládání tuku
-zde jsou uložena Vater-Paciniho tělíska = receptory vnímání tahu a tlaku
+zde jsou uložena ==Vater-Paciniho tělíska== = receptory vnímání tahu a tlaku
 
