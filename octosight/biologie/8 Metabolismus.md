@@ -5,16 +5,16 @@ aliases:
 = přeměna ==látek== a ==energií==
 - zahrnuje tyto hlavní děje:
 	- Děje ==anabolické==
-		- z jednoduchých látek se syntetizují látky ==složitější==
-		- energie se ==spotřebovává== - 
+		- syntéza látek jednoduché  ${\ \longrightarrow\ }$ ==složitější==
+		- energie se ==spotřebovává==
 	- Děje ==katabolické==
-		- rozklad složitějších látek na látky ==jednodušší==
+		- rozklad látek složitější  ${\ \longrightarrow\ }$ ==jednodušší==
 		- energie se ==uvolňuje==
 	- ==Ukládání== látek
 
-- metabolismus je řízen látkově i nervově
+- metabolismus je řízen ==látkově== i ==nervově==
  
-# Metabolismus sacharidů
+# Metabolismus cukrů (==sacharidů==)
 ---
 - zdroj ==energie==
 - zásadní význam má ==glukóza==
@@ -36,9 +36,8 @@ _část s glukózou umět nemusíme_
 ![[Pasted image 20240109103634.png]]
 _část s glukózou umět nemusíme_
 
-# Metabolismus bílkovin
+# Metabolismus bílkovin (==proteinů==)
 ---
-- bílkoviny = ==proteiny==
 - základní ==stavební== složky organismu
 - uplatňují se jako ==enzymy==, ==hormony==, ==imunoglobuliny==
 - tráví se na ==aminokyseliny== (stálá hladina v krvi)
@@ -56,7 +55,7 @@ _část s bílkovinami tkání umět nemusíme_
 	3. syntéza plazmatických bílkovin
 
 - Bílkoviny se ==neukládají== do zásoby
-- Při katabolickém odbourávání se odštěpuje toxický amoniak, který je v játrech přeměněn na ledvinami ==močovinu== (konečný produkt metabolismu) a vyloučen z těla
+- Při katabolickém odbourávání se odštěpuje toxický amoniak, který je v játrech přeměněn na ==močovinu== (konečný produkt metabolismu) a vyloučen z těla
 
 # Složení potravy
 ---
@@ -69,9 +68,8 @@ Potrava správného složení musí obsahovat:
 - vitamíny
 - pochutiny, vlákninu
 
-(tuky + cukry + bílkoviny = živiny) - 
-
-pro odbourání tuku 2x e co cukr/bílkoviny
+(tuky + cukry + bílkoviny = živiny)
+-  pro odbourání tuku  2x ${\ e\ }$ co cukr/bílkoviny
 
 
 
@@ -103,7 +101,7 @@ _uměj 4:_
 - ==avitaminózu== - chybí
 
 ![[Pasted image 20240109103747.png]]
-- _uměj u 1 vitamínu v tuku a 1 ve vodě: kde to dostat, k čemu je, co když selže_\
+- _uměj u 1 vitamínu v tuku a 1 ve vodě: kde to dostat, k čemu je, co když selže_
 - _těmi se dá předávkovat_
 
 ![[Pasted image 20240109103755.png]]
