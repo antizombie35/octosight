@@ -66,16 +66,37 @@
 ## Činný
 - Podmět ve větě fakticky něco dělá
 - _Karel staví dům_
-## Trpný
+
+## Trpný (pasivum)
 - Podmět ve větě jen přihlíží
-- _Dům je ==stavěn==_
-	- stavěn - ==trpné příčestí==
-- _Dům ==se== staví_
-	- opisný způsob
+### Opisné pasivum
+- Zlato bylo kutáno
+- _být + trpné příčestí_
 
-
+### Zvratné pasivum
+- Zlato se kutá
 
 # Vid
 ---
-- dokonavý
-- nedokonavý
+¨- vyjadřuje ukončenost děje
+## Dokonavý
+- děj bude nebo byl ukončen
+- nelze vyjádřit [[#Přítomný]] čas
+- _pomůcka: JEDNOU_
+
+## Nedokonavý
+- děj neohraničený, probíhající
+- _pomůcka: STÁLE_
+
+## Obouvidá [[Slovesa]]
+- některá slovesa
+- [[#Dokonavý]] i [[#Nedokonavý]]
+
+## Slovesa s pouze jedním tvarem
+- nemají protisloveso
+### Pouze nedokonavá
+### Pouze dokonavá
+
+## Pomůcky
+1. JEDNOU/STÁLE
+1. BUDU  ________ _(sloveso v infinitivu)_ (zní to Divně  ${\ \longrightarrow\ }$ DOKONAVÉ)
