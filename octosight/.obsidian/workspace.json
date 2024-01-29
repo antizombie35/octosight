@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mluvnice/Slovesa.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mluvnice/Slovesa.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mluvnice/Slovesa.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mluvnice/Slovesa.md"
+                "file": "Index.md"
               }
             }
           },
@@ -161,40 +161,41 @@
   },
   "active": "81ddfe015560bc6f",
   "lastOpenFiles": [
+    "Index.md",
+    "zsv/Evropská integrace.md",
+    "mluvnice/Slovesa.md",
+    "historie/Švehlovy vládní kabinety.md",
+    "historie/Nacistická vláda v Německu.md",
+    "fyzika/3.2 Kmitání.md",
+    "biologie/8 Metabolismus.md",
+    "biologie/10 Kožní soustava.md",
+    "fyzika/3.2.p Příklady, odvození.md",
+    "historie/Velká hospodářská krize.md",
+    "historie/Konsolidace ČSR.md",
+    "historie/Italský fašismus.md",
+    "fyzika/Untitled.md",
     "literatura/Generace buřičů.md",
     "literatura/Česká moderna a dekadence.md",
-    "Index.md",
     "excalidraw 25-01-2024_09_10_49.excalidraw.md",
     "excalidraw 25-01-2024_09_10_49.excalidraw.excalidraw",
     "excalidraw 25-01-2024_09_10_49.excalidraw.svg",
-    "fyzika/3.2 Kmitání.md",
-    "fyzika/3.2.p Příklady, odvození.md",
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.md",
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.excalidraw",
     "_dev/attachments/Pasted Image 20240125084119_769.png",
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.svg",
     "_dev/attachments/Pasted image 20240125084055.png",
-    "zsv/Evropská integrace.md",
     "zsv/Trestní právo.md",
     "_dev/templates/! - work in progress.md",
     "_dev/templates/S - desmos.md",
     "fyzika/3.1 Periodický pohyb.md",
-    "biologie/10 Kožní soustava.md",
     "_dev/attachments/excalidraw 24-01-2024_12_01_38.excalidraw.md",
     "_dev/attachments/Pasted image 20240124115256.png",
     "_dev/attachments/Pasted image 20240124115327.png",
     "_dev/attachments/Pasted image 20240124115306.png",
     "biologie/9 Vylučovací soustava.md",
-    "biologie/8 Metabolismus.md",
     "fyzika/3.2 Kmitání jako zvl. případ period. pohybů.md",
     "historie/Ústava a vznik KSČ.md",
-    "historie/Švehlovy vládní kabinety.md",
     "biologie/7 Trávící soustava.md",
-    "_dev/admin/Unused JS.md",
-    "historie/Rakouský fašismus a Španělsko.md",
-    "biologie/6 Dýchací soustava.md",
-    "literatura/ČT deník.md",
-    "historie/Konsolidace ČSR.md",
     "_dev/attachments/Pasted image 20240118091908.png",
     "_dev/attachments/3.2 Kmitání jako zvl. případ period. pohybů18-01-2024_09_15_48.excalidraw.svg",
     "_dev/attachments/Pasted image 20240118091126.png",

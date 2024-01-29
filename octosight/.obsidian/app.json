@@ -6,5 +6,6 @@
   "readableLineLength": true,
   "newFileLocation": "current",
   "propertiesInDocument": "visible",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "vimMode": false
 }
