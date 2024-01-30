@@ -18,7 +18,7 @@ Fašismus u nás:
 
 # Spory I. Švehlovy vlády
 ---
-- **spor o agrární cla** - agrárníci proti národním socialistům a sociálním demokratům
+- **spor o agrární cla** - agrárníci proti národním socialistům a soc.dem
 - **Husovy oslavy** - konané v červenci 1925 se zapojením státu vadily ==Vatikánu== a ==lidové straně==
 
 # Panská koalice
@@ -35,7 +35,6 @@ Fašismus u nás:
 	- proti Maďarsku
 	- ČSR, Jugoslavie, Rumunsko
 	- 1920-21
-- 
 - vr. 1924 smlouva o pomoci s ==Fr==
 - vr.1925 prohra čs. diplomacie na konferenci v ==Locarnu==
 - podepsán ==Rýnský garanční pakt==  ${\ \longrightarrow\ }$ zajišťuje nedotknutelnost _(status quo)_ Z hranic s Německem
@@ -44,7 +43,7 @@ Fašismus u nás:
 # Zemské řízení
 ---
 - 1927
-- Správní organizace - Česká, Moravskoslezská, Slovensko, Podkarpatská Rus
+- **Správní organizace** - Česká, Moravskoslezská, Slovensko, Podkarpatská Rus
 - Moravskoslezská spojena protože NE
 - vr. 1927 Masaryk prezidentem
 - Agrárníci proti, podržel ho A. Švehla _(dám někomu pár facek)_
