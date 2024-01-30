@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08516ca71ad28d11",
+        "id": "87893683ac5ab5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "81ddfe015560bc6f",
+            "id": "9ea3d000592d8520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historie/Švehlovy vládní kabinety.md",
+                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "242a2356d1bda0b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "historie/Ústava a vznik KSČ.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "40989a7d676c5241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "historie/Konsolidace ČSR.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -75,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tiso",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historie/Švehlovy vládní kabinety.md",
+                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "historie/Švehlovy vládní kabinety.md",
+                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "historie/Švehlovy vládní kabinety.md"
+                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md"
               }
             }
           },
@@ -174,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,27 +156,35 @@
       "command-palette:Open command palette": false,
       "webpage-html-export:Export Vault to HTML": false,
       "open-vscode:VSCode": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81ddfe015560bc6f",
+  "active": "9ea3d000592d8520",
   "lastOpenFiles": [
+    "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.md",
+    "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.svg",
+    "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.excalidraw",
+    "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
+    "excalidraw 30-01-2024_11_39_11.excalidraw.md",
+    "excalidraw 30-01-2024_11_39_11.excalidraw.svg",
+    "excalidraw 30-01-2024_11_39_11.excalidraw.excalidraw",
+    "fyzika/3.3 Počáteční fáze kmitání.md",
+    "fyzika/3.2 Kmitání.md",
+    "biologie/11 Hormonální soustava.md",
+    "biologie/10 Kožní soustava.md",
+    "biologie/9 Vylučovací soustava.md",
+    "zsv/Evropská integrace.md",
+    "historie/Hospodářská krize v ČSR.md",
     "historie/Švehlovy vládní kabinety.md",
     "historie/Ústava a vznik KSČ.md",
     "historie/Konsolidace ČSR.md",
-    "fyzika/2.2 Tání a tuhnutí.md",
     "Index.md",
-    "fyzika/3.2 Kmitání.md",
-    "historie/Nacistická vláda v Německu.md",
-    "zsv/Evropská integrace.md",
     "mluvnice/Slovesa.md",
+    "historie/Nacistická vláda v Německu.md",
     "biologie/8 Metabolismus.md",
-    "biologie/10 Kožní soustava.md",
     "fyzika/3.2.p Příklady, odvození.md",
     "historie/Velká hospodářská krize.md",
     "historie/Italský fašismus.md",
-    "fyzika/Untitled.md",
     "literatura/Generace buřičů.md",
     "literatura/Česká moderna a dekadence.md",
     "excalidraw 25-01-2024_09_10_49.excalidraw.md",
@@ -214,25 +196,15 @@
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.svg",
     "_dev/attachments/Pasted image 20240125084055.png",
     "zsv/Trestní právo.md",
-    "_dev/templates/! - work in progress.md",
-    "_dev/templates/S - desmos.md",
-    "fyzika/3.1 Periodický pohyb.md",
-    "_dev/attachments/excalidraw 24-01-2024_12_01_38.excalidraw.md",
     "_dev/attachments/Pasted image 20240124115256.png",
     "_dev/attachments/Pasted image 20240124115327.png",
     "_dev/attachments/Pasted image 20240124115306.png",
-    "biologie/9 Vylučovací soustava.md",
-    "fyzika/3.2 Kmitání jako zvl. případ period. pohybů.md",
     "_dev/attachments/Pasted image 20240118091908.png",
-    "_dev/attachments/3.2 Kmitání jako zvl. případ period. pohybů18-01-2024_09_15_48.excalidraw.svg",
-    "_dev/attachments/Pasted image 20240118091126.png",
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw",
     "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.excalidraw",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.excalidraw",
     "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.excalidraw",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.excalidraw",
-    "historie",
-    "mluvnice"
+    "_dev/attachments/7 Trávící soustava09-01-2024_18_21_09.excalidraw.excalidraw"
   ]
 }

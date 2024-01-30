@@ -21,6 +21,7 @@
 
 ![[Pasted image 20240124115306.png]]
 - _3, 5, 8, 9, 11, 12, 16, 17 hlavně uměj_
+- _nemuse umět kurzívu_
 
 ## Pokožka
 - tloušťka asi 0,4 – 1 mm
@@ -41,47 +42,42 @@
 
 ![[Pasted image 20240124115327.png]]
 
-#konec
+### Kožní žlázy
+#### Mazové žlázy
+- ústí do vlasových váčků
+- chybí v kůži dlaní a chodidel
 
-Kožní žlázy:
+#### Potní žlázy
+- rozloženy po celém těle - nejvíce v podpaží, na čele, dlaních a ploskách noh
+- pot (99% vody, 0,6 %  ${\ NaCl\ }$, rozpuštěné organické látky - ==močovina==, ==mastné kyseliny==, ==aminokyseliny==)
 
-mazové žlázy
-ústí do vlasových váčků
-chybí v kůži dlaní a chodidel
+- mezi kožní žlázy patří také:
+	- **apokrinní žlázy** (sexuální, pachové) – jen na některých částech těla (v podpaží, kolem konečníku a okolo pohlavních orgánů) - aktivizují se v době dospívání
 
-potní žlázy
-rozloženy po celém těle – nejvíce v podpaží, na čele, dlaních a ploskách noh
-pot (98,5 – 99% vody, 0,6 % Na Cl, rozpuštěné organické látky – močovina, mastné kyseliny, aminokyseliny aj.)
-
-
-
-mezi kožní žlázy patří také:
-apokrinní žlázy (sexuální, pachové) – jen na některých částech těla (v podpaží, kolem konečníku a okolo pohlavních orgánů) – aktivizují se v době dospívání
-
-žláza mléčná
-párová, funkční pouze u žen
-
-
-Kožní deriváty
-nehty, chlupy
-jejich základní složkou je keratin
-		vytvářejí se z živých buněk, ale jejich větší část obsahuje jen mrtvé buňky (při poranění nebolí a nekrvácejí)
-		
-		chlupy
-		téměř na celém těle (s výjimkou dlaní a chodidel
-		na hlavě poměrně silné pigmentované chlupy – vlasy (stejného typu je i obočí, vousy a ochlupení genitálií)
-
-s přibývajícím věkem se ve škáře zpomaluje tvorba kolagenu a elastinu, ubývá podkožní tuk, snižují činnost mazové a potní žlázy  ztenčení kůže, ztráta její pevnosti  tvorba vrásek
-
-většina kosmetických preparátů obsahuje kolagen a elastin
-drastičtější terapií je injekční aplikace botulotoxinu
-botulotoxin blokuje nervová zakončení  svaly, které způsobují smrštění kůže, zůstávají stále natažené
-používají se také implantáty, které mechanicky roztahují kůži v postižených místech
-
-strie = trhlinky kůže – k jejich vzniku vede rychlé zvětšování některé oblasti těla – např. břicha v době těhotenství
+- žláza mléčná
+	- párová
+	- funkční pouze u žen
 
 # Podkožní vazivo
 tvořeno ==vazivovými== buňkami a sítí kolagenních a elastických vláken
 možnost ukládání tuku
 zde jsou uložena ==Vater-Paciniho tělíska== = receptory vnímání tahu a tlaku
 
+# Kožní deriváty
+---
+- nehty, chlupy
+- jejich základní složkou je ==keratin==
+	- vytvářejí se z ==živých buněk==, ale jejich větší část obsahuje jen ==mrtvé buňky== (při poranění nebolí a nekrvácejí)
+	- chlupy
+	- téměř na celém těle (s výjimkou dlaní a chodidel
+	- na hlavě poměrně silné pigmentované chlupy – vlasy (stejného typu je i obočí, vousy a ochlupení genitálií)
+
+V PÍS NEBUDE:
+- s přibývajícím věkem se ve škáře zpomaluje tvorba kolagenu a elastinu, ubývá podkožní tuk, snižují činnost mazové a potní žlázy  ${\ \longrightarrow\ }$ ztenčení kůže, ztráta její pevnosti  ${\ \longrightarrow\ }$ tvorba vrásek
+
+- většina kosmetických preparátů obsahuje kolagen a elastin
+- drastičtější terapií je injekční aplikace botulotoxinu
+- botulotoxin blokuje nervová zakončení  ${\ \longrightarrow\ }$ svaly, které způsobují smrštění kůže, zůstávají stále natažené
+- používají se také implantáty, které mechanicky roztahují kůži v postižených místech
+
+- ==strie== = trhlinky kůže - k jejich vzniku vede rychlé zvětšování některé oblasti těla - např. břicha v době těhotenství

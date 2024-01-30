@@ -14,11 +14,11 @@ Důsledky atentátu:
 Fašismus u nás:
 - **český**: 1926 vznikla Národní obec fašistická - v řele ==Radola Gajda==
 - **slovenský**: ==Hlinkova ludová strana== měla radikální křídlo ==Vojtěcha Tuky== - chtěl samosprávu pro Sl.
-- **německý** - ==DNSAP== v pohraničí. Na rozdíl od NE argrárníkůa soc.dem nespolupracovala s čs. vládou
+- **německý** - ==DNSAP== v pohraničí - nespolupracovala s čs. vládou
 
 # Spory I. Švehlovy vlády
 ---
-- **spor o agrární cla** - agrárníci proti národním socialistům a soc.dem
+- **spor o agrární cla** - ==agrárníci== proti ==národním socialistům== a ==soc.dem==
 - **Husovy oslavy** - konané v červenci 1925 se zapojením státu vadily ==Vatikánu== a ==lidové straně==
 
 # Panská koalice
