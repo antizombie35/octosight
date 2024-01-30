@@ -48,8 +48,6 @@ Důsledky:
 
 # Vznik KSČ
 ---
-- září 1920 se konal 13 sjezd soc.dem - byl ovládnut levicí a budoucí komunisté začali vydávat ==Rudé právo== obsazeném Lidovém domě
-- rozdělena strany  ${\ \longrightarrow\ }$ levice (budoucí KSČ) ==pokus o převrat==
-
-	${\ \longrightarrow\ }$ vyhlášeno stanné právo a situace se uklidnila
-	- květen 1921 pak levice soc.dem založila KSČ
+- září 1920 se konal 13 sjezd soc.dem - byl ovládnut levicí a budoucí komunisté začali vydávat ==Rudé právo== v obsazeném Lidovém domě
+- rozdělena strany  ${\ \longrightarrow\ }$ levice (budoucí KSČ) ==pokus o převrat== ${\ \longrightarrow\ }$ vyhlášeno stanné právo a situace se uklidnila
+- květen 1921 pak levice soc.dem založila KSČ

@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "historie/Švehlovy vládní kabinety.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "242a2356d1bda0b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "historie/Ústava a vznik KSČ.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "40989a7d676c5241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "historie/Konsolidace ČSR.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "historie/Švehlovy vládní kabinety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "historie/Švehlovy vládní kabinety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "historie/Švehlovy vládní kabinety.md"
               }
             }
           },
@@ -147,7 +173,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -156,22 +181,24 @@
       "command-palette:Open command palette": false,
       "webpage-html-export:Export Vault to HTML": false,
       "open-vscode:VSCode": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "81ddfe015560bc6f",
   "lastOpenFiles": [
     "Index.md",
+    "historie/Ústava a vznik KSČ.md",
+    "historie/Švehlovy vládní kabinety.md",
+    "historie/Konsolidace ČSR.md",
+    "fyzika/3.2 Kmitání.md",
+    "historie/Nacistická vláda v Německu.md",
     "zsv/Evropská integrace.md",
     "mluvnice/Slovesa.md",
-    "historie/Švehlovy vládní kabinety.md",
-    "historie/Nacistická vláda v Německu.md",
-    "fyzika/3.2 Kmitání.md",
     "biologie/8 Metabolismus.md",
     "biologie/10 Kožní soustava.md",
     "fyzika/3.2.p Příklady, odvození.md",
     "historie/Velká hospodářská krize.md",
-    "historie/Konsolidace ČSR.md",
     "historie/Italský fašismus.md",
     "fyzika/Untitled.md",
     "literatura/Generace buřičů.md",
@@ -194,7 +221,6 @@
     "_dev/attachments/Pasted image 20240124115306.png",
     "biologie/9 Vylučovací soustava.md",
     "fyzika/3.2 Kmitání jako zvl. případ period. pohybů.md",
-    "historie/Ústava a vznik KSČ.md",
     "biologie/7 Trávící soustava.md",
     "_dev/attachments/Pasted image 20240118091908.png",
     "_dev/attachments/3.2 Kmitání jako zvl. případ period. pohybů18-01-2024_09_15_48.excalidraw.svg",

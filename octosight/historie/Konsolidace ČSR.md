@@ -11,28 +11,28 @@
 # Slovensko
 ---
 - Zpočátku obsazeno maďarskými vojsky
-	- Paříž listopad 1918 dohodnzta demarkační čára mezi \sL a maďarskem  ${\ \longrightarrow\ }$ čs legonáři pal vytlačili \maďary za tuto čáru - leden 1919
-- Ministr pro Slovensko - Vavro Šrobár
-- Slovenský ludová strana do opozice
+	- Paříž listopad 1918 dohodnuta demarkační čára mezi SL a maďarskem  ${\ \longrightarrow\ }$ čs legonáři pal vytlačili Maďary za tuto čáru - leden 1919
+- Ministr pro Slovensko - ==Vavro Šrobár==
+- Slovenská ludová strana do opozice
 
-## Podkarpatský Rus - Zakarpatský Ukrajina
+## Podkarpatská Rus - Zakarpatská Ukrajina
 - původně pod Maďarskem
-- listopad 1918 referendum - ==plebiscit== o připojení k ČSR rozhodl pro společný stát s Řechy a Slováky  ${\ \longrightarrow\ }$ Užhorod pak obsaze čs. legiemi
+- listopad 1918 referendum - ==plebiscit== o připojení k ČSR rozhodl pro společný stát s Čechy a Slováky  ${\ \longrightarrow\ }$ Užhorod pak obsazen čs. legiemi
 
 # Polsko
 ---
 ## Konflikt s Pl o Těšínsko, Oravu a Spiš
 
-- Pl obsadilo v listopadu 1918 území Těšínska, Oravy a Spiše  ${\ \longrightarrow\ }$ leden 1919 následoval pochd šs. legií z Itálie a obsazené Bohumína (po těžkých bojích) i Karviní a Těšína
+- Pl obsadilo v listopadu 1918 území Těšínska, Oravy a Spiše  ${\ \longrightarrow\ }$ leden 1919 následoval pochod čs. legií z Itálie a obsazení ==Bohumína== (po těžkých bojích) i ==Karviní== a ==Těšína==
 - Pl se stáhli za Vislu (měli jsme Fr velitele)
-- územéí rozdělěno Raou velvyslnců r. 1920 tak, jk je dodnes
+- území rozděleno rukou velvyslanců r. 1920 tak, jak je dodnes
 - Těšín roztržen
 
 # ČSR
 ---
-## Národního shromáždění
+## Národní shromáždění
 - zasedalo 14.11.1918
-Prohlásilo:
+- Prohlásilo:
 	- Habsbursko-lotrinskou dynastii za sesazenou
 	- zrušení šlechtických titulů - _"když už tak kníže ty vole"_
 	- prezidentem TGM
@@ -47,16 +47,18 @@ Prohlásilo:
 | financí      | Alois Rašín              |
 | zemděleství  | Antonín Švehla           |
 
-- M.R. Štefánik zahynul při přistání vBratislavě v květnu 1919.
+- M.R. Štefánik zahynul při přistání v Bratislavě v květnu 1919.
 - _Prý by ale zemřel do měsíce vyčerpáním_
 
 ## Národnostní situace
 
-7 mil Čechů
-3 mil Němců
-2 mil Slováků
-750.000 Maďarů
-500.000 Rusínů
+| N       | Národnost |
+| ------- | --------- |
+| 7 mil   | čs        |
+| 3 mil   | NE        |
+| 2 mil   | SL        |
+| 750.000 | Maďaři    |
+| 500.000 | Rusíni    |
 
 - proto ==idea československého národa==
 

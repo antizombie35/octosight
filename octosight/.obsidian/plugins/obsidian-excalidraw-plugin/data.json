@@ -84,7 +84,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "2.0.16",
+  "previousRelease": "2.0.18",
   "showReleaseNotes": true,
   "showNewVersionNotification": false,
   "latexBoilerplate": "\\color{blue}",
@@ -723,5 +723,6 @@
       }
     }
   },
-  "slidingPanesSupport": false
+  "slidingPanesSupport": false,
+  "areaZoomLimit": 1
 }
