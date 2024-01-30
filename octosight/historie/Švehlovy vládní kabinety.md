@@ -13,7 +13,7 @@ Důsledky atentátu:
 
 Fašismus u nás:
 - **český**: 1926 vznikla Národní obec fašistická - v řele ==Radola Gajda==
-- **slovenský**: ==Hlinkova ludová strana== měla radikální křídlo ==Vojtěcha Tuky== - chtěl samosprávu pro Sl (později v Tisově Slovenském státě)
+- **slovenský**: ==Hlinkova ludová strana== měla radikální křídlo ==Vojtěcha Tuky== - chtěl samosprávu pro Sl.
 - **německý** - ==DNSAP== v pohraničí. Na rozdíl od NE argrárníkůa soc.dem nespolupracovala s čs. vládou
 
 # Spory I. Švehlovy vlády
