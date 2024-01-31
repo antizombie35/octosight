@@ -33,6 +33,7 @@
   "filesToExport": [
     [
       "biologie/10 Kožní soustava.md",
+      "biologie/11 Hormonální soustava.md",
       "biologie/6 Dýchací soustava.md",
       "biologie/7 Trávící soustava.md",
       "biologie/8 Metabolismus.md",
@@ -45,7 +46,10 @@
       "fyzika/2.6 Fázový diagram.md",
       "fyzika/3.1 Periodický pohyb.md",
       "fyzika/3.2 Kmitání.md",
+      "fyzika/3.3 Počáteční fáze kmitání.md",
+      "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
       "fyzika/Zkratky.md",
+      "historie/Hospodářská krize v ČSR.md",
       "historie/Italský fašismus.md",
       "historie/Konsolidace ČSR.md",
       "historie/Nacistická vláda v Německu.md",

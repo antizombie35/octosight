@@ -1,4 +1,4 @@
-- Integrace
+ - Integrace
 	- spojování do celku
 	 - po WWII (1945 konec)  ${\ \longrightarrow\ }$ prevence
 - ekonomické vyčerpání všech
@@ -25,7 +25,7 @@ FR, Belgie Nizozemsko, Německo
 
 # Římské smlouvy
 ---
-27\. 3. 1957 – podepsány stávajícími členy dvě tzv. ==Římské smlouvy== (1958) a zakládaly:
+27\. 3. 1957 - podepsány stávajícími členy dvě tzv. ==Římské smlouvy== (1958) a zakládaly:
 - EUROATOM = Evrop spol pro atomovou energii (atom výzkum)
 - EHS = Evr. hospodářské společnství (celní unie)
 
@@ -35,7 +35,7 @@ FR, Belgie Nizozemsko, Německo
 = podpis Slučovací smlouvy
 slučovací smlouva vznikla v roce 1965  ${\ \longrightarrow\ }$ 1367 platnost
 - ESUO, EHS, EUROATOM  ${\ \longrightarrow\ }$ Evropská 
-	- **Komise** – zástupci členských států, není stálý, jen když se něco děje
+	- **Komise** - zástupci členských států, není stálý, jen když se něco děje
        - **Shromáždění** (později Evropský parlament) - zástupci národních parlamentů
        - **Rada ministrů** - ministři vlád, výkonný orgán
 
@@ -53,14 +53,14 @@ Nejpřínosnější pro další integraci bylo ==EHS== = Evropské hospodářsk�
 - Pro prodání zboží v ES zboží z nečlenské země, musí zaplatit ==jednotné clo==
 
 - 70. a 80. léta 20. století směřují k ==jednotnému vnitřnímu trhu==
- - 1973 - první rozšíření Evropského společenství (ES) – vstup ==VB, Irska, Dánska==
+ - 1973 - první rozšíření Evropského společenství (ES) - vstup ==VB, Irska, Dánska==
 - 1979 - první přímé volby do ==Evropského parlamentu==
 
 # Rozšíření evropského společenství
 ---
-- 1981 – vstup ==Řecka==
-- 1986 – vstup ==Španělska== a ==Portugalska==
-- 1985 – ==schengenská dohoda==
+- 1981 - vstup ==Řecka==
+- 1986 - vstup ==Španělska== a ==Portugalska==
+- 1985 - ==schengenská dohoda==
 - 
 ## Schengenská dohoda
 - kvalitativní prohloubení integrace znamenalo vytvoření ==Schengenského prostoru==
@@ -85,61 +85,57 @@ Nejpřínosnější pro další integraci bylo ==EHS== = Evropské hospodářsk�
 
 - 3.10.1990 další rozšíření ES - sjednocení NE.
 
-- 1. 10. 1990 - další územní rozšíření ES – na základě kladného stanoviska vítězných mocností 2. světové války došlo k historickému okamžiku – SJEDNOCENÍ Německa 
+- 1. 10. 1990 - další územní rozšíření ES - na základě kladného stanoviska vítězných mocností 2. světové války došlo k historickému okamžiku - SJEDNOCENÍ Německa 
 
-- MAASTRICHTSKÁ SMLOUVA – SMLOUVA O EU (1. 11. 1993)
+- MAASTRICHTSKÁ SMLOUVA - SMLOUVA O EU (1. 11. 1993)
 
    - mezník v procesu evropské integrace: smlouva zakládá ==Evropskou unii==, která zaměřuje svou činnost do tří oblastí - tří pilířů:
   1. pilíř - ==evropská společenství== - jednotná měnová unie kromě Dánska a VB
   2. pilíř - společná ==zahraniční== a ==bezpečnostní== politika
   3. pilíř - ==policejní== a ==soudní== spolupráce ve věcech trestních
  
-- 1993 – ==KODAŇSKÁ KRITÉRIA== - ==evropská rada== v červnu ==1993== v ==Kodani== ustanovila požadavky, které je nutné splnit, aby se země mohla stát členem EU.
+- 1993 - ==KODAŇSKÁ KRITÉRIA== - ==evropská rada== v červnu ==1993== v ==Kodani== ustanovila požadavky, které je nutné splnit, aby se země mohla stát členem EU.
 
-  - POLITICKÁ KRITÉRIA - stabilní instituce, demokracie, právní stát, dodržování lidských práv a menšin
+- POLITICKÁ KRITÉRIA - stabilní instituce, demokracie, právní stát, dodržování lidských práv a menšin
 
-  - EKONOMICKÁ KRITÉRIA - fungující tržní ekonomika, schopnost vypořádání se s konkurenčními tlaky, vynutitelnost práva, cenová stabilita udržitelnost veřejných financí
+- EKONOMICKÁ KRITÉRIA - fungující tržní ekonomika, schopnost vypořádání se s konkurenčními tlaky, vynutitelnost práva, cenová stabilita udržitelnost veřejných financí
 
-  - PRÁVNÍ ŘÁD EU - začlenění legislativy EU do národní legislativy
-#konec
-- 1995 – rozšíření o _______________________________________
+- PRÁVNÍ ŘÁD EU - začlenění legislativy EU do národní legislativy
 
-- 1997 – Amsterodamská smlouva (v platnosti od 1999) – ______________________
+- 1995 - rozšíření o Rakousko, Švédsko, Finsko
+- 1999 - Amsterodamská smlouva - ==základní práva občanů== EU
+- 2002 - zavedení eura ve 12 členských státech
+- 2004 - rozšíření EU o 10 členských států (==ČR==)
+- 2007 - vstup Rumunska a Bulharska
+- 2009 - ==Lisabonská smlouva== - _možnost vystoupení, zmenšení suverenity_
+- 2013 - vstup ==Chorvatska== do EU
+- 2016 - ==referendum VB== - poměr 52 % - 48 % hlasů pro vystoupení z EU
+- ==31. ledna 2020== - VB vystoupilo z EU
 
-______________________________
+- Kandidátské země: ==Albánie==, ==Černá Hora==, ==Srbsko==, ==Turecko==
 
-- 2002 – zavedení eura ve 12 členských státech
+#todo 5 ke každé oblasti
+# Význam EU
+---
+## Pro občana
+### Pozitiva
+- volný ==pohyb== a ==pobyt== a ==studium==
+- ==konkurence firem== ze zahraničí
+### Negativa
 
-- 2004 – _______________________________________________________________
+## Pro vesnici/město
 
-- 2007 – vstup _______________________________________________
+## ČR
+### Pozitiva
+- možnost využití evropských agentur _(ev. úřad pro bezpečnost potravin)_
+### Negativa
+- odvod peněz do unijího rozpočtu
+- konkurence firem ze zahraničí
+- harmonizace standardů
+- povinnost implementace ev. regulací
+- menší suverenita
+## Evropu
 
-- 2009 – začala platit __________________ smlouva
-
-- 2012 – předání Nobelovy ceny míru představitelům EU
-
-- 2013 – vstup Chorvatska do EU
-
-- 2016 – obyvatelé Spojeného království hlasují v referendu v poměru 52 % ku  
-48 % hlasů pro vystoupení z EU
-
-- 2016 – půlročního předsednictví se ujímá Slovensko
-
-- 2017 – premiérka Spojeného království Theresa Mayová informuje Evropskou radu o úmyslu Spojeného království vystoupit z EU, tzn. zahájení procesu vystoupení
-
-- 2019 – Euro slaví 20 let své existence
-
-- 2019 – se konají volby do Evropského parlamentu, zvoleno 751 poslanců, 50 % účast občanů EU
-
-- 2019 – Evropský parlament volí předsedkyni Evropské komise Ursulu von der Leyenovou
-
-- 30. ledna 2020 – EU ratifikovala Dohodu o vystoupení
-
-- 31. ledna 2020 – Spojené království vystoupilo z EU
-
-- 1. 1. 2023 – vstoupilo Chorvatsko do eurozóny
-
-- …
 
 
 > [!tldr]

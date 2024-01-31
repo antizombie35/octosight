@@ -17,138 +17,71 @@
 
 # I. Komplex hypotalamohypofyzární
 ---
-- ==Hypotalamus== = část mezimozku
+- ==Hypotalamus== = část ==mezimozku==
 - ==Hypofýza==
 	- připojena stopkou k hypotalamu
 	- 2 laloky: přední = ==adenohypofýza==, zadní = ==neurohypofýza==
 
-#konec
-- Neurosekreční buňky hypotalamu produkují:
+#img 3x neurosekreční buňky hypotalamu
 
-1)Regulační hormony – řídí činnost adenohypofýzy:
-
-a)stimulační – liberiny
-
-b)inhibující – statiny
-
-  (adenohypofýza pak produkuje další hormony, které většinou ovlivňují činnost jiných žláz - adenohypofyzární h.)
-
-2)Neurohypofyzární hormony – hromadí se v neurohypofýze – ta neprodukuje hormony
-
-- 
-
-- 
+- ==Neurosekreční== buňky hypotalamu produkují:
+	- **==Regulační hormony==** - řídí činnost adenohypofýzy:
+		- **stimulační** - ==liberiny==
+		- **inhibující** - ==statiny==
+		  -_(adenohypofýza pak produkuje další hormony, které většinou ovlivňují činnost jiných žláz - adenohypofyzární h.)_
+	- Neurohypofyzární hormony - hromadí se v neurohypofýze - ta neprodukuje hormony
 
 - Neurohypofyzární hormony:
+	- ==**Antidiuretický hormon**== - ==ADH==
+		- ovlivňuje propustnost ledvinových kanálků pro vodu a její zpětné vstřebávání z moče do krve
+	- Oxytocin
+		- ovlivňuje ==stahy hladké svaloviny dělohy== a ==mlékovodů==
+		- _(pravděpodobně má vliv na mateřské chování)_
+		- _(u mužů usnadňuje ejakulaci)_
 
-1.Antidiuretický hormon – ADH
+## Adenohypofýza produkuje
+---
+- TSH, ACTH, [[#Gonadotropní hormony]], [[#Endorfiny]] a jiné horm. žlázy - ==tropní hormony==)
+- ==**Růstový hormon**== - somatotropní hormon
+	- podporuje metabolismus bílkovin, tuků, sacharidů a minerálních látek
 
-- ovlivňuje propustnost ledvinových kanálků pro vodu a její zpětné vstřebávání z moče do krve
+### Hormony, které řídí činnost jiných žláz
+- **==Prolaktin==**
+	- stimuluje rozvoj mléčných žláz a vyměšování mléka - řídí ==laktaci==
+- **==Thyreotropní hormon==** - ==TSH==
+	- řídí činnost ==štítné žlázy==
+- **==ACTH==**
+	- řídí činnost ==kůry nadledvin==
 
-- pokud má organismus nedostatek vody ® zvýšené vylučování hormonu ® snížení vylučování vody močí
+### Gonadotropní hormony
+- ovlivňují růst a činnost ==pohlavních žláz==
+- **==FSH==**
+	- ovlivňuje torbu pohlavních buněk
+- **==Luteotropin==** - luteinizační hormon - LH
+	- udržuje těhotenství
+	- produkce testosteronu
+### Endorfiny
+- ovlivňují mozek
+- hormony štěstí
+- snižují bolest
 
-- pokud má organismus nadbytek vody ® snížení vylučování hormonu ® zvýšené vylučování vody močí
+# II. Epifýza - šišinka
+---
+- epifýza - šišticovité tělísko připojené ke stropu ==mezimozku==
+- produkuje ==Melatonin==
+	- ovlivňuje ==cyklus bdění a spánku==, ==biorytmy==, tlumí funkci pohlavních orgánů v dětství
+	- tvoří se převážně ==v noci==
+	- produkce je ovlivněna ==délkou světelného dne==
 
-- při hypofunkci ® žíznivka ® dehydratace organismu
+# III. Štítná žláza
+---
+- vytváří Tyroxin (==T4==) a ==T3==
+	- ovlivňuje oxidační procesy v buňkách, ==metabolismus==
+	- pro jejich tvorbu nutný dostatek ==jódu==
 
-- 
-
-- 
-
-2.Oxytocin
-
-- ovlivňuje stahy hladké svaloviny dělohy a mlékovodů
-
-- pravděpodobně má vliv na mateřské chování
-
-- (u mužů usnadňuje ejakulaci)
-
-- 
-
-- Adenohypofýza produkuje:
-
-  (hormony 3.-6. ovlivňují jiné horm. žlázy – „tropní“ hormony)
-
-1.Růstový hormon – somatotropní hormon
-
-- podporuje metabolismus bílkovin, tuků, sacharidů a minerálních látek
-
-- při hyperfunkci v dětství ® obří vzrůst = gigantismus
-
-- při hypofunkci v dětství ® trpasličí vzrůst = nanismus
-
-- při hyperfunkci po ukončení růstu ® akromegalie = zvětšování článků prstů, čelní kosti, dolní čelisti, vnitřních orgánů
-
-- 
-
-- 
-
-- Hormony, které řídí činnost jiných žláz:
-
-2.Prolaktin
-
-- stimuluje rozvoj mléčných žláz a vyměšování mléka – řídí laktaci
-
-3.Thyreotropní hormon – TSH
-
-- řídí činnost štítné žlázy
-
-4.Adrenokortikotropní hormon – ACTH
-
-- řídí činnost kůry nadledvin
-
-- 
-
-- 
-
-- Gonadotropní hormony – ovlivňují růst a činnost pohlavních žláz:
-
-5.Folikuly stimulující hormon – FSH
-
-- u žen ovlivňuje růst folikulů a produkci ženských pohlavních hormonů
-
-- u mužů ovlivňuje tvorbu spermií
-
-6.Luteotropin - luteinizační hormon – LH
-
-- u žen podporuje růst žlutého tělíska a produkci hormonů žlutého tělíska
-
-- u mužů produkci testosteronu
-
-- 
-
-- 
-
-- 
-
-- II. Epifýza – nadvěsek mozkový - šišinka
-
-- epifýza – šišticovité tělísko připojené ke stropu mezimozku, produkuje:
-
-- Melatonin
-
-- ovlivňuje cyklus bdění a spánku, biorytmy, tlumí funkci pohlavních orgánů
-
-- tvoří se převážně v noci
-
-- produkce je ovlivněna délkou světelného dne
-
-- III. štítná žláza
-
-- III. Štítná žláza
-
-1.Tyroxin (T4) + T3
-
-- ovlivňuje oxidační procesy v buňkách
-
-- pro jejich tvorbu nutný dostatek jódu
-
-- hypofunkce ® hypotyreóza – často při nedostatku jódu - v dospělosti – snížený metabolismus, únava, útlum činnosti CNS, snížení tělesné teploty a tepové frekvence, zadržování vody v těle ® myxedém, zvětšená štítná žláza ® struma, v období plodu a mládí ® kretenismus
-
-- hyperfunkce – nadměrně zvýšený metabolismus, oční příznaky ® Basedowova choroba
-
-- 
-
+- hypofunkce ${\ \longrightarrow\ }$ hypotyreóza - často při nedostatku jódu - v dospělosti - snížený metabolismus, únava, útlum činnosti CNS, snížení tělesné teploty a tepové frekvence, zadržování vody v těle ${\ \longrightarrow\ }$ myxedém, zvětšená štítná žláza ${\ \longrightarrow\ }$ ==struma==, v období plodu a mládí ${\ \longrightarrow\ }$ ==kretenismus==
+- hyperfunkce - nadměrně zvýšený metabolismus, ==oční příznaky== ${\ \longrightarrow\ }$ ==Basedowova choroba==
+#konec
 2.Kalcitonin
 
 - snižuje hladinu vápenatých a fosforečných iontů v krvi
@@ -161,9 +94,9 @@ IV. Příštitná tělíska (4)
 
 - zvyšuje hladinu vápenatých a fosforečných iontů v krvi, podporuje uvolňování z kostí v případě potřeby
 
-- hypofunkce ® křeče dýchacích svalů
+- hypofunkce ${\ \longrightarrow\ }$ křeče dýchacích svalů
 
-- hyperfunkce ® odvápnění kostí
+- hyperfunkce ${\ \longrightarrow\ }$ odvápnění kostí
 
 - 
 
@@ -175,9 +108,9 @@ IV. Příštitná tělíska (4)
 
 - snižuje hladinu glukózy v krevní plazmě, stimuluje vstup glukózy do buněk
 
-- hypofunkce ® cukrovka – hromadění glukózy v krvi ® hyperglykémie, nedostatek glukózy v buňkách, vylučování z těla močí, vazba glukózy na bílkoviny ® poškozování orgánů (cév, ledvin, oční sítnice), zastavení tvorby svalového glykogenu, odbourávání jaterního glykogenu, snížená tvorba bílkovin – může nastat hyperglykemický šok
+- hypofunkce ${\ \longrightarrow\ }$ cukrovka - hromadění glukózy v krvi ${\ \longrightarrow\ }$ hyperglykémie, nedostatek glukózy v buňkách, vylučování z těla močí, vazba glukózy na bílkoviny ${\ \longrightarrow\ }$ poškozování orgánů (cév, ledvin, oční sítnice), zastavení tvorby svalového glykogenu, odbourávání jaterního glykogenu, snížená tvorba bílkovin - může nastat hyperglykemický šok
 
-- hyperfunkce ® hypoglykémie ® vliv na CNS, celkový metabolický rozvrat
+- hyperfunkce ${\ \longrightarrow\ }$ hypoglykémie ${\ \longrightarrow\ }$ vliv na CNS, celkový metabolický rozvrat
 
 - 
 
@@ -199,7 +132,7 @@ IV. Příštitná tělíska (4)
 
 - řídí přeměny všech živin
 
-- hypofunkce ® Addisonova choroba ® vyčerpanost, zažívací potíže, hubnutí, bronzová kůže, pokles krevního tlaku, pokles hladiny Na+ a vzestup hladiny K+ ® smrt
+- hypofunkce ${\ \longrightarrow\ }$ Addisonova choroba ${\ \longrightarrow\ }$ vyčerpanost, zažívací potíže, hubnutí, bronzová kůže, pokles krevního tlaku, pokles hladiny Na+ a vzestup hladiny K+ ${\ \longrightarrow\ }$ smrt
 
 - léčebné účinky: protizánětlivé
 
@@ -215,7 +148,7 @@ IV. Příštitná tělíska (4)
 
 3. androgeny, estrogeny
 
-- při nadprodukci ® změna druhotných pohlavních znaků (maskulinizace, feminizace)
+- při nadprodukci ${\ \longrightarrow\ }$ změna druhotných pohlavních znaků (maskulinizace, feminizace)
 
 - 
 
@@ -229,7 +162,7 @@ IV. Příštitná tělíska (4)
 
 - rozšíření cév ve svalech, podporuje srdeční činnost, zlepšuje ventilaci plic
 
-- podporuje štěpení glykogenu v játrech i svalech a rozklad tuků v tukové tkáni → tělo tak získává rychle upotřebitelné zdroje energie → adrenalin připravuje tělo na zvýšenou námahu – uplatňuje se při stresové reakci
+- podporuje štěpení glykogenu v játrech i svalech a rozklad tuků v tukové tkáni → tělo tak získává rychle upotřebitelné zdroje energie → adrenalin připravuje tělo na zvýšenou námahu - uplatňuje se při stresové reakci
 
 2. noradrenalin
 
@@ -239,7 +172,7 @@ IV. Příštitná tělíska (4)
 
 - Původní význam účinku těchto hormonů:
 
-- obranné (poplachové) reakce organismu ® aktivace katabolismu kosterních svalů, činnosti srdce a CNS, v současnosti – zátěž má častěji emoční charakter ® „stará“ reakce neodpovídá potřebě ® adaptační nemoci (např. vředy, vysoký krevní tlak)
+- obranné (poplachové) reakce organismu ${\ \longrightarrow\ }$ aktivace katabolismu kosterních svalů, činnosti srdce a CNS, v současnosti - zátěž má častěji emoční charakter ${\ \longrightarrow\ }$ „stará“ reakce neodpovídá potřebě ${\ \longrightarrow\ }$ adaptační nemoci (např. vředy, vysoký krevní tlak)
 
 - 
 
@@ -251,13 +184,13 @@ IV. Příštitná tělíska (4)
 
 - Testosteron
 
-- produkují ho Leydigovy buňky – podporuje rozvoj samčích pohlavních orgánů a znaků, způsobuje typické samčí chování, má anabolický účinek (stimulace proteosyntézy)
+- produkují ho Leydigovy buňky - podporuje rozvoj samčích pohlavních orgánů a znaků, způsobuje typické samčí chování, má anabolický účinek (stimulace proteosyntézy)
 
 - 
 
 - Vaječníky
 
-- produkují estrogeny – např. estradiol
+- produkují estrogeny - např. estradiol
 
 - tvoří se do vzniku žlutého tělíska
 
@@ -273,7 +206,7 @@ IV. Příštitná tělíska (4)
 
 - Žluté tělísko
 
-- produkuje gestageny – např. progesteron
+- produkuje gestageny - např. progesteron
 
 - brzdí zrání dalších folikulů
 
