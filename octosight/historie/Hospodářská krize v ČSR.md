@@ -1,7 +1,7 @@
 - 1930 - 1937
 - ČSR - středně rozvinutý stát
 - V národním důchodu na obyvatele ČSR předstihla ==IT== a ==Ra==
-- - Zemědělské ale SL a Podkarpatská Rus.
+ - Zemědělské ale SL a Podkarpatská Rus.
 - Tahouni:
 	- Škoda
 	- Baťa
@@ -32,6 +32,8 @@
 ## Pohraničí
 - více napadeno krizí - tamní lehký průmysl - proto je vyhazovali nejdřív
 - vr.1933 zákaz DNSAP - přelila se do ==Sudetoněmecké strany== - ==SdP==.
+
+%%sudeto-doiche partaiche%%
 
 ## Slovensko
 - Hlinkova lidová strana bojuje za autonomii SL

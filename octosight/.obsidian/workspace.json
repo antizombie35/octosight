@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ea3d000592d8520",
+            "id": "4cc6049cc0976f70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
+                "file": "historie/Léta 1935 - 38 v ČSR.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
+                "file": "historie/Léta 1935 - 38 v ČSR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
+                "file": "historie/Léta 1935 - 38 v ČSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md"
+                "file": "historie/Léta 1935 - 38 v ČSR.md"
               }
             }
           },
@@ -159,8 +159,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ea3d000592d8520",
+  "active": "4cc6049cc0976f70",
   "lastOpenFiles": [
+    "sloh/Dialog.md",
+    "historie/Léta 1935 - 38 v ČSR.md",
+    "historie/Hospodářská krize v ČSR.md",
+    "Index.md",
+    "mluvnice/Slovesa.md",
     "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
     "fyzika/3.3 Počáteční fáze kmitání.md",
     "fyzika/3.2 Kmitání.md",
@@ -170,7 +175,6 @@
     "historie/Ústava a vznik KSČ.md",
     "historie/Švehlovy vládní kabinety.md",
     "historie/Konsolidace ČSR.md",
-    "historie/Hospodářská krize v ČSR.md",
     "biologie/10 Kožní soustava.md",
     "zsv/Untitled.md",
     "zsv/Trestní právo.md",
@@ -183,15 +187,11 @@
     "excalidraw 30-01-2024_11_39_11.excalidraw.svg",
     "excalidraw 30-01-2024_11_39_11.excalidraw.excalidraw",
     "biologie/9 Vylučovací soustava.md",
-    "Index.md",
-    "mluvnice/Slovesa.md",
     "historie/Nacistická vláda v Německu.md",
     "biologie/8 Metabolismus.md",
     "fyzika/3.2.p Příklady, odvození.md",
     "historie/Velká hospodářská krize.md",
     "historie/Italský fašismus.md",
-    "literatura/Generace buřičů.md",
-    "literatura/Česká moderna a dekadence.md",
     "excalidraw 25-01-2024_09_10_49.excalidraw.excalidraw",
     "excalidraw 25-01-2024_09_10_49.excalidraw.svg",
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.excalidraw",
