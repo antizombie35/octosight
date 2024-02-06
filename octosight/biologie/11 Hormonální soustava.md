@@ -76,104 +76,64 @@
 # III. Štítná žláza
 ---
 - vytváří Tyroxin (==T4==) a ==T3==
-	- ovlivňuje oxidační procesy v buňkách, ==metabolismus==
-	- pro jejich tvorbu nutný dostatek ==jódu==
+## Tyroxin (==T4==) a ==T3==
+- ovlivňuje oxidační procesy v buňkách, ==metabolismus==
+- pro jejich tvorbu nutný dostatek ==jódu==
 
 - hypofunkce ${\ \longrightarrow\ }$ hypotyreóza - často při nedostatku jódu - v dospělosti - snížený metabolismus, únava, útlum činnosti CNS, snížení tělesné teploty a tepové frekvence, zadržování vody v těle ${\ \longrightarrow\ }$ myxedém, zvětšená štítná žláza ${\ \longrightarrow\ }$ ==struma==, v období plodu a mládí ${\ \longrightarrow\ }$ ==kretenismus==
 - hyperfunkce - nadměrně zvýšený metabolismus, ==oční příznaky== ${\ \longrightarrow\ }$ ==Basedowova choroba==
-#konec
-2.Kalcitonin
 
+#todo text tu chybí "u zdravého člověka"
+
+## Kalcitonin
 - snižuje hladinu vápenatých a fosforečných iontů v krvi
 
-- 
+# IV. Příštitná tělíska (4)
+---
+- produkce ==Parathormon==
+	- zvyšuje hladinu ==vápenatých a fosforečných iontů v krvi==, podporuje ==uvolňování z kostí== v případě potřeby
+	- hypofunkce ${\ \longrightarrow\ }$ křeče dýchacích svalů
+	- hyperfunkce ${\ \longrightarrow\ }$ odvápnění kostí
 
-IV. Příštitná tělíska (4)
-
-- Parathormon
-
-- zvyšuje hladinu vápenatých a fosforečných iontů v krvi, podporuje uvolňování z kostí v případě potřeby
-
-- hypofunkce ${\ \longrightarrow\ }$ křeče dýchacích svalů
-
-- hyperfunkce ${\ \longrightarrow\ }$ odvápnění kostí
-
-- 
-
-- 
-
-- V. Langerhansovy ostrůvky slinivky břišní
-
-1.Inzulin (objeven 1923)
-
-- snižuje hladinu glukózy v krevní plazmě, stimuluje vstup glukózy do buněk
-
-- hypofunkce ${\ \longrightarrow\ }$ cukrovka - hromadění glukózy v krvi ${\ \longrightarrow\ }$ hyperglykémie, nedostatek glukózy v buňkách, vylučování z těla močí, vazba glukózy na bílkoviny ${\ \longrightarrow\ }$ poškozování orgánů (cév, ledvin, oční sítnice), zastavení tvorby svalového glykogenu, odbourávání jaterního glykogenu, snížená tvorba bílkovin - může nastat hyperglykemický šok
-
+# V. Langerhansovy ostrůvky slinivky břišní
+---
+## Inzulin
+- (objeven 1923)
+- produkován B buňkami Langerhanzových ostrůvků
+- snižuje hladinu ==glukózy== v krevní plazmě, stimuluje vstup glukózy do buněk 
 - hyperfunkce ${\ \longrightarrow\ }$ hypoglykémie ${\ \longrightarrow\ }$ vliv na CNS, celkový metabolický rozvrat
 
-- 
+## Glukagon
+- ==antagonista== [[#Inzulin|inzulínu]]
+- produkován A buňkami Langerhanzových ostrůvků
+- ==zvyšuje hladinu glukózy v krvi== štěpením glykogenu z jater
 
-- 
+# VI. Nadledviny
+---
+## Kůra (==kortex==)
+1. glukokortikoidy
+	- nejdůležitější je ==kortizol==
+	- řídí ==přeměny živin== _(všech)_
+	- hypofunkce ${\ \longrightarrow\ }$ ==Addisonova choroba== ${\ \longrightarrow\ }$ vyčerpanost, zažívací potíže, hubnutí, ==bronzová kůže==, pokles krevního tlaku, pokles hladiny  ${\ Na^+\ }$ a vzestup hladiny  ${\ K^+\ }$ ${\ \longrightarrow\ }$ smrt
+	- léčebné účinky: protizánětlivé - ==koritkoidy==
 
-- Glukagon
+2. mineralokortikoidy
+	- nejdůležitější je ==aldosteron==
+	- řídí zpětné ==vstřebávání==  ${\ Na^+\ }$ a ==vylučování==  ${\ K^+\ }$ v ==ledvinových== kanálcích
 
-- antagonista inzulínu
-
-- zvyšuje hladinu glukózy v krvi štěpením glykogenu z jater
-
-- VI. Nadledviny
-
-- kůra:
-
-1. glukokortikoidy:
-
-- nejdůležitější je kortizol
-
-- řídí přeměny všech živin
-
-- hypofunkce ${\ \longrightarrow\ }$ Addisonova choroba ${\ \longrightarrow\ }$ vyčerpanost, zažívací potíže, hubnutí, bronzová kůže, pokles krevního tlaku, pokles hladiny Na+ a vzestup hladiny K+ ${\ \longrightarrow\ }$ smrt
-
-- léčebné účinky: protizánětlivé
-
-- 
-
-2. mineralokortikoidy:
-
-- nejdůležitější je aldosteron
-
-- řídí zpětné vstřebávání Na+ a vylučování K+ v ledvinových kanálcích
-
-- 
-
-3. androgeny, estrogeny
-
-- při nadprodukci ${\ \longrightarrow\ }$ změna druhotných pohlavních znaků (maskulinizace, feminizace)
-
-- 
-
-- dřeň:
-
-- hormony ovlivňují kardiovaskulární činnost, hladké svalstvo, …
-
-- jejich tvorba řízena z CNS pomocí sympatických nervových vláken
+## Dřeň
+- hormony ovlivňují ==kardiovaskulární činnost==, hladké svalstvo
+- jejich tvorba řízena z CNS pomocí sympatických ==nervových vláken== - ==autonomní== nervy
 
 1. adrenalin
-
-- rozšíření cév ve svalech, podporuje srdeční činnost, zlepšuje ventilaci plic
-
-- podporuje štěpení glykogenu v játrech i svalech a rozklad tuků v tukové tkáni → tělo tak získává rychle upotřebitelné zdroje energie → adrenalin připravuje tělo na zvýšenou námahu - uplatňuje se při stresové reakci
+	- ==rozšíření cév== ve svalech, podporuje ==srdeční činnost==, zlepšuje ==ventilaci plic==
+	- podporuje ==štěpení glykogenu== v játrech i svalech a ==rozklad tuků== v tukové tkáni  ${\ \longrightarrow\ }$ tělo tak získává rychle upotřebitelné zdroje energie  ${\ \longrightarrow\ }$ adrenalin připravuje tělo na zvýšenou námahu - uplatňuje se při ==stresové reakci==
 
 2. noradrenalin
+	- ==zúžení cév==, zvýšení ==krevního tlaku==
+	- ==obranné== (poplachové) reakce organismu ${\ \longrightarrow\ }$ aktivace ==katabolismu== kosterních svalů, činnosti srdce a CNS, v současnosti - zátěž má častěji emoční charakter ${\ \longrightarrow\ }$ „stará“ reakce neodpovídá potřebě ${\ \longrightarrow\ }$ adaptační nemoci (např. vředy, vysoký krevní tlak)
 
-- zúžení cév, zvýšení krevního tlaku
-
-- 
-
-- Původní význam účinku těchto hormonů:
-
-- obranné (poplachové) reakce organismu ${\ \longrightarrow\ }$ aktivace katabolismu kosterních svalů, činnosti srdce a CNS, v současnosti - zátěž má častěji emoční charakter ${\ \longrightarrow\ }$ „stará“ reakce neodpovídá potřebě ${\ \longrightarrow\ }$ adaptační nemoci (např. vředy, vysoký krevní tlak)
-
+#konec
 - 
 
 - 

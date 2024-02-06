@@ -32,12 +32,12 @@
   "exportPath": "C:\\antizombie35\\octosight\\html",
   "filesToExport": [
     [
+      "biologie/06 Dýchací soustava.md",
+      "biologie/07 Trávící soustava.md",
+      "biologie/08 Metabolismus.md",
+      "biologie/09 Vylučovací soustava.md",
       "biologie/10 Kožní soustava.md",
       "biologie/11 Hormonální soustava.md",
-      "biologie/6 Dýchací soustava.md",
-      "biologie/7 Trávící soustava.md",
-      "biologie/8 Metabolismus.md",
-      "biologie/9 Vylučovací soustava.md",
       "fyzika/2.1 Změny skupenství.md",
       "fyzika/2.2 Tání a tuhnutí.md",
       "fyzika/2.3 Vypařování a var.md",
@@ -53,6 +53,7 @@
       "historie/Italský fašismus.md",
       "historie/Konsolidace ČSR.md",
       "historie/Léta 1935 - 38 v ČSR.md",
+      "historie/Mnichov 1938.md",
       "historie/Nacistická vláda v Německu.md",
       "historie/Ohniska války ve světě.md",
       "historie/Rakouský fašismus a Španělsko.md",
@@ -77,6 +78,7 @@
       "sloh/Publicistický styl.md",
       "zsv/Evropská integrace.md",
       "zsv/Trestní právo.md",
+      "zsv/Význam EU.md",
       "Index.md"
     ]
   ]

@@ -115,8 +115,7 @@ definitivní moč  ${\ \longrightarrow\ }$ sběrací kanálky  ${\ \longrightar
 	- barvivo
 	- malé množství glukózy
 
-_(TOHLE UŽ NENÍ V PÍSEMCE)_
-# Onemocnění
+# Onemocnění (v pís. nebude)
 ---
 - záněty močových cest
 - močové kameny - sraženiny soli

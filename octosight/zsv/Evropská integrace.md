@@ -114,29 +114,7 @@ Nejpřínosnější pro další integraci bylo ==EHS== = Evropské hospodářsk�
 
 - Kandidátské země: ==Albánie==, ==Černá Hora==, ==Srbsko==, ==Turecko==
 
-#todo 5 ke každé oblasti
-# Význam EU
----
-## Pro občana
-### Pozitiva
-- volný ==pohyb== a ==pobyt== a ==studium==
-- ==konkurence firem== ze zahraničí
-### Negativa
-
-## Pro vesnici/město
-
-## ČR
-### Pozitiva
-- možnost využití evropských agentur _(ev. úřad pro bezpečnost potravin)_
-### Negativa
-- odvod peněz do unijího rozpočtu
-- konkurence firem ze zahraničí
-- harmonizace standardů
-- povinnost implementace ev. regulací
-- menší suverenita
-## Evropu
-
-
+[[Význam EU]]
 
 > [!tldr]
 > podstaný je kdy co vyšlo v platnost, ne kdy to podepsali

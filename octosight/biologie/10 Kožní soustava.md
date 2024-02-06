@@ -72,7 +72,8 @@ zde jsou uložena ==Vater-Paciniho tělíska== = receptory vnímání tahu a tla
 	- téměř na celém těle (s výjimkou dlaní a chodidel
 	- na hlavě poměrně silné pigmentované chlupy – vlasy (stejného typu je i obočí, vousy a ochlupení genitálií)
 
-V PÍS NEBUDE:
+# V pís nebude
+---
 - s přibývajícím věkem se ve škáře zpomaluje tvorba kolagenu a elastinu, ubývá podkožní tuk, snižují činnost mazové a potní žlázy  ${\ \longrightarrow\ }$ ztenčení kůže, ztráta její pevnosti  ${\ \longrightarrow\ }$ tvorba vrásek
 
 - většina kosmetických preparátů obsahuje kolagen a elastin
