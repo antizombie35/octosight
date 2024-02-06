@@ -49,4 +49,7 @@ LIST FROM "zsv" SORT file.ctime DESC
 ***
 <font size = "2">
 Autor neručí za žádný obsah.<br>
-</font> 
+</font>
+
+%%SYNC PLACEHOLDER
+need official index%%

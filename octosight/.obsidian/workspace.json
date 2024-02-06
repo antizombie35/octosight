@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/10 Kožní soustava.md",
-                "mode": "preview",
+                "file": "Index.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/10 Kožní soustava.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/10 Kožní soustava.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/10 Kožní soustava.md"
+                "file": "Index.md"
               }
             }
           },
@@ -161,18 +161,18 @@
   },
   "active": "346593197b469604",
   "lastOpenFiles": [
+    "Index.md",
+    "biologie/10 Kožní soustava.md",
     "zsv/Význam EU.md",
     "zsv/Evropská integrace.md",
     "literatura/Generace buřičů.md",
     "historie/Mnichov 1938.md",
     "historie/Léta 1935 - 38 v ČSR.md",
     "biologie/11 Hormonální soustava.md",
-    "biologie/10 Kožní soustava.md",
     "biologie/09 Vylučovací soustava.md",
     "biologie/08 Metabolismus.md",
     "biologie/07 Trávící soustava.md",
     "biologie/06 Dýchací soustava.md",
-    "Index.md",
     "historie/Švehlovy vládní kabinety.md",
     "zsv/Trestní právo.md",
     "sloh/Dialog.md",
