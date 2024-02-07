@@ -132,88 +132,46 @@
 2. noradrenalin
 	- ==zúžení cév==, zvýšení ==krevního tlaku==
 	- ==obranné== (poplachové) reakce organismu ${\ \longrightarrow\ }$ aktivace ==katabolismu== kosterních svalů, činnosti srdce a CNS, v současnosti - zátěž má častěji emoční charakter ${\ \longrightarrow\ }$ „stará“ reakce neodpovídá potřebě ${\ \longrightarrow\ }$ adaptační nemoci (např. vředy, vysoký krevní tlak)
+		#todo původní význam odstaveček
+# VII. Pohlavní žlázy
+---
+## Varlata (M)
+- ==testosteron==
+- produkují ho ==Leydigovy== buňky - podporuje rozvoj samčích pohlavních orgánů a znaků, způsobuje typické samčí chování, má ==anabolický== účinek (stimulace proteosyntézy)
 
-#konec
-- 
+## Vaječníky (F)
+- produkují ==estrogeny== - např. ==estradiol==
+- tvoří se do vzniku ==žlutého tělíska==
+- ovlivňují ==vývoj pohlavních orgánů==, tvorbu ==sekundárních pohlavních znaků== a vývoj ==sexuálního chování==
+- řídí zrání ==folikulů==, ==připravují ovulaci==, stimulují vývoj děložní sliznice (viz [[Pohlavní soustava]])
 
-- 
+## Žluté tělísko (F)
+- místo ve vaječníku ==vaječníku==, kde dozrálo vajíčko
+- chvilku po dozrání vajíčka, existuje pak zaniká _(dny - měsíce podle těhotenství Y/N)_
+- produkuje ==gestageny== - např. ==progesteron==
+- brzdí zrání dalších ==folikulů== (útvary na vaječnících) (další vajíčka nedozrají)
+- působí na buňky ==mléčných žláz==
+- důležitý hormon v těhotenství, od 6. měsíce je produkován ==placentou==
 
-- VII. Pohlavní žlázy
+## Plodové lůžko (==placenta==) (F)
+- existence pouze při těhotenství
+- zpočátku udržuje v činnosti [[#Žluté tělísko (F)]]
 
-- Varlata
-
-- Testosteron
-
-- produkují ho Leydigovy buňky - podporuje rozvoj samčích pohlavních orgánů a znaků, způsobuje typické samčí chování, má anabolický účinek (stimulace proteosyntézy)
-
-- 
-
-- Vaječníky
-
-- produkují estrogeny - např. estradiol
-
-- tvoří se do vzniku žlutého tělíska
-
-- ovlivňují vývoj pohlavních orgánů,
-
-  tvorbu sekundárních pohlavních znaků a vývoj sexuálního chování,
-
-- řídí zrání folikulů, připravují ovulaci, stimulují vývoj děložní sliznice
-
-  (viz pohlavní soustava)
-
-- 
-
-- Žluté tělísko
-
-- produkuje gestageny - např. progesteron
-
-- brzdí zrání dalších folikulů
-
-- působí na buňky mléčných žláz
-
-- důležitý hormon v těhotenství, od 6. měsíce je produkován placentou
-
-- 
-
-- Plodové lůžko (= placenta)
-
-- Choriogonadotropin, …
-
-- udržuje v činnosti žluté tělísko
-
-- Tkáňové hormony:
-
-- produkované trávicí soustavou (gastrointestinální hormony):
-
-- gastrin, sekretin, cholecystokinin (= CCK = pankreozymin (vylučovány většinou bb. sliznice horní části tenkého střeva)
-
+## Tkáňové hormony
+- produkované [[07 Trávící soustava|Trávící soustavou]]
+- gastrin, sekretin, cholecystokinin (= CCK = pankreozymin) _(2 uměj)_
+- vylučovány většinou bb. sliznice horní části tenkého střeva 
 - gastrin - stimuluje sekreci žaludeční šťávy
-
 - sekretin - stimuluje sekreci pankreatické šťávy
 
-- CCK vyvolává kontrakce žlučníku a relaxaci jeho svěrače, stimuluje sekreci pankreatické šťávy bohaté na enzymy. Inhibuje vyprazdňování žaludku, má trofický účinek na pankreas, zvyšuje sekreci enterokinázy, může zvyšovat motilitu tenkého střeva a tračníku, stimuluje sekreci glukagonu, přechodně zvyšuje intracelulární koncentraci Ca
-
-- 
-
-- 
-
-- produkované ledvinami:
-
-- renin, erytropoetin
-
+### produkované ledvinami
+- _(2 uměj, u každého 1 fce)_
+- renin, erytropoetin, kalcitriol
 - renin - ovlivňuje přívodní cévy glomerulů, řídí vylučování vody a iontů
-
 - erytropoetin - regulátor erytropoézy (= vývoj erytrocytů v kostní dřeni)
 
-- další:
-
-- histamin - vzniká např. v bazofilech, ovlivňuje hladké svalstvo, průdušinky a cévy (otoky), je i neurotransmiter
-
-- serotonin - vzniká v mozku - neurohormon, hormon štěstí, neurotransmiter, vliv světla
-
-- somatostatin - vzniká v hypotalamu a trávicí soustavě, inhibitor somatotropního hormonu, tlumí pocit hladu
-
-- 
-
-- 
+### Další
+- _(3 uměj, 1 činnost u JEDNOHO)_
+- ==histamin== - vzniká v ==bazofilech==, ovlivňuje hladké svalstvo, průdušinky a cévy (otoky), je i ==neurotransmiter==
+- ==serotonin== - vzniká v mozku - neurohormon, hormon štěstí, neurotransmiter, vliv světla
+- ==somatostatin== - vzniká v hypotalamu a trávicí soustavě, inhibitor somatotropního hormonu, tlumí pocit hladu

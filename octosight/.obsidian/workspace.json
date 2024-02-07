@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "literatura/Generace buřičů.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsv/Význam EU.md",
+                "file": "literatura/Generace buřičů.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsv/Význam EU.md",
+                "file": "literatura/Generace buřičů.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsv/Význam EU.md"
+                "file": "literatura/Generace buřičů.md"
               }
             }
           },
@@ -159,62 +159,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "6a1a36a626760446",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6973cffb4dbfe65b",
-        "type": "window",
-        "children": [
-          {
-            "id": "1b3cc1587a6fb276",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df921b5b9f810b92",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "zsv/Význam EU.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "df921b5b9f810b92",
+  "active": "346593197b469604",
   "lastOpenFiles": [
+    "biologie/11 Hormonální soustava.md",
+    "literatura/Generace buřičů.md",
+    "biologie/10 Kožní soustava.md",
+    "biologie/09 Vylučovací soustava.md",
+    "biologie/08 Metabolismus.md",
+    "Index.md",
+    "zsv/Význam EU.md",
     "zsv/Evropská integrace.md",
     "sloh/Dialog.md",
-    "literatura/Generace buřičů.md",
     "historie/Mnichov 1938.md",
     "historie/Léta 1935 - 38 v ČSR.md",
     "historie/Hospodářská krize v ČSR.md",
     "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
     "fyzika/3.3 Počáteční fáze kmitání.md",
-    "biologie/11 Hormonální soustava.md",
-    "biologie/10 Kožní soustava.md",
-    "biologie/09 Vylučovací soustava.md",
-    "biologie/08 Metabolismus.md",
     "biologie/07 Trávící soustava.md",
     "biologie/06 Dýchací soustava.md",
-    "Index.md",
-    "zsv/Význam EU.md",
     "historie/Švehlovy vládní kabinety.md",
     "zsv/Trestní právo.md",
     "mluvnice/Slovesa.md",

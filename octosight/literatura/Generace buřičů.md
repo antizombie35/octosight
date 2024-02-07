@@ -26,6 +26,7 @@ aliases:
 
 # Stanislav Kostka Neumann
 ---
+- [[Generace buřičů|Anarchistický Buřič]]
 - ==komunista==, básník a novinář, kritik a ==překladatel== (leninovy spisy, prokletí básníci), ==národní umělec== (národní nobelovka)
 - po smrti otce ==zámožné tety==  ${\ \longrightarrow\ }$ (podědil olšanskou vilu)
 - neúspěšná studia, politicky aktivní - ==komunismus== _(odsouzen s Omladinou)_ – na začátku vazby vystoupil z ==římskokatolické církve==
@@ -46,12 +47,41 @@ aliases:
 - prostřídal všechno - [[Dekadence]], [[Symbolismus]] [[Anarchie]], [[Vitalismus]], [[Civilismus]]
 ## Dílo
 **Jsem apoštol nového žití** - [[Dekadence]]
-**Satanova sláva mezi námi** - [[Dekadence]], satan jako rebélie a symbol, ne jako satanismus
+**==Satanova sláva mezi námi==** - [[Dekadence]], satan jako rebélie a symbol, ne jako satanismus
 **Sen o zástupu zoufajících** - sociální tematika, [[Realismus]], jednoduchá poezie, úderné
-**S městem za zády** - přírodní lyrika
-**Kniha lesů vod a strání**
-**Nové zpěvy** - chvála rotačky, technické
-**Rudé zpěvy** - pro [[Komunismus]], pak to zneužili
+**S městem za zády** - přírodní lyrika [[Vitalismus]]
+**==Kniha lesů vod a strání==**
+**==Nové zpěvy==** - chvála rotačky, technické
+**==Rudé zpěvy==** - pro [[Komunismus]], pak to zneužili
 **Dějiny lásky**/**Dějiny ženy** - obrovská kniha, doprovod obrazem, ==pohoršilo==
 **Anti-Gide** - pro [[Komunismus]]
 **Zamořená léta** - zkušenost s [[Nacismus|Nasicmem]]
+
+# Fráňa Šrámek
+---
+- básník, prozaik, dramatik, [[Generace buřičů|Anarchistický Buřič]]
+- Písek (**děj děl**), Roudnice nad Labem, vojna, po ní studia práv, ale dal přednost literatuře a přidal se k [[#revue Nový kult]]
+- vězněn za účast na demonstracích (proti R-U) a antimilitaristickou báseň ==píšou mi psaní== 
+- haličská fronta ==(30. září 1914)==, hospitalizace, revma, IT a Rumunsko (ŠP chřipka - přežil)
+- **jeho tematika:** ==příroda==, odpor k ==válce==, vášnivý nekonvenční ==milostný vztah==
+- po WWI se sblížil s okruhem kolem ==K. Čapka==
+- ve 30. letech se odmlčel a ==uzavřel==, tvořil ==osamoceně==
+- 1946 jmenován ==národním umělcem== (jako [[#Stanislav Kostka Neumann]])
+- ==raport==(báseň) - hlášení, zastává se koní, ukazuje absurditu
+## Dílo
+**Života bído, přec tě mám rád** - [[Naturalismus]], hravá
+**Modrý a rudý** - (modrá - R-U armáda a rudá - anarchisti, komouši a krev)
+**Splav**
+**Rány, růže**
+**Stříbrný vítr** - román, _viděls to_, studenti hledající místo a lásku
+**Tělo** - román
+**Měsíc nad řekou** - drama
+
+# František Gellner
+---
+- básník, prozaik, kreslíř, karikaturista, AB
+- studoval (gymnázium, technika ve Vídni, báňská akademie, malířství v Mnichově a v Paříži, v Drážďanech)
+- kreslíř Lidových novin
+- nezvěstný na haličské frontě
+Po nás ať přijde potopa
+Radosti života

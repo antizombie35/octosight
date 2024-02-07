@@ -66,10 +66,10 @@ zde jsou uložena ==Vater-Paciniho tělíska== = receptory vnímání tahu a tla
 # Kožní deriváty
 ---
 - nehty, chlupy
-- jejich základní složkou je ==keratin==
+	- jejich základní složkou je ==keratin==
 	- vytvářejí se z ==živých buněk==, ale jejich větší část obsahuje jen ==mrtvé buňky== (při poranění nebolí a nekrvácejí)
-	- chlupy
-	- téměř na celém těle (s výjimkou dlaní a chodidel
+- chlupy
+	- téměř na celém těle (s výjimkou dlaní a chodidel)
 	- na hlavě poměrně silné pigmentované chlupy – vlasy (stejného typu je i obočí, vousy a ochlupení genitálií)
 
 # V pís nebude
