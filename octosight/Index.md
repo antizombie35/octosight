@@ -20,6 +20,11 @@ LIST FROM "fyzika" SORT file.name DESC
 ```dataview
 LIST FROM "historie" SORT file.ctime DESC
 ```
+# Chemie
+---
+```dataview
+LIST FROM "chemie" SORT file.ctime DESC
+```
 # Literatura
 ---
 ```dataview

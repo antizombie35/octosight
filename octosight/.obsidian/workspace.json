@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literatura/Generace buřičů.md",
+                "file": "chemie/Heterocyklické sloučeniny.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literatura/Generace buřičů.md",
+                "file": "chemie/Heterocyklické sloučeniny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literatura/Generace buřičů.md",
+                "file": "chemie/Heterocyklické sloučeniny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literatura/Generace buřičů.md"
+                "file": "chemie/Heterocyklické sloučeniny.md"
               }
             }
           },
@@ -161,32 +161,33 @@
   },
   "active": "346593197b469604",
   "lastOpenFiles": [
-    "biologie/11 Hormonální soustava.md",
+    "Index.md",
+    "chemie/Heterocyklické sloučeniny.md",
+    "fyzika/3.1 Periodický pohyb.md",
+    "chemie",
+    "fyzika/3.2 Kmitání.md",
+    "fyzika/3.3 Počáteční fáze kmitání.md",
+    "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
     "literatura/Generace buřičů.md",
+    "biologie/11 Hormonální soustava.md",
     "biologie/10 Kožní soustava.md",
     "biologie/09 Vylučovací soustava.md",
     "biologie/08 Metabolismus.md",
-    "Index.md",
     "zsv/Význam EU.md",
     "zsv/Evropská integrace.md",
     "sloh/Dialog.md",
     "historie/Mnichov 1938.md",
     "historie/Léta 1935 - 38 v ČSR.md",
     "historie/Hospodářská krize v ČSR.md",
-    "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
-    "fyzika/3.3 Počáteční fáze kmitání.md",
     "biologie/07 Trávící soustava.md",
     "biologie/06 Dýchací soustava.md",
     "historie/Švehlovy vládní kabinety.md",
     "zsv/Trestní právo.md",
     "mluvnice/Slovesa.md",
-    "fyzika/3.2 Kmitání.md",
     "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.md",
     "historie/Ústava a vznik KSČ.md",
     "historie/Konsolidace ČSR.md",
     "zsv/Untitled.md",
-    "_dev/attachments/00.md",
-    "_dev/attechments/excalidraw 31-01-2024_10_39_27.excalidraw.md",
     "_dev/attechments",
     "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.svg",
     "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.excalidraw",
@@ -205,7 +206,6 @@
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw",
     "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw",
     "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.excalidraw",
-    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.excalidraw",
-    "_dev/attachments/7 Trávící soustava09-01-2024_18_48_20.excalidraw.excalidraw"
+    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.excalidraw"
   ]
 }
