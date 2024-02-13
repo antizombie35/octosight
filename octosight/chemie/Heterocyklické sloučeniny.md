@@ -103,28 +103,31 @@ Indol
 
 ## Isochinolin
 - isomer [[#Chinolin]]
-- 
-#konec
 
-Pyrimidin
+## Pyrimidin
 
-- Pyrimidinové dusíkaté báze
+### Pyrimidinové dusíkaté báze
 
-Cytosin               Uracil                   Thymin   
 
-- vázány v nukleových kyselinách                     
+#### Cytosin
+- C
+- uveden v keto formě (N-H)
+- existuje i enol forma (alkohol O-H)
+- umí mezi sebou přecházet
+- vázán v nukleových kyselinách
+#### Uracil
+- U
+- volná čára do pryč znázorňuje  ${\ CH_3\ }$ 
+- vázán v nukleových kyselinách
+#### Thymin   
+- vázán v nukleových kyselinách
 
-- 
-
-Purin
-
-- Purinové dusíkaté báze
-
-Adenin                                 Guanin
-
-- obsaženy v nukleových kyselinách
-
-- 
+## Purin
+### Purinové dusíkaté báze
+#### Adenin
+- obsažen v nukleových kyselinách
+#### Guanin
+- obsažen v nukleových kyselinách
 
 Kyselina močová
 

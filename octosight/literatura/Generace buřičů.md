@@ -74,14 +74,14 @@ aliases:
 **Splav**
 **Rány, růže**
 **Stříbrný vítr** - román, _viděls to_, studenti hledající místo a lásku
-**Tělo** - román
-**Měsíc nad řekou** - drama
+**Tělo** - ==smyslný== román; borec borka děcko dohromady OK a klidné ale borka chce VÍC
+**Měsíc nad řekou** - drama, děj: setkání, borec a borka v prdelovičkách - borka dostane veřejně poděkováno od borce i když to nikam neodtáhli, vedlejší děj
 
 # František Gellner
 ---
-- básník, prozaik, kreslíř, karikaturista, AB
+- básník, prozaik, kreslíř, karikaturista, [[Generace buřičů|Anarchistický Buřič]]
 - studoval (gymnázium, technika ve Vídni, báňská akademie, malířství v Mnichově a v Paříži, v Drážďanech)
 - kreslíř Lidových novin
 - nezvěstný na haličské frontě
-Po nás ať přijde potopa
-Radosti života
+**Po nás ať přijde potopa**
+**Radosti života**

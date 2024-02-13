@@ -175,3 +175,5 @@
 - ==histamin== - vzniká v ==bazofilech==, ovlivňuje hladké svalstvo, průdušinky a cévy (otoky), je i ==neurotransmiter==
 - ==serotonin== - vzniká v mozku - neurohormon, hormon štěstí, neurotransmiter, vliv světla
 - ==somatostatin== - vzniká v hypotalamu a trávicí soustavě, inhibitor somatotropního hormonu, tlumí pocit hladu
+
+==Neurotransmiter== - chem látka, #todo, např. adrenalin a noradrenalin
