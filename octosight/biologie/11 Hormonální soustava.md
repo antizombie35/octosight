@@ -101,7 +101,7 @@
 ![[Pasted image 20240213210556.png]]
 
 - produkce ==Parathormon==
-	- zvyšuje hladinu ==vápenatých a fosforečných iontů v krvi==, podporuje ==uvolňování z kostí== v případě potřeby
+	- zvyšuje hladinu ==Ca a P iontů v krvi==, podporuje ==uvolňování z kostí== v případě potřeby
 	- hypofunkce ${\ \longrightarrow\ }$ křeče dýchacích svalů
 	- hyperfunkce ${\ \longrightarrow\ }$ odvápnění kostí
 
@@ -190,3 +190,41 @@
 - ==somatostatin== - vzniká v hypotalamu a trávicí soustavě, inhibitor somatotropního hormonu, tlumí pocit hladu
 
 ==Neurotransmiter== - chem látka, #todo, např. adrenalin a noradrenalin
+
+# Tl;Dr
+
+|                               |                                 |
+| ----------------------------- | ------------------------------- |
+| Komplex hypotalamphypofyzální |                                 |
+| ADH                           | propustnost ledvinových kanálků |
+| Oxytocin                      | stahy dělohy a mlékovodů        |
+| -----------------------       | -----------------------         |
+| Adenohypofýza                 |                                 |
+| tropní h                      |                                 |
+| růstový hormon                | metabolismus                    |
+| prolaktin                     | laktace                         |
+| TSH                           | štítná žláza                    |
+| ACTH                          | kůra nadledviny                 |
+| FSH                           | tvorba pohl buněk               |
+| LH                            | udržuje těhotenství             |
+| Endorfiny                     | oblbováky                       |
+| -----------------------       | -----------------------         |
+| Epyfýza                       |                                 |
+| melatonin                     | biorytmy                        |
+| -----------------------       | -----------------------         |
+| Štítná žláza                  |                                 |
+| tyroxin                       | metabolismus                    |
+| kalcitonin                    | sniž. P a I v krvi              |
+| parathormon                   | zvyš. Ca a P                    |
+| -----------------------       | -----------------------         |
+| Langerhansovy ostrůvky        |                                 |
+| Inzulin                       | sniž glukózy                    |
+| glukagon                      | anti inzulin                    |
+| -----------------------       | -----------------------         |
+| Nadledviny                    |                                 |
+| glukokortikoidy               | přeměny živin                   |
+| mineralokortikoidy            | in NA out K v kedvinách         |
+| -----------------------       | -----------------------         |
+| Pohl. žlázy                   |                                 |
+| testosteron                   |                                 |
+| estrogeny                     | pohl. orgány                    |
