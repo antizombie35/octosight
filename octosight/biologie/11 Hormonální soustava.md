@@ -13,7 +13,7 @@
 	- hormony produkované ==neurosekrečními== buňkami  ${\ \longrightarrow\ }$ ==**neurohormony**==
 	- **tkáňové hormony** produkované ==tkáněmi==, které slouží primárně k jiným účelům - nejvíce produkuje ==trávící soustava==
 
-#img umístění žláz s vnitřní sekrcecí
+![[Pasted image 20240213205905.png]]
 
 # I. Komplex hypotalamohypofyzární
 ---
@@ -22,7 +22,9 @@
 	- připojena stopkou k hypotalamu
 	- 2 laloky: přední = ==adenohypofýza==, zadní = ==neurohypofýza==
 
-#img 3x neurosekreční buňky hypotalamu
+![[Pasted image 20240213210023.png]]
+![[Pasted image 20240213210041.png]]
+![[Pasted image 20240213210100.png]]
 
 - ==Neurosekreční== buňky hypotalamu produkují:
 	- **==Regulační hormony==** - řídí činnost adenohypofýzy:
@@ -67,6 +69,13 @@
 
 # II. Epifýza - šišinka
 ---
+
+> - u zdravého člověka váží v průměru 30 až 40 g a není na krku  přes kůži hmatatelná
+> - deficit jódu v potravě během života po narození vede ke zvětšení štítné žlázy, které se projevuje jako struma (lidově „vole“) – podle výskytu omezeného na určitá území se tento typ onemocnění označuje jako endemická struma
+> - struma může vzniknout nejen při nedostatku jódu v potravě, ale i při nadměrné funkci štítné žlázy vlivem neúměrně vysokého přísunu jódu
+
+![[Pasted image 20240213210348.png]]
+
 - epifýza - šišticovité tělísko připojené ke stropu ==mezimozku==
 - produkuje ==Melatonin==
 	- ovlivňuje ==cyklus bdění a spánku==, ==biorytmy==, tlumí funkci pohlavních orgánů v dětství
@@ -83,13 +92,14 @@
 - hypofunkce ${\ \longrightarrow\ }$ hypotyreóza - často při nedostatku jódu - v dospělosti - snížený metabolismus, únava, útlum činnosti CNS, snížení tělesné teploty a tepové frekvence, zadržování vody v těle ${\ \longrightarrow\ }$ myxedém, zvětšená štítná žláza ${\ \longrightarrow\ }$ ==struma==, v období plodu a mládí ${\ \longrightarrow\ }$ ==kretenismus==
 - hyperfunkce - nadměrně zvýšený metabolismus, ==oční příznaky== ${\ \longrightarrow\ }$ ==Basedowova choroba==
 
-#todo text tu chybí "u zdravého člověka"
-
 ## Kalcitonin
 - snižuje hladinu vápenatých a fosforečných iontů v krvi
 
 # IV. Příštitná tělíska (4)
 ---
+
+![[Pasted image 20240213210556.png]]
+
 - produkce ==Parathormon==
 	- zvyšuje hladinu ==vápenatých a fosforečných iontů v krvi==, podporuje ==uvolňování z kostí== v případě potřeby
 	- hypofunkce ${\ \longrightarrow\ }$ křeče dýchacích svalů
@@ -110,6 +120,9 @@
 
 # VI. Nadledviny
 ---
+
+![[Pasted image 20240213210609.png]]
+
 ## Kůra (==kortex==)
 1. glukokortikoidy
 	- nejdůležitější je ==kortizol==
@@ -132,7 +145,7 @@
 2. noradrenalin
 	- ==zúžení cév==, zvýšení ==krevního tlaku==
 	- ==obranné== (poplachové) reakce organismu ${\ \longrightarrow\ }$ aktivace ==katabolismu== kosterních svalů, činnosti srdce a CNS, v současnosti - zátěž má častěji emoční charakter ${\ \longrightarrow\ }$ „stará“ reakce neodpovídá potřebě ${\ \longrightarrow\ }$ adaptační nemoci (např. vředy, vysoký krevní tlak)
-		#todo původní význam odstaveček
+
 # VII. Pohlavní žlázy
 ---
 ## Varlata (M)
