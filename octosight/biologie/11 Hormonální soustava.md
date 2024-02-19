@@ -93,7 +93,7 @@
 - hyperfunkce - nadměrně zvýšený metabolismus, ==oční příznaky== ${\ \longrightarrow\ }$ ==Basedowova choroba==
 
 ## Kalcitonin
-- snižuje hladinu vápenatých a fosforečných iontů v krvi
+- snižuje hladinu ==Ca== a ==P== iontů v krvi
 
 # IV. Příštitná tělíska (4)
 ---
@@ -159,7 +159,7 @@
 - řídí zrání ==folikulů==, ==připravují ovulaci==, stimulují vývoj děložní sliznice (viz [[Pohlavní soustava]])
 
 ## Žluté tělísko (F)
-- místo ve vaječníku ==vaječníku==, kde dozrálo vajíčko
+- místo ve ==vaječníku==, kde dozrálo vajíčko
 - chvilku po dozrání vajíčka, existuje pak zaniká _(dny - měsíce podle těhotenství Y/N)_
 - produkuje ==gestageny== - např. ==progesteron==
 - brzdí zrání dalších ==folikulů== (útvary na vaječnících) (další vajíčka nedozrají)

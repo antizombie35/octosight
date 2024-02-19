@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c248a34e21e7041",
+            "id": "77009f58c21cf5f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/11 Hormonální soustava.md",
+                "file": "zsv/Evropská integrace.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/11 Hormonální soustava.md",
+                "file": "zsv/Evropská integrace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/11 Hormonální soustava.md",
+                "file": "zsv/Evropská integrace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/11 Hormonální soustava.md"
+                "file": "zsv/Evropská integrace.md"
               }
             }
           },
@@ -159,13 +159,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8c248a34e21e7041",
+  "active": "77009f58c21cf5f2",
   "lastOpenFiles": [
+    "historie/Začátek WWII.md",
+    "historie/Druhá republika.md",
+    "fyzika/3.5 Pruživnování.md",
+    "biologie/12 Nerová soustava.md",
+    "zsv/Evropská integrace.md",
     "biologie/11 Hormonální soustava.md",
     "Index.md",
     "zsv/Význam EU.md",
+    "historie/Hospodářská krize v ČSR.md",
+    "historie/Mnichov 1938.md",
     "zsv/Trestní právo.md",
-    "zsv/Evropská integrace.md",
     "sloh/Publicistický styl.md",
     "sloh/Dialog.md",
     "mluvnice/Slovesa.md",
@@ -181,12 +187,6 @@
     "literatura/Generace buřičů.md",
     "literatura/Dekadence.md",
     "literatura/ČT deník.md",
-    "literatura/Česká moderna a dekadence.md",
-    "chemie/Synteticky významné organické látky.md",
-    "chemie/Heterocyklické sloučeniny.md",
-    "historie/Velká hospodářská krize.md",
-    "historie/Ústava a vznik KSČ.md",
-    "historie/Švehlovy vládní kabinety.md",
     "_dev/attachments/Pasted image 20240213210609.png",
     "_dev/attachments/Pasted image 20240213210556.png",
     "_dev/attachments/Pasted image 20240213210348.png",
