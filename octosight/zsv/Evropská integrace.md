@@ -12,8 +12,7 @@ Evropské společenství uhlí a oceli - ==ESUO==
 ==pařížská smlouva== - 1952
 
  Schumanův plán
-- 1950 vznik SRN - Fr. ministr zahrnicí Robert Schuman  - 
- ${\ \longrightarrow\ }$den evropy
+- 1950 vznik SRN - Fr. ministr zahrnicí Robert Schuman ${\ \longrightarrow\ }$den evropy
 
 - deklarace jednostranná, nezávazná
 - smlouva vícestranná, závazná
@@ -25,14 +24,13 @@ Evropské společenství uhlí a oceli - ==ESUO==
 ---
 - 1958
 - zakládají:
-	- EUROATOM = Evrop spol pro atomovou energii (atom výzkum)
-	- EHS = Evr. hospodářské společnství (celní unie)
-
+	- ==EUROATOM== = Evrop spol pro atomovou energii (atom výzkum)
+	- ==EHS== = Evr. hospodářské společnství (celní unie)
 
 # Instituce evropských společenství (ES)
 ---
 = podpis Slučovací smlouvy 1965
-- ESUO, EHS, EUROATOM  ${\ \longrightarrow\ }$ Evropská 
+- ==ESUO, EHS, EUROATOM==  ${\ \longrightarrow\ }$ Evropská 
 	- **Komise** - ==zástupci== členských států, ==není stálý==, jen když se něco děje
        - **Shromáždění** (později ==Evropský parlament==) - zástupci ==národních parlamentů==
        - **Rada ministrů** - ==ministři vlád==, výkonný orgán
@@ -79,35 +77,41 @@ Nejpřínosnější pro další integraci bylo ==EHS== = Evropské hospodářsk�
 	- konec studené války = konec vojenského napětí v Ev.
 	- 19.5.1990 - Paříž - podepsaná smlova o založení Ev. banky pro obnovu a rozvoj (EBRD), měla poskytovat finanční podporu zemím Stř. a V Ev.
 
-- NOVÉ POLITICKÉ REPREZENTACE V POSTKOMUNISTICKÝCH ZEMÍCH POVAŽOVALY VSTUP DO ES ZA JEDEN ZE ZÁKLADNÍCH CÍLŮ SPOLEČENSKÉ PROMĚNY
+- nové politické reprezentace v postkomunistických zemích považovaly vstup do ES za jeden ze základních cílů společenské proměny
 
 
 - 1. 10. 1990 - další územní rozšíření ES - ==sjednocení NE== 
 
-- MAASTRICHTSKÁ SMLOUVA - SMLOUVA O EU (1. 11. 1993)
+- ==maastrichtská smlouva== - smlouva o eu (1. 11. 1993)
 
 - mezník v procesu evropské integrace: smlouva zakládá ==Evropskou unii==, která zaměřuje svou činnost do tří oblastí - tří pilířů:
-  1. pilíř - ==evropská společenství== - jednotná měnová unie kromě Dánska a VB
-  2. pilíř - společná ==zahraniční== a ==bezpečnostní== politika
-  3. pilíř - ==policejní== a ==soudní== spolupráce ve věcech trestních
+	- ==evropská společenství== - jednotná měnová unie kromě Dánska a VB
+	- společná ==zahraniční== a ==bezpečnostní== politika
+	- ==policejní== a ==soudní== spolupráce ve věcech trestních
  
-- 1993 - ==KODAŇSKÁ KRITÉRIA== - ==evropská rada== v červnu ==1993== v ==Kodani== ustanovila požadavky, které je nutné splnit, aby se země mohla stát členem EU.
+- 1993 - ==kodaňská kritéria== - ==evropská rada== v červnu ==1993== v ==Kodani== ustanovila požadavky, které je nutné splnit, aby se země mohla stát členem EU.
 
-- POLITICKÁ KRITÉRIA - stabilní instituce, demokracie, právní stát, dodržování lidských práv a menšin
+- politická kritéria - stabilní instituce, demokracie, právní stát, dodržování lidských práv a menšin
 
-- EKONOMICKÁ KRITÉRIA - fungující tržní ekonomika, schopnost vypořádání se s konkurenčními tlaky, vynutitelnost práva, cenová stabilita udržitelnost veřejných financí
+- ==ekonomická kritéria== - fungující tržní ekonomika, schopnost vypořádání se s konkurenčními tlaky, vynutitelnost práva, cenová stabilita udržitelnost veřejných financí
 
-- PRÁVNÍ ŘÁD EU - začlenění legislativy EU do národní legislativy
+- právní řád eu - začlenění legislativy EU do národní legislativy
 
-- 1995 - rozšíření o Rakousko, Švédsko, Finsko
-- 1999 - Amsterodamská smlouva - ==základní práva občanů== EU
-- 2002 - zavedení eura ve 12 členských státech
-- 2004 - rozšíření EU o 10 členských států (==ČR==)
-- 2007 - vstup Rumunska a Bulharska
-- 2009 - ==Lisabonská smlouva== - _možnost vystoupení, zmenšení suverenity_
+- 1995 - rozšíření o rozšíření o ==Rakousko, Švédsko a Finsko==
+- 1999 - ==Amsterodamská smlouva== - definovala základní práva občanů EU
+- 2002 - zavedení ==eura== ve 12 členských státech
+- 2004 - vstup dalších ==10== zemí včetně ==ČR== do EU
+- 2007 - vstup ==Rumunska== a ==Bulharska==
+- 2009 - začala platit ==Lisabonská smlouva==
+- 2012 - předání ==Nobelovy ceny== míru představitelům EU
 - 2013 - vstup ==Chorvatska== do EU
-- 2016 - ==referendum VB== - poměr 52 % - 48 % hlasů pro vystoupení z EU
-- ==31. ledna 2020== - VB vystoupilo z EU
+- 2016 - obyvatelé ==VB== hlasují v referendu v poměru 52 % ku 48 % hlasů pro vystoupení z EU
+- 2017 - premiérka VB Theresa Mayová informuje Evropskou radu o úmyslu VB vystoupit z EU
+- 2019 - se konají volby do Evropského parlamentu, zvoleno 751 poslanců, 50 % účast občanů EU
+- 2019 - Evropský parlament volí předsedkyni Evropské komise Ursulu von der Leyenovou
+- 30. ledna 2020 - EU ==ratifikovala== Dohodu o vystoupení
+- 31. ledna 2020 - VB vystoupilo z EU
+- 1. 1. 2023 - vstoupilo ==Chorvatsko== do eurozóny
 
 - Kandidátské země: ==Albánie==, ==Černá Hora==, ==Srbsko==, ==Turecko==
 
