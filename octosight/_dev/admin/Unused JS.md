@@ -53,5 +53,4 @@ dv.table([],
     return [`${lastModified.getDate().toString().padStart(2, '0')}.${(lastModified.getMonth() + 1).toString().padStart(2, '0')}.${lastModified.getFullYear()} ${lastModified.getHours().toString().padStart(2, '0')}:${lastModified.getMinutes().toString().padStart(2, '0')}:${lastModified.getSeconds().toString().padStart(2, '0')}`];
   })
 );
-
 ```
