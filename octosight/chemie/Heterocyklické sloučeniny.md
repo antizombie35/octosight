@@ -100,14 +100,11 @@ Indol
 
 ## Chinolin
 
-
 ## Isochinolin
 - isomer [[#Chinolin]]
 
 ## Pyrimidin
-
 ### Pyrimidinové dusíkaté báze
-
 
 #### Cytosin
 - C
@@ -129,10 +126,8 @@ Indol
 #### Guanin
 - obsažen v nukleových kyselinách
 
-Kyselina močová
+## Kyselina močová
+- konečný produkt látkové přeměny ==plazů== a ==ptáků==
+- usazuje s v kloubech – ==dna== (ne DNA) 
 
--konečný produkt látkové přeměny plazů a ptáků
-
--   usazuje s v kloubech – dna
-
-- 
+#todo obrázky z prezentace

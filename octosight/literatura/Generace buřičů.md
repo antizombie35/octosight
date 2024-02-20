@@ -15,7 +15,7 @@ aliases:
 - _Carpe diem!_ - užívej dne (po nás potopa)
 - anarchismus, antimilitarismus, vitalismus - _berte teď_
 
-## revue Nový kult
+## Revue Nový kult
 [[#Stanislav Kostka Neumann]]
 
 ## Znaky

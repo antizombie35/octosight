@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77009f58c21cf5f2",
+            "id": "67d66b84284e4f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zsv/Evropská integrace.md",
-                "mode": "source",
+                "file": "historie/Začátek WWII.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -51,7 +51,7 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsv/Evropská integrace.md",
+                "file": "historie/Začátek WWII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsv/Evropská integrace.md",
+                "file": "historie/Začátek WWII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsv/Evropská integrace.md"
+                "file": "historie/Začátek WWII.md"
               }
             }
           },
@@ -154,39 +154,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "open-vscode:VSCode": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77009f58c21cf5f2",
+  "active": "67d66b84284e4f02",
   "lastOpenFiles": [
-    "historie/Začátek WWII.md",
-    "historie/Druhá republika.md",
-    "fyzika/3.5 Pruživnování.md",
-    "biologie/12 Nerová soustava.md",
-    "zsv/Evropská integrace.md",
-    "biologie/11 Hormonální soustava.md",
     "Index.md",
     "zsv/Význam EU.md",
-    "historie/Hospodářská krize v ČSR.md",
-    "historie/Mnichov 1938.md",
+    "zsv/Untitled 1.md",
     "zsv/Trestní právo.md",
+    "zsv/Evropská integrace.md",
     "sloh/Publicistický styl.md",
-    "sloh/Dialog.md",
     "mluvnice/Slovesa.md",
-    "mluvnice/Dvojné číslo.md",
     "mluvnice/Číslovky.md",
     "matematika/Teorie seminář.md",
-    "literatura/Symbolismus.md",
     "literatura/Literární období.md",
     "literatura/Literární kompozice.md",
     "literatura/Literární figury a tropy.md",
     "literatura/Literární Druh, forma, žánr.md",
-    "literatura/Impresionsimus.md",
     "literatura/Generace buřičů.md",
-    "literatura/Dekadence.md",
     "literatura/ČT deník.md",
+    "chemie/Synteticky významné organické látky.md",
+    "chemie/Heterocyklické sloučeniny.md",
+    "chemie/Alkaloidy.md",
+    "historie/Velká hospodářská krize.md",
+    "historie/Ústava a vznik KSČ.md",
+    "historie/Švehlovy vládní kabinety.md",
+    "historie/Rakouský fašismus a Španělsko.md",
+    "historie/Ohniska války ve světě.md",
+    "historie/Nacistická vláda v Německu.md",
+    "historie/Mnichov 1938.md",
+    "historie/Léta 1935 - 38 v ČSR.md",
+    "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.svg",
+    "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",
     "_dev/attachments/Pasted image 20240213210609.png",
     "_dev/attachments/Pasted image 20240213210556.png",
     "_dev/attachments/Pasted image 20240213210348.png",
@@ -199,13 +201,11 @@
     "_dev/attechments",
     "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.svg",
     "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.excalidraw",
-    "excalidraw 30-01-2024_11_39_11.excalidraw.svg",
     "excalidraw 30-01-2024_11_39_11.excalidraw.excalidraw",
     "excalidraw 25-01-2024_09_10_49.excalidraw.excalidraw",
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.excalidraw",
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw",
     "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw",
-    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.excalidraw",
-    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_15_15.excalidraw.excalidraw"
+    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.excalidraw"
   ]
 }

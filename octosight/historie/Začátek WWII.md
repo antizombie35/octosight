@@ -1,6 +1,6 @@
 - začala napadením PL 1. září 1939
 
-# Smlouva Molotov-Ribbentrop
+# Smlouva Molotov - Ribbentrop
 ---
 - srpen 1939
 - uzavřena smlouva o neútočení mezi SSSR a NE
@@ -15,7 +15,7 @@
 
 # Blitzkrieg na PL
 ---
-- 1. září 1939
+- 1\. září 1939
 - NE zaútočilo na PL
 - taktika Blitzkrieg - "blesková válka"
 - PL stateční, ale nevyzbrojení - _tanky proti koním_
@@ -39,4 +39,4 @@
 - 1940 - útok ne EV ze S
 - v dubnu 1940 Hitler dobyl ==Dánsko== a ==Norsko== - jeho král ==Haakon== ==utekl== do ==VB==, ==nekapituloval==, vládl z ==Londýna==
 - předsedou kolaboranstské vlády a ==pronacistickým zpravodajcem== byl ==Viduk Quisling== (za války totéž co ==Jidáš==)
-- Hitler neútočil na ==Švédsko== (==neutrální==) a ==Finsko== (==spojenci== NE)
+	- Hitler neútočil na ==Švédsko== (==neutrální==) a ==Finsko== (==spojenci== NE)

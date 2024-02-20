@@ -245,8 +245,6 @@ aliases:
 > - ==lipázy== - štěpí ==tuky== na ==glycerol== a ==mastné kyseliny==
 > - ==amylázy== - štěpí ==cukry== (==sacharidy==  ${\ \longrightarrow\ }$ ==glukóza==)
 
-_(TOHLE UŽ V PÍSEMCE NENÍ)_
-
 # Onemocnění trávicí soustavy
 ---
 - vředová onemocnění

@@ -25,7 +25,7 @@ Nezaměstnaných:
 # Řešení
 ---
 ## New deal
- demokratický - Program amerického kandidáta a od roku ==1932== prezidenta ==Franklin Delano Roosevelt== - ==NEW DEAL==
+ demokratický - Program amerického kandidáta a od roku ==1932== prezidenta ==Franklin Delano Roosevelt== - ==new deal==
 New Deal zahrnoval:
 1. ==devalvace== dolaru,  _zákaz vývozu zlata a stříbra z USA  ${\ \longrightarrow\ }$ posílení vývozu_
 2. náhrada vyplácená farmářům kteří nechali ==ležet ladem pole==

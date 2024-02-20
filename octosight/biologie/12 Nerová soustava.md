@@ -192,7 +192,7 @@ ii.parasympatické
 
 - 
 
-- I. CENTRÁLNÍ  NERVOVÁ  SOUSTAVA
+- I. centrální  nervová  soustava
 
 - tvořena:
 
@@ -628,7 +628,7 @@ c)limbický systém
 
 - ve své činnosti je podřízena vyšším oddílům CNS
 
-- II. PERIFERNÍ  NERVY
+- II. periferní  nervy
 
 1)nervy dostředivé (senzitivní)
 
