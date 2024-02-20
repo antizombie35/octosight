@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "_dev/test/LaTeX spacing test.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "_dev/test/LaTeX spacing test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "_dev/test/LaTeX spacing test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "_dev/test/LaTeX spacing test.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "67d66b84284e4f02",
   "lastOpenFiles": [
-    "historie/Začátek WWII.md",
+    "_dev/test/LaTeX spacing test.md",
     "Index.md",
+    "_dev/test",
+    "historie/Začátek WWII.md",
     "_dev/admin/Unused JS.md",
     "sloh/Publicistický styl.md",
     "literatura/Literární období.md",
@@ -199,7 +201,6 @@
     "literatura/ČT deník.md",
     "chemie/Synteticky významné organické látky.md",
     "chemie/Heterocyklické sloučeniny.md",
-    "chemie/Alkaloidy.md",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.svg",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",
     "_dev/attachments/Pasted image 20240213210609.png",
@@ -218,7 +219,6 @@
     "excalidraw 25-01-2024_09_10_49.excalidraw.excalidraw",
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.excalidraw",
     "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw",
-    "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw",
-    "_dev/attachments/4.2 Kmitání jako zvl. případ period. pohybů11-01-2024_09_22_54.excalidraw.excalidraw"
+    "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw"
   ]
 }
