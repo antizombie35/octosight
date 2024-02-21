@@ -5,52 +5,14 @@
 ... or an octopus with laser sight
 [Originální repo link](https://github.com/antizombie35/octosight)
 </font>
-# Biologie 
----
-```dataview
-LIST FROM "biologie" SORT file.name DESC
-```
-# Fyzika
----
-```dataview
-LIST FROM "fyzika" SORT file.name DESC
-```
-# Historie
----
-```dataview
-LIST FROM "historie" SORT file.ctime DESC
-```
-# Chemie
----
-```dataview
-LIST FROM "chemie" SORT file.ctime DESC
-```
-# Literatura
----
-```dataview
-LIST FROM "literatura" SORT file.ctime DESC
-```
-# Matika
----
-```dataview
-LIST FROM "matematika" SORT file.ctime DESC
-```
-# Mluvnice 
----
-```dataview
-LIST FROM "mluvnice" SORT file.ctime DESC
-```
-# Sloh
----
-```dataview
-LIST FROM "sloh" SORT file.ctime DESC
-```
 
-# ZSV
----
-```dataview
-LIST FROM "zsv" SORT file.ctime DESC
-```
+> [!tldr]
+> To search for files use search (top left) or file tree (left).
+
+> [!error]
+> **Index file tree** has been deprecated and discontinued in HTML Form. To access a similar view, consider using **"offline index"** feature in [Obsidian](https://obsidian.md/)
+
+
 ***
 <font size = "2">
 Autor neručí za žádný obsah.<br>
