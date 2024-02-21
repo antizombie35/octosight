@@ -85,3 +85,36 @@ aliases:
 - nezvěstný na haličské frontě
 **Po nás ať přijde potopa**
 **Radosti života**
+
+# Karel Toman
+---
+- básník, novinář, překladatel, [[Generace buřičů]]
+- před něčím utíkal
+- _vlastním jménem Antonín Bernášek_
+- gymnázium, práva _(nedokončil)_, úředník
+- ==cestovatel== (DE, Nizozemí, VB, Fr – reportáže (i do [[#Revue Nový kult]]))
+- za války byl úředníkem
+- 1946 se stal ==národním umělcem==
+- milostná témata
+**Pohádky krve**
+**Torzo života** - depresivní
+**Sluneční hodiny** - o obyčejných věcech, poměrně klidné
+**==Měsíce==** - _s tím sme pracovali celou hodinu_, vlastenecké, péče o zemi, příroda, vlastenecké, uklidňovací, [[Vitalismus]], tradice a folklór
+**Hlas ticha** - zklamání z následků WWI, [[Symbolismus]]
+**Stoletý kalendář** - láska k domovu
+
+# Viktor Dyk
+---
+- básník, prozaik, publicista, nacionalistický politik, [[Generace buřičů]] (v mládí)
+- gymnázium (A. Jirásek), práva, novinář (Lumír)
+- protirakouský odboj, vězněn ve Vídni
+- redaktor ___________________
+- spoluzakladatel ________________________
+A porta inferi
+Satiry a sarkasmy
+Milá sedmi loupežníků
+Pohádky z naší vesnice
+Devátá vlna
+Okno (Země mluví)
+Krysař
+Zmoudření Dona Quijota
