@@ -1,4 +1,4 @@
-- květen 1938 - hrozba anšlusu od NE - blízko našeho pohraničí  ${\ \longrightarrow\ }$ ==částečná mobilizace==
+- květen 1938 - hrozba anšlusu od NE - blízko našeho pohraničí  $\longrightarrow$ ==částečná mobilizace==
 - ==21. května 1938== - vyhlášena částečná mobilizace čs. armády - za republikou stály všechny síly od pravice po KSČ
 
 # Mise lorda Runcimana
@@ -10,8 +10,8 @@
 
 # VB-Fr nóta
 ---
-- nátlak Hitlera po jednání s Chamberlainem  ${\ \longrightarrow\ }$ VB-Fr nóta o odstoupení českého pohraničí s více než 50% NE populací
-- Vláda Milana Hodži (SL agrárník) to přijala ==21. září 1938==  ${\ \longrightarrow\ }$ ==demonstrace na náměstích==  ${\ \longrightarrow\ }$ vláda padla a Beneš jmenoval novou vládu generála ==Jana Syrového==
+- nátlak Hitlera po jednání s Chamberlainem  $\longrightarrow$ VB-Fr nóta o odstoupení českého pohraničí s více než 50% NE populací
+- Vláda Milana Hodži (SL agrárník) to přijala ==21. září 1938==  $\longrightarrow$ ==demonstrace na náměstích==  $\longrightarrow$ vláda padla a Beneš jmenoval novou vládu generála ==Jana Syrového==
 - Jan Syrový vyhlásil všeobecnou mobilizaci ==23.9.1938==
 - Hitler vyhrožuje válkou - ==Nové jednání v Mnichově== (bez nás)
 

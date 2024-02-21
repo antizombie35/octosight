@@ -1,5 +1,5 @@
 > [!tldr]+
-> všechno se píše s mezerama (Kromě desítek ~~dva cet~~ nebo pokud je převrácené pořadí řádů ( dvacet dva  ${\ \longrightarrow\ }$**dvaadvacet**))
+> všechno se píše s mezerama (Kromě desítek ~~dva cet~~ nebo pokud je převrácené pořadí řádů ( dvacet dva  $\longrightarrow$**dvaadvacet**))
 
 # Dělení
 ---

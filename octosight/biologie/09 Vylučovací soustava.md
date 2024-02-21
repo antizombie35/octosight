@@ -19,11 +19,11 @@ na odstraňování exkretů se podílí:
 
 
 > [!tldr]
-> zplodiny  ${\ \longrightarrow\ }$ krev  ${\ \longrightarrow\ }$ ledviny  ${\ \longrightarrow\ }$ moč
+> zplodiny  $\longrightarrow$ krev  $\longrightarrow$ ledviny  $\longrightarrow$ moč
 
 Ledviny _(a celá vylučovací soustava)_ plní i další funkce:
 
-- podílejí se na ==regulaci== množství vody a ==koncentrace iontů== v těle a na zachování vyrovnaného podílu ==zásaditých a kyselých složek==  ${\ \longrightarrow\ }$ přispívají k udržení ==homeostázy==
+- podílejí se na ==regulaci== množství vody a ==koncentrace iontů== v těle a na zachování vyrovnaného podílu ==zásaditých a kyselých složek==  $\longrightarrow$ přispívají k udržení ==homeostázy==
 
 - tvoří se zde hormony (==renin== - řídí činnost ledvin, ==erytropoetin== - řídí krvetvorbu, ==kalcitriol== - upravuje hladinu Ca v krvi, vznik z vitamínu D)
 
@@ -73,20 +73,20 @@ sběrací kanálek není součástí nefronu
 
 ![[Pasted image 20240117103114.png]]
 
-definitivní moč  ${\ \longrightarrow\ }$ sběrací kanálky  ${\ \longrightarrow\ }$ kalichy ledvinné  ${\ \longrightarrow\ }$ pánvička ledvinná  ${\ \longrightarrow\ }$močovod  ${\ \longrightarrow\ }$ močový měchýř  ${\ \longrightarrow\ }$ močová trubice
+definitivní moč  $\longrightarrow$ sběrací kanálky  $\longrightarrow$ kalichy ledvinné  $\longrightarrow$ pánvička ledvinná  $\longrightarrow$močovod  $\longrightarrow$ močový měchýř  $\longrightarrow$ močová trubice
 
 # Močovod
 ---
 - párová trubice
-- stěna tvořena hladkou svalovinou - ==peristaltický pohyb==  ${\ \longrightarrow\ }$ moč neprotéká - je transportována po malých ==močových vřeténkách== (= dávkách)
+- stěna tvořena hladkou svalovinou - ==peristaltický pohyb==  $\longrightarrow$ moč neprotéká - je transportována po malých ==močových vřeténkách== (= dávkách)
 
 ![[Pasted image 20240117103200.png]]
 
 # Močový měchýř
 ---
 - objem asi ==750 ml==
-- (asi poloviční množství vede ke zvýšení tlaku na stěnu měchýře  ${\ \longrightarrow\ }$ stahování svaloviny  ${\ \longrightarrow\ }$ pocit nucení na močení)
-- 2 svěrače močové trubice ovládají vyprazdňování – vnitřní z hladké svaloviny, vnější z příčně pruhované svaloviny  ${\ \longrightarrow\ }$ vyprazdňování je možné ovládat vůlí  
+- (asi poloviční množství vede ke zvýšení tlaku na stěnu měchýře  $\longrightarrow$ stahování svaloviny  $\longrightarrow$ pocit nucení na močení)
+- 2 svěrače močové trubice ovládají vyprazdňování – vnitřní z hladké svaloviny, vnější z příčně pruhované svaloviny  $\longrightarrow$ vyprazdňování je možné ovládat vůlí  
 – jen do objemu ==700 ml==
 
 # Močová trubice
@@ -106,7 +106,7 @@ definitivní moč  ${\ \longrightarrow\ }$ sběrací kanálky  ${\ \longrightar
 	- ==aldosteron== (kůra nadledvin)
 		- vstřebávání sodných kationtů (ovlivňování homeostázy)
 	- ==renin== (ledviny)
-		- průsvit přívodní cévy  ${\ \longrightarrow\ }$ přívod krve do ==glomerulů==
+		- průsvit přívodní cévy  $\longrightarrow$ přívod krve do ==glomerulů==
 
 - diuréza = vyloučená moč
 	- 99% voda

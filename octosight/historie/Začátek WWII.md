@@ -72,6 +72,6 @@
 - DE neuspěli protože
 	- VB radary
 	- za RAF létali i příslušníci zotročených národů Ev: ==ČSR==, ==PL==, ==Belgie==, ==Fr==, ==Kanada==
-	- Hitler přešel z útoků na ==letiště a továrny== k útokům na ==Londýn==  ${\ \longrightarrow\ }$ RAF se zpamatovalo
-	- piloti RAF seskakovali při zásahu na VB území, ale DE seskakovali na VB území taky  ${\ \longrightarrow\ }$ zajetí pilotů
+	- Hitler přešel z útoků na ==letiště a továrny== k útokům na ==Londýn==  $\longrightarrow$ RAF se zpamatovalo
+	- piloti RAF seskakovali při zásahu na VB území, ale DE seskakovali na VB území taky  $\longrightarrow$ zajetí pilotů
 	- Luftwaffe má na bombardování jen 20 min - ==velikost nádrže letadel==

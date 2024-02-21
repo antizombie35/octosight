@@ -1,5 +1,5 @@
 Vr ==1932== - vrchol krize v Německu
-- 7 mil nezaměstnaných${\ \longrightarrow\ }$  nebezpečí pro demokracii.
+- 7 mil nezaměstnaných$\longrightarrow$  nebezpečí pro demokracii.
 ## 1. volby
 - prezidentem v ==dubnu 1932== ještě ==generál Hindenburg==, porazil Hitlera
 - volby do parlamentu v ==červenci 1932==
@@ -28,7 +28,7 @@ Hindenburg nakonec ==kapituloval==:
 Důsledky:
 - Po požáru Hitler ==zakázal v březnu KS==, v ==červnu 1933 soc.dem== nakonec zbyla pouze ==NSDAP==.
 - V ==březnu 1933== Hitler přiměl parlament schválit zmocňovací zákon posilující jeho moc.
-- Vr. ==1934== zemřel Hindenburg  ${\ \longrightarrow\ }$ Hitler neomezený vládce - ==führer==.
+- Vr. ==1934== zemřel Hindenburg  $\longrightarrow$ Hitler neomezený vládce - ==führer==.
 
 # Noc dlouhých nožů
 ---

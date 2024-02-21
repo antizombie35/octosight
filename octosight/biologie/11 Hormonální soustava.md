@@ -7,10 +7,10 @@
 
 # Soustava látková
 ---
- ${\ \longrightarrow\ }$ řízení látkové = chemické = hormonální = humorální
+ $\longrightarrow$ řízení látkové = chemické = hormonální = humorální
   - Produkce hormonů (hormony = ==vysoce účinné== látky, vysoce ==specifické== z hlediska účinku na buňky tkání, jejich působení je většinou ==pomalé a dlouhodobé==)
 	- hormony produkované žlázami s **vnitřní sekrecí** = ==endokrinními== žlázami - ty vylučují hormony přímo do krve, ==nemají vývod==
-	- hormony produkované ==neurosekrečními== buňkami  ${\ \longrightarrow\ }$ ==**neurohormony**==
+	- hormony produkované ==neurosekrečními== buňkami  $\longrightarrow$ ==**neurohormony**==
 	- **tkáňové hormony** produkované ==tkáněmi==, které slouží primárně k jiným účelům - nejvíce produkuje ==trávící soustava==
 
 ![[Pasted image 20240213205905.png]]
@@ -89,8 +89,8 @@
 - ovlivňuje oxidační procesy v buňkách, ==metabolismus==
 - pro jejich tvorbu nutný dostatek ==jódu==
 
-- hypofunkce ${\ \longrightarrow\ }$ hypotyreóza - často při nedostatku jódu - v dospělosti - snížený metabolismus, únava, útlum činnosti CNS, snížení tělesné teploty a tepové frekvence, zadržování vody v těle ${\ \longrightarrow\ }$ myxedém, zvětšená štítná žláza ${\ \longrightarrow\ }$ ==struma==, v období plodu a mládí ${\ \longrightarrow\ }$ ==kretenismus==
-- hyperfunkce - nadměrně zvýšený metabolismus, ==oční příznaky== ${\ \longrightarrow\ }$ ==Basedowova choroba==
+- hypofunkce $\longrightarrow$ hypotyreóza - často při nedostatku jódu - v dospělosti - snížený metabolismus, únava, útlum činnosti CNS, snížení tělesné teploty a tepové frekvence, zadržování vody v těle $\longrightarrow$ myxedém, zvětšená štítná žláza $\longrightarrow$ ==struma==, v období plodu a mládí $\longrightarrow$ ==kretenismus==
+- hyperfunkce - nadměrně zvýšený metabolismus, ==oční příznaky== $\longrightarrow$ ==Basedowova choroba==
 
 ## Kalcitonin
 - snižuje hladinu ==Ca== a ==P== iontů v krvi
@@ -102,8 +102,8 @@
 
 - produkce ==Parathormon==
 	- zvyšuje hladinu ==Ca a P iontů v krvi==, podporuje ==uvolňování z kostí== v případě potřeby
-	- hypofunkce ${\ \longrightarrow\ }$ křeče dýchacích svalů
-	- hyperfunkce ${\ \longrightarrow\ }$ odvápnění kostí
+	- hypofunkce $\longrightarrow$ křeče dýchacích svalů
+	- hyperfunkce $\longrightarrow$ odvápnění kostí
 
 # V. Langerhansovy ostrůvky slinivky břišní
 ---
@@ -111,7 +111,7 @@
 - (objeven 1923)
 - produkován B buňkami Langerhanzových ostrůvků
 - snižuje hladinu ==glukózy== v krevní plazmě, stimuluje vstup glukózy do buněk 
-- hyperfunkce ${\ \longrightarrow\ }$ hypoglykémie ${\ \longrightarrow\ }$ vliv na CNS, celkový metabolický rozvrat
+- hyperfunkce $\longrightarrow$ hypoglykémie $\longrightarrow$ vliv na CNS, celkový metabolický rozvrat
 
 ## Glukagon
 - ==antagonista== [[#Inzulin|inzulínu]]
@@ -127,12 +127,12 @@
 1. glukokortikoidy
 	- nejdůležitější je ==kortizol==
 	- řídí ==přeměny živin== _(všech)_
-	- hypofunkce ${\ \longrightarrow\ }$ ==Addisonova choroba== ${\ \longrightarrow\ }$ vyčerpanost, zažívací potíže, hubnutí, ==bronzová kůže==, pokles krevního tlaku, pokles hladiny  ${\ Na^+\ }$ a vzestup hladiny  ${\ K^+\ }$ ${\ \longrightarrow\ }$ smrt
+	- hypofunkce $\longrightarrow$ ==Addisonova choroba== $\longrightarrow$ vyčerpanost, zažívací potíže, hubnutí, ==bronzová kůže==, pokles krevního tlaku, pokles hladiny  $Na^+$ a vzestup hladiny  $K^+$ $\longrightarrow$ smrt
 	- léčebné účinky: protizánětlivé - ==koritkoidy==
 
 2. mineralokortikoidy
 	- nejdůležitější je ==aldosteron==
-	- řídí zpětné ==vstřebávání==  ${\ Na^+\ }$ a ==vylučování==  ${\ K^+\ }$ v ==ledvinových== kanálcích
+	- řídí zpětné ==vstřebávání==  $Na^+$ a ==vylučování==  $K^+$ v ==ledvinových== kanálcích
 
 ## Dřeň
 - hormony ovlivňují ==kardiovaskulární činnost==, hladké svalstvo
@@ -140,11 +140,11 @@
 
 1. adrenalin
 	- ==rozšíření cév== ve svalech, podporuje ==srdeční činnost==, zlepšuje ==ventilaci plic==
-	- podporuje ==štěpení glykogenu== v játrech i svalech a ==rozklad tuků== v tukové tkáni  ${\ \longrightarrow\ }$ tělo tak získává rychle upotřebitelné zdroje energie  ${\ \longrightarrow\ }$ adrenalin připravuje tělo na zvýšenou námahu - uplatňuje se při ==stresové reakci==
+	- podporuje ==štěpení glykogenu== v játrech i svalech a ==rozklad tuků== v tukové tkáni  $\longrightarrow$ tělo tak získává rychle upotřebitelné zdroje energie  $\longrightarrow$ adrenalin připravuje tělo na zvýšenou námahu - uplatňuje se při ==stresové reakci==
 
 2. noradrenalin
 	- ==zúžení cév==, zvýšení ==krevního tlaku==
-	- ==obranné== (poplachové) reakce organismu ${\ \longrightarrow\ }$ aktivace ==katabolismu== kosterních svalů, činnosti srdce a CNS, v současnosti - zátěž má častěji emoční charakter ${\ \longrightarrow\ }$ „stará“ reakce neodpovídá potřebě ${\ \longrightarrow\ }$ adaptační nemoci (např. vředy, vysoký krevní tlak)
+	- ==obranné== (poplachové) reakce organismu $\longrightarrow$ aktivace ==katabolismu== kosterních svalů, činnosti srdce a CNS, v současnosti - zátěž má častěji emoční charakter $\longrightarrow$ „stará“ reakce neodpovídá potřebě $\longrightarrow$ adaptační nemoci (např. vředy, vysoký krevní tlak)
 
 # VII. Pohlavní žlázy
 ---

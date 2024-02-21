@@ -1,7 +1,7 @@
 # Integrace
 ---
 - spojování do celku
-- po WWII (1945 konec)  ${\ \longrightarrow\ }$ prevence
+- po WWII (1945 konec)  $\longrightarrow$ prevence
 - ekonomické vyčerpání všech
 - rozdělení na V a Z - studená válka
 
@@ -13,7 +13,7 @@ Evropské společenství uhlí a oceli - ==ESUO==
 1952 - ==pařížská smlouva==
 
  Schumanův plán
-- 1950 vznik SRN - Fr. ministr zahrnicí Robert Schuman ${\ \longrightarrow\ }$den evropy
+- 1950 vznik SRN - Fr. ministr zahrnicí Robert Schuman $\longrightarrow$den evropy
 
 - deklarace jednostranná, nezávazná
 - smlouva vícestranná, závazná
@@ -31,7 +31,7 @@ Evropské společenství uhlí a oceli - ==ESUO==
 # Instituce evropských společenství (ES)
 ---
 = podpis Slučovací smlouvy 1965
-- ==ESUO, EHS, EUROATOM==  ${\ \longrightarrow\ }$ Evropská 
+- ==ESUO, EHS, EUROATOM==  $\longrightarrow$ Evropská 
 	- **Komise** - ==zástupci== členských států, ==není stálý==, jen když se něco děje
        - **Shromáždění** (později ==Evropský parlament==) - zástupci ==národních parlamentů==
        - **Rada ministrů** - ==ministři vlád==, výkonný orgán

@@ -21,7 +21,7 @@
 ## Represivní opatření
 - vr.1931 ve ==Frývaldově== (==Jeseník==) - protestní průvod dělníků z kamenolomu proti propouštění byl zastaven četníky - 8 mrtvých
 
-- Pod Duchcovským železničním viaduktem (1931) - četníci z obou stran  ${\ \longrightarrow\ }$ zmatek, tlačenice  ${\ \longrightarrow\ }$ 4 mrtví
+- Pod Duchcovským železničním viaduktem (1931) - četníci z obou stran  $\longrightarrow$ zmatek, tlačenice  $\longrightarrow$ 4 mrtví
 
 # Růst českého fašismu
 ---

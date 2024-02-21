@@ -5,10 +5,10 @@ aliases:
 = přeměna ==látek== a ==energií==
 - zahrnuje tyto hlavní děje:
 	- Děje ==anabolické==
-		- syntéza látek jednoduché  ${\ \longrightarrow\ }$ ==složitější==
+		- syntéza látek jednoduché  $\longrightarrow$ ==složitější==
 		- energie se ==spotřebovává==
 	- Děje ==katabolické==
-		- rozklad látek složitější  ${\ \longrightarrow\ }$ ==jednodušší==
+		- rozklad látek složitější  $\longrightarrow$ ==jednodušší==
 		- energie se ==uvolňuje==
 	- ==Ukládání== látek
 
@@ -69,7 +69,7 @@ Potrava správného složení musí obsahovat:
 - pochutiny, vlákninu
 
 (tuky + cukry + bílkoviny = živiny)
--  pro odbourání tuku  2x ${\ e\ }$ co cukr/bílkoviny
+-  pro odbourání tuku  2x $e$ co cukr/bílkoviny
 
 
 
@@ -87,7 +87,7 @@ _uměj 4:_
 - Ca, P, F - zuby
 
 ## Voda
-- je zdrojem  ${\ O\ }$ a  ${\ H\ }$
+- je zdrojem  $O$ a  $H$
 - je rozpouštědlem - probíhají zde všechny biochemické reakce
 - podílí se na udržování stálého pH - ==homeostáza==
 

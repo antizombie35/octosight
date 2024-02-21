@@ -16,11 +16,11 @@ nervová soustava má tyto základní části:
 - základní stavební a funkční jednotkou nervové soustavy jsou nervové buňky = ==neurony==
 - podle funkce rozlišujeme 3 typy neuronů:
 - ==senzorické== (smyslové) neurony
-	- (jsou součástí periferní nervové soustavy- vedou signály ze smyslových orgánů do CNS  ${\ \longrightarrow\ }$ neurony ==dostředivé==) _(dostředivé vedou do CNS)_
+	- (jsou součástí periferní nervové soustavy- vedou signály ze smyslových orgánů do CNS  $\longrightarrow$ neurony ==dostředivé==) _(dostředivé vedou do CNS)_
 - ==interneurony==
 	- (jsou všechny nervové buňky uložené uvnitř CNS)
 - ==motorické== (hybné) neurony
-	- (patří k periferní nervové soustavě – vedou signály k výkonným = eferentním orgánům  ${\ \longrightarrow\ }$ neurony ==odstředivé==) _(odstředivé vedou od CNS)_
+	- (patří k periferní nervové soustavě – vedou signály k výkonným = eferentním orgánům  $\longrightarrow$ neurony ==odstředivé==) _(odstředivé vedou od CNS)_
 
 #todo popsanej obrázek neuronu 
 

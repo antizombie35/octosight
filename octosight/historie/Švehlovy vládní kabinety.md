@@ -25,7 +25,7 @@ Fašismus u nás:
 ---
 - volby r.1925
 - vláda tzv. ==panské koalice== - vytvořili ==agrárníci== (premiér A. Švehla), ==lidovci==, ==SL ludová strana== a ==živnostníci==
-	- vláda stanovila: zákon o ==pevných agrárních clech==  ${\ \longrightarrow\ }$ ochrana před dovozem
+	- vláda stanovila: zákon o ==pevných agrárních clech==  $\longrightarrow$ ochrana před dovozem
 - _panská protože tam není dělnická třída_
 - _pravidlo: s komunisty nikdo do vlády nejde_
 
@@ -37,7 +37,7 @@ Fašismus u nás:
 	- 1920-21
 - vr. 1924 smlouva o pomoci s ==Fr==
 - vr.1925 prohra čs. diplomacie na konferenci v ==Locarnu==
-- podepsán ==Rýnský garanční pakt==  ${\ \longrightarrow\ }$ zajišťuje nedotknutelnost _(status quo)_ Z hranic s Německem
+- podepsán ==Rýnský garanční pakt==  $\longrightarrow$ zajišťuje nedotknutelnost _(status quo)_ Z hranic s Německem
 - ==chybí== ale záruka V hranic pro ==ČSR== a ==PL==
 
 # Zemské řízení

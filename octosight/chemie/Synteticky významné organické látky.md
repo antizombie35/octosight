@@ -45,31 +45,31 @@
 # Polymerace
 ---
 - chem. reakce
--  monomery  ${\ \longrightarrow\ }$ polymer
+-  monomery  $\longrightarrow$ polymer
 - bez vzniku vedlejšího produktu
 - současné zničení dvojné vazby
 
 ## Vznik polyetilenu
 - radikálový mechanismus
--  ${\ n\ CH_2=CH_2\longrightarrow-[CH_2-CH_2]_n-\ }$
-- _eten  ${\ \longrightarrow\ }$ polyetilen - PET_
+-  $n\ CH_2=CH_2\longrightarrow-[CH_2-CH_2]_n-$
+- _eten  $\longrightarrow$ polyetilen - PET_
 
 1. inicializace
 	- vznik radikálů
-	-  ${\ R+R \xrightarrow[UV]{+} R.+R.\ }$
+	-  $R+R \xrightarrow[UV]{+} R.+R.$
 2. propagace
 	- nárůst řetězce
-	-  ${\ R.+CH_2=CH_2\longrightarrow R-CH_2-CH_2. + CH_2=CH_2.\longrightarrow R-CH_2-CH_2-CH_2-CH_2.\ }$
+	-  $R.+CH_2=CH_2\longrightarrow R-CH_2-CH_2. + CH_2=CH_2.\longrightarrow R-CH_2-CH_2-CH_2-CH_2.$
 3. terminace
 	- ukončení růstu
-	-  ${\ R_CH_2-...-CH_2.+R.\longrightarrow R-[CH_2-CH_2]_n-R\ }$
+	-  $R_CH_2-...-CH_2.+R.\longrightarrow R-[CH_2-CH_2]_n-R$
 
 ## Použití polyetylenu (==PET==)
 - PET láhve
 - fólie, obalová technika, kelímky, sáčky
 
 ## Polypropilen
- ${\ CH_2=CH_2-CH_3\ }$
+ $CH_2=CH_2-CH_3$
 
 - pevnější  polyetilen
 - pravítka, propiska, konce, okna
@@ -89,15 +89,15 @@ obalový materiál
 	- na kloubní náhrady
 
 ## Syntetické kaučuky
--  ${\ CH_2=CH-CH=CH_2\longrightarrow -[CH_2-CH=CH-CH_2]_n-\ }$
-- buta-1,4-dien  ${\ \longrightarrow\ }$ kaučuk
+-  $CH_2=CH-CH=CH_2\longrightarrow -[CH_2-CH=CH-CH_2]_n-$
+- buta-1,4-dien  $\longrightarrow$ kaučuk
 
 - vulkanizace kaučuku - zesíťování lineárních molekul sírou - lepší mehcanické vlastnosti
 
 # Polykondenzace
 ---
 - chem. reakce
-- spojení 2 monomer  ${\ \longrightarrow\ }$ výsledek + jednoduchý odpadní produkt
+- spojení 2 monomer  $\longrightarrow$ výsledek + jednoduchý odpadní produkt
 - výroba umělých vláken: polyamidy, polystyreny
 
 ## Polyamidy

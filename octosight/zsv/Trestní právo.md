@@ -37,7 +37,7 @@ Vztah mezi ==státem== na jedné straně a ==občany státu== (+ osoby podléhaj
 - Dohled ==probačního úředníka==
 ## Trestní odpovědnost
 - Vzniká spácháním trestného činu
-- Pouze v případě podezření ze spáchání trestného činu může být podezřelý ==obviněn== ${\longrightarrow \ }$ ==obžalován== z trestného činu ${\longrightarrow \ }$ postaven před soud
+- Pouze v případě podezření ze spáchání trestného činu může být podezřelý ==obviněn== ${\longrightarrow $ ==obžalován== z trestného činu ${\longrightarrow $ postaven před soud
 - trestní odpovědnost vzniká v den po dni ==15. narozenin==, komu není 15+ není trestně odpovědný
 - ==Příčetnost== = duševní způsobilost být pachatelem trestného činu
 
@@ -85,8 +85,8 @@ kdyby jej spáchal sám)_
 - Domácí vězení
 	- max. 2 roky, kontroluje probační úředník
 - Obecně prospěšné práce
-	- 18+ ${\longrightarrow \ }$ 50 – 400 hodin
-	- 15-18 let ${\longrightarrow \ }$ max 200 hodin
+	- 18+ ${\longrightarrow $ 50 – 400 hodin
+	- 15-18 let ${\longrightarrow $ max 200 hodin
 - Propadnutí majetku
 	- Postihuje buď celý majetek, nebo jeho část, nevztahuje se na věci nezbytně potřebné
 - Zákaz činnosti
@@ -163,6 +163,6 @@ Zabezpečovací detence
 5. ==vykonávací řízení== - uskutečňuje se za účelem vykonání trestu, odsuzující rozsudek nabyl právní moci
 	- Pachatel se v této etapě nazývá jako ==odsouzený==
 
-> Obviněný ${\longrightarrow \ }$ Obžalovaný ${\longrightarrow \ }$ Odsouzený
+> Obviněný ${\longrightarrow $ Obžalovaný ${\longrightarrow $ Odsouzený
 
 - Soudce, soudce z lidu, státní zástupce, advokát

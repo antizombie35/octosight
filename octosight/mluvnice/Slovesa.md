@@ -99,4 +99,4 @@
 
 ## Pomůcky
 1. JEDNOU/STÁLE
-1. BUDU  ________ _(sloveso v infinitivu)_ (zní to Divně  ${\ \longrightarrow\ }$ DOKONAVÉ)
+1. BUDU  ________ _(sloveso v infinitivu)_ (zní to Divně  $\longrightarrow$ DOKONAVÉ)

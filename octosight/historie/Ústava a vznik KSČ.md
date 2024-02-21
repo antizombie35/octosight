@@ -38,7 +38,7 @@
 
 # Rusko-polská válka
 ---
-- rudá armáda u našich ==V hranic==  ${\ \longrightarrow\ }$ ==výjimečný stav== na SL a Podkarpatské rusi vr. 1920
+- rudá armáda u našich ==V hranic==  $\longrightarrow$ ==výjimečný stav== na SL a Podkarpatské rusi vr. 1920
 - nespokojenost levice v ==soc.dem straně==
 
 Důsledky:
@@ -49,5 +49,5 @@ Důsledky:
 # Vznik KSČ
 ---
 - září 1920 se konal 13 sjezd soc.dem - byl ovládnut levicí a budoucí komunisté začali vydávat ==Rudé právo==, Lidový dům incident
-- rozděleny strany  ${\ \longrightarrow\ }$ levice (budoucí KSČ) ==pokus o převrat== ${\ \longrightarrow\ }$ vyhlášeno stanné právo a situace se uklidnila
+- rozděleny strany  $\longrightarrow$ levice (budoucí KSČ) ==pokus o převrat== $\longrightarrow$ vyhlášeno stanné právo a situace se uklidnila
 - květen 1921 pak levice soc.dem založila KSČ

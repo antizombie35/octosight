@@ -20,7 +20,7 @@
 ---
 ## Diktatura ==Primo de Rivery==
 - skončila r.1930, kdo ho král odvolal, aby udržel monarchii
-- monarchie r.1931 svržena  ${\ \longrightarrow\ }$ republika 
+- monarchie r.1931 svržena  $\longrightarrow$ republika 
 ## Vláda Lidové fronty
 - zvolena 1936
 - KS, socialisté, anarchisté, liberálové - dohromady ==republikáni==
@@ -46,7 +46,7 @@
 ## Vítězství frankistů
 - duben 1939
 - Franco západem uznán 
-- Franco vyhlásil za WWII neutralitu  ${\ \longrightarrow\ }$ jeho režim přežil do 70. let
+- Franco vyhlásil za WWII neutralitu  $\longrightarrow$ jeho režim přežil do 70. let
 - ==Appesement== = politika usmiřování nacistického Německa, ustupování jeho požadavkům za stran Západu, aby se zabránilo válce
 
 	- Válka v umění -  ==Pabla Picassa== přimělo bombardování Němců k vytvoření ==Guernica==

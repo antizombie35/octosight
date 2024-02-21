@@ -1,7 +1,7 @@
 Krize začala ==24.října 1929== krachem na newyorkské burze= _černý čtvrtek_ a přenesla se do Evropy.
 Krize byla:
-1) nejširší${\ \longrightarrow\ }$  zasáhla všechny země kromě SSSR (jiné problémy). Méně citelná v agrárních zemích-Španělsko, Balkán a VB, JP.
-2) nejhlubší${\ \longrightarrow\ }$   průměrně klesla výroba na ==64%==
+1) nejširší$\longrightarrow$  zasáhla všechny země kromě SSSR (jiné problémy). Méně citelná v agrárních zemích-Španělsko, Balkán a VB, JP.
+2) nejhlubší$\longrightarrow$   průměrně klesla výroba na ==64%==
 Pokles výroby v roce 1932:
 
 | Stát |  %  |
@@ -20,20 +20,20 @@ Nezaměstnaných:
 | USA  | 14 mil |
 |  NE  | 7 mil  |
 
-3) nejdelší${\ \longrightarrow\ }$  trvala 1929 – 1933 a stagnací do WWII.
+3) nejdelší$\longrightarrow$  trvala 1929 – 1933 a stagnací do WWII.
 
 # Řešení
 ---
 ## New deal
  demokratický - Program amerického kandidáta a od roku ==1932== prezidenta ==Franklin Delano Roosevelt== - ==new deal==
 New Deal zahrnoval:
-1. ==devalvace== dolaru,  _zákaz vývozu zlata a stříbra z USA  ${\ \longrightarrow\ }$ posílení vývozu_
+1. ==devalvace== dolaru,  _zákaz vývozu zlata a stříbra z USA  $\longrightarrow$ posílení vývozu_
 2. náhrada vyplácená farmářům kteří nechali ==ležet ladem pole==
-3. ==veřejné práce== z federálních zdrojů  ${\ \longrightarrow\ }$ 20 nových přehrad, letiště, dálnice
+3. ==veřejné práce== z federálních zdrojů  $\longrightarrow$ 20 nových přehrad, letiště, dálnice
 
 Výsledek:
 - r. 1937 výroba odpovídá stavu před krizí.
-- Zlepšení situace${\ \longrightarrow\ }$  F.D.Roosevelt zvolen znovu prezidentem v roce 1936, pak ještě 2x
+- Zlepšení situace$\longrightarrow$  F.D.Roosevelt zvolen znovu prezidentem v roce 1936, pak ještě 2x
 
 ## Francie
 - Těžká hospodářská krize v roce ==1932==

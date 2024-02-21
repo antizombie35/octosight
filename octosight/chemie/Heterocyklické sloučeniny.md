@@ -91,7 +91,7 @@ Indol
 ## Pyridin
 - má ==zásadité== vlastnosti (poskytuje volný el. pár) - (vznik pyridinium chloridu)
 - součást kyseliny nikotinové a nikotinamidu _(to má COOH navíc, v cigaretách)_
-- součást  ${\ NADP^+\ }$ - krebsův cyklus
+- součást  $NADP^+$ - krebsův cyklus
 
 ## Piperidin
 - vázán v některých ==alkaloidech== (nikotin, koniin, tropanové alkaloidy…)
@@ -114,7 +114,7 @@ Indol
 - vázán v nukleových kyselinách
 #### Uracil
 - U
-- volná čára do pryč znázorňuje  ${\ CH_3\ }$ 
+- volná čára do pryč znázorňuje  $CH_3$ 
 - vázán v nukleových kyselinách
 #### Thymin   
 - vázán v nukleových kyselinách

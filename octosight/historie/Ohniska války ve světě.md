@@ -6,7 +6,7 @@
 - vznikl loutkový stát ==Mandžukuo== pod JP ochranou, do čela bývalý čínský císař _Suan-tung_
 - Japonské plány:
 	- dobýt Čínu
-	- obsadit tichomoří  ${\ \longrightarrow\ }$ střet s USA
+	- obsadit tichomoří  $\longrightarrow$ střet s USA
 
 ## Japonský fašismus
 - ministr války - generál ==Araki== (skupina "==Mladí důstojnící==")
@@ -17,7 +17,7 @@
 - Masakr tehdy stál 260.000 civilních životů a 100.000 zajatých vojáků
 
 ## Vznik bloku fašistických států
-- společnost národů odmítla uznat Mandžukuo  ${\ \longrightarrow\ }$ JP vystoupili 1933, vznik JP-NE pakt proti ==Komineterně==, potom přistoupila ==IT==  ${\ \longrightarrow\ }$ vznik ==OSA Berlín-Řím-Tokio==
+- společnost národů odmítla uznat Mandžukuo  $\longrightarrow$ JP vystoupili 1933, vznik JP-NE pakt proti ==Komineterně==, potom přistoupila ==IT==  $\longrightarrow$ vznik ==OSA Berlín-Řím-Tokio==
 
 # Porušování Versaillské smlouvy Hitlerem
 ---

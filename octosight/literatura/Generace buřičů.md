@@ -28,7 +28,7 @@ aliases:
 ---
 - [[Generace buřičů|Anarchistický Buřič]]
 - ==komunista==, básník a novinář, kritik a ==překladatel== (leninovy spisy, prokletí básníci), ==národní umělec== (národní nobelovka)
-- po smrti otce ==zámožné tety==  ${\ \longrightarrow\ }$ (podědil olšanskou vilu)
+- po smrti otce ==zámožné tety==  $\longrightarrow$ (podědil olšanskou vilu)
 - neúspěšná studia, politicky aktivní - ==komunismus== _(odsouzen s Omladinou)_ – na začátku vazby vystoupil z ==římskokatolické církve==
 - přispíval do [[Česká moderna a dekadence#Moderní revue|Moderní revue]], jezdil na Mostecko a Teplicko
 - ==[[#revue Nový kult]]== _(Gellner, Šrámek, Toman, Mahen, Bruner)_

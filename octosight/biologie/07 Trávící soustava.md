@@ -103,7 +103,7 @@ aliases:
 ## Žaludek (==gaster==)
 ---
 - vakovitý orgán
--  ${\ 1,5 dm^3\ }$
+-  $1,5 dm^3$
 - mechanické zpracování potravy - stahy žaludeční svaloviny
 - chemické zpracování potravy - prostřednictvím žaludeční šťávy
 - ve sliznici žaludku jsou žlázy produkující žaludeční šťávu (==2 - 3 l== denně)
@@ -121,10 +121,10 @@ aliases:
 - ničí ==choroboplodné== zárodky
 - brání rozkladu některých vitamínů  (==B1==, ==B2==, ==C==)
 - přeměňuje nerozpustné ==minerální látky== na ==soli== ==rozpustné ve vodě==
-	- umožňuje přeměnu neúčinného ==pepsinogenu==  ${\ \longrightarrow\ }$ účinný ==pepsin==
+	- umožňuje přeměnu neúčinného ==pepsinogenu==  $\longrightarrow$ účinný ==pepsin==
 
 ### Pepsin
-- štěpí ve vodě nerozpustné ==bílkoviny==  ${\ \longrightarrow\ }$ rozpustné ==polypeptidy==
+- štěpí ve vodě nerozpustné ==bílkoviny==  $\longrightarrow$ rozpustné ==polypeptidy==
 
 ### Mucin
 - chrání ==žaludeční sliznici== před natrávením vlastní žaludeční šťávou
@@ -187,8 +187,8 @@ aliases:
 - součástí pankreatické šťávy jsou ==enzymy==:
 	- ==trypsin== - štěpí ==bílkoviny== na ==aminokyseliny==
 	- ==lipázy== - štěpí ==tuky== na ==glycerol== a ==mastné kyseliny==
-	- ==amylázy== - štěpí ==cukry== (==sacharidy==  ${\ \longrightarrow\ }$ ==glukóza==)
-	- ${\ HCO^-_3\ }$ - neutralizuej HCl v ==chymu==
+	- ==amylázy== - štěpí ==cukry== (==sacharidy==  $\longrightarrow$ ==glukóza==)
+	- $HCO^-_3$ - neutralizuej HCl v ==chymu==
 
 ## Játra = ==Hepar==
 ---
@@ -243,7 +243,7 @@ aliases:
 > Slinivka břišní
 > - ==trypsin== - štěpí ==bílkoviny== na ==aminokyseliny==
 > - ==lipázy== - štěpí ==tuky== na ==glycerol== a ==mastné kyseliny==
-> - ==amylázy== - štěpí ==cukry== (==sacharidy==  ${\ \longrightarrow\ }$ ==glukóza==)
+> - ==amylázy== - štěpí ==cukry== (==sacharidy==  $\longrightarrow$ ==glukóza==)
 
 # Onemocnění trávicí soustavy
 ---

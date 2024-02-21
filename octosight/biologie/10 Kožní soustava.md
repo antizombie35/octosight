@@ -9,7 +9,7 @@
 
 - ==dermatologie== = věda o kožních problémech
 
-- kůže dospělého člověka zaujímá v průměru plochu  ${\ 1,75 m^2\ }$
+- kůže dospělého člověka zaujímá v průměru plochu  $1,75 m^2$
 - kůže má v různých částech těla ==rozdílnou== tloušťku – nejtenčí je na ==očních víčkách==, nejsilnější na ==dlaních== a ==chodidlech==
 
 # Stavba kůže
@@ -49,7 +49,7 @@
 
 #### Potní žlázy
 - rozloženy po celém těle - nejvíce v podpaží, na čele, dlaních a ploskách noh
-- pot (99% vody, 0,6 %  ${\ NaCl\ }$, rozpuštěné organické látky - ==močovina==, ==mastné kyseliny==, ==aminokyseliny==)
+- pot (99% vody, 0,6 %  $NaCl$, rozpuštěné organické látky - ==močovina==, ==mastné kyseliny==, ==aminokyseliny==)
 
 - mezi kožní žlázy patří také:
 	- **apokrinní žlázy** (sexuální, pachové) – jen na některých částech těla (v podpaží, kolem konečníku a okolo pohlavních orgánů) - aktivizují se v době dospívání
@@ -74,11 +74,11 @@ zde jsou uložena ==Vater-Paciniho tělíska== = receptory vnímání tahu a tla
 
 # V pís nebude
 ---
-- s přibývajícím věkem se ve škáře zpomaluje tvorba kolagenu a elastinu, ubývá podkožní tuk, snižují činnost mazové a potní žlázy  ${\ \longrightarrow\ }$ ztenčení kůže, ztráta její pevnosti  ${\ \longrightarrow\ }$ tvorba vrásek
+- s přibývajícím věkem se ve škáře zpomaluje tvorba kolagenu a elastinu, ubývá podkožní tuk, snižují činnost mazové a potní žlázy  $\longrightarrow$ ztenčení kůže, ztráta její pevnosti  $\longrightarrow$ tvorba vrásek
 
 - většina kosmetických preparátů obsahuje kolagen a elastin
 - drastičtější terapií je injekční aplikace botulotoxinu
-- botulotoxin blokuje nervová zakončení  ${\ \longrightarrow\ }$ svaly, které způsobují smrštění kůže, zůstávají stále natažené
+- botulotoxin blokuje nervová zakončení  $\longrightarrow$ svaly, které způsobují smrštění kůže, zůstávají stále natažené
 - používají se také implantáty, které mechanicky roztahují kůži v postižených místech
 
 - ==strie== = trhlinky kůže - k jejich vzniku vede rychlé zvětšování některé oblasti těla - např. břicha v době těhotenství

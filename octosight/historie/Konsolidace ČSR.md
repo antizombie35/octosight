@@ -11,19 +11,19 @@
 # Slovensko
 ---
 - Zpočátku obsazeno maďarskými vojsky
-	- Paříž listopad 1918 dohodnuta demarkační čára mezi SL a maďarskem  ${\ \longrightarrow\ }$ čs legonáři pal vytlačili Maďary za tuto čáru - leden 1919
+	- Paříž listopad 1918 dohodnuta demarkační čára mezi SL a maďarskem  $\longrightarrow$ čs legonáři pal vytlačili Maďary za tuto čáru - leden 1919
 - Ministr pro Slovensko - ==Vavro Šrobár==
 - Slovenská ludová strana do opozice
 
 ## Podkarpatská Rus - Zakarpatská Ukrajina
 - původně pod Maďarskem
-- listopad 1918 referendum - ==plebiscit== o připojení k ČSR rozhodl pro společný stát s Čechy a Slováky  ${\ \longrightarrow\ }$ Užhorod pak obsazen čs. legiemi
+- listopad 1918 referendum - ==plebiscit== o připojení k ČSR rozhodl pro společný stát s Čechy a Slováky  $\longrightarrow$ Užhorod pak obsazen čs. legiemi
 
 # Polsko
 ---
 ## Konflikt s Pl o Těšínsko, Oravu a Spiš
 
-- Pl obsadilo v listopadu 1918 území Těšínska, Oravy a Spiše  ${\ \longrightarrow\ }$ leden 1919 následoval pochod čs. legií z Itálie a obsazení ==Bohumína== (po těžkých bojích) i ==Karviní== a ==Těšína==
+- Pl obsadilo v listopadu 1918 území Těšínska, Oravy a Spiše  $\longrightarrow$ leden 1919 následoval pochod čs. legií z Itálie a obsazení ==Bohumína== (po těžkých bojích) i ==Karviní== a ==Těšína==
 - Pl se stáhli za Vislu (měli jsme Fr velitele)
 - území rozděleno rukou velvyslanců r. 1920 tak, jak je dodnes
 - Těšín roztržen
@@ -67,7 +67,7 @@
 - 1 R-U koruna = 1 Kčs
 
 - **==Švehlova agrární reforma==** - začátek v ==dubnu 1919==: záborový zákon pozemků nad 250 ha celkem a nad 150 ha orné půdy
-- půda  ${\ \longrightarrow\ }$ drobným rolníkům prodána za 1/3 tržní ceny  (tyto peníze dostali původní majitelé)
+- půda  $\longrightarrow$ drobným rolníkům prodána za 1/3 tržní ceny  (tyto peníze dostali původní majitelé)
 
 - ==nostrifikační zákon== - zahraničí akciovky musely mít vedení na území ČSR - Daně
 

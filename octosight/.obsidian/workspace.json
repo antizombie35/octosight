@@ -8,26 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67d66b84284e4f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_dev/test/LaTeX spacing test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "68c5fa5e1e185588",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "preview",
+                "file": "_dev/test/LaTeX transpilation spacing test.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_dev/test/LaTeX spacing test.md",
+                "file": "_dev/test/LaTeX transpilation spacing test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_dev/test/LaTeX spacing test.md",
+                "file": "_dev/test/LaTeX transpilation spacing test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_dev/test/LaTeX spacing test.md"
+                "file": "_dev/test/LaTeX transpilation spacing test.md"
               }
             }
           },
@@ -172,35 +159,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "67d66b84284e4f02",
+  "active": "68c5fa5e1e185588",
   "lastOpenFiles": [
-    "_dev/test/LaTeX spacing test.md",
-    "Index.md",
-    "_dev/test",
-    "historie/Začátek WWII.md",
-    "_dev/admin/Unused JS.md",
-    "sloh/Publicistický styl.md",
-    "literatura/Literární období.md",
-    "literatura/Literární kompozice.md",
-    "literatura/Literární figury a tropy.md",
-    "literatura/Literární Druh, forma, žánr.md",
-    "historie/Ohniska války ve světě.md",
-    "fyzika/Zkratky.md",
-    "fyzika/2.4 Kapalnění.md",
-    "fyzika/2.3 Vypařování a var.md",
-    "fyzika/2.1 Změny skupenství.md",
-    "biologie/08 Metabolismus.md",
-    "zsv/Význam EU.md",
-    "zsv/Untitled 1.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
     "mluvnice/Slovesa.md",
     "mluvnice/Číslovky.md",
-    "matematika/Teorie seminář.md",
     "literatura/Generace buřičů.md",
-    "literatura/ČT deník.md",
     "chemie/Synteticky významné organické látky.md",
     "chemie/Heterocyklické sloučeniny.md",
+    "historie/Začátek WWII.md",
+    "historie/Velká hospodářská krize.md",
+    "historie/Ústava a vznik KSČ.md",
+    "historie/Švehlovy vládní kabinety.md",
+    "historie/Rakouský fašismus a Španělsko.md",
+    "historie/Ohniska války ve světě.md",
+    "historie/Nacistická vláda v Německu.md",
+    "historie/Mnichov 1938.md",
+    "historie/Léta 1935 - 38 v ČSR.md",
+    "historie/Konsolidace ČSR.md",
+    "historie/Hospodářská krize v ČSR.md",
+    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+    "fyzika/3.5 Pruživnování.md",
+    "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
+    "fyzika/3.2 Kmitání.md",
+    "fyzika/3.1 Periodický pohyb.md",
+    "fyzika/2.6 Fázový diagram.md",
+    "fyzika/2.5 Sublimace a desublimace.md",
+    "fyzika/2.3 Vypařování a var.md",
+    "_dev/test",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.svg",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",
     "_dev/attachments/Pasted image 20240213210609.png",
