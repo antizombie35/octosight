@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literatura/Generace buřičů.md",
-                "mode": "source",
+                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literatura/Generace buřičů.md",
+                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literatura/Generace buřičů.md",
+                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literatura/Generace buřičů.md"
+                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md"
               }
             }
           },
@@ -161,14 +161,18 @@
   },
   "active": "d98cfac903677a48",
   "lastOpenFiles": [
+    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.md",
+    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.svg",
+    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.excalidraw",
     "Offline Index.md",
+    "literatura/Generace buřičů.md",
     "Index.md",
     "_dev/test/LaTeX transpilation spacing test.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
     "mluvnice/Slovesa.md",
     "mluvnice/Číslovky.md",
-    "literatura/Generace buřičů.md",
     "chemie/Synteticky významné organické látky.md",
     "chemie/Heterocyklické sloučeniny.md",
     "historie/Začátek WWII.md",
@@ -182,11 +186,8 @@
     "historie/Léta 1935 - 38 v ČSR.md",
     "historie/Konsolidace ČSR.md",
     "historie/Hospodářská krize v ČSR.md",
-    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
     "fyzika/3.5 Pruživnování.md",
     "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
-    "fyzika/3.2 Kmitání.md",
-    "fyzika/3.1 Periodický pohyb.md",
     "_dev/test",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.svg",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",
@@ -200,12 +201,10 @@
     "_dev/attachments/Pasted image 20240213205837.png",
     "chemie",
     "_dev/attechments",
-    "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.svg",
     "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.excalidraw",
     "excalidraw 30-01-2024_11_39_11.excalidraw.excalidraw",
     "excalidraw 25-01-2024_09_10_49.excalidraw.excalidraw",
     "_dev/attachments/3.2 Kmitání25-01-2024_08_41_04.excalidraw.excalidraw",
-    "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw",
-    "_dev/attachments/Publicistický styl11-01-2024_17_18_38.excalidraw.excalidraw"
+    "_dev/attachments/Publicistický styl11-01-2024_17_31_33.excalidraw.excalidraw"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "pinned": [
     "insert-template",
-    "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab",
+    "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
     "obsidian-sort-and-permute-lines:sort-headings"
   ]
 }
