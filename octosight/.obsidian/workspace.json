@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
-                "mode": "preview",
+                "file": "chemie/Heterocyklické sloučeniny.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+                "file": "chemie/Heterocyklické sloučeniny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+                "file": "chemie/Heterocyklické sloučeniny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md"
+                "file": "chemie/Heterocyklické sloučeniny.md"
               }
             }
           },
@@ -161,21 +162,24 @@
   },
   "active": "d98cfac903677a48",
   "lastOpenFiles": [
-    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.md",
+    "mluvnice/Slovesa.md",
+    "literatura/Generace buřičů.md",
+    "chemie/Heterocyklické sloučeniny.md",
+    "historie/Začátek WWII.md",
     "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+    "historie/Rok 1941.md",
+    "Offline Index.md",
+    "chemie/Alkaloidy.md",
+    "literatura/Česká moderna a dekadence.md",
+    "Index.md",
+    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.md",
     "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.svg",
     "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.excalidraw",
-    "Offline Index.md",
-    "literatura/Generace buřičů.md",
-    "Index.md",
     "_dev/test/LaTeX transpilation spacing test.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
-    "mluvnice/Slovesa.md",
     "mluvnice/Číslovky.md",
     "chemie/Synteticky významné organické látky.md",
-    "chemie/Heterocyklické sloučeniny.md",
-    "historie/Začátek WWII.md",
     "historie/Velká hospodářská krize.md",
     "historie/Ústava a vznik KSČ.md",
     "historie/Švehlovy vládní kabinety.md",
@@ -186,8 +190,6 @@
     "historie/Léta 1935 - 38 v ČSR.md",
     "historie/Konsolidace ČSR.md",
     "historie/Hospodářská krize v ČSR.md",
-    "fyzika/3.5 Pruživnování.md",
-    "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
     "_dev/test",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.svg",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",

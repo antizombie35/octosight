@@ -1,3 +1,7 @@
+
+> [!warning]
+> Stránka není hotova
+
 - Heterocyklické sloučeniny
 - Součástí cyklu je jeden nebo více heteroatomů (časté O,S,N,  vzácnější Si, Se, P, As, B)
 - Názvosloví

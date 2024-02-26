@@ -1,4 +1,453 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[octosight]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://antizombie35.github.io/octosight/</link><image><url>https://antizombie35.github.io/octosight/lib/media/favicon.png</url><title>octosight</title><link>https://antizombie35.github.io/octosight/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 21 Feb 2024 09:32:27 GMT</lastBuildDate><atom:link href="https://antizombie35.github.io/octosight/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 21 Feb 2024 09:32:27 GMT</pubDate><copyright><![CDATA[antizombie35]]></copyright><ttl>60</ttl><dc:creator>antizombie35</dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[octosight]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://antizombie35.github.io/octosight/</link><image><url>https://antizombie35.github.io/octosight/lib/media/favicon.png</url><title>octosight</title><link>https://antizombie35.github.io/octosight/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 26 Feb 2024 19:53:55 GMT</lastBuildDate><atom:link href="https://antizombie35.github.io/octosight/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 26 Feb 2024 19:53:54 GMT</pubDate><copyright><![CDATA[antizombie35]]></copyright><ttl>60</ttl><dc:creator>antizombie35</dc:creator><item><title><![CDATA[3.6 Dynamika kmitání - matematické kyvadlo]]></title><description><![CDATA[<a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> <a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
+ <br>
+<br>fyzikální model
+<br>hmotný bod na nehmotném závěsu
+<br>zanedbáváme velikost kyvadla, váhu závěsu
+<br>očekáváme malé amplitudy - popisujeme jen na ose x bez pohybu na y
+<br><img alt="excalidraw 20-02-2024_11_51_55.excalidraw.svg" src="https://antizombie35.github.io/octosight/lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg"><br><img alt="excalidraw 22-02-2024_08_48_13.excalidraw.svg" src="https://antizombie35.github.io/octosight/lib/media/excalidraw-22-02-2024_08_48_13.excalidraw.svg"><br>
+<a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a> předělat excalidraw makra<br>
+<a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a> \frac implement<br><br>2 pohybový zákon:<br>
+<br>v amplitudě:<br>
+ (popis v ose  )<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>Tldr
+<br>
+
+<br>př. sekudové kyvadlo<br>
+kyv 1 s   T = 2s<br>
+<br>
+<br>
+<br>
+<br>
+]]></description><link>https://antizombie35.github.io/octosight/fyzika/3.6-dynamika-kmitání-matematické-kyvadlo.html</link><guid isPermaLink="false">fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Thu, 22 Feb 2024 08:34:58 GMT</pubDate><enclosure url="https://antizombie35.github.io/octosight/lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://antizombie35.github.io/octosight/lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Duben]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>v listopadu 1940 odrazili Řekové italský útok
+<br>diktátor Metaxas prý do radia recitoval drama Peršané
+<br>DE (+ IT) zaútočilo na Řecko znovu v dubnu 1941 (úspěšně)
+<br>v dubnu 1941 též DE dobývají Jugoslávii.
+<br>Jugoslávie se rozdělila
+<br><br><br>
+<br>Chorvatsko se stalo spojencem Hitlera
+<br>režim ustašovců - chorvatští fašisti - podobná krutost jako nacismus - vraždili Židy, Srby i pravoslavné křesťany
+<br><br><br>
+<br>okupované DE
+<br>proti okupaci - četníci (přívrženci bývalé monarchie) - pod velením D. Mihaloviče
+<br>zastřelen 1947 komunisty
+<br>komunistickým partyzánům velel J. B. Tito
+<br><br><br>
+<br>smlouva o neútočení mezi JP (úspěšně útočícím na Čínu) a SSSR (duben 1941)
+<br>Roosevelt prosadil Lend and Lease Act - zákon o pronájmu (zbraní) - protihitlerovským silám (březen 1941)
+<br>Stalin do té míry nic netuší, že chce pozvat DE an májové oslavy
+<br><br><br>
+<br>útok na SSSR
+<br>začala 22. června 1941
+<br>celkem prý později nasazeno 3 - 5 mil. mužů
+<br>podpora divizí rumunských, IT, 2 SL, chorvatských a maďarských
+<br>Finové si vzali pouze zpět dříve zabrané území
+<br>Churchill SSSR neúspěšně varoval, pak se prohlásil za spojence SSSR.
+<br><br><br>
+<br>skupina armád Sever - do Pobaltí a obklíčila Leningrad (nedobyt)
+<br>skupina armád Střed - Moskva, dostali se 25 km od Moskvy
+<br>skupina armád Jih - na Ukrajinu, měli se dostat do Zakavkazska
+]]></description><link>https://antizombie35.github.io/octosight/historie/rok-1941.html</link><guid isPermaLink="false">historie/Rok 1941.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Mon, 26 Feb 2024 09:11:03 GMT</pubDate></item><item><title><![CDATA[Smlouva Molotov - Ribbentrop]]></title><description><![CDATA[ 
+ <br>
+<br>začala napadením PL 1. září 1939
+<br><br><br>
+<br>srpen 1939
+<br>uzavřena smlouva o neútočení mezi SSSR a NE
+<br>jméno podle ministrů zahraničí
+<br>tajný dodatek o dělení PL
+<br><br><br>
+<br>PL "přepadení" vysílačky v NE Gleiwitzi - fingované NE tajnou službou v PL uniformách
+<br>Mrtvé vězně měli s sebou jako důkaz
+<br>Informaci rozhlásili po říši
+<br><br><br>
+<br>1. září 1939
+<br>NE zaútočilo na PL
+<br>taktika Blitzkrieg - "blesková válka"
+<br>PL stateční, ale nevyzbrojení - tanky proti koním
+<br>od 17. září se přidali z V Sověti a obsadili V PL
+<br>Z spojenci - VB a Fr vyhlásili válku na papíře - podivná válka, válka v sedě
+<br><br>
+<br>odhalený masový hrob PL důstojníků zavražděných v Katyni sovětskou tajnou službou - 22 tis. mrtvých mužů
+<br><br><br><br>
+<br>listopad 1939 - březen 1940
+<br>Finové se trojnásobné přesile bránili tak, že sověti dosáhli jen zisku v oblasti Karelské šíje - blízko Leningradu (Petrohradu)
+<br><br>
+<br>Stalin připojil Estonsko, Litvu a Lotyško
+<br>Vr. 1940 obsadil Bukovinu a Besarábii - tj. dnešní Moldavsko
+<br><br><br>
+<br>
+1940 - útok ne EV ze S
+
+<br>
+v dubnu 1940 Hitler dobyl Dánsko a Norsko - jeho král Haakon utekl do VB, nekapituloval, vládl z Londýna
+
+<br>
+předsedou kolaboranstské vlády a pronacistickým zpravodajcem byl Viduk Quisling (za války totéž co Jidáš)
+
+<br>Hitler neútočil na Švédsko (neutrální) a Finsko (spojenci NE)
+
+
+<br>
+
+<br>května 1940 DE útok na Nizozemí, Belgii a Lucembursko - cíl obejít Maginotovu linii mezi DE a Fr.
+
+
+<br><br><br>
+<br>do Belgie šla na pomoc VB vojska, ale nemohla DE zadržet.
+<br>DE měli převahu v tancích a letectvu
+<br>13. května 1940 odstoupil Chamberlain a na jeho místo Winston Churchill
+<br>Změny i ve Fr vládě, ale pozdě
+<br>W. Churchill - I have nothing to offer but blood, toil, tears and sweat (13. května 1940)
+<br><br><br>
+<br>koncem května VB a část Fr vojsk zatlačena k pobřeží na pláži u Dunkerque
+<br>pomáhali rybáři
+<br>V červnu 1940 přešla vláda ve Fr do rukou maršála Pétaina
+<br>Pétain podepsal kapitulaci dne 22. června 1940
+<br>Fr se rozdělila na 2 části:
+
+<br>okupovaná část na SZ (včetně Paříže)
+<br>J - loutkový režim Pétaina s vládou ve Vichy
+
+
+<br>Generál Charles de Gaulle - vytvořil v exilu národní výbor za osvobození Fr - Hnutí svobodných Francouzů
+<br><br><br>
+<br>
+srpen 1940 - listopad 1940
+
+<br>
+RAF (royal air force) X Luftwaffe - Hittler chtěl v operaci Lvoun připravit námořní invazi
+
+<br>
+Když to selhalo tak chtěl VB přimět ke změně vlády
+
+<br>
+maršál Goring velel Luftwaffe
+
+<br>
+DE neuspěli protože
+
+<br>VB radary
+<br>za RAF létali i příslušníci zotročených národů Ev: ČSR, PL, Belgie, Fr, Kanada
+<br>Hitler přešel z útoků na letiště a továrny k útokům na Londýn   RAF se zpamatovalo
+<br>piloti RAF seskakovali při zásahu na VB území, ale DE seskakovali na VB území taky   zajetí pilotů
+<br>Luftwaffe má na bombardování jen 20 min - velikost nádrže letadel
+
+
+]]></description><link>https://antizombie35.github.io/octosight/historie/začátek-wwii.html</link><guid isPermaLink="false">historie/Začátek WWII.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Mon, 26 Feb 2024 08:32:08 GMT</pubDate></item><item><title><![CDATA[Heterocyklické sloučeniny]]></title><description><![CDATA[<a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> <a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
+ <br>Warning
+Stránka není hotova
+<br>
+<br>Heterocyklické sloučeniny
+<br>Součástí cyklu je jeden nebo více heteroatomů (časté O,S,N,&nbsp; vzácnější Si, Se, P, As, B)
+<br>Názvosloví
+
+<br>systematické (těžkopádné)
+<br>triviální
+
+
+<br>&nbsp;&nbsp;&nbsp; Číslování kruhu: vychází se od heteroatomu pokračuje se postupně po kruhu<br>&nbsp;&nbsp;&nbsp; (pokud heterocykl obsahuje více heteroatomů<br>&nbsp;&nbsp;&nbsp;&nbsp; O musí mít nejmenší číslo, pak S, N)<br>
+<br>
+Význam heterocyklů
+
+<br>
+hlavně v biologii
+
+<br>&nbsp;&nbsp;&nbsp; - nukleové kyseliny, koenzymy, vitamíny,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; alkaloidy, sacharidy, aminokyseliny,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; přírodní barviva, antibiotika,&nbsp; léčiva…<br>&nbsp;&nbsp; Aromatický charakter některých heterocyklů<br>&nbsp;&nbsp; (volné elektronové páry se mohou zapojit do<br>&nbsp;&nbsp;&nbsp; konjugace) - heteroareny<br>
+<br>Heterocyklické sloučeniny s pětičlenným cyklem
+<br>Furan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Thiofen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pyrrol<br>Který z těchto heterocyklů se nejvíce podobá aromatickým sloučeninám a PROČ?<br>
+<br>
+<br>Furan –příprava tetrahydrofuranu (rozpouštědlo)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - tetrahydrofuranový kruh je základ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; molekuly některých cukrů (furanózy)<br>Thiofen – kapalina obsažená v černouhelném<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dehtu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - odvozuje se od něj struktura vitaminu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H (biotinu) – správná funkce kůže<br>Pyrrol – stavební jednotka chlorofylu, hemoglobinu,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; myoglobinu, bilirubinu, vitamínu B 12<br>
+<br>
+<br>Indol<br>
+<br>
+součást AMK tryptofanu
+
+<br>
+vázán v indigu
+
+<br>&nbsp;&nbsp; (přírodní modré barvivo)<br>
+<br>
+stavební jednotka serotoninu (obs. v mozkových buňkách)
+
+<br>
+<br>
+<a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a> up, pics, za papiru
+
+<br><br><br>
+<br>součást AMK histidinu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
+<br>od něj je odvozená struktura penicilinu a vitamínu B1 (thiaminu) – zajišťuje správnou činnost nervového systému
+<br><br><br><br>(2H – pyran)<br><br>(4H – pyran)<br>
+2H a 4H podle toho, kde je H navíc (chybí tam cokoliv jiného)
+<br>
+<br><a data-href="#α – pyran" href="https://antizombie35.github.io/octosight/#α_–_pyran" class="internal-link" target="_self" rel="noopener">α – pyran</a> a <a data-href="#γ- pyran" href="https://antizombie35.github.io/octosight/#γ-_pyran" class="internal-link" target="_self" rel="noopener">γ- pyran</a> - základ struktury monosacharidů - pyranózy
+<br>v kostce cukru je <a data-href="#α – pyran" href="https://antizombie35.github.io/octosight/#α_–_pyran" class="internal-link" target="_self" rel="noopener">α – pyran</a> i <a data-href="#γ- pyran" href="https://antizombie35.github.io/octosight/#γ-_pyran" class="internal-link" target="_self" rel="noopener">γ- pyran</a>
+<br><br>
+<br>má zásadité vlastnosti (poskytuje volný el. pár) - (vznik pyridinium chloridu)
+<br>součást kyseliny nikotinové a nikotinamidu (to má COOH navíc, v cigaretách)
+<br>součást   - krebsův cyklus
+<br><br>
+<br>vázán v některých alkaloidech (nikotin, koniin, tropanové alkaloidy…)
+<br>z rostlin<br>
+-- v malém množství léčiva, ve velkém množství návykové, smrtelné
+<br><br><br>
+<br>isomer <a data-href="#Chinolin" href="https://antizombie35.github.io/octosight/#Chinolin" class="internal-link" target="_self" rel="noopener">Chinolin</a>
+<br><br><br><br>
+<br>C
+<br>uveden v keto formě (N-H)
+<br>existuje i enol forma (alkohol O-H)
+<br>umí mezi sebou přecházet
+<br>vázán v nukleových kyselinách
+<br><br>
+<br>U
+<br>volná čára do pryč znázorňuje   
+<br>vázán v nukleových kyselinách
+<br><br>
+<br>vázán v nukleových kyselinách
+<br><br><br><br>
+<br>obsažen v nukleových kyselinách
+<br><br>
+<br>obsažen v nukleových kyselinách
+<br><br>
+<br>konečný produkt látkové přeměny plazů a ptáků
+<br>usazuje s v kloubech – dna (ne DNA) 
+<br><a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a> obrázky z prezentace]]></description><link>https://antizombie35.github.io/octosight/chemie/heterocyklické-sloučeniny.html</link><guid isPermaLink="false">chemie/Heterocyklické sloučeniny.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Mon, 26 Feb 2024 19:53:45 GMT</pubDate></item><item><title><![CDATA[Přehled]]></title><description><![CDATA[<a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> <a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:čtenářák" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#čtenářák</a> <a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:čtenářák" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#čtenářák</a> 
+ <br><br><br>
+<br>
+<a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a> is bouření užívá, buřiči si to neužívají, ale z nějákého důvodu to potřebují
+
+<br>
+sami si říkali anarchističtí buřiči a básníci života a vzdoru.
+
+<br>
+politika austroslavismu
+
+<br>
+kritika postavení žen, vojenství, umění, církve
+
+<br>
+Sarajevo - atentát na Františka Ferdinanda d´Este
+
+<br>
+časopis Nový kult, hnutí Omladina - komunismus
+
+<br>
+Carpe diem! - užívej dne (po nás potopa)
+
+<br>
+anarchismus, antimilitarismus, vitalismus - berte teď
+
+<br><br><a data-href="#Stanislav Kostka Neumann" href="https://antizombie35.github.io/octosight/#Stanislav_Kostka_Neumann" class="internal-link" target="_self" rel="noopener">Stanislav Kostka Neumann</a><br><br>
+<br>jednoduché, pravidelné, srozumitelné, rytmické verše
+<br>přirozený, spisovný jazyk
+<br>politika, vojna, ztráty, vášeň, city, kritika
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="Generace buřičů" data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Anarchistický Buřič</a>
+<br>komunista, básník a novinář, kritik a překladatel (leninovy spisy, prokletí básníci), národní umělec (národní nobelovka)
+<br>po smrti otce zámožné tety   (podědil olšanskou vilu)
+<br>neúspěšná studia, politicky aktivní - komunismus (odsouzen s Omladinou) – na začátku vazby vystoupil z římskokatolické církve
+<br>přispíval do <a data-tooltip-position="top" aria-label="Česká moderna a dekadence > Moderní revue" data-href="Česká moderna a dekadence#Moderní revue" href="https://antizombie35.github.io/octosight/literatura/česká-moderna-a-dekadence.html#Moderní_revue" class="internal-link" target="_self" rel="noopener">Moderní revue</a>, jezdil na Mostecko a Teplicko
+<br><a data-href="#revue Nový kult" href="https://antizombie35.github.io/octosight/#revue_Nový_kult" class="internal-link" target="_self" rel="noopener">revue Nový kult</a> (Gellner, Šrámek, Toman, Mahen, Bruner)
+<br>spoluzakladatel __ klubu <a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a>
+<br>dvakrát ženat, ale vyznával volnou lásku
+<br>(Kamilla Krémová, Božena Hodačová - vypovězen z obce Řečkovice, Lída Špačková)
+<br>Bílovice nad Svitavou (Kniha lesů vod a strání)
+<br>za WWI války saniťák na albánské frontě
+<br>poslancem Národního shromáždění Republiky československé (patřil k anarchokomunistům)
+<br>ve 20. letech spoluzakladatelem komunistické strany československa (proletářská poezie)
+<br>proletariát - normální lidi
+<br>časopisy Červen, Kmen a Proletkult
+<br>za WWII války v ústraní v Železných horách (unikl gestapu)
+<br>komunisti ho zneužili
+<br>nebyl schopen se odproostit od náboženských témat
+<br>prostřídal všechno - <a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a>, <a data-href="Symbolismus" href="https://antizombie35.github.io/octosight/literatura/symbolismus.html" class="internal-link" target="_self" rel="noopener">Symbolismus</a> <a data-href="Anarchie" href="https://antizombie35.github.io/octosight/Anarchie" class="internal-link" target="_self" rel="noopener">Anarchie</a>, <a data-href="Vitalismus" href="https://antizombie35.github.io/octosight/Vitalismus" class="internal-link" target="_self" rel="noopener">Vitalismus</a>, <a data-href="Civilismus" href="https://antizombie35.github.io/octosight/Civilismus" class="internal-link" target="_self" rel="noopener">Civilismus</a>
+<br><br>Jsem apoštol nového žití - <a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a><br>
+Satanova sláva mezi námi - <a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a>, satan jako rebélie a symbol, ne jako satanismus<br>
+Sen o zástupu zoufajících - sociální tematika, <a data-href="Realismus" href="https://antizombie35.github.io/octosight/Realismus" class="internal-link" target="_self" rel="noopener">Realismus</a>, jednoduchá poezie, úderné<br>
+S městem za zády - přírodní lyrika <a data-href="Vitalismus" href="https://antizombie35.github.io/octosight/Vitalismus" class="internal-link" target="_self" rel="noopener">Vitalismus</a><br>
+Kniha lesů vod a strání<br>
+Nové zpěvy - chvála rotačky, technické<br>
+Rudé zpěvy - pro <a data-href="Komunismus" href="https://antizombie35.github.io/octosight/Komunismus" class="internal-link" target="_self" rel="noopener">Komunismus</a>, pak to zneužili<br>
+Dějiny lásky/Dějiny ženy - obrovská kniha, doprovod obrazem, pohoršilo<br>
+Anti-Gide - pro <a data-href="Komunismus" href="https://antizombie35.github.io/octosight/Komunismus" class="internal-link" target="_self" rel="noopener">Komunismus</a><br>
+Zamořená léta - zkušenost s <a data-tooltip-position="top" aria-label="Nacismus" data-href="Nacismus" href="https://antizombie35.github.io/octosight/Nacismus" class="internal-link" target="_self" rel="noopener">Nasicmem</a><br><br><br>
+<br>básník, prozaik, dramatik, <a data-tooltip-position="top" aria-label="Generace buřičů" data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Anarchistický Buřič</a>
+<br>Písek (děj děl), Roudnice nad Labem, vojna, po ní studia práv, ale dal přednost literatuře a přidal se k <a data-href="#revue Nový kult" href="https://antizombie35.github.io/octosight/#revue_Nový_kult" class="internal-link" target="_self" rel="noopener">revue Nový kult</a>
+<br>vězněn za účast na demonstracích (proti R-U) a antimilitaristickou báseň píšou mi psaní 
+<br>haličská fronta (30. září 1914), hospitalizace, revma, IT a Rumunsko (ŠP chřipka - přežil)
+<br>jeho tematika: příroda, odpor k válce, vášnivý nekonvenční milostný vztah
+<br>po WWI se sblížil s okruhem kolem K. Čapka
+<br>ve 30. letech se odmlčel a uzavřel, tvořil osamoceně
+<br>1946 jmenován národním umělcem (jako <a data-href="#Stanislav Kostka Neumann" href="https://antizombie35.github.io/octosight/#Stanislav_Kostka_Neumann" class="internal-link" target="_self" rel="noopener">Stanislav Kostka Neumann</a>)
+<br>raport(báseň) - hlášení, zastává se koní, ukazuje absurditu
+<br><br>Života bído, přec tě mám rád - <a data-href="Naturalismus" href="https://antizombie35.github.io/octosight/Naturalismus" class="internal-link" target="_self" rel="noopener">Naturalismus</a>, hravá<br>
+Modrý a rudý - (modrá - R-U armáda a rudá - anarchisti, komouši a krev)<br>
+Splav<br>
+Rány, růže<br>
+Stříbrný vítr - román, viděls to, studenti hledající místo a lásku<br>
+Tělo - smyslný román; borec borka děcko dohromady OK a klidné ale borka chce VÍC<br>
+Měsíc nad řekou - drama, děj: setkání, borec a borka v prdelovičkách - borka dostane veřejně poděkováno od borce i když to nikam neodtáhli, vedlejší děj<br><br><br>
+<br>básník, prozaik, kreslíř, karikaturista, <a data-tooltip-position="top" aria-label="Generace buřičů" data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Anarchistický Buřič</a>
+<br>studoval (gymnázium, technika ve Vídni, báňská akademie, malířství v Mnichově a v Paříži, v Drážďanech)
+<br>kreslíř Lidových novin
+<br>nezvěstný na haličské frontě<br>
+Po nás ať přijde potopa<br>
+Radosti života
+<br><br><br>
+<br>básník, novinář, překladatel, <a data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Generace buřičů</a>
+<br>před něčím utíkal
+<br>vlastním jménem Antonín Bernášek
+<br>gymnázium, práva (nedokončil), úředník
+<br>cestovatel (DE, Nizozemí, VB, Fr – reportáže (i do <a data-href="#Revue Nový kult" href="https://antizombie35.github.io/octosight/#Revue_Nový_kult" class="internal-link" target="_self" rel="noopener">Revue Nový kult</a>))
+<br>za války byl úředníkem
+<br>1946 se stal národním umělcem
+<br>milostná témata<br>
+Pohádky krve<br>
+Torzo života - depresivní<br>
+Sluneční hodiny - o obyčejných věcech, poměrně klidné<br>
+Měsíce - s tím sme pracovali celou hodinu, vlastenecké, péče o zemi, příroda, vlastenecké, uklidňovací, <a data-href="Vitalismus" href="https://antizombie35.github.io/octosight/Vitalismus" class="internal-link" target="_self" rel="noopener">Vitalismus</a>, tradice a folklór<br>
+Hlas ticha - zklamání z následků WWI, <a data-href="Symbolismus" href="https://antizombie35.github.io/octosight/literatura/symbolismus.html" class="internal-link" target="_self" rel="noopener">Symbolismus</a><br>
+Stoletý kalendář - láska k domovu
+<br><br><br>
+<br>básník, prozaik, publicista, nacionalistický politik, <a data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Generace buřičů</a> (v mládí)
+<br>gymnázium (A. Jirásek), práva, novinář (Lumír)
+<br>protirakouský odboj, vězněn ve Vídni
+<br>redaktor Národních listů
+<br>spoluzakladatel Československé národní demokracie<br>
+A porta inferi - začátek pohřebního žalmu u pekelné brány, kritizuje maloměšťáky<br>
+Satiry a sarkasmy<br>
+Milá sedmi loupežníků - <a href="https://antizombie35.github.io/octosight?query=tag:čtenářák" class="tag" target="_blank" rel="noopener">#čtenářák</a> 17 stran, poema - lyrika, je tam příběh (vedlejší), loupežník vzpomíná na 7 loupežníků a Milou (nemá jméno, píše se s velkým M), rozhovor, milá ale trochu svině, chodí tam z nudy, zabijí faráře a pocestného, nakonec je Milá udá (zabijí loupežníky) a pak na ně vzpomíná<br>
+Pohádky z naší vesnice -<br>
+Devátá vlna - depresivní, to poslední co napsal<br>
+Okno (Země mluví) - mluví o matce, planetě, země je věčná, nekonečná, vlastenecké, "opustíš-li mne nezahynu, opustíš-li mne zahyneš"<br>
+Krysař - <a href="https://antizombie35.github.io/octosight?query=tag:čtenářák" class="tag" target="_blank" rel="noopener">#čtenářák</a> , 60 stran, próza, tragická postava beze jména (zápletka kolem toho), za tak málo práce mu nedáme tolik peněz, borka co to neunese, Krysař se mstí (hraje pořádně), prosťáček rybář co odolává - zachrání ho pláč dítěte, jdou do Sedmihradska<br>
+Zmoudření Dona Quijota - drama
+<br><br><br>
+<br>z rodiny slezského učitele a buditele Antonína Vaška (Vladimír)
+<br>jeho otec proti rukopisům   nepřátelé
+<br>Opava   Brno, TBC - otec i on, 6 sourozenců
+<br>gymnázium v Brně ( některý věci mu vůbdc nešly - An-ton - vše zpíval v jednom tónu), FF UK (nedokončil), hospody a kavárny (Herben - periodikum čas)<br>
+v Brně si musel najít zaměstnání (písař, úředník) - ale rodině vůbec nepomáhal, chlastal
+<br>pošta v Místku (Ondřej Boleslav Petr, Maryčka Sagonová, Doda Bezručová - láska ale nikam to nevedlo)
+<br>návrat do Brna (Petrova sebevražda, matčina smrt)<br>
+básně vydané v Času, proces (P.B. v časopise L´indépendance<br>
+Tchéque oslavoval ruského cara), zatykač, skoro rok seděl<br>
+Slezské písně
+]]></description><link>https://antizombie35.github.io/octosight/literatura/generace-buřičů.html</link><guid isPermaLink="false">literatura/Generace buřičů.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Fri, 23 Feb 2024 07:35:02 GMT</pubDate></item><item><title><![CDATA[Osoba]]></title><description><![CDATA[ 
+ <br>
+<br>vyjadřují děj
+<br>časovatelná
+<br>plnovýznamová i neplnovýznamová
+<br>větné členy - Pk, Pt, PkN, Pu, Dk
+<br>neplnovýznamová:
+
+<br>pomocná - být, bývat
+<br>sponová - být, stát se
+<br>způsobová - moci, smět, muset, chtít, mít, (hodlat, umět)
+<br>fázová - začít, přestat, zůstat
+<br>
+
+
+<br><br><br><br>neosobní slovesa - pršet, sněžit, bolet - existují jen ve 3. osobě<br><br><br>
+<br>
+jednotné
+
+<br>
+množné
+
+<br>
+<a data-tooltip-position="top" aria-label="Dvojné číslo" data-href="Dvojné číslo" href="https://antizombie35.github.io/octosight/mluvnice/dvojné-číslo.html" class="internal-link" target="_self" rel="noopener">dvojné</a> (duál)
+
+<br>
+autorský plurál
+
+<br>
+plurál majestatikus
+
+<br>
+empatický plurál
+
+<br>
+mateřský plurál
+
+<br>
+vykání, onikání, onkání
+
+<br><br><br><br>
+<br>3 časy (<a data-href="#Minulý" href="https://antizombie35.github.io/octosight/#Minulý" class="internal-link" target="_self" rel="noopener">Minulý</a>, <a data-href="#Přítomný" href="https://antizombie35.github.io/octosight/#Přítomný" class="internal-link" target="_self" rel="noopener">Přítomný</a>, <a data-href="#Budoucí" href="https://antizombie35.github.io/octosight/#Budoucí" class="internal-link" target="_self" rel="noopener">Budoucí</a>)
+<br><br>
+<br>osoby jen 2.j, 1.mn, 2.mn
+<br>rozkazovací od vidět - viz - bez tečky	- rozkazovací od vědět - věz - bez tečky
+<br><br>
+<br>nemá časy, ale je minulý a přítomný
+<br>bych:
+
+<br>bych
+<br>bys
+<br>by
+<br>bychom
+<br>byste
+<br>by
+
+
+<br>přítomný vs minulý - realizovatelnost
+<br><br><br><br>
+<br>bylo
+<br><br>
+<br>je
+<br><br>
+<br>bude
+<br><br><br><br>
+<br>Podmět ve větě fakticky něco dělá
+<br>Karel staví dům
+<br><br>
+<br>Podmět ve větě jen přihlíží
+<br><br>
+<br>Zlato bylo kutáno
+<br>být + trpné příčestí
+<br><br>
+<br>Zlato se kutá
+<br><br><br>¨- vyjadřuje ukončenost děje<br><br>
+<br>děj bude nebo byl ukončen
+<br>nelze vyjádřit <a data-href="#Přítomný" href="https://antizombie35.github.io/octosight/#Přítomný" class="internal-link" target="_self" rel="noopener">Přítomný</a> čas
+<br>pomůcka: JEDNOU
+<br><br>
+<br>děj neohraničený, probíhající
+<br>pomůcka: STÁLE
+<br><br>
+<br>některá slovesa
+<br><a data-href="#Dokonavý" href="https://antizombie35.github.io/octosight/#Dokonavý" class="internal-link" target="_self" rel="noopener">Dokonavý</a> i <a data-href="#Nedokonavý" href="https://antizombie35.github.io/octosight/#Nedokonavý" class="internal-link" target="_self" rel="noopener">Nedokonavý</a>
+<br><br>
+<br>nemají protisloveso
+<br><br><br><br>
+<br>JEDNOU/STÁLE
+<br>BUDU  ____ (sloveso v infinitivu) (zní to Divně   DOKONAVÉ)
+<br><br><br><br>
+<br>1 plnovýznamové sloveso (+ se, si)
+<br><br>
+<br>1 plnovýznamové sloveso + pomocné být
+<br>Tldr
+minulý čas je vždy <a data-tooltip-position="top" aria-label="Složené" data-href="#Složené" href="https://antizombie35.github.io/octosight/#Složené" class="internal-link" target="_self" rel="noopener">složený tvar</a><br>
+patří sem: přišel, došel, procovala<br>
+(1. os došel jsem)<br>
+(2. os došel jsi)<br>
+(3. os došel jest)
+<br><br><br>
+<br><a data-tooltip-position="top" aria-label="Dokonavý" data-href="#Dokonavý" href="https://antizombie35.github.io/octosight/#Dokonavý" class="internal-link" target="_self" rel="noopener">Dokonavý tvar</a>   přechodník minulý
+<br><a data-href="#Nedokonavý" href="https://antizombie35.github.io/octosight/#Nedokonavý" class="internal-link" target="_self" rel="noopener">Nedokonavý</a>   přechodník přítomný
+<br>Přítomné:<br>
+<br>-aje
+<br>-ic
+<br>-ice
+<br>Minulé:<br>
+<br>-v
+<br>-vši
+<br>-vše
+]]></description><link>https://antizombie35.github.io/octosight/mluvnice/slovesa.html</link><guid isPermaLink="false">mluvnice/Slovesa.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Mon, 26 Feb 2024 07:39:10 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
  <br><img alt="Index16-12-2023_16_03_58.excalidraw.svg" src="https://antizombie35.github.io/octosight/_dev/attachments/index16-12-2023_16_03_58.excalidraw.svg"><br>
 <br>
 Open source Transpiled Obsidian-based Synced Interconnected Github-hosted Hyperlinked artifact<br>
@@ -2193,19 +2642,7 @@ veličina k nám říká, jak velkou silou bychom pružinu prodloužili o 1 m.
     <br>Tldr
   perioda vlastního kmitání<br>
  frekvence vlastního kmitání
-]]></description><link>https://antizombie35.github.io/octosight/fyzika/3.5-pruživnování.html</link><guid isPermaLink="false">fyzika/3.5 Pruživnování.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[3.6 Dynamika kmitání - matematické kyvadlo]]></title><description><![CDATA[ 
- <br>
-<br>fyzikální model
-<br>hmotný bod na nehmotném závěsu
-<br>zanedbáváme velikost kyvadla, váhu závěsu
-<br>očekáváme malé amplitudy - popisujeme jen na ose x bez pohybu na y
-<br><img alt="excalidraw 20-02-2024_11_51_55.excalidraw.svg" src="https://antizombie35.github.io/octosight/lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg"><br>l = 0,92 m<br><br>
-<br>na hmotnosti to nezávisí
-<br><br>
-<br>přímá úměrnost s  
-<br><br>
-<br>na amplitudě to nezávisí
-]]></description><link>https://antizombie35.github.io/octosight/fyzika/3.6-dynamika-kmitání-matematické-kyvadlo.html</link><guid isPermaLink="false">fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate><enclosure url="https://antizombie35.github.io/octosight/lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg" length="0" type="image/svg+xml"/><content:encoded>&lt;figure&gt;&lt;img src="https://antizombie35.github.io/octosight/lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Vrchol krize u nás]]></title><description><![CDATA[ 
+]]></description><link>https://antizombie35.github.io/octosight/fyzika/3.5-pruživnování.html</link><guid isPermaLink="false">fyzika/3.5 Pruživnování.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Vrchol krize u nás]]></title><description><![CDATA[ 
  <br>
 <br>1930 - 1937
 <br>ČSR - středně rozvinutý stát
@@ -2730,169 +3167,7 @@ Vláda Léona Bluma:
 <br>větší moc odborů nestačí k&nbsp;oživení ekonomiky
 <br>Změna vr. 1938<br>
 <br>Demise L. Bluma, v čele Francie radikál Eduard Daladier.
-]]></description><link>https://antizombie35.github.io/octosight/historie/velká-hospodářská-krize.html</link><guid isPermaLink="false">historie/Velká hospodářská krize.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Smlouva Molotov - Ribbentrop]]></title><description><![CDATA[ 
- <br>
-<br>začala napadením PL 1. září 1939
-<br><br><br>
-<br>srpen 1939
-<br>uzavřena smlouva o neútočení mezi SSSR a NE
-<br>jméno podle ministrů zahraničí
-<br>tajný dodatek o dělení PL
-<br><br><br>
-<br>PL "přepadení" vysílačky v NE Gleiwitzi - fingované NE tajnou službou v PL uniformách
-<br>Mrtvé vězně měli s sebou jako důkaz
-<br>Informaci rozhlásili po říši
-<br><br><br>
-<br>1. září 1939
-<br>NE zaútočilo na PL
-<br>taktika Blitzkrieg - "blesková válka"
-<br>PL stateční, ale nevyzbrojení - tanky proti koním
-<br>od 17. září se přidali z V Sověti a obsadili V PL
-<br>Z spojenci - VB a Fr vyhlásili válku na papíře - podivná válka, válka v sedě
-<br><br>
-<br>odhalený masový hrob PL důstojníků zavražděných v Katyni sovětskou tajnou službou - 22 tis. mrtvých mužů
-<br><br><br><br>
-<br>listopad 1939 - březen 1940
-<br>Finové se trojnásobné přesile bránili tak, že sověti dosáhli jen zisku v oblasti Karelské šíje - blízko Leningradu (Petrohradu)
-<br><br>
-<br>Stalin připojil Estonsko, Litvu a Lotyško
-<br>Vr. 1940 obsadil Bukovinu a Besarábii - tj. dnešní Moldavsko
-<br><br><br>
-<br>
-1940 - útok ne EV ze S
-
-<br>
-v dubnu 1940 Hitler dobyl Dánsko a Norsko - jeho král Haakon utekl do VB, nekapituloval, vládl z Londýna
-
-<br>
-předsedou kolaboranstské vlády a pronacistickým zpravodajcem byl Viduk Quisling (za války totéž co Jidáš)
-
-<br>Hitler neútočil na Švédsko (neutrální) a Finsko (spojenci NE)
-
-
-<br>
-
-<br>května 1940 DE útok na Nizozemí, Belgii a Lucembursko - cíl obejít Maginotovu linii mezi DE a Fr.
-
-
-<br><br><br>
-<br>do Belgie šla na pomoc VB vojska, ale nemohla DE zadržet.
-<br>DE měli převahu v tancích a letectvu
-<br>13. května 1940 odstoupil Chamberlain a na jeho místo Winston Churchill
-<br>Změny i ve Fr vládě, ale pozdě
-<br>W. Churchill - I have nothing to offer but blood, toil, tears and sweat (13. května 1940)
-<br><br><br>
-<br>koncem května VB a část Fr vojsk zatlačena k pobřeží na pláži u Dunkerque
-<br>pomáhali rybáři
-<br>V červnu 1940 přešla vláda ve Fr do rukou maršála Pétaina
-<br>Pétain podepsal kapitulaci dne 22. června 1940
-<br>Fr se rozdělila na 2 části:
-
-<br>okupovaná část na SZ (včetně Paříže)
-<br>J - loutkový režim Pétaina s vládou ve Vichy
-
-
-<br>Generál Charles de Gaulle - - vytvořil v exilu národní výbor za osvobození Fr - Hnutí svobodných Francouzů
-<br><br><br>
-<br>
-srpen 1940 - listopad 1940
-
-<br>
-RAF (royal air force) X Luftwaffe - Hittler chtěl v operaci Lvoun připravit námořní invazi
-
-<br>
-Když to selhalo tak chtěl VB přimět ke změně vlády
-
-<br>
-maršál Goring velel Luftwaffe
-
-<br>
-DE neuspěli protože
-
-<br>VB radary
-<br>za RAF létali i příslušníci zotročených národů Ev: ČSR, PL, Belgie, Fr, Kanada
-<br>Hitler přešel z útoků na letiště a továrny k útokům na Londýn   RAF se zpamatovalo
-<br>piloti RAF seskakovali při zásahu na VB území, ale DE seskakovali na VB území taky   zajetí pilotů
-<br>Luftwaffe má na bombardování jen 20 min - velikost nádrže letadel
-
-
-]]></description><link>https://antizombie35.github.io/octosight/historie/začátek-wwii.html</link><guid isPermaLink="false">historie/Začátek WWII.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Heterocyklické sloučeniny]]></title><description><![CDATA[<a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> <a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
- <br>
-<br>Heterocyklické sloučeniny
-<br>Součástí cyklu je jeden nebo více heteroatomů (časté O,S,N,&nbsp; vzácnější Si, Se, P, As, B)
-<br>Názvosloví
-
-<br>systematické (těžkopádné)
-<br>triviální
-
-
-<br>&nbsp;&nbsp;&nbsp; Číslování kruhu: vychází se od heteroatomu pokračuje se postupně po kruhu<br>&nbsp;&nbsp;&nbsp; (pokud heterocykl obsahuje více heteroatomů<br>&nbsp;&nbsp;&nbsp;&nbsp; O musí mít nejmenší číslo, pak S, N)<br>
-<br>
-Význam heterocyklů
-
-<br>
-hlavně v biologii
-
-<br>&nbsp;&nbsp;&nbsp; - nukleové kyseliny, koenzymy, vitamíny,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; alkaloidy, sacharidy, aminokyseliny,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; přírodní barviva, antibiotika,&nbsp; léčiva…<br>&nbsp;&nbsp; Aromatický charakter některých heterocyklů<br>&nbsp;&nbsp; (volné elektronové páry se mohou zapojit do<br>&nbsp;&nbsp;&nbsp; konjugace) - heteroareny<br>
-<br>Heterocyklické sloučeniny s pětičlenným cyklem
-<br>Furan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Thiofen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pyrrol<br>Který z těchto heterocyklů se nejvíce podobá aromatickým sloučeninám a PROČ?<br>
-<br>
-<br>Furan –příprava tetrahydrofuranu (rozpouštědlo)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - tetrahydrofuranový kruh je základ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; molekuly některých cukrů (furanózy)<br>Thiofen – kapalina obsažená v černouhelném<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dehtu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - odvozuje se od něj struktura vitaminu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H (biotinu) – správná funkce kůže<br>Pyrrol – stavební jednotka chlorofylu, hemoglobinu,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; myoglobinu, bilirubinu, vitamínu B 12<br>
-<br>
-<br>Indol<br>
-<br>
-součást AMK tryptofanu
-
-<br>
-vázán v indigu
-
-<br>&nbsp;&nbsp; (přírodní modré barvivo)<br>
-<br>
-stavební jednotka serotoninu (obs. v mozkových buňkách)
-
-<br>
-<br>
-<a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a> up, pics, za papiru
-
-<br><br><br>
-<br>součást AMK histidinu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
-<br>od něj je odvozená struktura penicilinu a vitamínu B1 (thiaminu) – zajišťuje správnou činnost nervového systému
-<br><br><br><br>(2H – pyran)<br><br>(4H – pyran)<br>
-2H a 4H podle toho, kde je H navíc (chybí tam cokoliv jiného)
-<br>
-<br><a data-href="#α – pyran" href="https://antizombie35.github.io/octosight/#α_–_pyran" class="internal-link" target="_self" rel="noopener">α – pyran</a> a <a data-href="#γ- pyran" href="https://antizombie35.github.io/octosight/#γ-_pyran" class="internal-link" target="_self" rel="noopener">γ- pyran</a> - základ struktury monosacharidů - pyranózy
-<br>v kostce cukru je <a data-href="#α – pyran" href="https://antizombie35.github.io/octosight/#α_–_pyran" class="internal-link" target="_self" rel="noopener">α – pyran</a> i <a data-href="#γ- pyran" href="https://antizombie35.github.io/octosight/#γ-_pyran" class="internal-link" target="_self" rel="noopener">γ- pyran</a>
-<br><br>
-<br>má zásadité vlastnosti (poskytuje volný el. pár) - (vznik pyridinium chloridu)
-<br>součást kyseliny nikotinové a nikotinamidu (to má COOH navíc, v cigaretách)
-<br>součást   - krebsův cyklus
-<br><br>
-<br>vázán v některých alkaloidech (nikotin, koniin, tropanové alkaloidy…)
-<br>z rostlin<br>
--- v malém množství léčiva, ve velkém množství návykové, smrtelné
-<br><br><br>
-<br>isomer <a data-href="#Chinolin" href="https://antizombie35.github.io/octosight/#Chinolin" class="internal-link" target="_self" rel="noopener">Chinolin</a>
-<br><br><br><br>
-<br>C
-<br>uveden v keto formě (N-H)
-<br>existuje i enol forma (alkohol O-H)
-<br>umí mezi sebou přecházet
-<br>vázán v nukleových kyselinách
-<br><br>
-<br>U
-<br>volná čára do pryč znázorňuje   
-<br>vázán v nukleových kyselinách
-<br><br>
-<br>vázán v nukleových kyselinách
-<br><br><br><br>
-<br>obsažen v nukleových kyselinách
-<br><br>
-<br>obsažen v nukleových kyselinách
-<br><br>
-<br>konečný produkt látkové přeměny plazů a ptáků
-<br>usazuje s v kloubech – dna (ne DNA) 
-<br><a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a> obrázky z prezentace]]></description><link>https://antizombie35.github.io/octosight/chemie/heterocyklické-sloučeniny.html</link><guid isPermaLink="false">chemie/Heterocyklické sloučeniny.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Termíny]]></title><description><![CDATA[ 
+]]></description><link>https://antizombie35.github.io/octosight/historie/velká-hospodářská-krize.html</link><guid isPermaLink="false">historie/Velká hospodářská krize.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Termíny]]></title><description><![CDATA[ 
  <br>Warning
 Chybí některé chemické vzorce
 <br>
@@ -3007,89 +3282,7 @@ vulkanizace kaučuku - zesíťování lineárních molekul sírou - lepší mehc
 <br>přesun H v řetězci
 <br><br>
 <br>molitan  (pěnový plast)
-]]></description><link>https://antizombie35.github.io/octosight/chemie/synteticky-významné-organické-látky.html</link><guid isPermaLink="false">chemie/Synteticky významné organické látky.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Přehled]]></title><description><![CDATA[<a class="tag" href="https://antizombie35.github.io/octosight/?query=tag:todo" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#todo</a> 
- <br><br><br>
-<br>
-<a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a> is bouření užívá, buřiči si to neužívají, ale z nějákého důvodu to potřebují
-
-<br>
-sami si říkali anarchističtí buřiči a básníci života a vzdoru.
-
-<br>
-politika austroslavismu
-
-<br>
-kritika postavení žen, vojenství, umění, církve
-
-<br>
-Sarajevo - atentát na Františka Ferdinanda d´Este
-
-<br>
-časopis Nový kult, hnutí Omladina - komunismus
-
-<br>
-Carpe diem! - užívej dne (po nás potopa)
-
-<br>
-anarchismus, antimilitarismus, vitalismus - berte teď
-
-<br><br><a data-href="#Stanislav Kostka Neumann" href="https://antizombie35.github.io/octosight/#Stanislav_Kostka_Neumann" class="internal-link" target="_self" rel="noopener">Stanislav Kostka Neumann</a><br><br>
-<br>jednoduché, pravidelné, srozumitelné, rytmické verše
-<br>přirozený, spisovný jazyk
-<br>politika, vojna, ztráty, vášeň, city, kritika
-<br><br><br>
-<br><a data-tooltip-position="top" aria-label="Generace buřičů" data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Anarchistický Buřič</a>
-<br>komunista, básník a novinář, kritik a překladatel (leninovy spisy, prokletí básníci), národní umělec (národní nobelovka)
-<br>po smrti otce zámožné tety   (podědil olšanskou vilu)
-<br>neúspěšná studia, politicky aktivní - komunismus (odsouzen s Omladinou) – na začátku vazby vystoupil z římskokatolické církve
-<br>přispíval do <a data-tooltip-position="top" aria-label="Česká moderna a dekadence > Moderní revue" data-href="Česká moderna a dekadence#Moderní revue" href="https://antizombie35.github.io/octosight/literatura/česká-moderna-a-dekadence.html#Moderní_revue" class="internal-link" target="_self" rel="noopener">Moderní revue</a>, jezdil na Mostecko a Teplicko
-<br><a data-href="#revue Nový kult" href="https://antizombie35.github.io/octosight/#revue_Nový_kult" class="internal-link" target="_self" rel="noopener">revue Nový kult</a> (Gellner, Šrámek, Toman, Mahen, Bruner)
-<br>spoluzakladatel __ klubu <a href="https://antizombie35.github.io/octosight?query=tag:todo" class="tag" target="_blank" rel="noopener">#todo</a>
-<br>dvakrát ženat, ale vyznával volnou lásku
-<br>(Kamilla Krémová, Božena Hodačová - vypovězen z obce Řečkovice, Lída Špačková)
-<br>Bílovice nad Svitavou (Kniha lesů vod a strání)
-<br>za WWI války saniťák na albánské frontě
-<br>poslancem Národního shromáždění Republiky československé (patřil k anarchokomunistům)
-<br>ve 20. letech spoluzakladatelem komunistické strany československa (proletářská poezie)
-<br>proletariát - normální lidi
-<br>časopisy Červen, Kmen a Proletkult
-<br>za WWII války v ústraní v Železných horách (unikl gestapu)
-<br>komunisti ho zneužili
-<br>nebyl schopen se odproostit od náboženských témat
-<br>prostřídal všechno - <a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a>, <a data-href="Symbolismus" href="https://antizombie35.github.io/octosight/literatura/symbolismus.html" class="internal-link" target="_self" rel="noopener">Symbolismus</a> <a data-href="Anarchie" href="https://antizombie35.github.io/octosight/Anarchie" class="internal-link" target="_self" rel="noopener">Anarchie</a>, <a data-href="Vitalismus" href="https://antizombie35.github.io/octosight/Vitalismus" class="internal-link" target="_self" rel="noopener">Vitalismus</a>, <a data-href="Civilismus" href="https://antizombie35.github.io/octosight/Civilismus" class="internal-link" target="_self" rel="noopener">Civilismus</a>
-<br><br>Jsem apoštol nového žití - <a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a><br>
-Satanova sláva mezi námi - <a data-href="Dekadence" href="https://antizombie35.github.io/octosight/literatura/dekadence.html" class="internal-link" target="_self" rel="noopener">Dekadence</a>, satan jako rebélie a symbol, ne jako satanismus<br>
-Sen o zástupu zoufajících - sociální tematika, <a data-href="Realismus" href="https://antizombie35.github.io/octosight/Realismus" class="internal-link" target="_self" rel="noopener">Realismus</a>, jednoduchá poezie, úderné<br>
-S městem za zády - přírodní lyrika <a data-href="Vitalismus" href="https://antizombie35.github.io/octosight/Vitalismus" class="internal-link" target="_self" rel="noopener">Vitalismus</a><br>
-Kniha lesů vod a strání<br>
-Nové zpěvy - chvála rotačky, technické<br>
-Rudé zpěvy - pro <a data-href="Komunismus" href="https://antizombie35.github.io/octosight/Komunismus" class="internal-link" target="_self" rel="noopener">Komunismus</a>, pak to zneužili<br>
-Dějiny lásky/Dějiny ženy - obrovská kniha, doprovod obrazem, pohoršilo<br>
-Anti-Gide - pro <a data-href="Komunismus" href="https://antizombie35.github.io/octosight/Komunismus" class="internal-link" target="_self" rel="noopener">Komunismus</a><br>
-Zamořená léta - zkušenost s <a data-tooltip-position="top" aria-label="Nacismus" data-href="Nacismus" href="https://antizombie35.github.io/octosight/Nacismus" class="internal-link" target="_self" rel="noopener">Nasicmem</a><br><br><br>
-<br>básník, prozaik, dramatik, <a data-tooltip-position="top" aria-label="Generace buřičů" data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Anarchistický Buřič</a>
-<br>Písek (děj děl), Roudnice nad Labem, vojna, po ní studia práv, ale dal přednost literatuře a přidal se k <a data-href="#revue Nový kult" href="https://antizombie35.github.io/octosight/#revue_Nový_kult" class="internal-link" target="_self" rel="noopener">revue Nový kult</a>
-<br>vězněn za účast na demonstracích (proti R-U) a antimilitaristickou báseň píšou mi psaní 
-<br>haličská fronta (30. září 1914), hospitalizace, revma, IT a Rumunsko (ŠP chřipka - přežil)
-<br>jeho tematika: příroda, odpor k válce, vášnivý nekonvenční milostný vztah
-<br>po WWI se sblížil s okruhem kolem K. Čapka
-<br>ve 30. letech se odmlčel a uzavřel, tvořil osamoceně
-<br>1946 jmenován národním umělcem (jako <a data-href="#Stanislav Kostka Neumann" href="https://antizombie35.github.io/octosight/#Stanislav_Kostka_Neumann" class="internal-link" target="_self" rel="noopener">Stanislav Kostka Neumann</a>)
-<br>raport(báseň) - hlášení, zastává se koní, ukazuje absurditu
-<br><br>Života bído, přec tě mám rád - <a data-href="Naturalismus" href="https://antizombie35.github.io/octosight/Naturalismus" class="internal-link" target="_self" rel="noopener">Naturalismus</a>, hravá<br>
-Modrý a rudý - (modrá - R-U armáda a rudá - anarchisti, komouši a krev)<br>
-Splav<br>
-Rány, růže<br>
-Stříbrný vítr - román, viděls to, studenti hledající místo a lásku<br>
-Tělo - smyslný román; borec borka děcko dohromady OK a klidné ale borka chce VÍC<br>
-Měsíc nad řekou - drama, děj: setkání, borec a borka v prdelovičkách - borka dostane veřejně poděkováno od borce i když to nikam neodtáhli, vedlejší děj<br><br><br>
-<br>básník, prozaik, kreslíř, karikaturista, <a data-tooltip-position="top" aria-label="Generace buřičů" data-href="Generace buřičů" href="https://antizombie35.github.io/octosight/literatura/generace-buřičů.html" class="internal-link" target="_self" rel="noopener">Anarchistický Buřič</a>
-<br>studoval (gymnázium, technika ve Vídni, báňská akademie, malířství v Mnichově a v Paříži, v Drážďanech)
-<br>kreslíř Lidových novin
-<br>nezvěstný na haličské frontě<br>
-Po nás ať přijde potopa<br>
-Radosti života
-]]></description><link>https://antizombie35.github.io/octosight/literatura/generace-buřičů.html</link><guid isPermaLink="false">literatura/Generace buřičů.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Dělení]]></title><description><![CDATA[ 
+]]></description><link>https://antizombie35.github.io/octosight/chemie/synteticky-významné-organické-látky.html</link><guid isPermaLink="false">chemie/Synteticky významné organické látky.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Dělení]]></title><description><![CDATA[ 
  <br>Tldr
 všechno se píše s mezerama (Kromě desítek dva cet nebo pokud je převrácené pořadí řádů ( dvacet dva  dvaadvacet))
 <br><br><br><br><br><br>
@@ -3103,96 +3296,7 @@ K dispozici bude tří- i 5dveřová verze.<br>datum: 3. 7. 2024 s mezerama<br>
 Nic z toho kromě elipsy nemá nikde žádnou pomlčku jako 8-mi.
 <br><br><br>
 <br>u dlouhých číslovek skloňujeme vše/jen desítky a jednotky
-<br><br><br><br>]]></description><link>https://antizombie35.github.io/octosight/mluvnice/číslovky.html</link><guid isPermaLink="false">mluvnice/Číslovky.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Osoba]]></title><description><![CDATA[ 
- <br>
-<br>vyjadřují děj
-<br>časovatelná
-<br>plnovýznamová i neplnovýznamová
-<br>větné členy - Pk, Pt, PkN, Pu, Dk
-<br>neplnovýznamová:
-
-<br>pomocná - být, bývat
-<br>sponová - být, stát se
-<br>způsobová - moci, smět, muset, chtít, mít, (hodlat, umět)
-<br>fázová - začít, přestat, zůstat
-<br>
-
-
-<br><br><br><br>neosobní slovesa - pršet, sněžit, bolet - existují jen ve 3. osobě<br><br><br>
-<br>
-jednotné
-
-<br>
-množné
-
-<br>
-<a data-tooltip-position="top" aria-label="Dvojné číslo" data-href="Dvojné číslo" href="https://antizombie35.github.io/octosight/mluvnice/dvojné-číslo.html" class="internal-link" target="_self" rel="noopener">dvojné</a> (duál)
-
-<br>
-autorský plurál
-
-<br>
-plurál majestatikus
-
-<br>
-empatický plurál
-
-<br>
-mateřský plurál
-
-<br>
-vykání, onikání, onkání
-
-<br><br><br><br>
-<br>3 časy (<a data-href="#Minulý" href="https://antizombie35.github.io/octosight/#Minulý" class="internal-link" target="_self" rel="noopener">Minulý</a>, <a data-href="#Přítomný" href="https://antizombie35.github.io/octosight/#Přítomný" class="internal-link" target="_self" rel="noopener">Přítomný</a>, <a data-href="#Budoucí" href="https://antizombie35.github.io/octosight/#Budoucí" class="internal-link" target="_self" rel="noopener">Budoucí</a>)
-<br><br>
-<br>osoby jen 2.j, 1.mn, 2.mn
-<br>rozkazovací od vidět - viz - bez tečky	- rozkazovací od vědět - věz - bez tečky
-<br><br>
-<br>nemá časy, ale je minulý a přítomný
-<br>bych:
-
-<br>bych
-<br>bys
-<br>by
-<br>bychom
-<br>byste
-<br>by
-
-
-<br>přítomný vs minulý - realizovatelnost
-<br><br><br><br>
-<br>bylo
-<br><br>
-<br>je
-<br><br>
-<br>bude
-<br><br><br><br>
-<br>Podmět ve větě fakticky něco dělá
-<br>Karel staví dům
-<br><br>
-<br>Podmět ve větě jen přihlíží
-<br><br>
-<br>Zlato bylo kutáno
-<br>být + trpné příčestí
-<br><br>
-<br>Zlato se kutá
-<br><br><br>¨- vyjadřuje ukončenost děje<br><br>
-<br>děj bude nebo byl ukončen
-<br>nelze vyjádřit <a data-href="#Přítomný" href="https://antizombie35.github.io/octosight/#Přítomný" class="internal-link" target="_self" rel="noopener">Přítomný</a> čas
-<br>pomůcka: JEDNOU
-<br><br>
-<br>děj neohraničený, probíhající
-<br>pomůcka: STÁLE
-<br><br>
-<br>některá slovesa
-<br><a data-href="#Dokonavý" href="https://antizombie35.github.io/octosight/#Dokonavý" class="internal-link" target="_self" rel="noopener">Dokonavý</a> i <a data-href="#Nedokonavý" href="https://antizombie35.github.io/octosight/#Nedokonavý" class="internal-link" target="_self" rel="noopener">Nedokonavý</a>
-<br><br>
-<br>nemají protisloveso
-<br><br><br><br>
-<br>JEDNOU/STÁLE
-<br>BUDU  ____ (sloveso v infinitivu) (zní to Divně   DOKONAVÉ)
-]]></description><link>https://antizombie35.github.io/octosight/mluvnice/slovesa.html</link><guid isPermaLink="false">mluvnice/Slovesa.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Integrace]]></title><description><![CDATA[ 
+<br><br><br><br>]]></description><link>https://antizombie35.github.io/octosight/mluvnice/číslovky.html</link><guid isPermaLink="false">mluvnice/Číslovky.md</guid><dc:creator><![CDATA[antizombie35]]></dc:creator><pubDate>Wed, 21 Feb 2024 07:01:31 GMT</pubDate></item><item><title><![CDATA[Integrace]]></title><description><![CDATA[ 
  <br><br><br>
 <br>spojování do celku
 <br>po WWII (1945 konec)   prevence

@@ -100,3 +100,33 @@
 ## Pomůcky
 1. JEDNOU/STÁLE
 1. BUDU  ________ _(sloveso v infinitivu)_ (zní to Divně  $\longrightarrow$ DOKONAVÉ)
+
+# Slovesné tvary
+---
+## Jednotné
+- 1 plnovýznamové sloveso _(+ se, si)_
+
+## Složené
+- 1 plnovýznamové sloveso + pomocné být
+
+> [!tldr]
+> minulý čas je ==vždy== [[#Složené|složený tvar]]
+> patří sem: přišel, došel, procovala
+> _(1. os došel jsem)_
+> _(2. os došel jsi)_
+> _(3. os došel jest)_
+
+# Přechodníky
+---
+- [[#Dokonavý|Dokonavý tvar]]  $\longrightarrow$ přechodník minulý
+- [[#Nedokonavý]]  $\longrightarrow$ přechodník přítomný
+
+Přítomné:
+- -aje
+- -ic
+- -ice
+
+Minulé:
+- -v
+ - -vši
+ - -vše

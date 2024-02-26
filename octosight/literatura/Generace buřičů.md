@@ -105,16 +105,29 @@ aliases:
 
 # Viktor Dyk
 ---
-- básník, prozaik, publicista, nacionalistický politik, [[Generace buřičů]] (v mládí)
-- gymnázium (A. Jirásek), práva, novinář (Lumír)
+- básník, prozaik, ==publicista==, nacionalistický ==politik==, [[Generace buřičů]] (v mládí)
+- gymnázium (A. Jirásek), práva, ==novinář== (Lumír)
 - protirakouský odboj, vězněn ve Vídni
-- redaktor ___________________
-- spoluzakladatel ________________________
-A porta inferi
-Satiry a sarkasmy
-Milá sedmi loupežníků
-Pohádky z naší vesnice
-Devátá vlna
-Okno (Země mluví)
-Krysař
-Zmoudření Dona Quijota
+- redaktor ==Národních listů==
+- spoluzakladatel Československé národní demokracie
+**A porta inferi** - začátek pohřebního žalmu u pekelné brány, kritizuje maloměšťáky
+**Satiry a sarkasmy**
+**Milá sedmi loupežníků** - #čtenářák **17 stran**, poema - lyrika, je tam příběh (vedlejší), loupežník vzpomíná na 7 loupežníků a ==Milou== (nemá jméno, píše se s velkým M), rozhovor, milá ale trochu svině, chodí tam z nudy, zabijí faráře a pocestného, nakonec je Milá udá (zabijí loupežníky) a pak na ně vzpomíná
+**Pohádky z naší vesnice** - 
+**Devátá vlna** - depresivní, to poslední co napsal
+**Okno (Země mluví)** - mluví o matce, planetě, země je věčná, nekonečná, vlastenecké, _"opustíš-li mne nezahynu, opustíš-li mne zahyneš"_
+**Krysař** - #čtenářák , **60 stran**, próza, tragická postava beze jména (zápletka kolem toho), _za tak málo práce mu nedáme tolik peněz_, borka co to neunese, Krysař se mstí (hraje pořádně), prosťáček rybář co odolává - zachrání ho pláč dítěte, _jdou do Sedmihradska_
+**Zmoudření Dona Quijota** - drama
+
+# Petr Bezruč
+---
+- z rodiny slezského učitele a buditele Antonína Vaška (Vladimír)
+- jeho otec proti rukopisům  $\longrightarrow$ nepřátelé
+- Opava  $\longrightarrow$ Brno, TBC - otec i on, 6 sourozenců
+- gymnázium v Brně ( některý věci mu vůbdc nešly - ==An-ton== - vše zpíval v jednom tónu), FF UK (nedokončil), hospody a kavárny (Herben - periodikum ==čas==)
+v Brně si musel najít zaměstnání (písař, úředník) - ale rodině vůbec nepomáhal, chlastal
+- pošta v ==Místku== (Ondřej Boleslav ==Petr==, ==Maryčka== Sagonová, Doda ==Bezručová== - láska ale nikam to nevedlo)
+- návrat do Brna (Petrova sebevražda, matčina smrt)
+básně vydané v Času, proces (P.B. v časopise L´indépendance
+Tchéque oslavoval ruského cara), zatykač, skoro rok seděl
+**Slezské písně**

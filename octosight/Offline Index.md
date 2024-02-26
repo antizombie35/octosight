@@ -1,4 +1,3 @@
-
 ![[Index16-12-2023_16_03_58.excalidraw.svg]]
 %%[[Index16-12-2023_16_03_58.excalidraw|🖋 Edit in Excalidraw]]%%
 <font size = "2">**O**pen sour**c**e **T**ranspiled **O**bsidian-based **S**ynced **I**nterconnected **G**ithub-hosted **H**yperlinked ar**t**ifact 

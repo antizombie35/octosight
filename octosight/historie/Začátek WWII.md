@@ -60,7 +60,7 @@
 - Fr se rozdělila na 2 části:
 	- okupovaná část na SZ (včetně Paříže)
 	- J - loutkový režim ==Pétaina== s vládou ve ==Vichy==
-- ==Generál Charles de Gaulle== - - vytvořil v exilu národní výbor za osvobození Fr - ==Hnutí svobodných Francouzů==
+- ==Generál Charles de Gaulle== - vytvořil v exilu národní výbor za osvobození Fr - ==Hnutí svobodných Francouzů==
 
 # Letecká bitva o VB
 ---
