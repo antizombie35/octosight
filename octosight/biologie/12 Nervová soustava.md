@@ -1,17 +1,22 @@
+> [!warning]
+>Chybí obrázky
+
+# Abstract
+---
 - řídí činnost všech orgánů, vytváří chování organismu, umožňuje jeho komunikaci s okolím
 - zprostředkuje příjem, zpracování, ukládání i vydávání informací
 - je nadřazena [[11 Hormonální soustava|hormonální soustavě]] i imunitní regulaci
 - základním projevem nervové činnosti je ==dráždivost== (= schopnost reagovat na vnitřní nebo vnější podněty)
 
 nervová soustava má tyto základní části:
-1. centrální nervová soustava – k ní patří:
+1. centrální nervová soustava - k ní patří:
 	- mozek (==cerebrum==, ==encephalon==)
 	- mícha (páteřní)
 2. ==periferní== (obvodová) nervová soustava - tvořena:
 	- 12 páry mozkových (hlavových) nervů a 31 páry míšních nervů
 	- podle toho, jestli je činnost nervů ovladatelná vůlí nebo ne, dělíme nervy na:
-	- ==motorické nervy== (==hybné==) – umožňují pohyb kosterních svalů a jejich činnost ovládáme vůlí
-	- ==autonomní== (==vegetativní==) – ovlivňují činnost hladkého svalstva, jejich činnost neovládáme vůlí
+	- ==motorické nervy== (==hybné==) - umožňují pohyb kosterních svalů a jejich činnost ovládáme vůlí
+	- ==autonomní== (==vegetativní==) - ovlivňují činnost hladkého svalstva, jejich činnost neovládáme vůlí
 
 - základní stavební a funkční jednotkou nervové soustavy jsou nervové buňky = ==neurony==
 - podle funkce rozlišujeme 3 typy neuronů:
@@ -20,287 +25,141 @@ nervová soustava má tyto základní části:
 - ==interneurony==
 	- (jsou všechny nervové buňky uložené uvnitř CNS)
 - ==motorické== (hybné) neurony
-	- (patří k periferní nervové soustavě – vedou signály k výkonným = eferentním orgánům  $\longrightarrow$ neurony ==odstředivé==) _(odstředivé vedou od CNS)_
+	- (patří k periferní nervové soustavě - vedou signály k výkonným = eferentním orgánům  $\longrightarrow$ neurony ==odstředivé==) _(odstředivé vedou od CNS)_
 
 #todo popsanej obrázek neuronu 
+- neurit = axon
+- Schwannova pochva - buňky
 
-   Myelinová pochva
-
-- tvořená myelinem (= tukovitá látka)
-
+# Myelinová pochva
+---
+- tvořená ==myelinem== (= tukovitá látka)
 - čím je pochva silnější, tím rychleji je veden vzruch vláknem
+- je přerušovaná ==Ranvierovými zářezy==
+- je produkovaná buňkami ==Schwannovy pochvy==
+- myelinová i Schwannova pochva brání šíření vzruchů mezi ==sousedními vlákny==
+- (demyelinizační onemocnění - jedním z nich je roztroušená skleróza mozkomíšní)
 
-- je přerušovaná Ranvierovými zářezy
+# Buňky gliové (==neuroglie==)
+---
+- ==nevedou== vzruchy - plní funkci ==podpůrnou==, ==ochrannou==, ==vyživovací==
+- _(protože neurony nejsou prokrveny - špatná regenerace a vyživování)_
+- _(sešívání nervů)_
 
-- je produkovaná buňkami Schwannovy pochvy
+# Činnost neuronu
+---
+- podstatou nervové činnosti je ==dráždivost== nervových buněk a jejich schopnost vést podráždění v podobě ==vzruchu== (= ==signálu==) dál
+- biomembrána neuronu je ==polopropustná==
+- biomembrána ==odděluje== dvě prostředí s rozdílným elektrickým nábojem  $\longrightarrow$ je polarizovaná  $\longrightarrow$ vytváří se na ní klidový potenciál
+	- uvnitř negativní
+	- venku pozitivní
 
-- myelinová i Schwannova pochva brání šíření vzruchů mezi sousedními vlákny
+- při podráždění dojde ke krátkodobé lokální změně propustnosti biomembrány pro ionty ==K+== a ==Na+==  $\longrightarrow$ změna polarity = ==depolarizace==  $\longrightarrow$ změna klidového potenciálu na akční potenciál _(ten se šíří po neuronu jako vlna elektrické negativity = vzruch)_
 
-- (demyelinizační onemocnění – jedním z nich je roztroušená skleróza mozkomíšní)
-
-- 
-
-Buňky gliové = neuroglie
-
-- jsou součástí nervové soustavy
-
-- nevedou vzruchy
-
-- plní funkci podpůrnou, ochrannou, vyživovací
-
-- 
-
-Činnost neuronu
-
-- podstatou nervové činnosti je dráždivost nervových buněk a jejich schopnost vést podráždění v podobě vzruchu = signálu dál
-
-- biomembrána neuronu je polopropustná
-
-- biomembrána odděluje dvě prostředí s rozdílným elektrickým nábojem ® je polarizovaná ® vytváří se na ní klidový potenciál
-
-- 
-
-- při podráždění dojde ke krátkodobé lokální změně propustnosti biomembrány pro ionty K+ a Na+
-
-    ® změna polarity = depolarizace (trvá 1 – 2 milisekundy)
-
-   ® změna klidového potenciálu na akční potenciál
-
-   (ten se šíří po neuronu jako vlna elektrické negativity = vzruch)
-
-- 
-
-- 
-
-- vzápětí po vzniku akčního potenciálu dochází k obnovení klidového potenciálu = repolarizace
-
-   (návrat iontů K+ a Na+ mechanismem aktivního transportu – tzv. sodíkodraslíkovou pumpou)
-
-- 
-
-- 
+- vzápětí po vzniku akčního potenciálu dochází k obnovení klidového potenciálu = ==repolarizace== - (návrat iontů ==K+== a ==Na+== mechanismem aktivního transportu - tzv. ==sodíkodraslíkovou pumpou==)
 
 - pro podráždění a vznik akčního potenciálu musí mít podnět určitou intenzitu
+- ==podprahový podnět==: má malou intenzitu $\longrightarrow$ potenciálový rozdíl se sníží jen nepatrně $\longrightarrow$ vzniká vzruch o velmi malé intenzitě $\longrightarrow$ nešíří se, velmi brzy ==zaniká==
 
-- podprahový podnět:
+- ==nadprahový podnět== vyvolá odpověď jako podnět prahový
 
-- má malou intenzitu ® potenciálový rozdíl se sníží jen nepatrně ® vzniká vzruch o velmi malé intenzitě ® nešíří se, velmi brzy zaniká
 
-- nadprahový podnět:
+> [!tldr]
+> jedničky a nuly, neřešíme intenzitu
 
-- vyvolá odpověď jako podnět prahový
+   - vzniká ==akční potenciál==, který se šíří po celé délce neuritu jako ==vlna== (u neuritů bez zářezů) nebo ve ==skocích== (u neuritů se ==zářezy==)
 
-- 
+# Přenos vzruchu mezi neurony
+---
+- uskutečňuje se pomocí ==synapse==
+- děje se ==chemickou== cestou
+   akční potenciál dospěl k synapsi $\longrightarrow$ vylití ==mediátorů== (==neuropřenašeč==) z váčků do synaptické štěrbiny
 
-- 
+	#todo obr (+ synaptická štěrbina)
 
-- 
+- Protože ==mediátor== (= ==přenašeč== = ==neurotransmiter==) se nachází jen v zakončení neuritu (u presynaptické membrány), je vzruch veden ==jedním směrem==
 
-- prahový podnět:
+## Dělení synaptického potenciálu
+---
+- ==budivý== = ==excitační==
+- vyvolávají ho ==excitační mediátory== - (acetylcholin, noradrenalin, serotonin)  $\longrightarrow$ vzruch se šíří dál
 
-- podnět je dostatečně silný
-
-    ® pokles membránového potenciálu o 20 mV
-
-    ® podráždění je intenzivnější
-
-    ® značně se mění propustnost biomembrány
-
-    ® vzniká akční potenciál, který se šíří po celé délce neuritu jako vlna (u neuritů bez zářezů) nebo ve skocích (u neuritů se zářezy)
-
-- 
-
-- 
-
-- 
-
-- Přenos vzruchu mezi neurony:
-
-- uskutečňuje se pomocí zápoje = synapse
-
-- děje se chemickou cestou:
-
-   akční potenciál dospěl k synapsi
-
-   ® vylití mediátorů z váčků do synaptické štěrbiny
-
-- 
-
-- 
-
-- 
-
-- 
-
-   ® změna propustnosti biomembrány sousedního neuronu pro ionty K+ a Na+
-
-   ® depolarizace
-
-   ® vznik synaptického potenciálu na dalším neuronu
-
-- Protože mediátor (= přenašeč = neurotransmiter) se nachází jen v zakončení neuritu, je vzruch veden jedním směrem!
-
-- 
-
-- Synaptický potenciál může být:
-
-- budivý = excitační
-
-–vyvolávají ho excitační mediátory
-
-   (acetylcholin, noradrenalin, serotonin)
-
-–vzruch se šíří dál!
-
-- tlumivý = inhibiční
-
-–vyvolávají ho inhibiční mediátory
-
-(kyselina g-aminomáselná)
-
-–končí přenos vzruchu ® útlum!
+- ==tlumivý== = ==inhibiční==
+-vyvolávají ho inhibiční mediátory - (kyselina g-aminomáselná)  $\longrightarrow$ končí přenos vzruchu $\longrightarrow$ útlum
 
 - Podráždění a útlum
+   - ==základní děje== - určují činnost každého neuronu a tím i ==CNS==
 
-   = základní děje – určují činnost každého neuronu a tím i CNS
+# Nervová soustava
+- centrální (ústřední) nervová soustava:
+	- **mozek** (==cerebrum==, ==encephalon==)
+	- **mícha**
+- **periferní** (obvodové) nervy - PNS
+	- **nervy dostředivé** (==senzitivní==) - do CNS
+	- **nervy odstředivé** - z CNS
+		- **motorické** - ke kosterním svalům
+		- **autonomní** - k hladkým svalům
+			- **sympatické**
+			- **parasympatické**
 
-- 
-
-- Nervová soustava
-
-I.centrální (ústřední) nervová soustava:
-
-1)mozek
-
-2)mícha
-
-II.periferní (obvodové) nervy:
-
-1)nervy dostředivé (senzitivní)
-
-2)nervy odstředivé
-
-a)motorické
-
-b)autonomní
-
-i.sympatické
-
-ii.parasympatické
-
-●
-
-- 
-
-- I. centrální  nervová  soustava
-
+## Centrální  nervová  soustava (CNS)
 - tvořena:
+	- šedou hmotou - (==těla== + ==dendrity== neuronů)
+	- bílou hmotou - (==neurity== = ==axony== neuronů)
 
-- šedou hmotou
-
-   (těla + dendrity neuronů)
-
-- bílou hmotou
-
-   (neurity = axony neuronů)
-
-- 
-
-- Obaly CNS:
-
+### Obaly CNS
 - mozek - v dutině lební
+- mícha - v páteřním kanálu
+- zevně chráněny ==plenami==
 
-- mícha – v páteřním kanálu
+#### Tvrdá plena
+- vystýlá ==dutinu lební== a přirůstá ke ==spodině lební==
+- kolem míchy vytváří ==míšní vak==
+- _(mezi kostí a tvrdou plenou jsou vazivo, cévy a tuk)_
+- #todo - kůže, kost, tvrdá plena, 1. měkká plena, 2. měkká plena, vodička, tepna
+#### Dvě měkké pleny
+- ==pavučnice== - s trámci + mozkomíšní mok
+	- (bez cév)
+- omozečnice, na míše - plena míšní
+	- (hodně cév, na povrchu mozku vniká do všech brázd)
+	- štěrbiny mezi měkkými plenami jsou vyplněny mozkomíšním mokem
+	- (chrání před otřesy, nárazy, nadlehčuje)
 
-- zevně chráněny plenami:
-
-1.tvrdá plena
-
-- vystýlá dutinu lební a přirůstá ke spodině lební
-
-- kolem míchy vytváří míšní vak
-
-- (mezi kostí a tvrdou plenou jsou vazivo, cévy a tuk)
-
-- 
-
-- 
-
-2.dvě měkké pleny:
-
-- pavučnice
-
-     (bez cév)
-
-- omozečnice, na míše – plena míšní
-
-- (hodně cév,
-
-- na povrchu mozku vniká do všech brázd)
-
-- 
-
-- štěrbiny mezi měkkými plenami jsou vyplněny mozkomíšním mokem
-
-- (chrání před otřesy, nárazy, nadlehčuje)
-
-- 
-
-- Mozkomíšní mok
-
+##### Mozkomíšní mok
 - čirá, bezbarvá tekutina
-
 - obsahuje nepatrné množství bílkovin a glukózy
-
-- vyplňuje i dutiny CNS
-
-- asi 150 ml (za den 500 ml)
-
+- vyplňuje i ==dutiny== CNS
+- ==150 ml== (za den 500 ml)
 - je tvořen ve stěnách mozkových komor
 
-- 
+##### Dutiny CNS
+- ==centrální kanálek míšní== - prochází středem ==míchy==
+- ==IV. mozková komora== - v prodloužené míše
+- ==Sylviův kanálek== - prochází středním mozkem
+- ==III. mozková komora== - v mezimozku
+- ==II. a I. mozková komora postranní== - v koncovém mozku
 
-- Dutiny CNS
+#todo GIF motací lebky
 
-- centrální kanálek míšní – prochází středem míchy
+### Mozek
+- průměrná hmotnost ==1300 g==
+- během ==ontogeneze== (= vývoj jedince) vznikl z hlavového konce nervové trubice
+- je ==ektodermálního původu== - ==vnější== zárodečný list
 
-- IV. mozková komora – v prodloužené míše
+#### Části mozku
+- 1. prodloužená mícha
+- 2. most Varolův - jen u savců
+- 3. mozeček
+- 4. střední mozek
+- 5. mezimozek
+- 6. koncový mozek
 
-- Sylviův kanálek – prochází středním mozkem
+- 1, 2, 4 - tvoří mozkový kmen - nejstarší část mozku
 
-- III. mozková komora – v mezimozku
+#todo obr hlavy, může být na pís. - není popsán ==mozkový trámec== (vazník)
 
-- II. a I. mozková komora postranní – v koncovém mozku
-
-- 1) MOZEK
-
-- hmotnost: muži asi 1400 g, ženy asi 1280 g, novorozenci 400 g
-
-- (obsahuje asi 30 mld. neuronů – z toho připadá 16 mld. na mozkovou kůru)
-
-- během ontogeneze vznikl z hlavového konce nervové trubice
-
-- je ektodermálního původu
-
-- 
-
-- části mozku:
-
-1.prodloužená mícha
-
-2.most Varolův
-
-3.mozeček
-
-4.střední mozek
-
-5.mezimozek
-
-6.koncový mozek
-
-- 
-
-- 
+> [!warning]
+>Konec 1. písmenky
 
 - nejstarší část mozku:
 
@@ -308,13 +167,14 @@ ii.parasympatické
 
 - po celé délce se ve vnitřní části mozkového kmene táhne pruh síťovitě uspořádaných neuronů = retikulární formace
 
-–slouží jako převodní soustava do vyšších center mozku
+-slouží jako převodní soustava do vyšších center mozku
 
-–zajišťuje pohybovou koordinaci
+-zajišťuje pohybovou koordinaci
 
-–zajišťuje důležité životní funkce
+-zajišťuje důležité životní funkce
 
-- 
+
+
 
 - 1. Prodloužená mícha
 
@@ -334,9 +194,9 @@ ii.parasympatické
 
 - pohyby trávicí soustavy
 
-- jsou zde centra reflexů zajišťujících polykání, slinění a některé obranné reflexy – kašel, kýchání, zvracení, mrkání, slzení
+- jsou zde centra reflexů zajišťujících polykání, slinění a některé obranné reflexy - kašel, kýchání, zvracení, mrkání, slzení
 
-- vychází z ní 7 párů mozkových nervů (VI. – XII. pár)
+- vychází z ní 7 párů mozkových nervů (VI. - XII. pár)
 
 - 
 
@@ -350,7 +210,7 @@ ii.parasympatické
 
 - retikulární formace aktivuje mozkovou kůru a udržuje ji v bdělém stavu
 
-- vystupuje z něho nejsilnější pár mozkového nervu – nerv trojklanný (V.)
+- vystupuje z něho nejsilnější pár mozkového nervu - nerv trojklanný (V.)
 
 - pouze u savců
 
@@ -360,7 +220,7 @@ ii.parasympatické
 
 - 2 hemisféry spojené červem mozečkovým
 
-- na povrchu je šedá hmota = kůra mozečková – vytváří závity – v ní jsou tzv. Purkyňovy buňky (patří k největším a nejsložitějším buňkám v lidském těle)
+- na povrchu je šedá hmota = kůra mozečková - vytváří závity - v ní jsou tzv. Purkyňovy buňky (patří k největším a nejsložitějším buňkám v lidském těle)
 
 - uvnitř je bílá hmota (vybíhá do mnoha závitů a na řezu vytváří tzv. strom života)
 
@@ -370,7 +230,7 @@ ii.parasympatické
 
 - ústředí pro uspořádání  pohybů
 
-   (sem přicházejí vzruchy z rovnovážného ústrojí, z různých interoreceptorů – mozečková kůra sjednocuje = integruje tyto vzruchy spolu s informacemi, které přicházejí z mozkové kůry)
+   (sem přicházejí vzruchy z rovnovážného ústrojí, z různých interoreceptorů - mozečková kůra sjednocuje = integruje tyto vzruchy spolu s informacemi, které přicházejí z mozkové kůry)
 
 - regulace svalového napětí
 
@@ -405,7 +265,7 @@ ii.parasympatické
 
 - pod předním párem hrbolů je centrum zornicového reflexu
 
-- středem středního mozku prochází Sylviův kanálek – kolem něho je šedá hmota – zde začínají 2 páry okohybných nervů (IV. a III.)
+- středem středního mozku prochází Sylviův kanálek - kolem něho je šedá hmota - zde začínají 2 páry okohybných nervů (IV. a III.)
 
 - 
 
@@ -420,7 +280,7 @@ ii.parasympatické
 - tvoří ho talamus a hypotalamus
 
 - spodina komory = hypotalamus (šedá hmota)  
-– k němu je stopkou připojena hypofýza
+- k němu je stopkou připojena hypofýza
 
 - jsou zde centra pro:
 
@@ -436,9 +296,9 @@ ii.parasympatické
 
 - 
 
-- strop komory = šedá hmota – k němu je připojena šišinka
+- strop komory = šedá hmota - k němu je připojena šišinka
 
-- boční stěny – silné vejčité útvary = talamy  
+- boční stěny - silné vejčité útvary = talamy  
 (převážně šedá hmota)
 
 - výstup zrakového nervu (II.)
@@ -455,7 +315,7 @@ ii.parasympatické
 
 - hemisféry tvoří:
 
-a)mozková kůra = plášť– členěná v laloky
+a)mozková kůra = plášť- členěná v laloky
 
 b)bazální ganglia
 
@@ -471,9 +331,9 @@ a)mozková kůra
 
 - vývojově nejmladší část mozku
 
-- 2 – 5 mm silná, 6 vrstev buněk
+- 2 - 5 mm silná, 6 vrstev buněk
 
-- zprohýbaná závity = gyry – mezery mezi závity jsou rýhy
+- zprohýbaná závity = gyry - mezery mezi závity jsou rýhy
 
 - 4 laloky :
 
@@ -538,23 +398,23 @@ c)limbický systém
 
 - 2) MÍCHA
 
-- délka asi 40 – 45 cm
+- délka asi 40 - 45 cm
 
-- začíná u týlního otvoru – končí na úrovni druhého bederního obratle
+- začíná u týlního otvoru - končí na úrovni druhého bederního obratle
 
-- (dále pokračuje jen svazek – chvost nervů – tzv. cauda equina = koňský ohon)
+- (dále pokračuje jen svazek - chvost nervů - tzv. cauda equina = koňský ohon)
 
 - 
 
 - stavba:
 
-- šedá hmota – uvnitř! okolo míšního kanálu
+- šedá hmota - uvnitř! okolo míšního kanálu
 
     - vybíhá v přední rohy míšní (širší) a zadní rohy míšní (užší)
 
 - 
 
-- bílá hmota – kolem hmoty šedé
+- bílá hmota - kolem hmoty šedé
 
 - rozdělena postranními rýhami na zadní, přední a postranní provazce
 
@@ -580,7 +440,7 @@ c)limbický systém
 
 - u člověka je hlavní motorickou drahou PYRAMIDOVÁ DRÁHA
 
-   (vede z mozkové kůry, na hranici prodloužené míchy a páteřní míchy se kříží ® vlákna z pravé poloviny mozku přicházejí do levé poloviny míchy a naopak)
+   (vede z mozkové kůry, na hranici prodloužené míchy a páteřní míchy se kříží $\longrightarrow$ vlákna z pravé poloviny mozku přicházejí do levé poloviny míchy a naopak)
 
 - 
 
@@ -602,7 +462,7 @@ c)limbický systém
 
 - Přední kořeny míšních nervů
 
-- obsahují odstředivá – motorická vlákna
+- obsahují odstředivá - motorická vlákna
 
    (vedou k příčně pruhovaným svalům)
 
@@ -610,7 +470,7 @@ c)limbický systém
 
 - vzniká spojením předních a zadních míšních kořenů
 
-- 31 párů míšních nervů – vystupují meziobratlovými otvory
+- 31 párů míšních nervů - vystupují meziobratlovými otvory
 
 - 
 
@@ -624,7 +484,7 @@ c)limbický systém
 
 - centrum míšních reflexů
 
-   (napínací reflexy – čéškový reflex, centra pro ovládání napětí stěn cév)
+   (napínací reflexy - čéškový reflex, centra pro ovládání napětí stěn cév)
 
 - ve své činnosti je podřízena vyšším oddílům CNS
 
@@ -642,7 +502,7 @@ i.sympatické
 
 ii.parasympatické
 
-- Nerv = svazek nervových vláken (axonů nebo dendritů) různé tloušťky  a délky – tento svazek je obklopen pojivem a zásobován krevními cévami
+- Nerv = svazek nervových vláken (axonů nebo dendritů) různé tloušťky  a délky - tento svazek je obklopen pojivem a zásobován krevními cévami
 
 - každý nerv může obsahovat vlákna motorická, vlákna senzorická nebo oba typy vláken, jeho funkcí je vedení vzruchu
 
@@ -652,13 +512,13 @@ ii.parasympatické
 
 - jsou senzorické, motorické nebo smíšené
 
-- kromě odborných názvů se označují římskými číslicemi - I. – XII.
+- kromě odborných názvů se označují římskými číslicemi - I. - XII.
 
-- první dva páry mají velmi specifickou stavbu (ve skutečnosti nejde o typické nervy, ale o výchlipky mozku – koncového mozku a mezimozku)
+- první dva páry mají velmi specifickou stavbu (ve skutečnosti nejde o typické nervy, ale o výchlipky mozku - koncového mozku a mezimozku)
 
 - dalších 10 párů odstupuje z mozkového kmene, v jehož šedé hmotě mají svá jádra
 
-- (jádro = shluk neuronů – do nich vedou senzorická vlákna a odtud vychází motorická vlákna)
+- (jádro = shluk neuronů - do nich vedou senzorická vlákna a odtud vychází motorická vlákna)
 
 - (III. a IV. ze středního mozku, V. z Varolova mostu, VI. až XII. z prodloužené míchy)
 
@@ -677,7 +537,7 @@ ii.parasympatické
 - IV. kladkový nerv
 
 - V. trojklanný nerv  
-(nejsilnější ze všech hlavových nervů, rozděluje se na tři větve ® název)
+(nejsilnější ze všech hlavových nervů, rozděluje se na tři větve $\longrightarrow$ název)
 
 - VI. nerv odtahující
 
@@ -713,19 +573,19 @@ ii.parasympatické
 
 - 
 
-- po výstupu z páteřního kanálu se míšní nerv větví na dvě větve – rozlišujeme:
+- po výstupu z páteřního kanálu se míšní nerv větví na dvě větve - rozlišujeme:
 
 - 1. zadní větev
 
-- (je krátká a tenká – inervuje zadní oddíl trupu)
+- (je krátká a tenká - inervuje zadní oddíl trupu)
 
 - 2. přední větev
 
-- (je delší a silnější – inervuje přední oddíl trupu a končetiny)
+- (je delší a silnější - inervuje přední oddíl trupu a končetiny)
 
 - přední větve tvoří nervové pleteně
 
-- (rozlišujeme pleteň krční, pažní, mezižeberní nervy – netvoří pleteně!, pleteň bederní a křížovou)
+- (rozlišujeme pleteň krční, pažní, mezižeberní nervy - netvoří pleteně!, pleteň bederní a křížovou)
 
 - 
 
@@ -733,7 +593,7 @@ ii.parasympatické
 
 - zajišťují koordinovanou činnost vnitřních orgánů (ovládají hladké svaly, srdce a žlázy)
 
-- vycházejí z mozku a míchy společně s nervy mozkovými a míšními – oddělují se od nich a vstupují do uzlin (= vegetativních ganglií)
+- vycházejí z mozku a míchy společně s nervy mozkovými a míšními - oddělují se od nich a vstupují do uzlin (= vegetativních ganglií)
 
 - z nich pokračují vlákna dalších neuronů
 
@@ -771,20 +631,20 @@ ii.parasympatické
 
 - 
 
-- Působení sympatické a parasympatické je antagonistické!® ROVNOVÁHA
+- Působení sympatické a parasympatické je antagonistické!$\longrightarrow$ ROVNOVÁHA
 
 -   
 Přenos impulzů na vnitřní orgány se děje pomocí mediátorů!
 
-- (sympatikus – noradrenalinu, parasympatikus – acetylcholin)  
+- (sympatikus - noradrenalinu, parasympatikus - acetylcholin)  
 
 - 
 
 - 
 
-- sympatikus – „bojuj nebo uteč“
+- sympatikus - „bojuj nebo uteč“
 
-- parasympatikus – „odpočívej a zažívej“
+- parasympatikus - „odpočívej a zažívej“
 
 - 
 
@@ -794,7 +654,7 @@ Přenos impulzů na vnitřní orgány se děje pomocí mediátorů!
 
 - reflex je nervový děj, při kterém se přenáší signál z čidla k výkonnému orgánu
 
-- reflexní oblouk = obvod tvořený smyslovým (= senzorickým) neuronem a hybným (= motorickým) neuronem – mezi nimi může být interneuron
+- reflexní oblouk = obvod tvořený smyslovým (= senzorickým) neuronem a hybným (= motorickým) neuronem - mezi nimi může být interneuron
 
 - 
 
@@ -828,13 +688,13 @@ a)Nepodmíněné reflexy
 
 b)Podmíněné reflexy
 
-- vázány na podmínku ® vznikají na podnět = signál
+- vázány na podmínku $\longrightarrow$ vznikají na podnět = signál
 
 - souhrn signálů určitého druhu = signální soustava:
 
-–první signální soustava - signály jsou odrazem reality ® základ konkrétního myšlení
+-první signální soustava - signály jsou odrazem reality $\longrightarrow$ základ konkrétního myšlení
 
-–druhá signální soustava - signálem je slovo ® základ abstraktního myšlení
+-druhá signální soustava - signálem je slovo $\longrightarrow$ základ abstraktního myšlení
 
 - 
 
@@ -846,7 +706,7 @@ b)Podmíněné reflexy
 
 - 
 
-- vytváření podmíněných reflexů, jejich uchovávání a posilování jsou složité nervové děje vedoucí ke komplexnímu ovládání většího počtu orgánů, popř. tělesných soustav – označují se jako vyšší nervová činnost – patří sem např. instinktivní a emotivní chování, učení, paměť
+- vytváření podmíněných reflexů, jejich uchovávání a posilování jsou složité nervové děje vedoucí ke komplexnímu ovládání většího počtu orgánů, popř. tělesných soustav - označují se jako vyšší nervová činnost - patří sem např. instinktivní a emotivní chování, učení, paměť
 
 - 
 

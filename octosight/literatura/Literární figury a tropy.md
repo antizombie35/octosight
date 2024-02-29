@@ -16,6 +16,7 @@ _Jak to vypadá, jak je to rozloženo_
 | Elipsa          | Bude i Karel?                                                                                   | = Výpustka, Vypuštění slova tak, dokážeme si smysl domyslet      |                                     |
 | Apoziopeze      | Jdi do ...                                                                                      | Neukončená výpověď, _Jednoznačně signalizováno "..."_            |                                     |
 | Apostrofa       | Karle, Viléme, Jarmilo                                                                          | Oslovujeme co tam není/nežije                                    |                                     |
+| Přesah          | Karel<br>je báječný                                                                             | Jedna věta _(ne souvětí)_ rozdělena na několik řádků                            |                                     |
 
 
 # Tropy

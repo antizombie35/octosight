@@ -83,8 +83,9 @@ aliases:
 - studoval (gymnázium, technika ve Vídni, báňská akademie, malířství v Mnichově a v Paříži, v Drážďanech)
 - kreslíř Lidových novin
 - nezvěstný na haličské frontě
-**Po nás ať přijde potopa**
-**Radosti života**
+## Dílo
+- **Po nás ať přijde potopa**
+- **Radosti života**
 
 # Karel Toman
 ---
@@ -96,12 +97,13 @@ aliases:
 - za války byl úředníkem
 - 1946 se stal ==národním umělcem==
 - milostná témata
-**Pohádky krve**
-**Torzo života** - depresivní
-**Sluneční hodiny** - o obyčejných věcech, poměrně klidné
-**==Měsíce==** - _s tím sme pracovali celou hodinu_, vlastenecké, péče o zemi, příroda, vlastenecké, uklidňovací, [[Vitalismus]], tradice a folklór
-**Hlas ticha** - zklamání z následků WWI, [[Symbolismus]]
-**Stoletý kalendář** - láska k domovu
+## Dílo
+- **Pohádky krve**
+- **Torzo života** - depresivní
+- **Sluneční hodiny** - o obyčejných věcech, poměrně klidné
+- **==Měsíce==** - _s tím sme pracovali celou hodinu_, vlastenecké, péče o zemi, příroda, vlastenecké, uklidňovací, [[Vitalismus]], tradice a folklór
+- **Hlas ticha** - zklamání z následků WWI, [[Symbolismus]]
+- **Stoletý kalendář** - láska k domovu
 
 # Viktor Dyk
 ---
@@ -117,17 +119,102 @@ aliases:
 **Devátá vlna** - depresivní, to poslední co napsal
 **Okno (Země mluví)** - mluví o matce, planetě, země je věčná, nekonečná, vlastenecké, _"opustíš-li mne nezahynu, opustíš-li mne zahyneš"_
 **Krysař** - #čtenářák , **60 stran**, próza, tragická postava beze jména (zápletka kolem toho), _za tak málo práce mu nedáme tolik peněz_, borka co to neunese, Krysař se mstí (hraje pořádně), prosťáček rybář co odolává - zachrání ho pláč dítěte, _jdou do Sedmihradska_
-**Zmoudření Dona Quijota** - drama
+## Dílo
+- **Zmoudření Dona Quijota** - drama
 
 # Petr Bezruč
 ---
-- z rodiny slezského učitele a buditele Antonína Vaška (Vladimír)
+- vlastním jménem ==Vladimír Vašek==
+- z rodiny slezského učitele a buditele Antonína Vaška
 - jeho otec proti rukopisům  $\longrightarrow$ nepřátelé
 - Opava  $\longrightarrow$ Brno, TBC - otec i on, 6 sourozenců
-- gymnázium v Brně ( některý věci mu vůbdc nešly - ==An-ton== - vše zpíval v jednom tónu), FF UK (nedokončil), hospody a kavárny (Herben - periodikum ==čas==)
-v Brně si musel najít zaměstnání (písař, úředník) - ale rodině vůbec nepomáhal, chlastal
-- pošta v ==Místku== (Ondřej Boleslav ==Petr==, ==Maryčka== Sagonová, Doda ==Bezručová== - láska ale nikam to nevedlo)
-- návrat do Brna (Petrova sebevražda, matčina smrt)
-básně vydané v Času, proces (P.B. v časopise L´indépendance
-Tchéque oslavoval ruského cara), zatykač, skoro rok seděl
-**Slezské písně**
+- gymnázium v Brně ( některý věci mu vůbdc nešly - ==An-ton== - vše zpíval v jednom tónu), filosofická fakulta karlovky (nedokončil), hospody a kavárny (Herben _(NE Erben)_ - periodikum ==čas==) v Brně si musel najít zaměstnání (písař, úředník) - ale rodině vůbec nepomáhal, chlastal
+- pošta v ==Místku== (Ondřej Boleslav ==Petr==, ==Maryčka== Sagonová, Doda ==Bezručová== - _(láska ale její matka a nikam to nevedlo)_
+- návrat do Brna _(Petrova sebevražda, matčina smrt)_
+- básně vydané v ==Času==, proces (P.B. v časopise L´indépendance
+- Tchéque oslavoval ruského cara), zatykač, vězení _(1 rok)_
+- poezie, co u nás nemá obdoby (originalita, forma)
+- ==slezský bad==, autorství, velké spektrum básní
+## Dílo
+- **Slezské písně**
+	- **Jen jedenkrát (Zkazka)** - četli jsme
+	- **Hantor Halfar** - příběh Bezručova kamaráda, končí sebevraždou
+	- **Kdo na moje místo?**
+	- **Ostrava**
+	- **Maryčka Magdonova**
+
+>## Jen jedenkrát
+>Už nevím, kdy a kde
+>jsem slyšel jednou vypravovat pověst.
+>Kdes na severu země
+>je smutné údolí, sevřené vrchy;
+>to teskné jest a temné,
+>neb žádný den tam nezasvitne slunce.
+>Tam teskný žije národ
+>u věčném sněhu v začouzených jurtách,
+>kol ohně sedí muži,
+>jimž zlata dražší bývá každé slovo,
+>za nimi teskné ženy,
+>a vzad se tisknou v kožešiny děti.
+>Tu nevím, jak se stalo,
+>či snad se vymkla ze své dráhy Země,
+>v den jeden svitlo slunce:
+>a celý národ, poděšený září,
+>vráz prchl v černé jurty
+>a balvany zavalil každý východ,
+>a tváří klesl k zemi,
+>k demonu neznáma posílal prosby,
+>by šetřil jejich žití.
+>A zatím venku
+>slunečná záře sžehla věčné sněhy
+>a půda nedotknutá
+>pode rty slunce dala fial květ.
+>Bůh slunečný když viděl
+>to mrtvé ticho a bázlivé prosby,
+>údolí přešel,
+>a nikdy víc v tu nepohleděl stranu.
+>
+>A když strach přešel,
+>a ze stanů se odvážili lidé,
+>viděli vlahou zemi,
+>květ neznámý a vůni fial čili,
+>a zřeli, že se dobrý Bůh
+>na ně podíval, jimi uražený,
+>a poznali v své duši,
+>že nikdy den ten nevrátí se zpátky,
+>tu smutek hlubší žití
+>vráz schýlil hlavy zasmušilých mužů
+>a šíje teskných žen,
+>a v dvojnásobném dále žili smutku,
+>neb cítili, že jednou
+>jas žití šel kol jejich mračné země,
+>a jejich přešel vinou
+>a víc se nenavrátí!
+>
+>Jen jedenkráte kolem mne šla láska.
+>Vlas černý padl k pasu,
+>a sladkým hlasem hovořila ke mně:
+>Vy dobrého jste srdce,
+>a s Vámi bude šťastna každá žena
+>a krátký plachý pohled,
+>jenž více děl než její sladká slova,
+>jež řekla sladkým tónem,
+>jak mluví se v mé vlasti u Těšína,
+>šel s její řečí!
+>A já, jenž dávno vypil
+>až v hořké kvasnice života číši
+>a z knihy žití bílé vyrval listy,
+>jsem řekl drsným tónem,
+>tak jak mluví dav černých mužů hore
+>tam pod Ostravskou plání:
+>Bez konce, slečno, s oným půjde štěstí,
+>jenž bude vaším mužem,
+>však na strom zvadlý nepřipínám růži.
+>
+>Já jsem ji miloval, ona se mi vydala!
+>Vyhasl můj krb, v srdce lehly stíny,
+>a smutek bez konce mým táhne žitím,
+>když vzpomenu si časem,
+>že sladkým krokem kolem mne šla láska,
+>a já přirazil dveře svojí chaty,
+>a nikdy více se nevrátí zpátky
