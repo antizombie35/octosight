@@ -1,6 +1,6 @@
 {
   "vaultName": "octosight",
-  "lastExport": 1709228232817,
+  "lastExport": 1709258626816,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -66,59 +66,6 @@
     "zsv/Untitled 1.md",
     "zsv/Význam EU.md",
     "Index.md",
-    "lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg",
-    "lib/media/excalidraw-22-02-2024_08_48_13.excalidraw.svg",
-    "lib/media/3.6-dynamika-kmitání-matematické-kyvadlo29-02-2024_09_12_26.excalidraw.svg",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
     "lib/media/dýchací-soustava12-12-2023_23_06_10.excalidraw.svg",
     "lib/media/pasted-image-20231213001448.png",
     "lib/media/pasted-image-20231213003742.png",
@@ -173,8 +120,6 @@
     "lib/media/pasted-image-20240115171618.png",
     "lib/media/pasted-image-20240115171741.png",
     "lib/media/pasted-image-20240116010842.png",
-    "lib/media/pasted-image-20231217233816.png",
-    "lib/media/pasted-image-20231217233147.png",
     "lib/media/pasted-image-20240116021047.png",
     "lib/media/pasted-image-20240116021316.png",
     "lib/media/pasted-image-20240116021426.png",
@@ -182,12 +127,67 @@
     "lib/media/4.2-kmitání-jako-zvl.-případ-period.-pohybů11-01-2024_09_22_54.excalidraw.svg",
     "lib/media/pasted-image-20240118091126.png",
     "lib/media/pasted-image-20240118091908.png",
+    "lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg",
+    "lib/media/excalidraw-22-02-2024_08_48_13.excalidraw.svg",
+    "lib/media/3.6-dynamika-kmitání-matematické-kyvadlo29-02-2024_09_12_26.excalidraw.svg",
     "lib/media/publicistický-styl11-01-2024_17_18_38.excalidraw.svg",
     "lib/media/části-článku.jpg",
     "lib/media/publicistický-styl11-01-2024_17_31_33.excalidraw.svg",
     "lib/media/pasted-image-20231214002027.png",
     "lib/media/trestní-právo14-12-2023_00_28_42.excalidraw.svg",
-    "_dev/attachments/index16-12-2023_16_03_58.excalidraw.svg"
+    "_dev/attachments/index16-12-2023_16_03_58.excalidraw.svg",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/media/pasted-image-20231217233816.png",
+    "lib/media/pasted-image-20231217233147.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -243,7 +243,7 @@
   ],
   "fileInfo": {
     "biologie/06 Dýchací soustava.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 5374,
       "exportedPath": "biologie/06-dýchací-soustava.html",
       "dependencies": [
@@ -261,7 +261,7 @@
       ]
     },
     "biologie/07 Trávící soustava.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 9384,
       "exportedPath": "biologie/07-trávící-soustava.html",
       "dependencies": [
@@ -282,7 +282,7 @@
       ]
     },
     "biologie/08 Metabolismus.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3543,
       "exportedPath": "biologie/08-metabolismus.html",
       "dependencies": [
@@ -295,7 +295,7 @@
       ]
     },
     "biologie/09 Vylučovací soustava.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 4095,
       "exportedPath": "biologie/09-vylučovací-soustava.html",
       "dependencies": [
@@ -311,7 +311,7 @@
       ]
     },
     "biologie/10 Kožní soustava.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3850,
       "exportedPath": "biologie/10-kožní-soustava.html",
       "dependencies": [
@@ -321,7 +321,7 @@
       ]
     },
     "biologie/11 Hormonální soustava.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 11641,
       "exportedPath": "biologie/11-hormonální-soustava.html",
       "dependencies": [
@@ -335,7 +335,7 @@
       ]
     },
     "fyzika/2.1 Změny skupenství.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 454,
       "exportedPath": "fyzika/2.1-změny-skupenství.html",
       "dependencies": [
@@ -343,7 +343,7 @@
       ]
     },
     "fyzika/2.2 Tání a tuhnutí.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2924,
       "exportedPath": "fyzika/2.2-tání-a-tuhnutí.html",
       "dependencies": [
@@ -353,7 +353,7 @@
       ]
     },
     "fyzika/2.3 Vypařování a var.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2745,
       "exportedPath": "fyzika/2.3-vypařování-a-var.html",
       "dependencies": []
@@ -368,7 +368,7 @@
       ]
     },
     "fyzika/2.5 Sublimace a desublimace.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 843,
       "exportedPath": "fyzika/2.5-sublimace-a-desublimace.html",
       "dependencies": [
@@ -376,7 +376,7 @@
       ]
     },
     "fyzika/2.6 Fázový diagram.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2006,
       "exportedPath": "fyzika/2.6-fázový-diagram.html",
       "dependencies": [
@@ -385,13 +385,13 @@
       ]
     },
     "fyzika/3.1 Periodický pohyb.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1528,
       "exportedPath": "fyzika/3.1-periodický-pohyb.html",
       "dependencies": []
     },
     "fyzika/3.2 Kmitání.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2246,
       "exportedPath": "fyzika/3.2-kmitání.html",
       "dependencies": [
@@ -402,25 +402,25 @@
       ]
     },
     "fyzika/3.3 Počáteční fáze kmitání.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 135,
       "exportedPath": "fyzika/3.3-počáteční-fáze-kmitání.html",
       "dependencies": []
     },
     "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1006,
       "exportedPath": "fyzika/3.4-rychlost-a-zrychlení-kmitavého-pohybu.html",
       "dependencies": []
     },
     "fyzika/3.5 Pruživnování.md": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 760,
       "exportedPath": "fyzika/3.5-pruživnování.html",
       "dependencies": []
     },
     "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2214,
       "exportedPath": "fyzika/3.6-dynamika-kmitání-matematické-kyvadlo.html",
       "dependencies": [
@@ -442,97 +442,97 @@
       "dependencies": []
     },
     "historie/Hospodářská krize v ČSR.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1767,
       "exportedPath": "historie/hospodářská-krize-v-čsr.html",
       "dependencies": []
     },
     "historie/Italský fašismus.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2143,
       "exportedPath": "historie/italský-fašismus.html",
       "dependencies": []
     },
     "historie/Konsolidace ČSR.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3302,
       "exportedPath": "historie/konsolidace-čsr.html",
       "dependencies": []
     },
     "historie/Léta 1935 - 38 v ČSR.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1838,
       "exportedPath": "historie/léta-1935-38-v-čsr.html",
       "dependencies": []
     },
     "historie/Mnichov 1938.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1825,
       "exportedPath": "historie/mnichov-1938.html",
       "dependencies": []
     },
     "historie/Nacistická vláda v Německu.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2905,
       "exportedPath": "historie/nacistická-vláda-v-německu.html",
       "dependencies": []
     },
     "historie/Ohniska války ve světě.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1626,
       "exportedPath": "historie/ohniska-války-ve-světě.html",
       "dependencies": []
     },
     "historie/Rakouský fašismus a Španělsko.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2241,
       "exportedPath": "historie/rakouský-fašismus-a-španělsko.html",
       "dependencies": []
     },
     "historie/Švehlovy vládní kabinety.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2538,
       "exportedPath": "historie/švehlovy-vládní-kabinety.html",
       "dependencies": []
     },
     "historie/Ústava a vznik KSČ.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1684,
       "exportedPath": "historie/ústava-a-vznik-ksč.html",
       "dependencies": []
     },
     "historie/Velká hospodářská krize.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1916,
       "exportedPath": "historie/velká-hospodářská-krize.html",
       "dependencies": []
     },
     "historie/Začátek WWII.md": {
-      "modifiedTime": 1708977234108,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3469,
       "exportedPath": "historie/začátek-wwii.html",
       "dependencies": []
     },
     "chemie/Alkaloidy.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 8033,
       "exportedPath": "chemie/alkaloidy.html",
       "dependencies": []
     },
     "chemie/Heterocyklické sloučeniny.md": {
-      "modifiedTime": 1708977234108,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3532,
       "exportedPath": "chemie/heterocyklické-sloučeniny.html",
       "dependencies": []
     },
     "chemie/Synteticky významné organické látky.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2958,
       "exportedPath": "chemie/synteticky-významné-organické-látky.html",
       "dependencies": []
     },
     "literatura/Česká moderna a dekadence.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 4090,
       "exportedPath": "literatura/česká-moderna-a-dekadence.html",
       "dependencies": []
@@ -544,19 +544,19 @@
       "dependencies": []
     },
     "literatura/Dekadence.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 80,
       "exportedPath": "literatura/dekadence.html",
       "dependencies": []
     },
     "literatura/Generace buřičů.md": {
-      "modifiedTime": 1709228232817,
-      "sourceSize": 10408,
+      "modifiedTime": 1709258587973,
+      "sourceSize": 10453,
       "exportedPath": "literatura/generace-buřičů.html",
       "dependencies": []
     },
     "literatura/Impresionsimus.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 96,
       "exportedPath": "literatura/impresionsimus.html",
       "dependencies": []
@@ -568,7 +568,7 @@
       "dependencies": []
     },
     "literatura/Literární figury a tropy.md": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 6272,
       "exportedPath": "literatura/literární-figury-a-tropy.html",
       "dependencies": []
@@ -586,43 +586,43 @@
       "dependencies": []
     },
     "literatura/Symbolismus.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 132,
       "exportedPath": "literatura/symbolismus.html",
       "dependencies": []
     },
     "matematika/Teorie seminář.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 782,
       "exportedPath": "matematika/teorie-seminář.html",
       "dependencies": []
     },
     "mluvnice/Číslovky.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1766,
       "exportedPath": "mluvnice/číslovky.html",
       "dependencies": []
     },
     "mluvnice/Dvojné číslo.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 535,
       "exportedPath": "mluvnice/dvojné-číslo.html",
       "dependencies": []
     },
     "mluvnice/Slovesa.md": {
-      "modifiedTime": 1708977234108,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2662,
       "exportedPath": "mluvnice/slovesa.html",
       "dependencies": []
     },
     "sloh/Dialog.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 689,
       "exportedPath": "sloh/dialog.html",
       "dependencies": []
     },
     "sloh/Publicistický styl.md": {
-      "modifiedTime": 1708431472114,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1836,
       "exportedPath": "sloh/publicistický-styl.html",
       "dependencies": [
@@ -632,13 +632,13 @@
       ]
     },
     "zsv/Evropská integrace.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 5449,
       "exportedPath": "zsv/evropská-integrace.html",
       "dependencies": []
     },
     "zsv/Trestní právo.md": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 10170,
       "exportedPath": "zsv/trestní-právo.html",
       "dependencies": [
@@ -647,25 +647,25 @@
       ]
     },
     "zsv/Untitled.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258587973,
       "sourceSize": 0,
       "exportedPath": "zsv/untitled.html",
       "dependencies": []
     },
     "zsv/Untitled 1.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258587973,
       "sourceSize": 0,
       "exportedPath": "zsv/untitled-1.html",
       "dependencies": []
     },
     "zsv/Význam EU.md": {
-      "modifiedTime": 1708431270658,
+      "modifiedTime": 1709258626816,
       "sourceSize": 603,
       "exportedPath": "zsv/význam-eu.html",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1708500391490,
+      "modifiedTime": 1709258626816,
       "sourceSize": 709,
       "exportedPath": "index.html",
       "dependencies": [
@@ -673,325 +673,325 @@
       ]
     },
     "lib/media/dýchací-soustava12-12-2023_23_06_10.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
-      "sourceSize": 122473,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 122466,
       "exportedPath": "lib/media/dýchací-soustava12-12-2023_23_06_10.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213001448.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 244351,
       "exportedPath": "lib/media/pasted-image-20231213001448.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213003742.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 112661,
       "exportedPath": "lib/media/pasted-image-20231213003742.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213004440.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 105183,
       "exportedPath": "lib/media/pasted-image-20231213004440.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213004455.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 368877,
       "exportedPath": "lib/media/pasted-image-20231213004455.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213004912.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 113178,
       "exportedPath": "lib/media/pasted-image-20231213004912.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213005355.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 191600,
       "exportedPath": "lib/media/pasted-image-20231213005355.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213005621.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 32661,
       "exportedPath": "lib/media/pasted-image-20231213005621.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213005704.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 248856,
       "exportedPath": "lib/media/pasted-image-20231213005704.png",
       "dependencies": []
     },
     "lib/media/dýchací-soustava13-12-2023_00_59_02.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
-      "sourceSize": 168731,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 168711,
       "exportedPath": "lib/media/dýchací-soustava13-12-2023_00_59_02.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/pasted-image-20231213010706.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 84402,
       "exportedPath": "lib/media/pasted-image-20231213010706.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109105041.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 197086,
       "exportedPath": "lib/media/pasted-image-20240109105041.png",
       "dependencies": []
     },
     "lib/media/7-trávící-soustava09-01-2024_18_21_09.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
-      "sourceSize": 298248,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 298241,
       "exportedPath": "lib/media/7-trávící-soustava09-01-2024_18_21_09.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/obr07_01.jpg": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 90064,
       "exportedPath": "lib/media/obr07_01.jpg",
       "dependencies": []
     },
     "lib/media/7-trávící-soustava09-01-2024_18_48_20.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
-      "sourceSize": 864902,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 864895,
       "exportedPath": "lib/media/7-trávící-soustava09-01-2024_18_48_20.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/7-trávící-soustava09-01-2024_18_52_12.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
-      "sourceSize": 734040,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 734033,
       "exportedPath": "lib/media/7-trávící-soustava09-01-2024_18_52_12.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109190437.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 693331,
       "exportedPath": "lib/media/pasted-image-20240109190437.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109190511.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 86753,
       "exportedPath": "lib/media/pasted-image-20240109190511.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109190525.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 316605,
       "exportedPath": "lib/media/pasted-image-20240109190525.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109191622.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 69378,
       "exportedPath": "lib/media/pasted-image-20240109191622.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109192659.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 123155,
       "exportedPath": "lib/media/pasted-image-20240109192659.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109193809.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 130395,
       "exportedPath": "lib/media/pasted-image-20240109193809.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109193847.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1455222,
       "exportedPath": "lib/media/pasted-image-20240109193847.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109193920.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1107848,
       "exportedPath": "lib/media/pasted-image-20240109193920.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109194157.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1473735,
       "exportedPath": "lib/media/pasted-image-20240109194157.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109103612.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1534301,
       "exportedPath": "lib/media/pasted-image-20240109103612.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109103634.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1945770,
       "exportedPath": "lib/media/pasted-image-20240109103634.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109103703.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1480839,
       "exportedPath": "lib/media/pasted-image-20240109103703.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109103747.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 118801,
       "exportedPath": "lib/media/pasted-image-20240109103747.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109103755.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 131558,
       "exportedPath": "lib/media/pasted-image-20240109103755.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240109103806.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 136920,
       "exportedPath": "lib/media/pasted-image-20240109103806.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117102850.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 170802,
       "exportedPath": "lib/media/pasted-image-20240117102850.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117102901.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1589498,
       "exportedPath": "lib/media/pasted-image-20240117102901.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117102930.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 338195,
       "exportedPath": "lib/media/pasted-image-20240117102930.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117102940.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1085477,
       "exportedPath": "lib/media/pasted-image-20240117102940.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117103019.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 157749,
       "exportedPath": "lib/media/pasted-image-20240117103019.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117103049.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1196527,
       "exportedPath": "lib/media/pasted-image-20240117103049.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117103114.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 135079,
       "exportedPath": "lib/media/pasted-image-20240117103114.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117103200.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 325288,
       "exportedPath": "lib/media/pasted-image-20240117103200.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240117103138.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 107429,
       "exportedPath": "lib/media/pasted-image-20240117103138.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240124115256.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1417353,
       "exportedPath": "lib/media/pasted-image-20240124115256.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240124115306.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 593001,
       "exportedPath": "lib/media/pasted-image-20240124115306.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240124115327.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1166114,
       "exportedPath": "lib/media/pasted-image-20240124115327.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240213205905.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 151461,
       "exportedPath": "lib/media/pasted-image-20240213205905.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240213210023.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 554988,
       "exportedPath": "lib/media/pasted-image-20240213210023.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240213210041.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1229296,
       "exportedPath": "lib/media/pasted-image-20240213210041.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240213210100.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1179243,
       "exportedPath": "lib/media/pasted-image-20240213210100.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240213210348.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 734464,
       "exportedPath": "lib/media/pasted-image-20240213210348.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240213210556.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 579766,
       "exportedPath": "lib/media/pasted-image-20240213210556.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240213210609.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 364416,
       "exportedPath": "lib/media/pasted-image-20240213210609.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240115171504.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 49217,
       "exportedPath": "lib/media/pasted-image-20240115171504.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240115171618.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 109815,
       "exportedPath": "lib/media/pasted-image-20240115171618.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240115171741.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 30873,
       "exportedPath": "lib/media/pasted-image-20240115171741.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240116010842.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 100446,
       "exportedPath": "lib/media/pasted-image-20240116010842.png",
       "dependencies": []
@@ -1009,416 +1009,416 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20240116021047.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 38732,
       "exportedPath": "lib/media/pasted-image-20240116021047.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240116021316.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 66957,
       "exportedPath": "lib/media/pasted-image-20240116021316.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240116021426.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 11380,
       "exportedPath": "lib/media/pasted-image-20240116021426.png",
       "dependencies": []
     },
     "lib/media/4.2-kmitání-jako-zvl.-případ-period.-pohybů11-01-2024_09_15_15.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 88832,
       "exportedPath": "lib/media/4.2-kmitání-jako-zvl.-případ-period.-pohybů11-01-2024_09_15_15.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/4.2-kmitání-jako-zvl.-případ-period.-pohybů11-01-2024_09_22_54.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 90247,
       "exportedPath": "lib/media/4.2-kmitání-jako-zvl.-případ-period.-pohybů11-01-2024_09_22_54.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/pasted-image-20240118091126.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 13981,
       "exportedPath": "lib/media/pasted-image-20240118091126.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240118091908.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 201705,
       "exportedPath": "lib/media/pasted-image-20240118091908.png",
       "dependencies": []
     },
     "lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg": {
-      "modifiedTime": 1709228232817,
-      "sourceSize": 119134,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 119141,
       "exportedPath": "lib/media/excalidraw-20-02-2024_11_51_55.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/publicistický-styl11-01-2024_17_18_38.excalidraw.svg": {
-      "modifiedTime": 1708431472114,
-      "sourceSize": 85238,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 85231,
       "exportedPath": "lib/media/publicistický-styl11-01-2024_17_18_38.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/části-článku.jpg": {
-      "modifiedTime": 1708431472114,
+      "modifiedTime": 1709258626816,
       "sourceSize": 91782,
       "exportedPath": "lib/media/části-článku.jpg",
       "dependencies": []
     },
     "lib/media/publicistický-styl11-01-2024_17_31_33.excalidraw.svg": {
-      "modifiedTime": 1708431472114,
-      "sourceSize": 85988,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 85981,
       "exportedPath": "lib/media/publicistický-styl11-01-2024_17_31_33.excalidraw.svg",
       "dependencies": []
     },
     "lib/media/pasted-image-20231214002027.png": {
-      "modifiedTime": 1708499292552,
+      "modifiedTime": 1709258626816,
       "sourceSize": 409012,
       "exportedPath": "lib/media/pasted-image-20231214002027.png",
       "dependencies": []
     },
     "lib/media/trestní-právo14-12-2023_00_28_42.excalidraw.svg": {
-      "modifiedTime": 1708499292552,
-      "sourceSize": 87118,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 87111,
       "exportedPath": "lib/media/trestní-právo14-12-2023_00_28_42.excalidraw.svg",
       "dependencies": []
     },
     "_dev/attachments/index16-12-2023_16_03_58.excalidraw.svg": {
-      "modifiedTime": 1708500391490,
+      "modifiedTime": 1709258626816,
       "sourceSize": 117719,
       "exportedPath": "_dev/attachments/index16-12-2023_16_03_58.excalidraw.svg",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 53472,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3864,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 37375,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 253,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "historie/Rok 1941.md": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 2873,
       "exportedPath": "historie/rok-1941.html",
       "dependencies": []
     },
     "lib/media/excalidraw-22-02-2024_08_48_13.excalidraw.svg": {
-      "modifiedTime": 1709228232817,
-      "sourceSize": 129249,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 129256,
       "exportedPath": "lib/media/excalidraw-22-02-2024_08_48_13.excalidraw.svg",
       "dependencies": []
     },
     "biologie/12 Nervová soustava.md": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 19514,
       "exportedPath": "biologie/12-nervová-soustava.html",
       "dependencies": []
     },
     "chemie/Lipidy (Tuky).md": {
-      "modifiedTime": 1709228232817,
+      "modifiedTime": 1709258626816,
       "sourceSize": 3520,
       "exportedPath": "chemie/lipidy-(tuky).html",
       "dependencies": []
     },
     "lib/media/3.6-dynamika-kmitání-matematické-kyvadlo29-02-2024_09_12_26.excalidraw.svg": {
-      "modifiedTime": 1709228232817,
-      "sourceSize": 85892,
+      "modifiedTime": 1709258626816,
+      "sourceSize": 85899,
       "exportedPath": "lib/media/3.6-dynamika-kmitání-matematické-kyvadlo29-02-2024_09_12_26.excalidraw.svg",
       "dependencies": []
     }

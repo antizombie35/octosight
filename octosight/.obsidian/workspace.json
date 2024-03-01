@@ -8,12 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bd2216c7c2bf48",
+            "id": "d98cfac903677a48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.md"
+                "file": "literatura/Generace buřičů.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -156,75 +159,38 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "3cddf6886fc0f471",
-    "type": "floating",
-    "children": [
-      {
-        "id": "465c0e4ec1d7eed6",
-        "type": "window",
-        "children": [
-          {
-            "id": "afeb93a72046582e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "79ebd3d8ffdd7c8b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "literatura/Literární figury a tropy.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 317,
-        "y": 338,
-        "width": 802,
-        "height": 402,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "79ebd3d8ffdd7c8b",
+  "active": "d98cfac903677a48",
   "lastOpenFiles": [
-    "chemie/Lipidy (Tuky).md",
-    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
-    "fyzika/3.5 Pruživnování.md",
-    "biologie/12 Nervová soustava.md",
-    "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.md",
-    "fyzika/3.4 Rychlost a zrychlení kmitavého pohybu.md",
-    "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.excalidraw",
-    "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.svg",
-    "literatura/Generace buřičů.md",
-    "historie/Rok 1941.md",
-    "literatura/Literární figury a tropy.md",
-    "fyzika/3.3 Počáteční fáze kmitání.md",
-    "chemie/Alkaloidy.md",
-    "chemie/Heterocyklické sloučeniny.md",
-    "mluvnice/Slovesa.md",
-    "historie/Začátek WWII.md",
-    "Offline Index.md",
-    "literatura/Česká moderna a dekadence.md",
     "Index.md",
-    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.md",
-    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.svg",
-    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.excalidraw",
-    "_dev/test/LaTeX transpilation spacing test.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
+    "sloh/Publicistický styl.md",
+    "mluvnice/Slovesa.md",
     "mluvnice/Číslovky.md",
+    "matematika/Teorie seminář.md",
+    "literatura/Symbolismus.md",
+    "literatura/Literární figury a tropy.md",
+    "literatura/Impresionsimus.md",
+    "literatura/Dekadence.md",
     "chemie/Synteticky významné organické látky.md",
+    "chemie/Heterocyklické sloučeniny.md",
+    "historie/Začátek WWII.md",
     "historie/Velká hospodářská krize.md",
     "historie/Ústava a vznik KSČ.md",
+    "historie/Švehlovy vládní kabinety.md",
+    "historie/Rakouský fašismus a Španělsko.md",
+    "historie/Ohniska války ve světě.md",
+    "historie/Nacistická vláda v Německu.md",
+    "historie/Mnichov 1938.md",
+    "historie/Léta 1935 - 38 v ČSR.md",
+    "historie/Konsolidace ČSR.md",
+    "historie/Hospodářská krize v ČSR.md",
+    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+    "fyzika/3.5 Pruživnování.md",
+    "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.svg",
+    "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.excalidraw",
+    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.svg",
+    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.excalidraw",
     "_dev/test",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.svg",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",

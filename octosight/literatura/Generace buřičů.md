@@ -16,7 +16,12 @@ aliases:
 - anarchismus, antimilitarismus, vitalismus - _berte teď_
 
 ## Revue Nový kult
-[[#Stanislav Kostka Neumann]]
+- [[#Stanislav Kostka Neumann]],
+- [[#František Gellner]]
+- [[#Fráňa Šrámek]]
+- [[#Karel Toman]]
+- Mahen
+- Bruner
 
 ## Znaky
 - jednoduché, pravidelné, srozumitelné, rytmické verše
@@ -31,7 +36,7 @@ aliases:
 - po smrti otce ==zámožné tety==  $\longrightarrow$ (podědil olšanskou vilu)
 - neúspěšná studia, politicky aktivní - ==komunismus== _(odsouzen s Omladinou)_ – na začátku vazby vystoupil z ==římskokatolické církve==
 - přispíval do [[Česká moderna a dekadence#Moderní revue|Moderní revue]], jezdil na Mostecko a Teplicko
-- ==[[#revue Nový kult]]== _(Gellner, Šrámek, Toman, Mahen, Bruner)_
+- ==[[#revue Nový kult]]==
 - spoluzakladatel __________________ klubu #todo
 - dvakrát ženat, ale vyznával ==volnou lásku==
 - _(Kamilla Krémová, Božena Hodačová_ - ==vypovězen== z obce Řečkovice, _Lída Špačková)_
@@ -112,6 +117,7 @@ aliases:
 - protirakouský odboj, vězněn ve Vídni
 - redaktor ==Národních listů==
 - spoluzakladatel Československé národní demokracie
+## Dílo
 **A porta inferi** - začátek pohřebního žalmu u pekelné brány, kritizuje maloměšťáky
 **Satiry a sarkasmy**
 **Milá sedmi loupežníků** - #čtenářák **17 stran**, poema - lyrika, je tam příběh (vedlejší), loupežník vzpomíná na 7 loupežníků a ==Milou== (nemá jméno, píše se s velkým M), rozhovor, milá ale trochu svině, chodí tam z nudy, zabijí faráře a pocestného, nakonec je Milá udá (zabijí loupežníky) a pak na ně vzpomíná
@@ -119,7 +125,6 @@ aliases:
 **Devátá vlna** - depresivní, to poslední co napsal
 **Okno (Země mluví)** - mluví o matce, planetě, země je věčná, nekonečná, vlastenecké, _"opustíš-li mne nezahynu, opustíš-li mne zahyneš"_
 **Krysař** - #čtenářák , **60 stran**, próza, tragická postava beze jména (zápletka kolem toho), _za tak málo práce mu nedáme tolik peněz_, borka co to neunese, Krysař se mstí (hraje pořádně), prosťáček rybář co odolává - zachrání ho pláč dítěte, _jdou do Sedmihradska_
-## Dílo
 - **Zmoudření Dona Quijota** - drama
 
 # Petr Bezruč
@@ -138,7 +143,7 @@ aliases:
 ## Dílo
 - **Slezské písně**
 	- **Jen jedenkrát (Zkazka)** - četli jsme
-	- **Hantor Halfar** - příběh Bezručova kamaráda, končí sebevraždou
+	- **Kantor Halfar** - příběh Bezručova kamaráda, končí sebevraždou
 	- **Kdo na moje místo?**
 	- **Ostrava**
 	- **Maryčka Magdonova**
