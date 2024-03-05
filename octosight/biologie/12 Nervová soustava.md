@@ -135,14 +135,14 @@ _(+ synaptická štěrbina)_
 
 - štěrbiny mezi měkkými plenami jsou vyplněny mozkomíšním mokem - (chrání před otřesy, nárazy, nadlehčuje)
 
-##### Mozkomíšní mok
+#### Mozkomíšní mok
 - čirá, bezbarvá tekutina
 - obsahuje nepatrné množství bílkovin a glukózy
 - vyplňuje i ==dutiny== CNS
 - ==150 ml== (za den 500 ml)
 - je tvořen ve stěnách mozkových komor
 
-##### Dutiny CNS
+#### Dutiny CNS
 - ==centrální kanálek míšní== - prochází středem ==míchy==
 - ==IV. mozková komora== - v prodloužené míše
 - ==Sylviův kanálek== - prochází středním mozkem
