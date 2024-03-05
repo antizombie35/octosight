@@ -29,61 +29,44 @@
 
 _(všechny jsou sudé)_
 
-- alkoholy
+# Alkoholy
+---
+- glycerol #todo obr
 
-- glycerol
+## Vyšší jednosytné alkoholy
+- cetylalkohol (c11)
+- cerylalkohol (c22)
+- myricylalkohol (c30)
+	
+## Rozdělení lipidů
+- jednoduché lipidy
+	- glyceridy
+		- estery vyšších mastných kyselin a ==glycerolu==
+	- vosky
+		- estery vyšších mastných kyselin a vyšších jednosytných ==alkoholů==
 
-- 
-
-- 
-
-- vyšší jednosytné alkoholy
-
-    cetylalkohol (c11)
-
-    cerylalkohol (c22)
-
-    myricylalkohol (c30)
-
-- rozdělení lipidů
-
- a) jednoduché lipidy
-
-     glyceridy
-
-  estery vyšších mastných kyselin
-
-  a glycerolu
-
-- 
-
-vosky
-
-estery vyšších mastných kyselin  a   vyšších jednosytných alkoholů
-
-- jednoduché lipidy - glyceridy
-
+## Jednoduché lipidy (==glyceridy==)
+- vznik glyceridů ==esterifikací==
+- alkohol + karbox. kys.  $\longrightarrow$ ester + voda
+![[Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.svg]]
+%%[[Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.md|🖋 Edit in Excalidraw]]%%
 - estery vyšších mastných kyselin a glycerolu:
+	- monoacylglyceridy
+	- diglyceridy
+	- triacylglyceridy
 
-a)monoacylglyceridy
-
-b)diglyceridy
-
-c)triacylglyceridy
-
-- triglyceridy
-
+### Triglyceridy
 -mají největší význam
-
 -součást přírodních tuků a olejů
 
-- tuky – směsi tuhých triglyceridů  
-(obsahují nasycené karboxylové kyseliny)
-
+### Tuky
+- směsi tuhých ==triglyceridů== (obsahují nasycené karboxylové kyseliny)
 - nadměrný příjem tuků způsobuje obezitu
+nasycené $\longrightarrow$ pené
 
-- oleje – směsi kapalných triglyceridů (obsahují větší podíl nenasycených karboxylových kyselin)
-
+### Oleje
+- směsi kapalných ==triglyceridů== (obsahují větší podíl nenasycených karboxylových kyselin)
+- neansycené $\longrightarrow$ kapalné
 - mýdla
 
 - sodné nebo draselné soli vyšších mastných kyselin

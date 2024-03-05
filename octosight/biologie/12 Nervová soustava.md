@@ -147,12 +147,12 @@ nervová soustava má tyto základní části:
 - je ==ektodermálního původu== - ==vnější== zárodečný list
 
 #### Části mozku
-- 1. prodloužená mícha
-- 2. most Varolův - jen u savců
-- 3. mozeček
-- 4. střední mozek
-- 5. mezimozek
-- 6. koncový mozek
+1. prodloužená mícha
+2. most Varolův - jen u savců
+3. mozeček
+4. střední mozek
+5. mezimozek
+6. koncový mozek
 
 - 1, 2, 4 - tvoří mozkový kmen - nejstarší část mozku
 
@@ -160,170 +160,92 @@ nervová soustava má tyto základní části:
 
 > [!warning]
 >Konec 1. písmenky
+<center>PO SEM PÍS</center>
 
 - nejstarší část mozku:
-
-   prodloužená mícha + most Varolův + střední mozek = mozkový kmen
-
-- po celé délce se ve vnitřní části mozkového kmene táhne pruh síťovitě uspořádaných neuronů = retikulární formace
-
+   ==mozkový kmen== = ==prodloužená mícha== + ==most Varolův== + ==střední mozek==
+- ==retikulární formace== =  po celé délce se ve vnitřní části mozkového kmene táhne pruh síťovitě uspořádaných neuronů
 -slouží jako převodní soustava do vyšších center mozku
-
 -zajišťuje pohybovou koordinaci
+-zajišťuje důležité ==životní funkce==
 
--zajišťuje důležité životní funkce
-
-
-
-
-- 1. Prodloužená mícha
-
+##### Prodloužená mícha
 - je pokračováním páteřní míchy
+- je v ní ==IV. mozková komora==
+- jsou v ní buňky ==retikulární formace==
+- řídí důležité funkce: (2 + poslední)
+	- ==dýchání==
+	- ==srdeční frekvenci==
+	- krevní tlak
+	- pohyby trávicí soustavy
+	- jsou zde centra reflexů zajišťujících ==polykání==, ==slinění== a některé ==obranné reflexy== = ==kašel==, ==kýchání==, ==zvracení==, ==mrkání==, ==slzení==
+- vychází z ní ==7 párů== mozkových (hlavových) nervů (VI. - XII. pár)
 
-- je v ní IV. mozková komora
+##### Most Varolův
+- ==spojuje== ==koncový mozek== s [[#Mozeček|mozečkem]]
+- je tvořen hlavně ==sestupnými== a ==vzestupnými== nervovými vlákny a buňkami retikulární formace
+- je zde centrum produkce ==slin a slz==
+- _retikulární formace aktivuje mozkovou kůru a udržuje ji v bdělém stavu_
+- vystupuje z něho nejsilnější pár mozkového nervu - ==nerv trojklanný (V.)==
+- ==pouze u savců==
 
-- jsou v ní buňky retikulární formace
+#todo obr
 
-- řídí důležité funkce:
-
-- dýchání
-
-- srdeční frekvenci
-
-- krevní tlak
-
-- pohyby trávicí soustavy
-
-- jsou zde centra reflexů zajišťujících polykání, slinění a některé obranné reflexy - kašel, kýchání, zvracení, mrkání, slzení
-
-- vychází z ní 7 párů mozkových nervů (VI. - XII. pár)
-
-- 
-
-- 2. Most Varolův
-
-- spojuje koncový mozek s mozečkem
-
-- je tvořen hlavně sestupnými a vzestupnými nervovými vlákny a buňkami retikulární formace
-
-- je zde centrum produkce slin a slz
-
-- retikulární formace aktivuje mozkovou kůru a udržuje ji v bdělém stavu
-
-- vystupuje z něho nejsilnější pár mozkového nervu - nerv trojklanný (V.)
-
-- pouze u savců
-
-- 3. Mozeček
-
+##### Mozeček
+#todo obr
 - stavba:
+	- ==2 hemisféry== spojené červem mozečkovým
+	- na povrchu je šedá hmota = ==kůra mozečková== - vytváří ==závity== - v ní jsou ==Purkyňovy buňky== (patří k největším a nejsložitějším buňkám v lidském těle)
+	- uvnitř je ==bílá hmota== (vybíhá do mnoha závitů a na řezu vytváří tzv. strom života)
 
-- 2 hemisféry spojené červem mozečkovým
-
-- na povrchu je šedá hmota = kůra mozečková - vytváří závity - v ní jsou tzv. Purkyňovy buňky (patří k největším a nejsložitějším buňkám v lidském těle)
-
-- uvnitř je bílá hmota (vybíhá do mnoha závitů a na řezu vytváří tzv. strom života)
-
-- 
+#todo obr
 
 - funkce:
-
-- ústředí pro uspořádání  pohybů
-
-   (sem přicházejí vzruchy z rovnovážného ústrojí, z různých interoreceptorů - mozečková kůra sjednocuje = integruje tyto vzruchy spolu s informacemi, které přicházejí z mozkové kůry)
-
+- ústředí pro ==uspořádání  pohybů== (sem přicházejí vzruchy z ==rovnovážného ústrojí== (vnější ucho), z různých interoreceptorů - mozečková kůra sjednocuje = integruje tyto vzruchy spolu s informacemi, které přicházejí z mozkové kůry)
 - regulace svalového napětí
+- koordinace ==úmyslných pohybů== (zvláště rychlých, jemných a přesných)
+- udržování tělesné ==rovnováhy==
 
-- koordinace úmyslných pohybů
-
-   (zvláště rychlých, jemných a přesných)
-
-- udržování tělesné rovnováhy
-
-- 
-
-- 4. Střední mozek
-
-- u člověka je nejmenším oddílem mozku
-
+##### Střední mozek
+- u člověka je ==nejmenším== oddílem mozku
 - stavba:
-
-- spodní část tvoří bílá hmota = 2 stonky mozkové
-
-   (tu vedou vzestupné a sestupné dráhy, které spojují kůru koncového mozku s nižšími oddíly CNS)
-
-- horní část tvoří 2 páry hrbolů = čtverohrbolí  
-(šedá hmota)
-
+- spodní část tvoří ==bílá hmota== = ==2 stonky mozkové== (tu vedou vzestupné a sestupné ==dráhy==, které spojují kůru koncového mozku s nižšími oddíly CNS)
+- horní část tvoří 2 páry hrbolů = čtverohrbolí (šedá hmota)
 - v předním páru končí část vláken zrakového nervu, v zadním část vláken sluchové dráhy
 
-- 
-
-- 
-
-- čtverohrbolí je centrum, které na zrakové a sluchové podněty zprostředkovává pohybové reakce hlavy, očí a celého těla
-
+- čtverohrbolí je centrum, které na ==zrakové a sluchové podněty== zprostředkovává ==pohybové reakce== hlavy, očí a celého těla
 - pod předním párem hrbolů je centrum zornicového reflexu
+- středem středního mozku prochází ==Sylviův kanálek== - kolem něho je šedá hmota - zde začínají ==2 páry== okohybných nervů ==(IV. a III.)==
 
-- středem středního mozku prochází Sylviův kanálek - kolem něho je šedá hmota - zde začínají 2 páry okohybných nervů (IV. a III.)
-
-- 
-
-- 
-
-- 5. Mezimozek
-
-- je uložen mezi hemisférami koncového mozku
-
+##### Mezimozek
+- je uložen ==mezi== hemisférami koncového mozku
 - je v něm III. mozková komora
+- tvoří ho ==talamus== a ==hypotalamus== _(hypo - pod něčím)_
+- spodina komory = ==hypotalamus== (šedá hmota)  
+- k němu je stopkou připojena ==hypofýza==
+- jsou zde centra pro ==řízení metabolismu==:
+	- řízení tělesné teploty
+	- hospodaření s vodou
+	- výměnu látkovou ve tkáních
+	- regulaci bdění a spánku
+	- centrum sytosti a hladu
 
-- tvoří ho talamus a hypotalamus
+- ==strop komory== (talamus) = šedá hmota - k němu je připojena šišinka
+- ==boční stěny== - silné vejčité útvary = ==talamy== (převážně šedá hmota)
+- výstup ==zrakového== nervu (II.) (1 pár)
+- jsou zde ==převodní centra== pro vlákna, která směřují do koncového mozku
 
-- spodina komory = hypotalamus (šedá hmota)  
-- k němu je stopkou připojena hypofýza
+#konec
 
-- jsou zde centra pro:
-
-- řízení tělesné teploty
-
-- hospodaření s vodou
-
-- výměnu látkovou ve tkáních
-
-- regulaci bdění a spánku
-
-- centrum sytosti a hladu
-
-- 
-
-- strop komory = šedá hmota - k němu je připojena šišinka
-
-- boční stěny - silné vejčité útvary = talamy  
-(převážně šedá hmota)
-
-- výstup zrakového nervu (II.)
-
-- jsou zde převodní centra pro vlákna, která směřují do koncového mozku
-
-- 6. Koncový mozek
-
+##### Koncový mozek
 - stavba:
-
 - 2 polokoule = hemisféry
-
 - polokoule jsou spojeny trámcem mozkovým (= vazník mozkový = kalózní těleso)
-
 - hemisféry tvoří:
-
 a)mozková kůra = plášť- členěná v laloky
-
 b)bazální ganglia
-
 c)limbický systém
 
-- 
-
-- 
 
 a)mozková kůra
 
