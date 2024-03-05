@@ -27,7 +27,7 @@ nervová soustava má tyto základní části:
 - ==motorické== (hybné) neurony
 	- (patří k periferní nervové soustavě - vedou signály k výkonným = eferentním orgánům  $\longrightarrow$ neurony ==odstředivé==) _(odstředivé vedou od CNS)_
 
-#todo popsanej obrázek neuronu 
+![[Pasted image 20240305203711.png]]
 - neurit = axon
 - Schwannova pochva - buňky
 
@@ -46,6 +46,8 @@ nervová soustava má tyto základní části:
 - _(protože neurony nejsou prokrveny - špatná regenerace a vyživování)_
 - _(sešívání nervů)_
 
+![[Pasted image 20240305203800.png]]
+
 # Činnost neuronu
 ---
 - podstatou nervové činnosti je ==dráždivost== nervových buněk a jejich schopnost vést podráždění v podobě ==vzruchu== (= ==signálu==) dál
@@ -56,7 +58,13 @@ nervová soustava má tyto základní části:
 
 - při podráždění dojde ke krátkodobé lokální změně propustnosti biomembrány pro ionty ==K+== a ==Na+==  $\longrightarrow$ změna polarity = ==depolarizace==  $\longrightarrow$ změna klidového potenciálu na akční potenciál _(ten se šíří po neuronu jako vlna elektrické negativity = vzruch)_
 
+![[Pasted image 20240305203829.png]]
+
 - vzápětí po vzniku akčního potenciálu dochází k obnovení klidového potenciálu = ==repolarizace== - (návrat iontů ==K+== a ==Na+== mechanismem aktivního transportu - tzv. ==sodíkodraslíkovou pumpou==)
+
+![[Pasted image 20240305203849.png]]
+
+![[Pasted image 20240305203858.png]]
 
 - pro podráždění a vznik akčního potenciálu musí mít podnět určitou intenzitu
 - ==podprahový podnět==: má malou intenzitu $\longrightarrow$ potenciálový rozdíl se sníží jen nepatrně $\longrightarrow$ vzniká vzruch o velmi malé intenzitě $\longrightarrow$ nešíří se, velmi brzy ==zaniká==
@@ -75,7 +83,8 @@ nervová soustava má tyto základní části:
 - děje se ==chemickou== cestou
    akční potenciál dospěl k synapsi $\longrightarrow$ vylití ==mediátorů== (==neuropřenašeč==) z váčků do synaptické štěrbiny
 
-	#todo obr (+ synaptická štěrbina)
+![[Pasted image 20240305203936.png]]
+_(+ synaptická štěrbina)_
 
 - Protože ==mediátor== (= ==přenašeč== = ==neurotransmiter==) se nachází jen v zakončení neuritu (u presynaptické membrány), je vzruch veden ==jedním směrem==
 
@@ -116,14 +125,15 @@ nervová soustava má tyto základní části:
 - vystýlá ==dutinu lební== a přirůstá ke ==spodině lební==
 - kolem míchy vytváří ==míšní vak==
 - _(mezi kostí a tvrdou plenou jsou vazivo, cévy a tuk)_
-- #todo - kůže, kost, tvrdá plena, 1. měkká plena, 2. měkká plena, vodička, tepna
 #### Dvě měkké pleny
 - ==pavučnice== - s trámci + mozkomíšní mok
 	- (bez cév)
 - omozečnice, na míše - plena míšní
 	- (hodně cév, na povrchu mozku vniká do všech brázd)
-	- štěrbiny mezi měkkými plenami jsou vyplněny mozkomíšním mokem
-	- (chrání před otřesy, nárazy, nadlehčuje)
+
+![[Pasted image 20240305204101.png]]
+
+- štěrbiny mezi měkkými plenami jsou vyplněny mozkomíšním mokem - (chrání před otřesy, nárazy, nadlehčuje)
 
 ##### Mozkomíšní mok
 - čirá, bezbarvá tekutina
@@ -138,8 +148,6 @@ nervová soustava má tyto základní části:
 - ==Sylviův kanálek== - prochází středním mozkem
 - ==III. mozková komora== - v mezimozku
 - ==II. a I. mozková komora postranní== - v koncovém mozku
-
-#todo GIF motací lebky
 
 ### Mozek
 - průměrná hmotnost ==1300 g==
@@ -156,7 +164,10 @@ nervová soustava má tyto základní části:
 
 - 1, 2, 4 - tvoří mozkový kmen - nejstarší část mozku
 
-#todo obr hlavy, může být na pís. - není popsán ==mozkový trámec== (vazník)
+![[Pasted image 20240305204237.png]]
+- není popsán ==mozkový trámec== (vazník)
+
+![[Pasted image 20240305204300.png]]
 
 > [!warning]
 >Konec 1. písmenky

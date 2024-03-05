@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historie/Rok 1943.md",
+                "file": "biologie/12 Nervová soustava.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:ner",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historie/Rok 1943.md",
+                "file": "historie/Rok 1942.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "historie/Rok 1943.md",
+                "file": "historie/Rok 1942.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "historie/Rok 1943.md"
+                "file": "historie/Rok 1942.md"
               }
             }
           },
@@ -173,19 +174,66 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6d2e577da0279b28",
+  "floating": {
+    "id": "1fc095a954bdcd41",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6caef4ffefac1eae",
+        "type": "window",
+        "children": [
+          {
+            "id": "43d538bc398a0156",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7900001ceb875b30",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "historie/Rok 1942.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 915,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "7900001ceb875b30",
   "lastOpenFiles": [
-    "historie/Rok 1942.md",
-    "historie/Rok 1943.md",
-    "literatura/Generace buřičů.md",
-    "chemie/Lipidy (Tuky).md",
+    "historie/Rok 1941.md",
     "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
     "biologie/12 Nervová soustava.md",
+    "_dev/attachments/Pasted image 20240305204300.png",
+    "_dev/attachments/Pasted image 20240305204237.png",
+    "_dev/attachments/Pasted image 20240305204101.png",
+    "_dev/attachments/Pasted image 20240305203936.png",
+    "_dev/attachments/Pasted image 20240305203858.png",
+    "_dev/attachments/Pasted image 20240305203849.png",
+    "_dev/attachments/Pasted image 20240305203829.png",
+    "_dev/attachments/Pasted image 20240305203800.png",
+    "_dev/attachments/Pasted image 20240305203711.png",
+    "historie/Rok 1943.md",
+    "historie/Rok 1942.md",
+    "literatura/Generace buřičů.md",
+    "chemie/Lipidy (Tuky).md",
     "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.md",
     "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.excalidraw",
     "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.svg",
     "biologie/08 Metabolismus.md",
-    "historie/Rok 1941.md",
     "Offline Index.md",
     "Index.md",
     "zsv/Trestní právo.md",
@@ -202,20 +250,10 @@
     "chemie/Heterocyklické sloučeniny.md",
     "historie/Začátek WWII.md",
     "historie/Velká hospodářská krize.md",
-    "historie/Ústava a vznik KSČ.md",
-    "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.svg",
     "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.excalidraw",
-    "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.svg",
     "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.excalidraw",
     "_dev/test",
-    "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.svg",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",
-    "_dev/attachments/Pasted image 20240213210609.png",
-    "_dev/attachments/Pasted image 20240213210556.png",
-    "_dev/attachments/Pasted image 20240213210348.png",
-    "_dev/attachments/Pasted image 20240213210100.png",
-    "_dev/attachments/Pasted image 20240213210041.png",
-    "_dev/attachments/Pasted image 20240213210023.png",
     "chemie",
     "_dev/attechments",
     "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.excalidraw",
