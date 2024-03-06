@@ -7,8 +7,10 @@
 </font>
 
 > [!error]
-> Online verze může být **nestabilní**, originál dat je možné dostat na [Githubu](https://github.com/antizombie35/octosight) (ve složce **octosight**) jako **.md** soubory ([Obsidian](https://obsidian.md/) pro otevření vaultu a pokročilou manipulaci)
+> Online verze může být někdy **nestabilní**, originál dat je možné dostat na [Githubu](https://github.com/antizombie35/octosight) (ve složce **octosight**) jako **.md** soubory ([Obsidian](https://obsidian.md/) pro otevření vaultu a pokročilou manipulaci)
 
+>[!warning]
+>Na automatických aktualizacích pro stažené verze se pracuje
 
 ***
 <font size = "2">

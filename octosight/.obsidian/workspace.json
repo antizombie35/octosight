@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d98cfac903677a48",
+            "id": "f62e9e048a34afc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biologie/12 Nervová soustava.md",
+                "file": "literatura/Ztracená generace.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biologie/12 Nervová soustava.md",
+                "file": "literatura/Ztracená generace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biologie/12 Nervová soustava.md",
+                "file": "literatura/Ztracená generace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biologie/12 Nervová soustava.md"
+                "file": "literatura/Ztracená generace.md"
               }
             }
           },
@@ -160,10 +159,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d98cfac903677a48",
+  "active": "f62e9e048a34afc8",
   "lastOpenFiles": [
-    "biologie/12 Nervová soustava.md",
+    "literatura/Ztracená generace.md",
+    "literatura/Generace buřičů.md",
     "Index.md",
+    "Offline Index.md",
+    "biologie/12 Nervová soustava.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
     "sloh/Publicistický styl.md",
@@ -175,7 +177,6 @@
     "literatura/Literární kompozice.md",
     "literatura/Literární figury a tropy.md",
     "literatura/Literární Druh, forma, žánr.md",
-    "literatura/Generace buřičů.md",
     "literatura/Dekadence.md",
     "literatura/ČT deník.md",
     "chemie/Synteticky významné organické látky.md",
@@ -186,8 +187,6 @@
     "historie/Ústava a vznik KSČ.md",
     "historie/Švehlovy vládní kabinety.md",
     "historie/Rok 1943.md",
-    "historie/Rok 1942.md",
-    "historie/Rakouský fašismus a Španělsko.md",
     "_dev/attachments/Pasted image 20240305204300.png",
     "_dev/attachments/Pasted image 20240305204237.png",
     "_dev/attachments/Pasted image 20240305204101.png",
