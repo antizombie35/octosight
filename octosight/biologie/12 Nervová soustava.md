@@ -10,7 +10,7 @@ nervová soustava má tyto základní části:
 	- mozek (==cerebrum==, ==encephalon==)
 	- mícha (páteřní)
 2. ==periferní== (obvodová) nervová soustava - tvořena:
-	- 12 páry mozkových (hlavových) nervů a 31 páry míšních nervů
+	- 12 páry mozkových (hlavových) nervů a 31 párů míšních nervů
 	- podle toho, jestli je činnost nervů ovladatelná vůlí nebo ne, dělíme nervy na:
 		- ==motorické nervy== (==hybné==) - umožňují pohyb kosterních svalů a jejich činnost ovládáme vůlí
 		- ==autonomní== (==vegetativní==) - ovlivňují činnost hladkého svalstva, jejich činnost neovládáme vůlí
@@ -165,8 +165,8 @@ _(+ synaptická štěrbina)_
 ![[Pasted image 20240305204300.png]]
 
 > [!warning]
->Konec 1. písmenky
-<center>PO SEM PÍS</center>
+>Začátek 2. písmenky
+<center>-- OD SEM PÍS --</center>
 
 - nejstarší část mozku:
    ==mozkový kmen== = ==prodloužená mícha== + ==most Varolův== + ==střední mozek==
@@ -241,88 +241,51 @@ _(+ synaptická štěrbina)_
 - výstup ==zrakového== nervu (II.) (1 pár)
 - jsou zde ==převodní centra== pro vlákna, která směřují do koncového mozku
 
-#konec
-
 ##### Koncový mozek
-- stavba:
-- 2 polokoule = hemisféry
-- polokoule jsou spojeny trámcem mozkovým (= vazník mozkový = kalózní těleso)
+- 2 polokoule (==hemisféry==) - spojeny ==trámcem mozkovým== (==vazník mozkový==, ==kalózní těleso==)
 - hemisféry tvoří:
-a)mozková kůra = plášť- členěná v laloky
-b)bazální ganglia
-c)limbický systém
+	- mozková kůra (==plášť==)- členěna v laloky
+	- bazální ganglia
+	- limbický systém
 
+#todo obr
 
-a)mozková kůra
-
+###### Mozková kůra
 - šedá hmota
-
-- vývojově nejmladší část mozku
-
-- 2 - 5 mm silná, 6 vrstev buněk
-
-- zprohýbaná závity = gyry - mezery mezi závity jsou rýhy
-
+- vývojově ==nejmladší== část mozku
+- zprohýbaná ==závity== (==gyry==) - mezery mezi závity jsou rýhy $\longrightarrow$ ==girifikace== (rýhování)
 - 4 laloky :
+	- **čelní** - výstup čichového nervu (I.)
+	- **temenní**
+	- **týlní**
+	- **spánkový**
 
-- čelní - výstup čichového nervu (I.)
+#todo obr
+#todo pod obr text
 
-- temenní
+- v mozkové kůře jsou korová centra  (==okrsky==) + asociační oblasti
 
-- týlní
+#todo obr
 
-- spánkový
+- asociační centra zajišťují integraci podnětů, ovlivňují utváření osobnosti - jednání, chování, emoce
 
-- 
+#todo obr
+#todo obr
+#todo obr
 
-- 
-
-- v mozkové kůře jsou korová centra  
- (= okrsky) + asociační oblasti
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
-
-- as. centra zajišťují integraci podnětů, ovlivňují utváření osobnosti - jednání, chování, emoce
-
-- 
-
-- 
-
-b)bazální ganglia
-
+###### Bazální ganglia
 - skupiny neuronů uložené pod mozkovou kůrou
+- jsou jednou z nejvýznamnějších oblastí vytvářejících ==pohybovou aktivitu==
+- porucha - Parkinsonova choroba, Huntington
 
-- jsou jednou z nejvýznamnějších oblastí vytvářejících pohybovou aktivitu
-
-- porucha - Parkinsonova choroba
-
-- 
-
-- 
-
-c)limbický systém
-
-- jeho prostřednictvím se uskutečňuje komplexní instinktivní chování
-
-- sídlo emocí
-
-- zajišťuje ukládání paměťových stop
-
+###### Limbický systém
+- jeho prostřednictvím se uskutečňuje komplexní ==instinktivní== chování
+- ==sídlo emocí==
+- zajišťuje ukládání ==paměťových stop==
 - na základě zkušeností pomáhá dotvářet vrozené prvky chování
-
 - zasahuje i do mezimozku
+
+#konec
 
 - 2) MÍCHA
 
