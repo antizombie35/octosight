@@ -1,6 +1,3 @@
-> [!warning]
->Chybí obrázky
-
 # Abstract
 ---
 - řídí činnost všech orgánů, vytváří chování organismu, umožňuje jeho komunikaci s okolím
@@ -15,8 +12,8 @@ nervová soustava má tyto základní části:
 2. ==periferní== (obvodová) nervová soustava - tvořena:
 	- 12 páry mozkových (hlavových) nervů a 31 páry míšních nervů
 	- podle toho, jestli je činnost nervů ovladatelná vůlí nebo ne, dělíme nervy na:
-	- ==motorické nervy== (==hybné==) - umožňují pohyb kosterních svalů a jejich činnost ovládáme vůlí
-	- ==autonomní== (==vegetativní==) - ovlivňují činnost hladkého svalstva, jejich činnost neovládáme vůlí
+		- ==motorické nervy== (==hybné==) - umožňují pohyb kosterních svalů a jejich činnost ovládáme vůlí
+		- ==autonomní== (==vegetativní==) - ovlivňují činnost hladkého svalstva, jejich činnost neovládáme vůlí
 
 - základní stavební a funkční jednotkou nervové soustavy jsou nervové buňky = ==neurony==
 - podle funkce rozlišujeme 3 typy neuronů:
@@ -45,8 +42,6 @@ nervová soustava má tyto základní části:
 - ==nevedou== vzruchy - plní funkci ==podpůrnou==, ==ochrannou==, ==vyživovací==
 - _(protože neurony nejsou prokrveny - špatná regenerace a vyživování)_
 - _(sešívání nervů)_
-
-![[Pasted image 20240305203800.png]]
 
 # Činnost neuronu
 ---
@@ -128,7 +123,7 @@ _(+ synaptická štěrbina)_
 #### Dvě měkké pleny
 - ==pavučnice== - s trámci + mozkomíšní mok
 	- (bez cév)
-- omozečnice, na míše - plena míšní
+- ==omozečnice==, na míše - plena míšní
 	- (hodně cév, na povrchu mozku vniká do všech brázd)
 
 ![[Pasted image 20240305204101.png]]
@@ -155,12 +150,12 @@ _(+ synaptická štěrbina)_
 - je ==ektodermálního původu== - ==vnější== zárodečný list
 
 #### Části mozku
-1. prodloužená mícha
-2. most Varolův - jen u savců
-3. mozeček
-4. střední mozek
-5. mezimozek
-6. koncový mozek
+1. [[#Prodloužená mícha]]
+2. [[#Most Varolův]] - jen u savců
+3. [[#Mozeček]]
+4. [[#Střední mozek]]
+5. [[#Mezimozek]]
+6. [[#Koncový mozek]]
 
 - 1, 2, 4 - tvoří mozkový kmen - nejstarší část mozku
 
