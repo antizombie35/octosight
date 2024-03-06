@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historie/Rok 1942.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6d2e577da0279b28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "biologie/12 Nervová soustava.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,12 +49,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ner",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historie/Rok 1942.md",
+                "file": "biologie/12 Nervová soustava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "historie/Rok 1942.md",
+                "file": "biologie/12 Nervová soustava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "historie/Rok 1942.md"
+                "file": "biologie/12 Nervová soustava.md"
               }
             }
           },
@@ -174,49 +160,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "1fc095a954bdcd41",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6caef4ffefac1eae",
-        "type": "window",
-        "children": [
-          {
-            "id": "43d538bc398a0156",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7900001ceb875b30",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "historie/Rok 1942.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 915,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "7900001ceb875b30",
+  "active": "d98cfac903677a48",
   "lastOpenFiles": [
-    "historie/Rok 1941.md",
-    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
     "biologie/12 Nervová soustava.md",
+    "Index.md",
+    "historie/Rok 1942.md",
+    "historie/Rok 1943.md",
     "_dev/attachments/Pasted image 20240305204300.png",
     "_dev/attachments/Pasted image 20240305204237.png",
     "_dev/attachments/Pasted image 20240305204101.png",
@@ -226,16 +175,15 @@
     "_dev/attachments/Pasted image 20240305203829.png",
     "_dev/attachments/Pasted image 20240305203800.png",
     "_dev/attachments/Pasted image 20240305203711.png",
-    "historie/Rok 1943.md",
-    "historie/Rok 1942.md",
     "literatura/Generace buřičů.md",
     "chemie/Lipidy (Tuky).md",
+    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
     "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.md",
     "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.excalidraw",
     "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.svg",
     "biologie/08 Metabolismus.md",
+    "historie/Rok 1941.md",
     "Offline Index.md",
-    "Index.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
     "sloh/Publicistický styl.md",
