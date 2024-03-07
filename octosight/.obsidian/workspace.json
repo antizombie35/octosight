@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06ba046ce25ebda8",
+        "id": "036bb1ea3a9baa41",
         "type": "tabs",
         "children": [
           {
-            "id": "f62e9e048a34afc8",
+            "id": "7ec9411c2016c2f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literatura/Ztracená generace.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literatura/Ztracená generace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literatura/Ztracená generace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "literatura/Ztracená generace.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,8 +150,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f62e9e048a34afc8",
+  "active": "7ec9411c2016c2f6",
   "lastOpenFiles": [
+    "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
+    "fyzika/3.8 Nucené kmitání, rezonance.md",
+    "fyzika/3.7 Energie kmitání.md",
     "literatura/Ztracená generace.md",
     "literatura/Generace buřičů.md",
     "Index.md",
@@ -184,9 +178,6 @@
     "chemie/Heterocyklické sloučeniny.md",
     "historie/Začátek WWII.md",
     "historie/Velká hospodářská krize.md",
-    "historie/Ústava a vznik KSČ.md",
-    "historie/Švehlovy vládní kabinety.md",
-    "historie/Rok 1943.md",
     "_dev/attachments/Pasted image 20240305204300.png",
     "_dev/attachments/Pasted image 20240305204237.png",
     "_dev/attachments/Pasted image 20240305204101.png",
