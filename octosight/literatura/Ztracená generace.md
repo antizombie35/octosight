@@ -30,7 +30,31 @@
 
 ## Ernest Hemingway
 ---
-- dostal ==nobelovku==
+- podpis jako ==Nick Adams==
+- dostal ==nobelovku== pulicerovu cenu
+- fyzicky zdatný - box, lov v Africe
+- možná trochu prokomouš (ne sovětský)
+- kámoš s Fidelem Castrem - žil na ==Kubě== $\longrightarrow$ moře
+### Dílo
+**Stařec a moře** - ==nobelovka==, metoda ==ledovce==, stařec chce lidem dokázat že uloví něco obrovského, stařec pak s rybou zápasí 3 dny, nakonec ji uloví, ale než ji dovleče tak mu ji žraloci sežrali, mindset konce je ale stejně jsem to dokázal sobě i ostatním, příběh o lidském boji sám se sebou, #čtenářák
+**Sbohem, armádo**
+**Zelené pahorky africké** - líčíl tam všechno, kritika
+**Komu zvoní hrana** - zvonění za mrtvého, původně citát od Johna Donna
+
+## William Faulkner
+---
+- z J USA - otrokářství, jeho dědeček plantážník a otrokář, on ale pro černochy
+- ==Nobelova cena==
+- ==Pulicerova cena==
+- nejsou témata války - pšíš o J USA jeho doby (už ne otroci ale sociální rozdíly, nemožnost vzdělání ...)
+- ve WWI pilot
+- ==Jižanské romány== - s tím začal, literatura o J USA 
+### Dílo
+**Absolone, absolone** - osud rodiny bělocha (Thomase Sutpena) co si vzal černošku - smíšené manželství - asi 100 let rozptyl - nikdo z rodiny nezná celou pravdu a každý to vypráví trochu jinak, není chronologické, sousta časových linek, komplikované
+**Divoké palmy** - dva zdánlivě spolu nesouvisející příběhy:
+	- ==Staře a Missisippi== - borec co něco ukradne, noc moc špatně to nemyslel, ale dostal velký trest $\longrightarrow$ práce na plantáži - na plantáž povodeň a oni utíkají - poté trestanci musí zachraňovat lidi před povodní - jeden se jako utopí - poté zachrání těhotnou ženu, ona porodí, připlují do města, další útěk před povodní, on se nakonec jde udat a dostane dalších 10 let za útěk.
+	- ==Divoké palmy== - borci jdou na večírek - tam borec uteče s vdanou ženou - útěk a nový život, to ale opadne %%shicago%% - nový útěk do Utahu aby byl "nový život" - tam pomůže ženě s potratem - dobře to dopadne  (nelegální) - jeho žena chce taky potrat, ale ona zemře
+	- ==spojení== - Rozdělená společnost,  nespravedlnost
 
 ## Theodore Deiser
 ---
@@ -40,10 +64,6 @@
 
 ## Henri Barbusse
 ---
-
-## William Faulkner
----
-
 
 # Humanistický realismus
 ---

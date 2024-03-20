@@ -118,9 +118,40 @@
 
 # Přechodníky
 ---
-- [[#Dokonavý|Dokonavý tvar]]  $\longrightarrow$ přechodník minulý
-- [[#Nedokonavý]]  $\longrightarrow$ přechodník přítomný
+## Příklady
+- vyjma
+- počínaje
+- chtě nechtě
+- nemluvě
 
+## Gramatika
+- [[#Dokonavý|Dokonavý tvar]]  $\longrightarrow$ přechodník minulý, ==předčasný== děj
+- [[#Nedokonavý| Nedokonavý tvar]]  $\longrightarrow$ přechodník přítomný, ==současné== děje
+
+## Tvorba
+### Přítomný
+```
+3. os. mn. č. (oni) přít. čas. -> kmen   -> přidat novou koncovku podle rodu
+pracují                        -> pracuj
+```
+
+| M   | Ž/S  | mn.č  |
+| --- | ---- | ----- |
+| -a  | -ouc | -ouce |
+| -e  | -íc  | -íce  |
+
+### Minulý
+```
+3. os. mn. č. (on) min. čas. -> kmen   -> přidat novou koncovku podle rodu
+přepracovali                 -> přepracova
+```
+
+| M   | Ž/S  | mn.č |
+| --- | ---- | ---- |
+|     | -ši  | -še  |
+| -v  | -vši | -vše |
+
+### Koncovky
 Přítomné:
 - -aje
 - -ic

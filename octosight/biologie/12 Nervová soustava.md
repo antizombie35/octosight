@@ -1,3 +1,9 @@
+- YT Jaroslav Peřka
+- YT páteční sdysifos
+- YT co by kdyby
+- dorzální - záda
+- ventrální - předek
+
 # Abstract
 ---
 - řídí činnost všech orgánů, vytváří chování organismu, umožňuje jeho komunikaci s okolím
@@ -285,137 +291,81 @@ _(+ synaptická štěrbina)_
 - na základě zkušeností pomáhá dotvářet vrozené prvky chování
 - zasahuje i do mezimozku
 
-#konec
-
-- 2) MÍCHA
-
-- délka asi 40 - 45 cm
-
+### Mícha
+![[12 Nervová soustava19-03-2024_10_52_39.excalidraw.svg]]
+%%[[12 Nervová soustava19-03-2024_10_52_39.excalidraw.md|🖋 Edit in Excalidraw]]%%
+- 40 - 45 cm
 - začíná u týlního otvoru - končí na úrovni druhého bederního obratle
-
 - (dále pokračuje jen svazek - chvost nervů - tzv. cauda equina = koňský ohon)
 
-- 
-
 - stavba:
-
 - šedá hmota - uvnitř! okolo míšního kanálu
-
-    - vybíhá v přední rohy míšní (širší) a zadní rohy míšní (užší)
-
-- 
-
+- vybíhá v přední rohy míšní (širší) a zadní rohy míšní (užší)
 - bílá hmota - kolem hmoty šedé
-
 - rozdělena postranními rýhami na zadní, přední a postranní provazce
-
-- 
 
 - Zadní provazce:
 
-- složeny z drah, které převádějí vzruchy z receptorů do vyšších oddílů CNS = VZESTUPNÉ = SENZITIVNÍ DRÁHY
-
-- 
+- složeny z drah, které převádějí vzruchy z receptorů do vyšších oddílů CNS = VZESTUPNÉ = SENZITIVNÍ DRÁHY (protože vedou vjemy se smyslů)
 
 - Postranní provazce:
-
 - obsahují dráhy vzestupné i sestupné
-
-- 
 
 - Přední provazce:
 
 - složeny z drah, které přivádějí vzruchy z mozkové kůry pro vědomé pohyby končetin a trupu = SESTUPNÉ = MOTORICKÉ DRÁHY
 
-- 
-
-- u člověka je hlavní motorickou drahou PYRAMIDOVÁ DRÁHA
-
-   (vede z mozkové kůry, na hranici prodloužené míchy a páteřní míchy se kříží $\longrightarrow$ vlákna z pravé poloviny mozku přicházejí do levé poloviny míchy a naopak)
-
-- 
+- u člověka je hlavní motorickou drahou PYRAMIDOVÁ DRÁHA 
+- (vede z mozkové kůry, na hranici prodloužené míchy a páteřní míchy se kříží $\longrightarrow$ vlákna z pravé poloviny mozku přicházejí do levé poloviny míchy a naopak)
 
 - ostatní dráhy jsou MIMOPYRAMIDOVÉ
-
-   (podílejí se na udržování svalového napětí, rovnováhy těla, ovládají chůzi, plavání, tanec = mimovolné poloautomatické a automatické pohyby)
-
-- 
+- (podílejí se na udržování svalového napětí, rovnováhy těla, ovládají chůzi, plavání, tanec = mimovolné poloautomatické a automatické pohyby)
 
 - Míšní nerv
-
-- 
-
 - Zadní kořeny míšních nervů
-
 - obsahují dostředivá vlákna
-
    (od exteroreceptorů a interoreceptorů)
-
 - Přední kořeny míšních nervů
-
 - obsahují odstředivá - motorická vlákna
-
    (vedou k příčně pruhovaným svalům)
-
 - Míšní nerv
-
 - vzniká spojením předních a zadních míšních kořenů
-
 - 31 párů míšních nervů - vystupují meziobratlovými otvory
 
-- 
-
-- 
-
-- 
-
 - Funkce míchy:
-
 - převodní
-
 - centrum míšních reflexů
-
    (napínací reflexy - čéškový reflex, centra pro ovládání napětí stěn cév)
-
 - ve své činnosti je podřízena vyšším oddílům CNS
-
 - II. periferní  nervy
-
 1)nervy dostředivé (senzitivní)
-
 2)nervy odstředivé
-
 a)motorické
-
 b)autonomní
-
 i.sympatické
-
 ii.parasympatické
-
 - Nerv = svazek nervových vláken (axonů nebo dendritů) různé tloušťky  a délky - tento svazek je obklopen pojivem a zásobován krevními cévami
-
 - každý nerv může obsahovat vlákna motorická, vlákna senzorická nebo oba typy vláken, jeho funkcí je vedení vzruchu
-
-- Mozkové (hlavové) nervy
-
 - 12 párů
-
 - jsou senzorické, motorické nebo smíšené
-
 - kromě odborných názvů se označují římskými číslicemi - I. - XII.
-
 - první dva páry mají velmi specifickou stavbu (ve skutečnosti nejde o typické nervy, ale o výchlipky mozku - koncového mozku a mezimozku)
-
 - dalších 10 párů odstupuje z mozkového kmene, v jehož šedé hmotě mají svá jádra
-
 - (jádro = shluk neuronů - do nich vedou senzorická vlákna a odtud vychází motorická vlákna)
-
 - (III. a IV. ze středního mozku, V. z Varolova mostu, VI. až XII. z prodloužené míchy)
 
-- 
+#přemístit tabulku¨
 
-- 
+| Sympa                            | Para                       |
+| -------------------------------- | -------------------------- |
+| z vegetativní nerv. Soust, c CNS |                            |
+| nevyčerpává organismus           | vyčerpává organizmus       |
+| výkon ("boj a úder")             | odpočniek                  |
+| noradrenalin                     | acetylcholin               |
+| zvyš. Tep, tlak, stah cév        | sniž. Tep, tlak, stah cév  |
+| roztahuje průdušky a zornice     | stahuje průdušky a zornice |
+| sniž. Sliny a trávení            | zvyš. Sliny a trávení      |
+| při stresu                       |                            |
 
 - Přehled mozkových (hlavových) nervů
 

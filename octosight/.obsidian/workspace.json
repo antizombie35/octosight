@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ec9411c2016c2f6",
+            "id": "7c348670f83f22e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "literatura/Ztracená generace.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:biologie",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "literatura/Ztracená generace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "literatura/Ztracená generace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "literatura/Ztracená generace.md"
+              }
             }
           },
           {
@@ -150,34 +159,40 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7ec9411c2016c2f6",
+  "active": "7c348670f83f22e9",
   "lastOpenFiles": [
+    "literatura/Česká moderna a dekadence.md",
+    "biologie/12 Nervová soustava.md",
+    "historie/Konce WWII v Evropě.md",
+    "historie/Vylodění spojenců v Normandii.md",
+    "Offline Index.md",
+    "literatura/Ztracená generace.md",
+    "_dev/attachments/12 Nervová soustava19-03-2024_10_52_39.excalidraw.md",
+    "_dev/attachments/12 Nervová soustava19-03-2024_10_52_39.excalidraw.excalidraw",
+    "_dev/attachments/12 Nervová soustava19-03-2024_10_52_39.excalidraw.svg",
+    "chemie/Lipidy (Tuky).md",
+    "_dev/attachments/Lipidy (Tuky)19-03-2024_08_25_45.excalidraw.md",
+    "_dev/attachments/Lipidy (Tuky)19-03-2024_08_25_45.excalidraw.excalidraw",
+    "_dev/attachments/Lipidy (Tuky)19-03-2024_08_25_45.excalidraw.svg",
+    "_dev/attachments/Lipidy (Tuky)19-03-2024_08_04_06.excalidraw.md",
+    "_dev/attachments/Lipidy (Tuky)19-03-2024_08_04_06.excalidraw.excalidraw",
+    "_dev/attachments/Lipidy (Tuky)19-03-2024_08_04_06.excalidraw.svg",
+    "chemie/Untitled.md",
+    "chemie/Synteticky významné organické látky.md",
+    "historie/Rok 1943.md",
+    "mluvnice/Slovesa.md",
     "fyzika/3.6 Dynamika kmitání - matematické kyvadlo.md",
     "fyzika/3.8 Nucené kmitání, rezonance.md",
     "fyzika/3.7 Energie kmitání.md",
-    "literatura/Ztracená generace.md",
     "literatura/Generace buřičů.md",
     "Index.md",
-    "Offline Index.md",
-    "biologie/12 Nervová soustava.md",
     "zsv/Trestní právo.md",
     "zsv/Evropská integrace.md",
     "sloh/Publicistický styl.md",
-    "mluvnice/Slovesa.md",
     "mluvnice/Číslovky.md",
     "matematika/Teorie seminář.md",
     "literatura/Symbolismus.md",
     "literatura/Literární období.md",
-    "literatura/Literární kompozice.md",
-    "literatura/Literární figury a tropy.md",
-    "literatura/Literární Druh, forma, žánr.md",
-    "literatura/Dekadence.md",
-    "literatura/ČT deník.md",
-    "chemie/Synteticky významné organické látky.md",
-    "chemie/Lipidy (Tuky).md",
-    "chemie/Heterocyklické sloučeniny.md",
-    "historie/Začátek WWII.md",
-    "historie/Velká hospodářská krize.md",
     "_dev/attachments/Pasted image 20240305204300.png",
     "_dev/attachments/Pasted image 20240305204237.png",
     "_dev/attachments/Pasted image 20240305204101.png",
@@ -185,18 +200,12 @@
     "_dev/attachments/Pasted image 20240305203858.png",
     "_dev/attachments/Pasted image 20240305203849.png",
     "_dev/attachments/Pasted image 20240305203829.png",
-    "_dev/attachments/Pasted image 20240305203800.png",
-    "_dev/attachments/Pasted image 20240305203711.png",
     "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.excalidraw",
-    "_dev/attachments/Lipidy (Tuky)05-03-2024_08_13_50.excalidraw.svg",
     "_dev/attachments/3.6 Dynamika kmitání - matematické kyvadlo29-02-2024_09_12_26.excalidraw.excalidraw",
     "_dev/attachments/excalidraw 22-02-2024_08_48_13.excalidraw.excalidraw",
     "_dev/test",
     "_dev/attachments/excalidraw 20-02-2024_11_51_55.excalidraw.excalidraw",
     "chemie",
-    "_dev/attechments",
-    "_dev/attachments/excalidraw 30-01-2024_12_05_39.excalidraw.excalidraw",
-    "excalidraw 30-01-2024_11_39_11.excalidraw.excalidraw",
-    "excalidraw 25-01-2024_09_10_49.excalidraw.excalidraw"
+    "_dev/attechments"
   ]
 }

@@ -1,0 +1,11 @@
+# Abstract
+---
+- Nové zbraně
+	- tajné zbraně ==V1== a ==V2==
+	- příprava atomové bomby
+- Luftwafe nedokáže zabránit masivním náletům na DE - bombardování Drážďan ==13.2.1945==
+- Atentát na Hittlera - operace ==Valkýra== - ==20. 7. 1944==
+	- generál ==Ludwig Beck==, hrabě ==Stauffenberg== a ==H. Molkte==
+	- časovaná bomba, Hittlera ale zachránila deska stolu, protože kufřík byl odsunut
+	- když se zjistilo, že Hittler je na živu tak atentátníky zabili
+- poslední DE ofenziva v ==Ardenách== - prosinec 1944 - leden 1945 (Belgie)

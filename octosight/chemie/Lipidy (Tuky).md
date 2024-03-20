@@ -63,55 +63,51 @@ _(všechny jsou sudé)_
 - směsi tuhých ==triglyceridů== (obsahují nasycené karboxylové kyseliny)
 - nadměrný příjem tuků způsobuje obezitu
 nasycené $\longrightarrow$ pené
+- hydrolýza tuků:
+![[Lipidy (Tuky)19-03-2024_08_04_06.excalidraw.svg]]
+%%[[Lipidy (Tuky)19-03-2024_08_04_06.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
 ### Oleje
 - směsi kapalných ==triglyceridů== (obsahují větší podíl nenasycených karboxylových kyselin)
 - neansycené $\longrightarrow$ kapalné
 - mýdla
 
-- sodné nebo draselné soli vyšších mastných kyselin
-
+### Mýdlo
+---
+- sodné nebo draselné soli vyšších mastných kyselin (R-COO-Na / R-COO-K) - Na a K rozdělují kapalnost
+pevná mýdla: C17H35-COO-NA - stearam ==sodný==
+tekutá mýdla: C15H31-COO-K - stearam ==draselný==
 - dělení:
-
-    a) tuhá jádrová mýdla
-
-   sodné soli vyšších mastných
-
-   kyselin
-
-    b) polotuhá (mazlavá) mýdla
-
-   draselné soli vyšších mastných kyselin
+	- tuhá jádrová mýdla
+		- sodné soli vyšších mastných kyselin
+	   - polotuhá (mazlavá) mýdla
+		   - draselné soli vyšších mastných kyselin
 
 - výroba mýdla
-
-- alkalická hydrolýza (zmýdelnění) tuků –
-
-     vzniká glycerol a směs
-
-     solí mastných kyselin
-
+	- alkalická hydrolýza (zmýdelnění) tuků - vzniká glycerol a směs solí mastných kyselin
 - užití mýdel
+	- čistící neboli ==detergentní== prostředky
+	-nelze je užít použít v tvrdé vodě, vznikají nerozpustné vápenaté a hořečnaté soli, čistící účinek mizí
+	- prací účinky mýdla
 
--čistící neboli detergentní prostředky
+prací účinek mýdla:
+```
+H2O                benzín, ropa, tuky
+polární prostředí  nepolární prostředí
 
--nelze je užít použít v tvrdé vodě, vznikají nerozpustné vápenaté a hořečnaté soli, čistící účinek mizí
-
-- prací účinky mýdla
-
+polární + polární - mísí se
+nepolární + nepolární - mísí se
+polární + nepolární - smolík
+```
+![[Lipidy (Tuky)19-03-2024_08_25_45.excalidraw.svg]]
+%%[[Lipidy (Tuky)19-03-2024_08_25_45.excalidraw.md|🖋 Edit in Excalidraw]]%%
 - nepolární molekuly nečistot jsou rozptylovány do polárního (vodného) prostředí
 
-- 
+- ==žluknutí tuků== - ==mikrobiální== rozpad tuků vlivem špatného skladování (vyšší teplota, tráří) $\longrightarrow$ vznik páchnoucích nižších karboxylových kyselin
+- ==ztužování tuků==
+- ==vysýchání olejů==
 
-- žluknutí tuků
 
-- 
-
-- ztužování tuků
-
-- 
-
-- vysýchání olejů
 
 - jednoduché lipidy - vosky
 
